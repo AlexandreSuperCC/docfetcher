@@ -1,0 +1,61 @@
+
+2org.apache.tika.parser.mp3.MpegStream#skipFrame()ZN
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaœ œ("3*ù	
+2N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.java   (§
+¤
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.java   (
+%1java.io.InputStream"__id*1*/'
+%org.apache.tika.parser.mp3.MpegStream"
+inÄ
+Á
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.java   ((+
+%2%org.apache.tika.parser.mp3.AudioFrame"__id*<*:'
+%org.apache.tika.parser.mp3.MpegStream"
+currentHeaderÎË
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.java   (4	
+%3int"2org.apache.tika.parser.mp3.AudioFrame#getLength()I*-
++
+%2%org.apache.tika.parser.mp3.AudioFrame2getLength()k
+i
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.java 7  (B	
+%4int"__id*
+""ú
+÷
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.java   (C
+
+%5void"Iorg.apache.tika.parser.mp3.MpegStream#skipStream(Ljava/io/InputStream;J)V*)"'
+%org.apache.tika.parser.mp3.MpegStream*
+
+%1java.io.InputStream*
+""
+š
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.java¡ ¡( :'
+%org.apache.tika.parser.mp3.MpegStream"
+currentHeader"__id*
+"""X
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.java¢ ¢(
+""*¢
+3N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaž ž(Ä
+Á
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaž ž(+
+%0%org.apache.tika.parser.mp3.AudioFrame"__id*<*:'
+%org.apache.tika.parser.mp3.MpegStream"
+currentHeader*
+2
+1*­
+1N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.java¤ ¤("X
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.java¤ ¤(
+""B)'
+%org.apache.tika.parser.mp3.MpegStream

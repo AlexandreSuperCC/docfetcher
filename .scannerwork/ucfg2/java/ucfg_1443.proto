@@ -1,0 +1,54 @@
+
+gnet.sourceforge.docfetcher.util.Util#createTempFile(Ljava/lang/String;Ljava/lang/String;)Ljava/io/File;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaœ	 œ	(""startingBlock*Ó
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaœ	" –	("ª
+∏
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaœ	$ œ	(,
+%1"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+prefixjava.lang.StringÑ
+Å
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaœ	4 œ	(:
+prefixjava.lang.String"__annotation*
+
+%1º
+π
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java–	
+ –	(
+%2"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+suffixjava.lang.StringÑ
+Å
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java–	 –	(!
+suffixjava.lang.String"__annotation*
+
+%2*
+1*á
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java“		 “	(À
+»
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java“		 “	(-
+%0java.io.File"unet.sourceforge.docfetcher.util.Util#createTempFile(Ljava/lang/String;Ljava/lang/String;Ljava/io/File;)Ljava/io/File;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+prefixjava.lang.String*
+
+suffixjava.lang.String*
+"""e
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java“	 “	(.
+
+%0java.io.File:
+prefixjava.lang.String:
+suffixjava.lang.StringB("&
+$net.sourceforge.docfetcher.util.Util

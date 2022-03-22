@@ -1,0 +1,95 @@
+
+âorg.apache.tika.detect.CompositeDetector#detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/mime/MediaType;O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaI I("6*û
+2O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaL L(è
+å
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaL L(+
+detectororg.apache.tika.detect.Detector"__id*
+""≠
+™
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaL L(+
+detectororg.apache.tika.detect.Detector"
+__arrayGet*
+
+%1java.util.List*
+""*
+4
+1*å
+3O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaO O(∞
+≠
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaO O(&
+typeorg.apache.tika.mime.MediaType"__id*,
+*
+detectedorg.apache.tika.mime.MediaType*
+2*ÿ
+
+4O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaM! M()øº
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaM! M(A$
+%2org.apache.tika.mime.MediaType"Äorg.apache.tika.detect.Detector#detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/mime/MediaType;*-
++
+detectororg.apache.tika.detect.Detector*
+
+inputjava.io.InputStream*/
+-
+metadata!org.apache.tika.metadata.Metadata2@detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)Æ
+´
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaM M(B*
+detectedorg.apache.tika.mime.MediaType"__id*&
+$
+%2org.apache.tika.mime.MediaTypeƒ
+¡
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaN N(,
+%3&org.apache.tika.mime.MediaTypeRegistry"__id*:*8*
+(org.apache.tika.detect.CompositeDetector"
+
+registryøº
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaN N(;
+%4boolean"|org.apache.tika.mime.MediaTypeRegistry#isSpecializationOf(Lorg/apache/tika/mime/MediaType;Lorg/apache/tika/mime/MediaType;)Z*.
+,
+%3&org.apache.tika.mime.MediaTypeRegistry*,
+*
+detectedorg.apache.tika.mime.MediaType*(
+&
+typeorg.apache.tika.mime.MediaType2TisSpecializationOf(Lorg/apache/tika/mime/MediaType;Lorg/apache/tika/mime/MediaType;)*
+2
+3*Õ
+5O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaL! L(-ÒÓ
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaL! L(/
+%1java.util.List"Gorg.apache.tika.detect.CompositeDetector#getDetectors()Ljava/util/List;*,*
+(org.apache.tika.detect.CompositeDetector2getDetectors()*
+2*ë
+6O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaK K("à
+Ö
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaK K(/$
+%0org.apache.tika.mime.MediaType"__id*
+""™
+ß
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaK K(0&
+typeorg.apache.tika.mime.MediaType"__id*&
+$
+%0org.apache.tika.mime.MediaType*
+5*—
+1O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaR R("{
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaR R((
+&
+typeorg.apache.tika.mime.MediaType:
+inputjava.io.InputStream:-
+metadata!org.apache.tika.metadata.MetadataB,*
+(org.apache.tika.detect.CompositeDetector

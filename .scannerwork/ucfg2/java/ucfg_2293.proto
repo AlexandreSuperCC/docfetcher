@@ -1,0 +1,20 @@
+
+Snet.sourceforge.docfetcher.enums.SettingsConf#loadHeaderComment()Ljava/lang/String;V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.javaÀ À('"1*Ä
+1V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.javaÁ Á(õò
+V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.javaÁ Á(F
+%0java.net.URL"=java.lang.Class#getResource(Ljava/lang/String;)Ljava/net/URL;*
+""*
+settings-conf-header.txt2getResource(Ljava/lang/String;)Œ
+‰
+V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.javaÁ Á(G
+urljava.net.URL"__id*
+
+%0java.net.URL"`
+V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.javaÂ Â(1
+""B1"/
+-net.sourceforge.docfetcher.enums.SettingsConf

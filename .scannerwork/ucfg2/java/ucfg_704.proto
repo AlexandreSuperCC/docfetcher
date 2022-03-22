@@ -1,0 +1,85 @@
+
+Norg.apache.tika.language.detect.LanguageResult#isLanguage(Ljava/lang/String;)ZU
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.javaP P("6*»
+3U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.javaW W("_
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.javaW W(
+""*Å
+4U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.javaV V(®
+«
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.javaV V(
+%4java.lang.String"
+__arrayGet*&
+$
+targetLanguagejava.lang.String[]*
+""®
+«
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.javaV+ V(<
+%5java.lang.String"
+__arrayGet*&
+$
+resultLanguagejava.lang.String[]*
+""ûø
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.javaV V(=
+%6boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*
+
+%4java.lang.String*
+
+%5java.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*	
+3
+4
+1*ü	
+6U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.javaQ Q($÷ô
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.javaQ Q(1
+%0java.lang.String[]"=java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;*
+
+languagejava.lang.String*
+\\-2split(Ljava/lang/String;)¢
+Ÿ
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.javaQ Q(2$
+targetLanguagejava.lang.String[]"__id*
+
+%0java.lang.String[]º
+·
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.javaR R()
+%1java.lang.String"__id*@*>0
+.org.apache.tika.language.detect.LanguageResult"
+
+languageñî
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.javaR R(6
+%2java.lang.String[]"=java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;*
+
+%1java.lang.String*
+\\-2split(Ljava/lang/String;)¢
+Ÿ
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.javaR R(7$
+resultLanguagejava.lang.String[]"__id*
+
+%2java.lang.String[]¢
+Ÿ
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.javaT T(H	
+%3int"java.lang.Math#min(II)I*"
+java.lang.Math*
+""*
+""*
+4
+1*»
+1U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.java[	 [("_
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.java[ [(
+"":
+languagejava.lang.StringB20
+.org.apache.tika.language.detect.LanguageResult

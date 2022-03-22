@@ -1,0 +1,39 @@
+
+Forg.apache.tika.language.LanguageProfile#getCount(Ljava/lang/String;)JO
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java[ [("3*¯
+2O
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java^ ^("Y
+O
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java^ ^(!
+""*©
+3O
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java\ \( ©
+¦
+O
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java\ \( 
+%0java.util.Map"__id*8*6*
+(org.apache.tika.language.LanguageProfile"
+ngramsÊ
+Ç
+O
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java\ \(+6
+%10org.apache.tika.language.LanguageProfile$Counter"__mapGet*
+
+%0java.util.Map*
+
+ngramjava.lang.StringÑ
+Î
+O
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java\ \(,;
+counter0org.apache.tika.language.LanguageProfile$Counter"__id*8
+6
+%10org.apache.tika.language.LanguageProfile$Counter*
+2
+1*¯
+1O
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java` `("Y
+O
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java` `(
+"":
+ngramjava.lang.StringB,*
+(org.apache.tika.language.LanguageProfile

@@ -1,0 +1,11 @@
+
+torg.apache.tika.language.translate.EmptyTranslator#translate(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;Y
+OD:/git_project/code/src/org/apache/tika/language/translate/EmptyTranslator.java ("1*Ã
+1Y
+OD:/git_project/code/src/org/apache/tika/language/translate/EmptyTranslator.java ("c
+Y
+OD:/git_project/code/src/org/apache/tika/language/translate/EmptyTranslator.java (
+"":
+textjava.lang.String:"
+targetLanguagejava.lang.StringB64
+2org.apache.tika.language.translate.EmptyTranslator

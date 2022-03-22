@@ -1,0 +1,121 @@
+
+Torg.apache.tika.mime.MimeType$RootXML#matches(Ljava/lang/String;Ljava/lang/String;)ZF
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaÃ Ã("11*ù
+2F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaÂ Â( "P
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaÂ Â(!
+""*¿
+3F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java‰ ‰(Í
+Á
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java‰ ‰(&
+%9boolean"Borg.apache.tika.mime.MimeType$RootXML#isEmpty(Ljava/lang/String;)Z*)'
+%org.apache.tika.mime.MimeType$RootXML*
+
+	localNamejava.lang.String*
+2
+1*ù
+4F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaﬁ ﬁ( "P
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaﬁ ﬁ(!
+""*€
+5F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java› ›(£
+†
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java› ›(#
+%7java.lang.String"__id*8*6'
+%org.apache.tika.mime.MimeType$RootXML"
+	localNameﬂ‹
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java› ›(5
+%8boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%7java.lang.String*
+
+	localNamejava.lang.String2equals(Ljava/lang/Object;)*
+4
+1*ﬂ
+6F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java‹ ‹(£
+†
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java‹ ‹('
+%5java.lang.String"__id*8*6'
+%org.apache.tika.mime.MimeType$RootXML"
+	localName„
+‡
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java‹ ‹((
+%6boolean"Borg.apache.tika.mime.MimeType$RootXML#isEmpty(Ljava/lang/String;)Z*)'
+%org.apache.tika.mime.MimeType$RootXML*
+
+%5java.lang.String*
+3
+5*ù
+7F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java◊ ◊( "P
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java◊ ◊(!
+""*√
+8F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java÷ ÷(Ì
+Í
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java÷ ÷()
+%4boolean"Borg.apache.tika.mime.MimeType$RootXML#isEmpty(Ljava/lang/String;)Z*)'
+%org.apache.tika.mime.MimeType$RootXML*"
+ 
+namespaceURIjava.lang.String*
+6
+7*ù
+9F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java– –( "P
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java– –(!
+""*‚
+10F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaœ œ(¶
+£
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaœ œ(&
+%2java.lang.String"__id*;*9'
+%org.apache.tika.mime.MimeType$RootXML"
+namespaceURI‚ﬂ
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaœ œ(;
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%2java.lang.String*"
+ 
+namespaceURIjava.lang.String2equals(Ljava/lang/Object;)*
+6
+9*‰
+11F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaŒ Œ(¶
+£
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaŒ Œ(*
+%0java.lang.String"__id*;*9'
+%org.apache.tika.mime.MimeType$RootXML"
+namespaceURI„
+‡
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaŒ Œ(+
+%1boolean"Borg.apache.tika.mime.MimeType$RootXML#isEmpty(Ljava/lang/String;)Z*)'
+%org.apache.tika.mime.MimeType$RootXML*
+
+%0java.lang.String*
+8
+10*ù
+1F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaË Ë("P
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaË Ë(
+"": 
+namespaceURIjava.lang.String:
+	localNamejava.lang.StringB)'
+%org.apache.tika.mime.MimeType$RootXML

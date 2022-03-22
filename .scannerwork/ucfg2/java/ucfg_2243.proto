@@ -1,0 +1,99 @@
+
+ynet.sourceforge.docfetcher.model.parse.StreamParser#renderText(Ljava/io/InputStream;Ljava/lang/String;)Ljava/lang/String;Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/StreamParser.java4 4("startingBlock*◊	
+startingBlockZ
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/StreamParser.java4 5(6«
+ƒ
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/StreamParser.java3 3(	
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+injava.io.InputStream«
+ƒ
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/StreamParser.java4 4(%
+%6"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+injava.io.InputStreamò
+ï
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/StreamParser.java42 4(4
+injava.io.InputStream"__annotation*
+
+%5*
+
+%6 
+«
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/StreamParser.java3 3(	
+%7"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filenamejava.lang.String 
+«
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/StreamParser.java5 5(%
+%8"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filenamejava.lang.Stringõ
+ò
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/StreamParser.java5- 5(5
+filenamejava.lang.String"__annotation*
+
+%7*
+
+%8*
+1*Â
+1Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/StreamParser.java7* 7(2œÃ
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/StreamParser.java7 7()9
+%03net.sourceforge.docfetcher.model.parse.ParseContext"3net.sourceforge.docfetcher.model.parse.ParseContextì
+ê
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/StreamParser.java7 7(3
+%1"Onet.sourceforge.docfetcher.model.parse.ParseContext#<init>(Ljava/lang/String;)V*;
+9
+%03net.sourceforge.docfetcher.model.parse.ParseContext*
+
+filenamejava.lang.String‚
+ﬂ
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/StreamParser.java7 7(4>
+context3net.sourceforge.docfetcher.model.parse.ParseContext"__id*;
+9
+%03net.sourceforge.docfetcher.model.parse.ParseContext¿Ω
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/StreamParser.java8	 8(8
+%22net.sourceforge.docfetcher.model.parse.ParseResult"πnet.sourceforge.docfetcher.model.parse.StreamParser#parse(Ljava/io/InputStream;Lnet/sourceforge/docfetcher/model/parse/ParseContext;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*75
+3net.sourceforge.docfetcher.model.parse.StreamParser*
+
+injava.io.InputStream*@
+>
+context3net.sourceforge.docfetcher.model.parse.ParseContext2Qparse(Ljava/io/InputStream;Lnet/sourceforge/docfetcher/model/parse/ParseContext;)†ù
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/StreamParser.java8	 8((
+%3java.lang.CharSequence"Wnet.sourceforge.docfetcher.model.parse.ParseResult#getContent()Ljava/lang/CharSequence;*:
+8
+%22net.sourceforge.docfetcher.model.parse.ParseResult2getContent()ÿ’
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/StreamParser.java8	 8(3
+%4java.lang.String"3java.lang.CharSequence#toString()Ljava/lang/String;*
+
+%3java.lang.CharSequence2
+toString()"v
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/StreamParser.java8 8(4
+
+%4java.lang.String:
+injava.io.InputStream:
+filenamejava.lang.StringB75
+3net.sourceforge.docfetcher.model.parse.StreamParser

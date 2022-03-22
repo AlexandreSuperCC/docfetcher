@@ -1,0 +1,46 @@
+
+=org.apache.tika.mime.MimeType#getExtensions()Ljava/util/List;F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java· ·(%"3*«
+2F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java¹ ¹(š
+—
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java¹0 ¹(:
+%1java.util.List"__id*1*/
+org.apache.tika.mime.MimeType"
+
+extensionsÞ
+Û
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java¹ ¹(;
+%2java.util.List"Hjava.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;*"
+java.util.Collections*
+
+%1java.util.List"`
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java¹ ¹(<
+
+%2java.util.List*ð
+3F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java¸ ¸(š
+—
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java¸ ¸(
+%0java.util.List"__id*1*/
+org.apache.tika.mime.MimeType"
+
+extensions*
+2
+1*ß
+1F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java» »(¯
+¬
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java» »(*
+%3java.util.List"1java.util.Collections#emptyList()Ljava/util/List;*"
+java.util.Collections"`
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java» »(+
+
+%3java.util.ListB!
+org.apache.tika.mime.MimeType

@@ -1,0 +1,28 @@
+
+%org.apache.tika.io.TailStream#read()ID
+:D:/git_project/code/src/org/apache/tika/io/TailStream.javaS S("3*ÿ
+2D
+:D:/git_project/code/src/org/apache/tika/io/TailStream.javaX X(®
+«
+D
+:D:/git_project/code/src/org/apache/tika/io/TailStream.javaX X( 
+
+%1void",org.apache.tika.io.TailStream#appendByte(B)V*!
+org.apache.tika.io.TailStream*
+""*
+1*Ñ
+3D
+:D:/git_project/code/src/org/apache/tika/io/TailStream.javaU U(~
+|
+D
+:D:/git_project/code/src/org/apache/tika/io/TailStream.javaU U(	
+%0int"!java.io.FilterInputStream#read()I*
+""*
+2
+1*™
+1D
+:D:/git_project/code/src/org/apache/tika/io/TailStream.javaZ Z("N
+D
+:D:/git_project/code/src/org/apache/tika/io/TailStream.javaZ Z(
+""B!
+org.apache.tika.io.TailStream

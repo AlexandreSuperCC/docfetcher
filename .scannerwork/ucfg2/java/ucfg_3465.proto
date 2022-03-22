@@ -1,0 +1,94 @@
+
+Sorg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#enumerateBlockAddresses([B)[J\
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.javau u(*"15*
+13\
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java{ {(Å˛
+\
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java{ {(
+
+%3long"Forg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#getBlockCount()J*97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTable2getBlockCount()*
+10
+12*ı
+14\
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.javay y(äá
+\
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.javay y(
+
+%2void"Gorg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#setBlockCount(J)V*97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTable*2à'2setBlockCount(J)*
+13*Ú
+15\
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.javav v(ˇ
+¸
+\
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.javav v(.
+
+%0void"Jorg.apache.tika.parser.chm.assertion.ChmAssert#assertByteArrayNotNull([B)V*2"0
+.org.apache.tika.parser.chm.assertion.ChmAssert*
+
+databyte[]Å˛
+\
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.javax x(
+
+%1long"Forg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#getBlockCount()J*97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTable2getBlockCount()*
+13
+14*ˇ
+7^
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.javaÑ Ñ(ë
+é
+^
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.javaÑ Ñ(9
+
+%9long"Korg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#unmarshalUint64([BJ)J*97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTable*
+
+databyte[]*
+""*
+7
+1*‚
+10\
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java~* ~(7Å˛
+\
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java~* ~(9
+
+%7long"Forg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#getBlockCount()J*97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTable2getBlockCount()Ò
+Ó
+\
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java (#	
+%8int"Horg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#getDataRemained()I*97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTable*
+7
+1*Í
+11\
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java| |(Ò
+Ó
+\
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java| |(+	
+%5int"Horg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#getDataRemained()I*97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTableãà
+\
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java| |(0
+
+%6void"Gorg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#setBlockCount(J)V*97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTable*
+""2setBlockCount(J)*
+10*‡
+12\
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java{$ {(3Ò
+Ó
+\
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java{$ {(5	
+%4int"Horg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#getDataRemained()I*97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTable*
+10
+11*Õ
+1^
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.javaâ â("h
+^
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.javaâ â(
+"":
+databyte[]B97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTable

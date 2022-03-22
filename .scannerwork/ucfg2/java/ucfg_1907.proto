@@ -1,0 +1,50 @@
+
+Lnet.sourceforge.docfetcher.model.TreeNode#getDisplayName()Ljava/lang/String;P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaC C(#"4* 
+2P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaD& D(1³
+°
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaD& D(1
+%3java.lang.String"__id*>*<+
+)net.sourceforge.docfetcher.model.TreeNode"
+displayName
+Š
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaD& D(1
+%1java.lang.String"__id*
+
+%3java.lang.String*
+1*™
+3P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaD D(#¬
+©
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaD D(#
+%2java.lang.String"__id*7*5+
+)net.sourceforge.docfetcher.model.TreeNode"
+name
+Š
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaD D(#
+%1java.lang.String"__id*
+
+%2java.lang.String*
+1*“
+4P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaD	 D(³
+°
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaD	 D(
+%0java.lang.String"__id*>*<+
+)net.sourceforge.docfetcher.model.TreeNode"
+displayName*
+2
+3*Ã
+1P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaD D(2"l
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaD D(2
+
+%1java.lang.StringB-+
+)net.sourceforge.docfetcher.model.TreeNode

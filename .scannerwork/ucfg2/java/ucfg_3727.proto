@@ -1,0 +1,97 @@
+
+ênet.sourceforge.docfetcher.gui.filter.FilesizeUnit#convert(Ljava/lang/Long;Lnet/sourceforge/docfetcher/gui/filter/FilesizeUnit;)Ljava/lang/Long;Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java+ +("startingBlock*ƒ
+14Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java-
+ -("c
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java- -(
+""*∞
+
+startingBlockY
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java+ +(Fƒ
+¡
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java* *(
+
+%1"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+sizejava.lang.Longƒ
+¡
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java+ +(
+%2"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+sizejava.lang.Longî
+ë
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java+$ +((
+sizejava.lang.Long"__annotation*
+
+%1*
+
+%2Ë
+Â
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java* *(
+
+%3"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*<
+:
+unit2net.sourceforge.docfetcher.gui.filter.FilesizeUnitË
+Â
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java+* +(3
+%4"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*<
+:
+unit2net.sourceforge.docfetcher.gui.filter.FilesizeUnit∏
+µ
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java+A +(E:
+unit2net.sourceforge.docfetcher.gui.filter.FilesizeUnit"__annotation*
+
+%3*
+
+%4*
+14
+6
+12
+1*’
+6Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java4
+ 4("u
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java4 4(
+
+sizejava.lang.Long*÷
+12Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java0
+ 0("u
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java0 0(
+
+sizejava.lang.Long*Ï
+1Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java9	 9(†
+ù
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java9	 9(0
+
+%0long"java.lang.Math#round(D)J*"
+java.lang.Math*
+"""i
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java9 9(1
+
+
+%0long:
+sizejava.lang.Long::
+unit2net.sourceforge.docfetcher.gui.filter.FilesizeUnitB64
+2net.sourceforge.docfetcher.gui.filter.FilesizeUnit

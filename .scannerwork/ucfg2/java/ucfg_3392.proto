@@ -1,0 +1,30 @@
+
+Gnet.sourceforge.docfetcher.model.TreeCheckState$PathWrapper#hashCode()IV
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaJ J("1*¹
+1V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaK
+ K(Ù
+Ö
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaK
+ K(+
+%0%net.sourceforge.docfetcher.model.Path"__id*I*G=
+;net.sourceforge.docfetcher.model.TreeCheckState$PathWrapper"
+pathðí
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaK
+ K(
+%1java.lang.String"Anet.sourceforge.docfetcher.model.Path#getPath()Ljava/lang/String;*-
++
+%0%net.sourceforge.docfetcher.model.Path2	getPath()ª§
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaK
+ K(#	
+%2int"java.lang.String#hashCode()I*
+
+%1java.lang.String2
+hashCode()"`
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaK K($
+""B?=
+;net.sourceforge.docfetcher.model.TreeCheckState$PathWrapper

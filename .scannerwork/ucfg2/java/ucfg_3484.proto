@@ -1,0 +1,70 @@
+
+Rnet.sourceforge.docfetcher.gui.preview.RangeField#getIntValue()Ljava/lang/Integer;X
+ND:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/RangeField.javah h("7*Æ
+2X
+ND:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/RangeField.javar r('"g
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/RangeField.javar r('
+	
+%4int*¯
+3X
+ND:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/RangeField.javar
+ r(&Ê
+Ç
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/RangeField.javar
+ r(&	
+%4int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+%3java.lang.String*
+2*¾
+4X
+ND:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/RangeField.javar
+ r(ÙÖ
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/RangeField.javar r(%
+%3java.lang.String"2java.util.regex.Matcher#group(I)Ljava/lang/String;*
+
+mjava.util.regex.Matcher*22group(I)*
+3*Á
+6X
+ND:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/RangeField.javan
+ n("b
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/RangeField.javan n(
+""*í
+7X
+ND:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/RangeField.javak k(…
+‚
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/RangeField.javak k(?
+%0java.util.regex.Pattern"Ljava.util.regex.Pattern#compile(Ljava/lang/String;)Ljava/util/regex/Pattern;*"
+java.util.regex.Pattern*
+(\\d+)(?:\\s*/\\s*\\d+)?¨
+¥
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/RangeField.javak k(@"
+patternjava.util.regex.Pattern"__id*
+
+%0java.util.regex.Patternˆ…
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/RangeField.javal l(+
+%1"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*$
+"
+patternjava.util.regex.Pattern*
+""2!matcher(Ljava/lang/CharSequence;)‰
+†
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/RangeField.javal l(,
+mjava.util.regex.Matcher"__id*
+
+%1»¸
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/RangeField.javam m(
+%2boolean""java.util.regex.Matcher#matches()Z*
+
+mjava.util.regex.Matcher2	matches()*
+4
+6B53
+1net.sourceforge.docfetcher.gui.preview.RangeField

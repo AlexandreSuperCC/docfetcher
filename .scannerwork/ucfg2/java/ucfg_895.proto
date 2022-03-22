@@ -1,0 +1,21 @@
+
+Xnet.sourceforge.docfetcher.gui.indexing.PatternTable#getPatternActions()Ljava/util/List;]
+QD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/PatternTable.javaö ö(-"1*Å
+1]
+QD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/PatternTable.javaõ	 õ(˜
+Ù
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/PatternTable.javaõ	 õ(B
+%0<net.sourceforge.docfetcher.util.gui.viewer.SimpleTableViewer"__id*I*G6
+4net.sourceforge.docfetcher.gui.indexing.PatternTable"
+tableViewer©¶
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/PatternTable.javaõ	 õ("
+%1java.util.List"Znet.sourceforge.docfetcher.util.gui.viewer.SimpleTableViewer#getElements()Ljava/util/List;*D
+B
+%0<net.sourceforge.docfetcher.util.gui.viewer.SimpleTableViewer2getElements()"w
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/PatternTable.javaõ õ(#
+
+%1java.util.ListB86
+4net.sourceforge.docfetcher.gui.indexing.PatternTable

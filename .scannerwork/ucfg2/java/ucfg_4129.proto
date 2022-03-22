@@ -1,0 +1,105 @@
+
+∑net.sourceforge.docfetcher.model.parse.ExifParser#parse(Ljava/io/InputStream;Lnet/sourceforge/docfetcher/model/parse/ParseContext;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java% %("startingBlock*´
+startingBlockX
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java% %(B§
+°
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java$ $(
+
+%9"
+__annotate*
+java.lang.Override*
+
+injava.io.InputStreamé
+ã
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java%) %(+
+injava.io.InputStream"__annotation*
+
+%9 
+«
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java$ $(
+
+%10"
+__annotate*
+java.lang.Override*@
+>
+context3net.sourceforge.docfetcher.model.parse.ParseContext¥
+±
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java%: %(A>
+context3net.sourceforge.docfetcher.model.parse.ParseContext"__annotation*
+
+%10*
+16*œ
+16X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java' '((ïí
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java' '(&
+%0java.lang.StringBuilder"java.lang.StringBuilderß
+§
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java' '((
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder£
+†
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java' '()
+sbjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder*
+11
+1*·
+7X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java- -($ıÚ
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java- -($
+%3"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*
+
+7
+11
+1*‚
+11X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java+ +(ıÚ
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java+ +(
+%2"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*
+
+7
+11
+1*±
+1X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java3 3(ÿ’
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java3 3(&
+%6java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()À»
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java3 3(8
+%72net.sourceforge.docfetcher.model.parse.ParseResult"2net.sourceforge.docfetcher.model.parse.ParseResultè
+å
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java3	 3('
+%8"Tnet.sourceforge.docfetcher.model.parse.ParseResult#<init>(Ljava/lang/CharSequence;)V*:
+8
+%72net.sourceforge.docfetcher.model.parse.ParseResult*
+
+%6java.lang.String"ñ
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ExifParser.java3 3((:
+8
+%72net.sourceforge.docfetcher.model.parse.ParseResult:
+injava.io.InputStream:>
+context3net.sourceforge.docfetcher.model.parse.ParseContextB53
+1net.sourceforge.docfetcher.model.parse.ExifParser

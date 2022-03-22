@@ -1,0 +1,49 @@
+
+Enet.sourceforge.docfetcher.model.TreeNode#getErrors()Ljava/util/List;P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaV/ V(8"4*•
+2P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaY Y(¬
+©
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaY Y(
+%3java.util.List"__id*9*7+
+)net.sourceforge.docfetcher.model.TreeNode"
+errors‰
+†
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaY Y(
+%1java.util.List"__id*
+
+%3java.util.List*
+1*¢
+3P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaX X(¹
+¶
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaX X(,
+%2java.util.List"1java.util.Collections#emptyList()Ljava/util/List;*"
+java.util.Collections‰
+†
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaX X(,
+%1java.util.List"__id*
+
+%2java.util.List*
+1*Œ
+4P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaW	 W(¬
+©
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaW	 W(
+%0java.util.List"__id*9*7+
+)net.sourceforge.docfetcher.model.TreeNode"
+errors*
+2
+3*Á
+1P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaW Y("j
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaW Y(
+
+%1java.util.ListB-+
+)net.sourceforge.docfetcher.model.TreeNode

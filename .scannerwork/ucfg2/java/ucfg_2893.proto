@@ -1,0 +1,43 @@
+
+³org.apache.tika.config.TikaConfig$TranslatorXmlLoader#decorate(Lorg/apache/tika/language/translate/Translator;Lorg/w3c/dom/Element;)Lorg/apache/tika/language/translate/Translator;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¬ ¬("startingBlock*à
+startingBlockJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¬ ¬(@µ
+²
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java« «(
+%0"
+__annotate*
+java.lang.Override*:
+8
+created-org.apache.tika.language.translate.TranslatorŸ
+œ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¬' ¬(.8
+created-org.apache.tika.language.translate.Translator"__annotation*
+
+%0›
+˜
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java« «(
+%1"
+__annotate*
+java.lang.Override* 
+
+elementorg.w3c.dom.Element…
+‚
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¬8 ¬(?
+elementorg.w3c.dom.Element"__annotation*
+
+%1*
+1*Ú
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java­ ­("ˆ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java­ ­(:
+8
+created-org.apache.tika.language.translate.Translator:8
+created-org.apache.tika.language.translate.Translator:
+elementorg.w3c.dom.ElementB97
+5org.apache.tika.config.TikaConfig$TranslatorXmlLoader

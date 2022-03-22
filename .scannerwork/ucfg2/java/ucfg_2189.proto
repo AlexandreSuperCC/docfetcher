@@ -1,0 +1,102 @@
+
+Œnet.sourceforge.docfetcher.gui.indexing.SingletonDialogFactory#open()Lnet/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory$Dialog;e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.javan n("3*Ý
+
+2e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.javap p(	É
+Æ
+e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.javap p(	
+%1D"__id*N*L@
+>net.sourceforge.docfetcher.gui.indexing.SingletonDialogFactory"
+dialogàÝ
+e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.javap p(
+%2"Wnet.sourceforge.docfetcher.gui.indexing.SingletonDialogFactory$Dialog#getShell()LShell;*	
+
+%1D2
+getShell()ö
+ó
+e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.javaq q(+
+%3%net.sourceforge.docfetcher.util.Event"__id*W*U@
+>net.sourceforge.docfetcher.gui.indexing.SingletonDialogFactory"
+evtDialogOpenedˆ…
+e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.javaq q(
+
+%4void"?net.sourceforge.docfetcher.util.Event#fire(Ljava/lang/Object;)V*-
++
+%3%net.sourceforge.docfetcher.util.Event*
+""2fire(Ljava/lang/Object;)É
+Æ
+e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.javar
+ r(
+%5D"__id*N*L@
+>net.sourceforge.docfetcher.gui.indexing.SingletonDialogFactory"
+dialog"r
+e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.javar r(	
+
+%5D*¾
+3e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.javao o(É
+Æ
+e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.javao o(
+%0D"__id*N*L@
+>net.sourceforge.docfetcher.gui.indexing.SingletonDialogFactory"
+dialog*
+2
+1*
+1e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.javau u(ñî
+e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.javau u($
+%6"›net.sourceforge.docfetcher.gui.indexing.SingletonDialogFactory#createDialog(LShell;)Lnet/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory$Dialog;*B@
+>net.sourceforge.docfetcher.gui.indexing.SingletonDialogFactory*
+""2createDialog(LShell;)Æ
+Ã
+e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.javau u($L@
+>net.sourceforge.docfetcher.gui.indexing.SingletonDialogFactory"
+dialog"__id*
+
+%6É
+Æ
+e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.javav v(
+%7D"__id*N*L@
+>net.sourceforge.docfetcher.gui.indexing.SingletonDialogFactory"
+dialogàÝ
+e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.javav v(!
+%8"Wnet.sourceforge.docfetcher.gui.indexing.SingletonDialogFactory$Dialog#getShell()LShell;*	
+
+%7D2
+getShell()ö
+ó
+e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.java} }(+
+%9%net.sourceforge.docfetcher.util.Event"__id*W*U@
+>net.sourceforge.docfetcher.gui.indexing.SingletonDialogFactory"
+evtDialogOpened‰†
+e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.java} }(
+%10void"?net.sourceforge.docfetcher.util.Event#fire(Ljava/lang/Object;)V*-
++
+%9%net.sourceforge.docfetcher.util.Event*
+""2fire(Ljava/lang/Object;)Ê
+Ç
+e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.java~	 ~(
+%11D"__id*N*L@
+>net.sourceforge.docfetcher.gui.indexing.SingletonDialogFactory"
+dialog"s
+e
+[D:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/SingletonDialogFactory.java~ ~(
+
+
+%11DBB@
+>net.sourceforge.docfetcher.gui.indexing.SingletonDialogFactory

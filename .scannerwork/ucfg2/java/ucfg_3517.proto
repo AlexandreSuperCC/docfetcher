@@ -1,0 +1,51 @@
+
+<org.apache.tika.parser.rtf.TextExtractor#isUnorderedList(I)ZQ
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java÷ ÷(#"3*í
+2Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaú ú(Ç
+Ä
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaú$ ú(.+
+%2%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupStateíê
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaú ú(9
+%3boolean"9org.apache.tika.parser.rtf.ListDescriptor#isUnordered(I)Z*3
+1
+list)org.apache.tika.parser.rtf.ListDescriptor*
+""2isUnordered(I)"[
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaú ú(:
+""*‡
+3Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaø ø('®
+«
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaø ø('
+%0java.util.Map"__id*;*9*
+(org.apache.tika.parser.rtf.TextExtractor"
+	listTable°
+­
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaø ø(3/
+%1)org.apache.tika.parser.rtf.ListDescriptor"__mapGet*
+
+%0java.util.Map*
+""Â
+¿
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaø ø(41
+list)org.apache.tika.parser.rtf.ListDescriptor"__id*1
+/
+%1)org.apache.tika.parser.rtf.ListDescriptor*
+2
+1*³
+1Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaü ü("[
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaü ü(
+"":
+""B,*
+(org.apache.tika.parser.rtf.TextExtractor

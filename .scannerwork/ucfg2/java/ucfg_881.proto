@@ -1,0 +1,17 @@
+
+Wnull#getLabel(Lnet/sourceforge/docfetcher/model/index/PatternAction;)Ljava/lang/String;[
+QD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/PatternTable.javar r("1*ö
+1[
+QD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/PatternTable.javas s(š—
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/PatternTable.javas s(
+%0java.lang.String"Qnet.sourceforge.docfetcher.model.index.PatternAction#getRegex()Ljava/lang/String;*A
+?
+element4net.sourceforge.docfetcher.model.index.PatternAction2
+getRegex()"w
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/PatternTable.javas s(
+
+%0java.lang.String:?
+element4net.sourceforge.docfetcher.model.index.PatternActionB?=
+;Lnet/sourceforge/docfetcher/gui/indexing/PatternTable$4472;

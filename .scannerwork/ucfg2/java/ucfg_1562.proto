@@ -1,0 +1,24 @@
+
+org.apache.tika.parser.DelegatingParser#getDelegateParser(Lorg/apache/tika/parser/ParseContext;)Lorg/apache/tika/parser/Parser;N
+DD:/git_project/code/src/org/apache/tika/parser/DelegatingParser.java2 2(&"1*Å
+1N
+DD:/git_project/code/src/org/apache/tika/parser/DelegatingParser.java3 3(‹
+ˆ
+N
+DD:/git_project/code/src/org/apache/tika/parser/DelegatingParser.java3) 3(=(
+%0"org.apache.tika.parser.EmptyParser"__id*
+""èå
+N
+DD:/git_project/code/src/org/apache/tika/parser/DelegatingParser.java3 3(>#
+%1org.apache.tika.parser.Parser"^org.apache.tika.parser.ParseContext#get(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*0
+.
+context#org.apache.tika.parser.ParseContext*
+""**
+(
+%0"org.apache.tika.parser.EmptyParser2(get(Ljava/lang/Class;Ljava/lang/Object;)"w
+N
+DD:/git_project/code/src/org/apache/tika/parser/DelegatingParser.java3 3(?%
+#
+%1org.apache.tika.parser.Parser:.
+context#org.apache.tika.parser.ParseContextB+)
+'org.apache.tika.parser.DelegatingParser

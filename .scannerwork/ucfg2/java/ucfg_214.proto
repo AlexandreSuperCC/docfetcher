@@ -1,0 +1,23 @@
+
+Gnet.sourceforge.docfetcher.model.Folder#getDocumentMap()Ljava/util/Map;P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaê* ê(8"1*Œ
+1P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaë	 ë(°
+­
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaë( ë(1
+%0java.util.HashMap"__id*:*8)
+'net.sourceforge.docfetcher.model.Folder"
+	documents–
+“
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaë	 ë(2
+%1java.util.Map"_net.sourceforge.docfetcher.model.UtilModel#nullSafeImmutableMap(Ljava/util/Map;)Ljava/util/Map;*.",
+*net.sourceforge.docfetcher.model.UtilModel*
+
+%0java.util.HashMap"i
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaë ë(3
+
+%1java.util.MapB+)
+'net.sourceforge.docfetcher.model.Folder

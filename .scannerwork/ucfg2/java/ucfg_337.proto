@@ -1,0 +1,53 @@
+
+Vnull#getDate(Lnet/sourceforge/docfetcher/model/search/ResultDocument;)Ljava/util/Date;S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java‰ ‰("startingBlock*⁄
+2S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÊ Ê(êç
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÊ Ê(
+%1java.util.Date"Pnet.sourceforge.docfetcher.model.search.ResultDocument#getDate()Ljava/util/Date;*C
+A
+element6net.sourceforge.docfetcher.model.search.ResultDocument2	getDate()"m
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÊ Ê(
+
+%1java.util.Date*›
+3S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÂ Â(˙˜
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÂ Â(
+%0boolean"Anet.sourceforge.docfetcher.model.search.ResultDocument#isEmail()Z*C
+A
+element6net.sourceforge.docfetcher.model.search.ResultDocument2	isEmail()*
+2
+1*â
+startingBlockS
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java‰ ‰(/È
+Ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java„ „(
+%3"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*C
+A
+element6net.sourceforge.docfetcher.model.search.ResultDocument±
+Æ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java‰' ‰(.A
+element6net.sourceforge.docfetcher.model.search.ResultDocument"__annotation*
+
+%3*
+3*Í
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÁ Á(†ù
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÁ Á($
+%2java.util.Date"Xnet.sourceforge.docfetcher.model.search.ResultDocument#getLastModified()Ljava/util/Date;*C
+A
+element6net.sourceforge.docfetcher.model.search.ResultDocument2getLastModified()"m
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÁ Á(%
+
+%2java.util.Date:A
+element6net.sourceforge.docfetcher.model.search.ResultDocumentB53
+1Lnet/sourceforge/docfetcher/gui/ResultPanel$8041;

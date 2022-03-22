@@ -1,0 +1,43 @@
+
+•org.apache.tika.config.TikaConfig$DetectorXmlLoader#decorate(Lorg/apache/tika/detect/Detector;Lorg/w3c/dom/Element;)Lorg/apache/tika/detect/Detector;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java‚ ‚("startingBlock*Ä
+startingBlockJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java‚ ‚(<§
+¤
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java (
+%0"
+__annotate*
+java.lang.Override*,
+*
+createdorg.apache.tika.detect.Detector‘
+Ž
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java‚# ‚(**
+createdorg.apache.tika.detect.Detector"__annotation*
+
+%0›
+˜
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java (
+%1"
+__annotate*
+java.lang.Override* 
+
+elementorg.w3c.dom.Element…
+‚
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java‚4 ‚(;
+elementorg.w3c.dom.Element"__annotation*
+
+%1*
+1*Ë
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaƒ ƒ("z
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaƒ ƒ(,
+*
+createdorg.apache.tika.detect.Detector:*
+createdorg.apache.tika.detect.Detector:
+elementorg.w3c.dom.ElementB75
+3org.apache.tika.config.TikaConfig$DetectorXmlLoader

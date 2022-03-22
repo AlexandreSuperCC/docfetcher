@@ -1,0 +1,26 @@
+
+Onet.sourceforge.docfetcher.util.collect.BoundedList#remove(Ljava/lang/Object;)ZZ
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaz z("3*¡
+3Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.java{ {(Ä
+Á
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.java{ {(
+%0java.util.LinkedList"__id*A*?5
+3net.sourceforge.docfetcher.util.collect.BoundedList"
+listóð
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.java{ {("
+%1boolean"0java.util.LinkedList#remove(Ljava/lang/Object;)Z*
+
+%0java.util.LinkedList*
+
+ojava.lang.Object2remove(Ljava/lang/Object;)*
+1*Å
+1Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.java~	 ~("d
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.java (
+"":
+ojava.lang.ObjectB75
+3net.sourceforge.docfetcher.util.collect.BoundedList

@@ -1,0 +1,37 @@
+
+€org.apache.tika.metadata.Property#internalClosedChoise(Ljava/lang/String;[Ljava/lang/String;)Lorg/apache/tika/metadata/Property;J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaç ç(/"1*‡
+1J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaé é( 
+
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaé( é(11
+%0+org.apache.tika.metadata.Property$ValueType"__id*
+""
+
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaé( é(?1
+%1+org.apache.tika.metadata.Property$ValueType"__id*
+""›˜
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaé é('
+%2!org.apache.tika.metadata.Property"!org.apache.tika.metadata.Propertyø
+õ
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaé é(I
+%3"~org.apache.tika.metadata.Property#<init>(Ljava/lang/String;ZLorg/apache/tika/metadata/Property$ValueType;[Ljava/lang/String;)V*)
+'
+%2!org.apache.tika.metadata.Property*
+
+namejava.lang.String*2*3
+1
+%1+org.apache.tika.metadata.Property$ValueType*
+
+choicesjava.lang.String[]"w
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaé é(J)
+'
+%2!org.apache.tika.metadata.Property:
+namejava.lang.String:
+choicesjava.lang.String[]B%"#
+!org.apache.tika.metadata.Property

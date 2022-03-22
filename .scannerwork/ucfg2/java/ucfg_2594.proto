@@ -1,0 +1,96 @@
+
+Cnet.sourceforge.docfetcher.Main#getStackSizeStr()Ljava/lang/String;H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java   (&"6*É
+3H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java¦ ¦(“
+
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java¦ ¦(
+%7java.lang.String"
+__arrayGet*
+
+argsjava.util.List*
+"""d
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java¦ ¦(
+
+%7java.lang.String*¼
+4H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java¥ ¥(
+“
+
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java¥ ¥(
+%4java.lang.String"
+__arrayGet*
+
+argsjava.util.List*
+""Ÿœ
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java¥ ¥(
+%5java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;* 
+
+patjava.util.regex.Pattern*
+
+%4java.lang.String2!matcher(Ljava/lang/CharSequence;)¬©
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java¥ ¥()
+%6boolean""java.util.regex.Matcher#matches()Z*
+
+%5java.util.regex.Matcher2	matches()*
+3
+5*ê
+5H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java¤ ¤(’
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java¤ ¤(!	
+%3int"java.util.List#size()I*
+
+argsjava.util.List2size()*
+4
+1*ý	
+6H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java¡ ¡((‚
+ÿ
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java¡ ¡(;(
+%0"java.lang.management.RuntimeMXBean"]java.lang.management.ManagementFactory#getRuntimeMXBean()Ljava/lang/management/RuntimeMXBean;**"(
+&java.lang.management.ManagementFactory«
+¨
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java¡ ¡(<*
+bean"java.lang.management.RuntimeMXBean"__id**
+(
+%0"java.lang.management.RuntimeMXBeanîë
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java¢ ¢(.
+%1java.util.List"Fjava.lang.management.RuntimeMXBean#getInputArguments()Ljava/util/List;*,
+*
+bean"java.lang.management.RuntimeMXBean2getInputArguments()ƒ
+€
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java¢ ¢(/
+argsjava.util.List"__id*
+
+%1java.util.Listç
+ä
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java£ £(-
+%2java.util.regex.Pattern"Ljava.util.regex.Pattern#compile(Ljava/lang/String;)Ljava/util/regex/Pattern;*"
+java.util.regex.Pattern*
+
+-Xss\\d+.*”
+‘
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java£ £(.
+patjava.util.regex.Pattern"__id*
+
+%2java.util.regex.Pattern*
+5*¥
+1H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java©	 ©("V
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java© ©(
+
+-Xss2mB#"!
+net.sourceforge.docfetcher.Main

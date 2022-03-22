@@ -1,0 +1,99 @@
+
+Porg.apache.tika.parser.chm.lzx.ChmSection#getBigInteger(I)Ljava/math/BigInteger;P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javab b(#"9*‰
+3P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javai i(ÔÑ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javai i(&
+%6byte[]"5org.apache.tika.parser.chm.lzx.ChmSection#getData()[B*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2	getData()ÒÏ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javai' i(1	
+%7int"5org.apache.tika.parser.chm.lzx.ChmSection#getSwath()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2
+getSwath()*
+3
+1*Ð
+5P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javag g(q
+o
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javag g(!
+tmpbyte[]"__id*
+""*
+3
+1*†
+6P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaf f(ÔÑ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaf f(
+%4byte[]"5org.apache.tika.parser.chm.lzx.ChmSection#getData()[B*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2	getData()ÒÏ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaf# f(-	
+%5int"5org.apache.tika.parser.chm.lzx.ChmSection#getSwath()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2
+getSwath()*
+5*‰
+7P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javae e(ÔÑ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javae e(
+%2byte[]"5org.apache.tika.parser.chm.lzx.ChmSection#getData()[B*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2	getData()ÒÏ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javae e()	
+%3int"5org.apache.tika.parser.chm.lzx.ChmSection#getSwath()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2
+getSwath()*
+5
+6*Ç
+8P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javad d(~
+|
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javad d("
+%1java.math.BigInteger"__id*
+"""p
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javad d(#
+
+%1java.math.BigInteger*´
+9P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javac c(ÔÑ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javac c(
+%0byte[]"5org.apache.tika.parser.chm.lzx.ChmSection#getData()[B*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2	getData()*
+7
+8*¹
+1P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javak k(ÒÏ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javak k(	
+%8int"5org.apache.tika.parser.chm.lzx.ChmSection#getSwath()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2
+getSwath()ÝÚ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javak k( 
+
+%9void"6org.apache.tika.parser.chm.lzx.ChmSection#setSwath(I)V*-+
+)org.apache.tika.parser.chm.lzx.ChmSection*
+""2setSwath(I)ˆ…
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javal l(
+%10java.math.BigInteger"java.math.BigInteger®
+«
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javal l("
+%11" java.math.BigInteger#<init>([B)V*
+
+%10java.math.BigInteger*
+
+tmpbyte[]"q
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javal l(#
+
+%10java.math.BigInteger:
+""B-+
+)org.apache.tika.parser.chm.lzx.ChmSection

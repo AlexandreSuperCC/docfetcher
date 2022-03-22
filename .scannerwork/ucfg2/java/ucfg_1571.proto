@@ -1,0 +1,107 @@
+
+torg.apache.tika.extractor.ParsingEmbeddedDocumentExtractor#shouldParseEmbedded(Lorg/apache/tika/metadata/Metadata;)Za
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.java; ;(&"6*ò
+2a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.javaE E(à
+Ö
+a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.javaE% E(2
+%7java.io.File"__id*
+""∑¥
+a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.javaE E(9
+%8boolean"@java.io.FilenameFilter#accept(Ljava/io/File;Ljava/lang/String;)Z*"
+ 
+filterjava.io.FilenameFilter*
+
+%7java.io.File*
+
+namejava.lang.String2(accept(Ljava/io/File;Ljava/lang/String;)"k
+a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.javaE E(:
+""*“
+3a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.javaC C("å
+â
+a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.javaC' C(A
+%5java.lang.String"__id*
+""Ø¨
+a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.javaC C(B
+%6java.lang.String"Korg.apache.tika.metadata.Metadata#get(Ljava/lang/String;)Ljava/lang/String;*/
+-
+metadata!org.apache.tika.metadata.Metadata*
+
+%5java.lang.String2get(Ljava/lang/String;)†
+ù
+a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.javaC C(C
+namejava.lang.String"__id*
+
+%6java.lang.String*
+2
+1*®
+4a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.javaA  A('‰
+·
+a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.javaA  A(')
+%3#org.apache.tika.parser.ParseContext"__id*K*I<
+:org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor"	
+contextüú
+a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.javaA  A(A
+%4java.io.FilenameFilter"Lorg.apache.tika.parser.ParseContext#get(Ljava/lang/Class;)Ljava/lang/Object;*+
+)
+%3#org.apache.tika.parser.ParseContext*
+""2get(Ljava/lang/Class;)Æ
+´
+a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.javaA A(B 
+filterjava.io.FilenameFilter"__id*
+
+%4java.io.FilenameFilter*
+3
+1*º
+5a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.java> >(Ê„
+a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.java> >(,
+%2boolean"Worg.apache.tika.extractor.DocumentSelector#select(Lorg/apache/tika/metadata/Metadata;)Z*8
+6
+selector*org.apache.tika.extractor.DocumentSelector*/
+-
+metadata!org.apache.tika.metadata.Metadata2+select(Lorg/apache/tika/metadata/Metadata;)"k
+a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.java> >(-
+""*Ê
+6a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.java<$ <(+‰
+·
+a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.java<$ <(+)
+%0#org.apache.tika.parser.ParseContext"__id*K*I<
+:org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor"	
+context≥∞
+a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.java<$ <(G0
+%1*org.apache.tika.extractor.DocumentSelector"Lorg.apache.tika.parser.ParseContext#get(Ljava/lang/Class;)Ljava/lang/Object;*+
+)
+%0#org.apache.tika.parser.ParseContext*
+""2get(Ljava/lang/Class;)ÿ
+’
+a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.java< <(H6
+selector*org.apache.tika.extractor.DocumentSelector"__id*2
+0
+%1*org.apache.tika.extractor.DocumentSelector*
+4
+5*”
+1a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.javaI I("k
+a
+WD:/git_project/code/src/org/apache/tika/extractor/ParsingEmbeddedDocumentExtractor.javaI I(
+"":-
+metadata!org.apache.tika.metadata.MetadataB><
+:org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor

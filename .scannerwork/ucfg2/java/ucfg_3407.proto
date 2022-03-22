@@ -1,0 +1,287 @@
+
+Norg.apache.tika.parser.chm.accessor.ChmItsfHeader#toString()Ljava/lang/String;X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaH H("1*ßQ
+1X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaI I(.•’
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaI I(,
+%0java.lang.StringBuilder"java.lang.StringBuilder§
+¤
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaI I(.
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder£
+ 
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaI I(/
+sbjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilderöó
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaJ J(+
+%2byte[]"Borg.apache.tika.parser.chm.accessor.ChmItsfHeader#getSignature()[B*53
+1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getSignature()‹
+ˆ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaJ- J(2
+%3java.nio.charset.Charset"__id*
+""‡„
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaJ J(
+%4java.lang.String"java.lang.Stringç
+ä
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaJ J(3
+%5"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
+
+%4java.lang.String*
+
+%2byte[]* 
+
+%3java.nio.charset.Charset 
+
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaJ J(9
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+  
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaJ J(:
+%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%6java.lang.String2append(Ljava/lang/String;)îë
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaK K(	
+%8int"?org.apache.tika.parser.chm.accessor.ChmItsfHeader#getVersion()I*53
+1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getVersion()“
+
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaK K($
+%9java.lang.String"__concat*
+	
+%8int*
+ ¡ž
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaK K(%
+%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%9java.lang.String2append(Ljava/lang/String;)óð
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaL L( 
+
+%11int"Aorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getHeaderLen()I*53
+1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getHeaderLen()•
+’
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaL L(&
+%12java.lang.String"__concat*
+
+
+%11int*
+ ¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaL L('
+%13java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%12java.lang.String2append(Ljava/lang/String;)ùö
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaM M(#
+
+%14int"Dorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getUnknown_000c()I*53
+1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getUnknown_000c()•
+’
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaM M()
+%15java.lang.String"__concat*
+
+
+%14int*
+ ¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaM M(*
+%16java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%15java.lang.String2append(Ljava/lang/String;)ú÷
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaN N(#
+%17long"Dorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getLastModified()J*53
+1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getLastModified()–
+“
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaN N()
+%18java.lang.String"__concat*
+
+%17long*
+ ¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaN N(*
+%19java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%18java.lang.String2append(Ljava/lang/String;)îë
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaO O(
+%20long">org.apache.tika.parser.chm.accessor.ChmItsfHeader#getLangId()J*53
+1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getLangId()–
+“
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaO O(#
+%21java.lang.String"__concat*
+
+%20long*
+ ¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaO O($
+%22java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%21java.lang.String2append(Ljava/lang/String;)õò
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaP P(
+%23byte[]"Aorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getDir_uuid()[B*53
+1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getDir_uuid()˜
+•
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaP P(%
+%24java.lang.String"__concat*
+
+%23byte[]*
+ ¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaP P(&
+%25java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%24java.lang.String2append(Ljava/lang/String;)ûø
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaQ Q("
+%26byte[]"Dorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getStream_uuid()[B*53
+1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getStream_uuid()˜
+•
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaQ Q((
+%27java.lang.String"__concat*
+
+%26byte[]*
+ ¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaQ Q()
+%28java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%27java.lang.String2append(Ljava/lang/String;)üù
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaR R($
+%29long"Eorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getUnknownOffset()J*53
+1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getUnknownOffset()–
+“
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaR R(*
+%30java.lang.String"__concat*
+
+%29long*
+ ¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaR R(+
+%31java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%30java.lang.String2append(Ljava/lang/String;)öó
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaS S(!
+%32long"Borg.apache.tika.parser.chm.accessor.ChmItsfHeader#getUnknownLen()J*53
+1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getUnknownLen()–
+“
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaS S('
+%33java.lang.String"__concat*
+
+%32long*
+ ¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaS S((
+%34java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%33java.lang.String2append(Ljava/lang/String;)ôñ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaT T( 
+%35long"Aorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getDirOffset()J*53
+1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getDirOffset()–
+“
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaT T(&
+%36java.lang.String"__concat*
+
+%35long*
+ ¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaT T('
+%37java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%36java.lang.String2append(Ljava/lang/String;)îë
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaU U(
+%38long">org.apache.tika.parser.chm.accessor.ChmItsfHeader#getDirLen()J*53
+1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getDirLen()–
+“
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaU U(#
+%39java.lang.String"__concat*
+
+%38long*
+ ¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaU U($
+%40java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%39java.lang.String2append(Ljava/lang/String;)öó
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaV V(!
+%41long"Borg.apache.tika.parser.chm.accessor.ChmItsfHeader#getDataOffset()J*53
+1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getDataOffset()–
+“
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaV V('
+%42java.lang.String"__concat*
+
+%41long*
+ ¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaV V((
+%43java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%42java.lang.String2append(Ljava/lang/String;)ÙÖ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaW W(
+%44java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()"u
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaW W(
+
+%44java.lang.StringB53
+1org.apache.tika.parser.chm.accessor.ChmItsfHeader

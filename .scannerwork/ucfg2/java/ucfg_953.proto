@@ -1,0 +1,53 @@
+
+vnet.sourceforge.docfetcher.util.gui.FormDataFactory#getInstance()Lnet/sourceforge/docfetcher/util/gui/FormDataFactory;Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/FormDataFactory.javaM M(*"3*„
+2Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/FormDataFactory.javaO O($ÏÌ
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/FormDataFactory.javaO O("9
+%13net.sourceforge.docfetcher.util.gui.FormDataFactory"3net.sourceforge.docfetcher.util.gui.FormDataFactoryá
+Þ
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/FormDataFactory.javaO O($
+%2"=net.sourceforge.docfetcher.util.gui.FormDataFactory#<init>()V*;
+9
+%13net.sourceforge.docfetcher.util.gui.FormDataFactoryç
+ä
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/FormDataFactory.javaO O($C5
+3net.sourceforge.docfetcher.util.gui.FormDataFactory"
+
+instance"__id*;
+9
+%13net.sourceforge.docfetcher.util.gui.FormDataFactory*
+1*Ñ
+3Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/FormDataFactory.javaN N(ç
+ä
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/FormDataFactory.javaN N(9
+%03net.sourceforge.docfetcher.util.gui.FormDataFactory"__id*E*C5
+3net.sourceforge.docfetcher.util.gui.FormDataFactory"
+
+instance*
+2
+1*º
+1Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/FormDataFactory.javaP	 P(ç
+ä
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/FormDataFactory.javaP	 P(9
+%33net.sourceforge.docfetcher.util.gui.FormDataFactory"__id*E*C5
+3net.sourceforge.docfetcher.util.gui.FormDataFactory"
+
+instanceÒÏ
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/FormDataFactory.javaP	 P(9
+%43net.sourceforge.docfetcher.util.gui.FormDataFactory"pnet.sourceforge.docfetcher.util.gui.FormDataFactory#reset()Lnet/sourceforge/docfetcher/util/gui/FormDataFactory;*;
+9
+%33net.sourceforge.docfetcher.util.gui.FormDataFactory2reset()"™
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/FormDataFactory.javaP P(;
+9
+%43net.sourceforge.docfetcher.util.gui.FormDataFactoryB7"5
+3net.sourceforge.docfetcher.util.gui.FormDataFactory

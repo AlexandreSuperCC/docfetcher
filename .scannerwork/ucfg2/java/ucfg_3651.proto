@@ -1,0 +1,110 @@
+
+:org.apache.tika.metadata.Property#isMultiValuePermitted()ZJ
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaè è(("7*∆
+2J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaï ï(!ª
+∏
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaï ï(!(
+%12!org.apache.tika.metadata.Property"__id*:*8#
+!org.apache.tika.metadata.Property"
+primaryProperty‡›
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaï ï(9
+%13boolean":org.apache.tika.metadata.Property#isMultiValuePermitted()Z**
+(
+%12!org.apache.tika.metadata.Property2isMultiValuePermitted()"T
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaï ï(:
+""*Ã
+3J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaì ì(ƒ
+¡
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaì ì(4
+%9.org.apache.tika.metadata.Property$PropertyType"__id*7*5#
+!org.apache.tika.metadata.Property"
+propertyTypeî
+ë
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaì# ì(/5
+%10.org.apache.tika.metadata.Property$PropertyType"__id*
+""î
+ë
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaì# ì(95
+%11.org.apache.tika.metadata.Property$PropertyType"__id*
+""*
+2
+1*•
+4J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaí í("T
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaí í(
+""* 
+5J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaë ë(ƒ
+¡
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaë ë(4
+%6.org.apache.tika.metadata.Property$PropertyType"__id*7*5#
+!org.apache.tika.metadata.Property"
+propertyTypeì
+ê
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaë ë((4
+%7.org.apache.tika.metadata.Property$PropertyType"__id*
+""ì
+ê
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaë ë(,4
+%8.org.apache.tika.metadata.Property$PropertyType"__id*
+""*
+3
+4* 
+6J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaê0 ê(<ƒ
+¡
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaê0 ê(<4
+%3.org.apache.tika.metadata.Property$PropertyType"__id*7*5#
+!org.apache.tika.metadata.Property"
+propertyTypeì
+ê
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaê@ ê(L4
+%4.org.apache.tika.metadata.Property$PropertyType"__id*
+""ì
+ê
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaê@ ê(P4
+%5.org.apache.tika.metadata.Property$PropertyType"__id*
+""*
+4
+5* 
+7J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaê ê(ƒ
+¡
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaê ê(4
+%0.org.apache.tika.metadata.Property$PropertyType"__id*7*5#
+!org.apache.tika.metadata.Property"
+propertyTypeì
+ê
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaê ê((4
+%1.org.apache.tika.metadata.Property$PropertyType"__id*
+""ì
+ê
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaê ê(,4
+%2.org.apache.tika.metadata.Property$PropertyType"__id*
+""*
+4
+6*•
+1J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaó ó("T
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaó ó(
+""B%#
+!org.apache.tika.metadata.Property

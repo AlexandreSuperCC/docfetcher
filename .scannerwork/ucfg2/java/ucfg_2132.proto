@@ -1,0 +1,16 @@
+
+jorg.apache.tika.parser.EmptyParser#getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Set;I
+?D:/git_project/code/src/org/apache/tika/parser/EmptyParser.java- -(+"1*ä
+1I
+?D:/git_project/code/src/org/apache/tika/parser/EmptyParser.java. .(¯
+¬
+I
+?D:/git_project/code/src/org/apache/tika/parser/EmptyParser.java. .(%
+%0java.util.Set"/java.util.Collections#emptySet()Ljava/util/Set;*"
+java.util.Collections"b
+I
+?D:/git_project/code/src/org/apache/tika/parser/EmptyParser.java. .(&
+
+%0java.util.Set:.
+context#org.apache.tika.parser.ParseContextB&$
+"org.apache.tika.parser.EmptyParser

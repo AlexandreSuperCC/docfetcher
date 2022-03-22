@@ -1,0 +1,16 @@
+
+porg.apache.tika.parser.chm.core.ChmWrapper#getChmItspHeader()Lorg/apache/tika/parser/chm/accessor/ChmItspHeader;S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmWrapper.javaà à(,"1*»
+1S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmWrapper.javaâ â(⁄
+◊
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmWrapper.javaâ â(7
+%01org.apache.tika.parser.chm.accessor.ChmItspHeader"__id*A*?,
+*org.apache.tika.parser.chm.core.ChmWrapper"
+chmItspHeader"ê
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmWrapper.javaâ â(9
+7
+%01org.apache.tika.parser.chm.accessor.ChmItspHeaderB.,
+*org.apache.tika.parser.chm.core.ChmWrapper

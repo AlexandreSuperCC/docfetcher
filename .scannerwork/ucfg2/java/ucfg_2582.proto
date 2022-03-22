@@ -1,0 +1,39 @@
+
+Rnet.sourceforge.docfetcher.enums.Msg#format([Ljava/lang/Object;)Ljava/lang/String;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/enums/Msg.javaù ù("1*¾
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/enums/Msg.javaú ú(¥
+¢
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/enums/Msg.javaú ú(
+%0java.lang.String"__id*3*1&
+$net.sourceforge.docfetcher.enums.Msg"
+value¬©
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/enums/Msg.javaú ú('
+%1java.lang.String"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+%0java.lang.String*
+'*
+''29replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)‹
+ˆ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/enums/Msg.javaú ú((
+valjava.lang.String"__id*
+
+%1java.lang.String™
+–
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/enums/Msg.javaû	 û((
+%2java.lang.String"Wjava.text.MessageFormat#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.text.MessageFormat*
+
+valjava.lang.String*
+
+argsjava.lang.Object[]"i
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/enums/Msg.javaû û()
+
+%2java.lang.String:
+argsjava.lang.Object[]B(&
+$net.sourceforge.docfetcher.enums.Msg

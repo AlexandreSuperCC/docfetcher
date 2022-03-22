@@ -1,0 +1,75 @@
+
+anet.sourceforge.docfetcher.model.UtilModel#nullSafeImmutableList(Ljava/util/Map;)Ljava/util/List;Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaI I(,"startingBlock*Ä
+2Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaK
+ K(∫
+∑
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaK
+ K(!
+%1java.util.List"1java.util.Collections#emptyList()Ljava/util/List;*"
+java.util.Collections"k
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaK K("
+
+%1java.util.List*É
+3Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaJ J(¢ü
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaJ J("
+%0boolean"java.util.Map#isEmpty()Z*
+
+mapjava.util.Map2	isEmpty()*
+2
+1*∫
+startingBlockQ
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaI, I(Eø
+º
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaG G(
+%3"
+__annotate*=;
+9net.sourceforge.docfetcher.util.annotations.ImmutableCopy*
+
+mapjava.util.Mapπ
+∂
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaH H(	
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+mapjava.util.Map∫
+∑
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaI- I(6
+%5"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+mapjava.util.Mapí
+è
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaIA I(D
+mapjava.util.Map"__annotation*
+
+%3*
+
+%4*
+
+%5*
+2
+3*¯
+1Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaL	 L(¬ø
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaL L(*
+%2java.util.Collection",java.util.Map#values()Ljava/util/Collection;*
+
+mapjava.util.Map2values()"[
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaL L(,
+"":
+mapjava.util.MapB.",
+*net.sourceforge.docfetcher.model.UtilModel

@@ -1,0 +1,76 @@
+
+Worg.apache.tika.io.TemporaryResources#getResource(Ljava/lang/Class;)Ljava/io/Closeable;L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javax# x(."startingBlock*ý
+2L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javay y(}
+{
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javay y(
+resourcejava.io.Closeable"__id*
+""¢
+Ÿ
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javay y(
+resourcejava.io.Closeable"
+__arrayGet*
+
+%0java.util.LinkedList*
+""*
+4
+1*Â
+3L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.java{ {(#"o
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.java{ {($
+
+resourcejava.io.Closeable*‡
+startingBlockL
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javax. x(>Ÿ
+œ
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaw w("
+%3"
+__annotate*
+java.lang.SuppressWarnings*
+
+klassjava.lang.Class€
+~
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javax8 x(=
+klassjava.lang.Class"__annotation*
+
+%3*
+5*’
+4L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaz z(ÃÀ
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaz' z(:
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+resourcejava.io.Closeable2
+getClass()ðí
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaz z(;
+%2boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+
+klassjava.lang.Class*
+
+%1java.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
+2
+3*†
+5L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javay" y(+­
+ª
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javay" y(+
+%0java.util.LinkedList"__id*8*6'
+%org.apache.tika.io.TemporaryResources"
+	resources*
+2*©
+1L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.java~ ~("V
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.java~ ~(
+"":
+klassjava.lang.ClassB)'
+%org.apache.tika.io.TemporaryResources

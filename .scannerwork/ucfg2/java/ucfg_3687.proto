@@ -1,0 +1,29 @@
+
+eorg.apache.tika.io.TaggedInputStream#get(Ljava/io/InputStream;)Lorg/apache/tika/io/TaggedInputStream;K
+AD:/git_project/code/src/org/apache/tika/io/TaggedInputStream.javaS$ S('"2"1*¿
+2K
+AD:/git_project/code/src/org/apache/tika/io/TaggedInputStream.javaU$ U()"m
+K
+AD:/git_project/code/src/org/apache/tika/io/TaggedInputStream.javaU
+ U(*
+
+proxyjava.io.InputStream*Þ
+1K
+AD:/git_project/code/src/org/apache/tika/io/TaggedInputStream.javaW$ W()¢Ÿ
+K
+AD:/git_project/code/src/org/apache/tika/io/TaggedInputStream.javaW W(#*
+%0$org.apache.tika.io.TaggedInputStream"$org.apache.tika.io.TaggedInputStreamé
+æ
+K
+AD:/git_project/code/src/org/apache/tika/io/TaggedInputStream.javaW W(*
+%1"Corg.apache.tika.io.TaggedInputStream#<init>(Ljava/io/InputStream;)V*,
+*
+%0$org.apache.tika.io.TaggedInputStream*
+
+proxyjava.io.InputStream"{
+K
+AD:/git_project/code/src/org/apache/tika/io/TaggedInputStream.javaW W(+,
+*
+%0$org.apache.tika.io.TaggedInputStream:
+proxyjava.io.InputStreamB("&
+$org.apache.tika.io.TaggedInputStream

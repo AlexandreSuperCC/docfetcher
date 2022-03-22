@@ -1,0 +1,327 @@
+
+«org.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator#parse(Ljava/io/InputStream;Lorg/xml/sax/ContentHandler;Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/parser/ParseContext;)VV
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java¶ ¶("startingBlock*Ω
+2V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java‹* ‹(."`
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java› ›(
+""*€
+3V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java€ €(“
+œ
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java€ €(
+%33java.util.List"__id*X*VG
+Eorg.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator"
+	metadatas†ù
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java€ €($
+
+%34int"java.util.List#size()I*
+
+%33java.util.List2size()*
+2
+1*π
+startingBlockV
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java¶ ß(8ß
+§
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java• •(
+%39"
+__annotate*
+java.lang.Override*
+
+streamjava.io.InputStreamë
+é
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java¶& ¶(,
+streamjava.io.InputStream"__annotation*
+
+%39Æ
+´
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java• •(
+%40"
+__annotate*
+java.lang.Override*&
+$
+ignoreorg.xml.sax.ContentHandlerò
+ï
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java¶= ¶(C$
+ignoreorg.xml.sax.ContentHandler"__annotation*
+
+%40∑
+¥
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java• •(
+%41"
+__annotate*
+java.lang.Override*/
+-
+metadata!org.apache.tika.metadata.Metadata°
+û
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaß ß(!-
+metadata!org.apache.tika.metadata.Metadata"__annotation*
+
+%41∏
+µ
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java• •(
+%42"
+__annotate*
+java.lang.Override*0
+.
+context#org.apache.tika.parser.ParseContext¢
+ü
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaß0 ß(7.
+context#org.apache.tika.parser.ParseContext"__annotation*
+
+%42*
+18
+20*‘
+5V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java“ “(–Õ
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java“ “(;
+%26void"Morg.apache.tika.parser.ParseContext#set(Ljava/lang/Class;Ljava/lang/Object;)V*0
+.
+context#org.apache.tika.parser.ParseContext*
+""*3
+1
+preContextParserorg.apache.tika.parser.Parser2(set(Ljava/lang/Class;Ljava/lang/Object;)Å
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java”) ”(-
+%27java.util.Date"java.util.Dateï
+í
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java”% ”(/
+%28"java.util.Date#<init>()V*
+
+%27java.util.Dateß§
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java”% ”(9
+%29long"java.util.Date#getTime()J*
+
+%27java.util.Date2	getTime()ì
+ê
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java‘ ‘(.(
+%30!org.apache.tika.metadata.Property"__id*
+""æ
+ª
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java‘0 ‘(L
+%31java.lang.String",java.lang.Long#toString(J)Ljava/lang/String;*"
+java.lang.Long*
+""˚¯
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java‘ ‘(M
+%32void"]org.apache.tika.metadata.Metadata#set(Lorg/apache/tika/metadata/Property;Ljava/lang/String;)V*/
+-
+metadata!org.apache.tika.metadata.Metadata**
+(
+%30!org.apache.tika.metadata.Property*
+
+%31java.lang.String2:set(Lorg/apache/tika/metadata/Property;Ljava/lang/String;)*	
+3
+0
+1*±
+17V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaΩ Ω(Õ
+ 
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaΩ Ω(D
+%16void"®org.apache.tika.parser.ParserDecorator#parse(Ljava/io/InputStream;Lorg/xml/sax/ContentHandler;Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/parser/ParseContext;)V*
+""*
+
+streamjava.io.InputStream*,
+*
+localHandlerorg.xml.sax.ContentHandler*/
+-
+metadata!org.apache.tika.metadata.Metadata*0
+.
+context#org.apache.tika.parser.ParseContext*
+5*Ö"
+18V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java∞  ∞(/Â
+‚
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java∞  ∞(9
+%2java.lang.String"torg.apache.tika.parser.RecursiveParserWrapper#getResourceName(Lorg/apache/tika/metadata/Metadata;)Ljava/lang/String;*IG
+Eorg.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator*/
+-
+metadata!org.apache.tika.metadata.Metadataõ
+ò
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java∞ ∞(:
+
+objectNamejava.lang.String"__id*
+
+%2java.lang.String“
+œ
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java±$ ±(1
+%3java.lang.String"__id*W*UG
+Eorg.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator"
+
+locationπ
+∂
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java±$ ±(>
+%4java.lang.String"__concat*
+
+%3java.lang.String* 
+
+
+objectNamejava.lang.Stringü
+ú
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java± ±(?"
+objectLocationjava.lang.String"__id*
+
+%4java.lang.Stringí
+è
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java≥ ≥(/'
+%5!org.apache.tika.metadata.Property"__id*
+""ÑÅ
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java≥ ≥(@
+
+%6void"]org.apache.tika.metadata.Metadata#add(Lorg/apache/tika/metadata/Property;Ljava/lang/String;)V*/
+-
+metadata!org.apache.tika.metadata.Metadata*)
+'
+%5!org.apache.tika.metadata.Property*$
+"
+objectLocationjava.lang.String2:add(Lorg/apache/tika/metadata/Property;Ljava/lang/String;)¯
+ı
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java∑* ∑(?/
+%7)org.apache.tika.sax.ContentHandlerFactory"__id*d*bG
+Eorg.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator"
+contentHandlerFactory¶£
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java∑* ∑(V 
+%8org.xml.sax.ContentHandler"\org.apache.tika.sax.ContentHandlerFactory#getNewContentHandler()Lorg/xml/sax/ContentHandler;*1
+/
+%7)org.apache.tika.sax.ContentHandlerFactory2getNewContentHandler()±
+Æ
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java∑ ∑(W*
+localHandlerorg.xml.sax.ContentHandler"__id*"
+ 
+%8org.xml.sax.ContentHandler†ù
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaπ& π(?#
+%9org.apache.tika.parser.Parser"Lorg.apache.tika.parser.ParseContext#get(Ljava/lang/Class;)Ljava/lang/Object;*0
+.
+context#org.apache.tika.parser.ParseContext*
+""2get(Ljava/lang/Class;)ª
+∏
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaπ π(@1
+preContextParserorg.apache.tika.parser.Parser"__id*%
+#
+%9org.apache.tika.parser.ParserÌ
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java∫* ∫(AL
+%10Eorg.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator"Eorg.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecoratorÎ
+Ë
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java∫& ∫(Q
+%11"êorg.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator#<init>(Lorg/apache/tika/parser/RecursiveParserWrapper;Ljava/lang/String;)V*N
+L
+%10Eorg.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator*$
+"
+objectLocationjava.lang.StringÎË
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java∫ ∫(R
+%12void"Morg.apache.tika.parser.ParseContext#set(Ljava/lang/Class;Ljava/lang/Object;)V*0
+.
+context#org.apache.tika.parser.ParseContext*
+""*N
+L
+%10Eorg.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator2(set(Ljava/lang/Class;Ljava/lang/Object;)Å
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaª ª(#
+%13java.util.Date"java.util.Dateï
+í
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaª ª(%
+%14"java.util.Date#<init>()V*
+
+%13java.util.Dateß§
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaª ª(/
+%15long"java.util.Date#getTime()J*
+
+%13java.util.Date2	getTime()*
+17*æ
+19V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java¨* ¨(."`
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java≠ ≠(
+""*€
+20V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java´ ´(—
+Œ
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java´ ´(
+%0java.util.List"__id*X*VG
+Eorg.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator"
+	metadatasûõ
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java´ ´($	
+%1int"java.util.List#size()I*
+
+%0java.util.List2size()*
+18
+19*t
+0 "m
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java· ·(	
+implicit return*ç
+
+1V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaﬂ ﬂ(é
+ã
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaﬂ ﬂ(.
+%35void"zorg.apache.tika.parser.RecursiveParserWrapper#addContent(Lorg/xml/sax/ContentHandler;Lorg/apache/tika/metadata/Metadata;)V*IG
+Eorg.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator*,
+*
+localHandlerorg.xml.sax.ContentHandler*/
+-
+metadata!org.apache.tika.metadata.Metadata“
+œ
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java‡ ‡(
+%36java.util.List"__id*X*VG
+Eorg.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator"
+	metadatasÅ
+˛
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java‡ ‡(,(
+%37!org.apache.tika.metadata.Metadata"~org.apache.tika.parser.RecursiveParserWrapper#deepCopy(Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/metadata/Metadata;*IG
+Eorg.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator*/
+-
+metadata!org.apache.tika.metadata.Metadata¿
+Ω
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.java‡ ‡(-
+%38boolean"
+__arrayAdd*
+
+%36java.util.List*: **
+(
+%37!org.apache.tika.metadata.Metadata*
+0:
+streamjava.io.InputStream:$
+ignoreorg.xml.sax.ContentHandler:-
+metadata!org.apache.tika.metadata.Metadata:.
+context#org.apache.tika.parser.ParseContextBIG
+Eorg.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator

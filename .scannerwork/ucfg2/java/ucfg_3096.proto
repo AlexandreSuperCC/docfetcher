@@ -1,0 +1,103 @@
+
+anet.sourceforge.docfetcher.model.parse.MP3Parser#extract(Ljava/io/InputStream;)Ljava/lang/String;W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java= =("startingBlock*•
+startingBlockW
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java= =(7Ä
+Á
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java< <(	
+%9"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+injava.io.InputStreamÅ
+Â
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java= =('
+%10"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+injava.io.InputStream–
+“
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java=4 =(6
+injava.io.InputStream"__annotation*
+
+%9*
+
+%10*
+1*ç
+1W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java>; >(<²¯
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java>' >(9,
+%0&org.apache.tika.sax.BodyContentHandler"&org.apache.tika.sax.BodyContentHandlerÍ
+Ê
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java># >(=
+%1"1org.apache.tika.sax.BodyContentHandler#<init>(I)V*.
+,
+%0&org.apache.tika.sax.BodyContentHandler*
+""É
+Æ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java> >(>5
+bodyHandler&org.apache.tika.sax.BodyContentHandler"__id*.
+,
+%0&org.apache.tika.sax.BodyContentHandler¨¥
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java? ?("'
+%2!org.apache.tika.metadata.Metadata"!org.apache.tika.metadata.Metadataº
+·
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java? ?($
+%3"+org.apache.tika.metadata.Metadata#<init>()V*)
+'
+%2!org.apache.tika.metadata.Metadata¼
+¹
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java? ?(%-
+metadata!org.apache.tika.metadata.Metadata"__id*)
+'
+%2!org.apache.tika.metadata.Metadata®«
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java@ @(*
+%4$org.apache.tika.parser.mp3.Mp3Parser"$org.apache.tika.parser.mp3.Mp3ParserÀ
+½
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java@ @(
+%5".org.apache.tika.parser.mp3.Mp3Parser#<init>()V*,
+*
+%4$org.apache.tika.parser.mp3.Mp3Parser¨
+¥
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java@3 @(M)
+%6#org.apache.tika.parser.ParseContext"fnet.sourceforge.docfetcher.model.parse.ParseService#tikaContext()Lorg/apache/tika/parser/ParseContext;*7"5
+3net.sourceforge.docfetcher.model.parse.ParseServiceöó
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java@ @(N
+
+%7void"¦org.apache.tika.parser.mp3.Mp3Parser#parse(Ljava/io/InputStream;Lorg/xml/sax/ContentHandler;Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/parser/ParseContext;)V*,
+*
+%4$org.apache.tika.parser.mp3.Mp3Parser*
+
+injava.io.InputStream*7
+5
+bodyHandler&org.apache.tika.sax.BodyContentHandler*/
+-
+metadata!org.apache.tika.metadata.Metadata*+
+)
+%6#org.apache.tika.parser.ParseContext2€parse(Ljava/io/InputStream;Lorg/xml/sax/ContentHandler;Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/parser/ParseContext;)ƒ€
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.javaA	 A(
+%8java.lang.String"Horg.apache.tika.sax.ContentHandlerDecorator#toString()Ljava/lang/String;*7
+5
+bodyHandler&org.apache.tika.sax.BodyContentHandler2
+toString()"s
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.javaA A( 
+
+%8java.lang.String:
+injava.io.InputStreamB4"2
+0net.sourceforge.docfetcher.model.parse.MP3Parser

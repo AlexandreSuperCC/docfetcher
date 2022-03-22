@@ -1,0 +1,145 @@
+
+Ynet.sourceforge.docfetcher.enums.MsgWriter#convert(Ljava/lang/String;Z)Ljava/lang/String;Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java5 5("15*Ü
+14Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java7 7(§°
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java7 7($	
+%3int"java.lang.String#length()I*
+
+inputjava.lang.String2length()*
+3
+1*•
+3Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java8 8(∞≠
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java8 8(
+%13char"java.lang.String#charAt(I)C*
+
+inputjava.lang.String*
+""2	charAt(I)*
+4
+5
+6
+7
+8
+9
+10
+11*·
+15Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java6( 6(-§°
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java6( 6(6	
+%0int"java.lang.String#length()I*
+
+inputjava.lang.String2length()éã
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java6 6('
+%1java.lang.StringBuilder"java.lang.StringBuilder©
+¶
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java6 6(;
+%2""java.lang.StringBuilder#<init>(I)V*
+
+%1java.lang.StringBuilder*
+""ù
+ö
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java6 6(<
+outjava.lang.StringBuilder"__id*
+
+%1java.lang.StringBuilder*
+14*∆
+4Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.javaE E(Á‰
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.javaE E(
+%12java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+""2	append(C)*
+14*∞
+5Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.javaC D(4Á‰
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.javaD D(
+%10java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+\\2	append(C)Á‰
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.javaD D(,
+%11java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+""2	append(C)*
+14*Ë
+6Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.javaB B('âÜ
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.javaB B(
+%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+\\f2append(Ljava/lang/String;)*
+14*Ë
+7Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.javaA A('âÜ
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.javaA A(
+%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+\\r2append(Ljava/lang/String;)*
+14*Ë
+8Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java@ @('âÜ
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java@ @(
+%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+\\n2append(Ljava/lang/String;)*
+14*Ë
+9Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java? ?('âÜ
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java? ?(
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+\\t2append(Ljava/lang/String;)*
+14*≈
+10Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java= =(Â‚
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java= =(
+%5java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+ 2	append(C)*
+14*∆
+11Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java< <(Ê„
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.java< <(
+%4java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+\\2	append(C)*
+10*ú
+1Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.javaH	 H(”–
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.javaH	 H(
+%14java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+outjava.lang.StringBuilder2
+toString()"n
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgWriter.javaH H(
+
+%14java.lang.String:
+inputjava.lang.String:
+""B.",
+*net.sourceforge.docfetcher.enums.MsgWriter

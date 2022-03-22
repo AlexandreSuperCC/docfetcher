@@ -1,0 +1,17 @@
+
+Norg.apache.tika.language.detect.LanguageResult#getLanguage()Ljava/lang/String;U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.java- -("1*Š
+1U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.java.	 .(º
+·
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.java.	 .(
+%0java.lang.String"__id*@*>0
+.org.apache.tika.language.detect.LanguageResult"
+
+language"q
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.java. .(
+
+%0java.lang.StringB20
+.org.apache.tika.language.detect.LanguageResult

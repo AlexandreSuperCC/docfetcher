@@ -1,0 +1,44 @@
+
+_org.apache.tika.parser.CompositeParser#assignableFrom(Ljava/util/Collection;Ljava/lang/Class;)ZM
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javai i(""2*ú
+2M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaj j(&u
+s
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaj j(&
+ejava.lang.Class"__id*
+""¦
+£
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaj j(&
+ejava.lang.Class"
+__arrayGet*(
+&
+excludeParsersjava.util.Collection*
+""*
+4
+1*«
+3M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javak. k(2"W
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javak' k(3
+""*É
+4M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javak k(ìé
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javak k(%
+%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+
+ejava.lang.Class*
+
+pjava.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
+2
+3*«
+1M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javam m("W
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javam m(
+"":&
+excludeParsersjava.util.Collection:
+pjava.lang.ClassB*(
+&org.apache.tika.parser.CompositeParser

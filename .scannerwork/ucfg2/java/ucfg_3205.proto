@@ -1,0 +1,33 @@
+
+null#skip(Ljava/io/File;)Z^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaš š("startingBlock*Ù
+startingBlock^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaš š(2Ë
+È
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaš š("
+%1"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+	fileOrDirjava.io.File”
+‘
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaš( š(1
+	fileOrDirjava.io.File"__annotation*
+
+%1*
+1*ñ
+1^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java› ›(¡ž
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java› ›(*
+%0"dnet.sourceforge.docfetcher.model.index.file.FileContext#skip(Lde/schlichtherle/truezip/file/TFile;)Z*
+""*
+
+	fileOrDirjava.io.File2+skip(Lde/schlichtherle/truezip/file/TFile;)"h
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java› ›(+
+"":
+	fileOrDirjava.io.FileBA?
+=Lnet/sourceforge/docfetcher/model/index/file/FileIndex$10434;

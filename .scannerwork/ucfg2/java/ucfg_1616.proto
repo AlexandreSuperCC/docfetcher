@@ -1,0 +1,209 @@
+
+inet.sourceforge.docfetcher.gui.Application#toFile(Ljava/util/Properties;Ljava/lang/String;)Ljava/io/File;S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÜ Ü("startingBlock*Ö
+2S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaè è(~
+|
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaè è(&
+%11java.lang.String"__id*
+""’“
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaè( è(2
+%12java.lang.String"2java.util.regex.Matcher#group(I)Ljava/lang/String;*
+
+mjava.util.regex.Matcher*22group(I)zx
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaè è(
+%13java.io.File"java.io.FileË
+Â
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaè
+ è(3
+%14":java.io.File#<init>(Ljava/lang/String;Ljava/lang/String;)V*
+
+%13java.io.File*
+
+%11java.lang.String*
+
+%12java.lang.String"l
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaè è(4
+
+%13java.io.File*˚
+3S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaé é(}
+{
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaé é('
+%8java.lang.String"__id*
+""yw
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaé é(
+%9java.io.File"java.io.Fileπ
+∂
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaé é((
+%10"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%9java.io.File*
+
+%8java.lang.String"k
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaé é()
+
+%9java.io.File*≠	
+startingBlockS
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÜ Ü(K∆
+√
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÖ Ö(
+
+%16"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+propsjava.util.Properties≈
+¬
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÜ Ü($
+%17"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+propsjava.util.Propertiesó
+î
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÜ0 Ü(5
+propsjava.util.Properties"__annotation*
+
+%16*
+
+%17¿
+Ω
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÖ Ö(
+
+%18"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+keyjava.lang.Stringø
+º
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÜ7 Ü(?
+%19"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+keyjava.lang.Stringë
+é
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÜG Ü(J
+keyjava.lang.String"__annotation*
+
+%18*
+
+%19*
+8*£
+4S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaç ç(‘—
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaç ç('
+%5java.lang.String"2java.util.regex.Matcher#group(I)Ljava/lang/String;*
+
+mjava.util.regex.Matcher*22group(I)Ω∫
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaç ç(.
+%6java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+%5java.lang.String2trim()©¶
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaç ç(8
+%7boolean"java.lang.String#isEmpty()Z*
+
+%6java.lang.String2	isEmpty()*
+2
+3*∑
+5S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaç ç(‘—
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaç ç(
+%4java.lang.String"2java.util.regex.Matcher#group(I)Ljava/lang/String;*
+
+mjava.util.regex.Matcher*22group(I)*
+3
+4*®	
+6S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaä ä(ä
+á
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaä ä(M
+%1java.util.regex.Pattern"Ljava.util.regex.Pattern#compile(Ljava/lang/String;)Ljava/util/regex/Pattern;*"
+java.util.regex.Pattern*&$
+"\\$\\{user\\.home}(?:[\\\\/](.*))?ß
+§
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaä ä(N&
+homePatternjava.util.regex.Pattern"__id*
+
+%1java.util.regex.Patternµ≤
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaã ã((
+%2java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*(
+&
+homePatternjava.util.regex.Pattern*
+
+valuejava.lang.String2!matcher(Ljava/lang/CharSequence;)ù
+ö
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaã ã()
+mjava.util.regex.Matcher"__id*
+
+%2java.util.regex.Matcher∂≥
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaå å(
+%3boolean""java.util.regex.Matcher#matches()Z*
+
+mjava.util.regex.Matcher2	matches()*
+5
+1*∑
+7S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaâ
+ â("]
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaâ â(
+""*é
+8S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaá á(ïí
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaá á('
+%0java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*
+
+propsjava.util.Properties*
+
+keyjava.lang.String2getProperty(Ljava/lang/String;)ì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaá á((
+valuejava.lang.String"__id*
+
+%0java.lang.String*
+6
+7*÷
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaë	 ë(ç
+ä
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaë	 ë(%
+%15java.io.File"Wnet.sourceforge.docfetcher.util.Util#getCanonicalFile(Ljava/lang/String;)Ljava/io/File;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+valuejava.lang.String"l
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaë ë(&
+
+%15java.io.File:
+propsjava.util.Properties:
+keyjava.lang.StringB.",
+*net.sourceforge.docfetcher.gui.Application

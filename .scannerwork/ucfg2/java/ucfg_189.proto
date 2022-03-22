@@ -1,0 +1,32 @@
+
+Znet.sourceforge.docfetcher.model.Document#getPath()Lnet/sourceforge/docfetcher/model/Path;P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/Document.java= =("1*Â	
+1P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/Document.java>	 >(Ÿ
+œ
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/Document.java>	 >(
+%0F"__id*9*7+
+)net.sourceforge.docfetcher.model.Document"
+parentòï
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/Document.java>	 >(+
+%1%net.sourceforge.docfetcher.model.Path"Xnet.sourceforge.docfetcher.model.Folder#getPath()Lnet/sourceforge/docfetcher/model/Path;*	
+
+%0F2	getPath()îë
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/Document.java>( >(1
+%2java.lang.String"Enet.sourceforge.docfetcher.model.TreeNode#getName()Ljava/lang/String;*-+
+)net.sourceforge.docfetcher.model.Document2	getName()ÞÛ
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/Document.java>	 >(2+
+%3%net.sourceforge.docfetcher.model.Path"nnet.sourceforge.docfetcher.model.Path#createSubPath(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/Path;*-
++
+%1%net.sourceforge.docfetcher.model.Path*
+
+%2java.lang.String2!createSubPath(Ljava/lang/String;)"
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/Document.java> >(3-
++
+%3%net.sourceforge.docfetcher.model.PathB-+
+)net.sourceforge.docfetcher.model.Document

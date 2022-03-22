@@ -1,0 +1,68 @@
+
+~org.apache.tika.sax.xpath.NamedElementMatcher#descend(Ljava/lang/String;Ljava/lang/String;)Lorg/apache/tika/sax/xpath/Matcher;T
+JD:/git_project/code/src/org/apache/tika/sax/xpath/NamedElementMatcher.java$ $("4*†
+2T
+JD:/git_project/code/src/org/apache/tika/sax/xpath/NamedElementMatcher.java& &(¿
+Ω
+T
+JD:/git_project/code/src/org/apache/tika/sax/xpath/NamedElementMatcher.java& &(1'
+%4!org.apache.tika.sax.xpath.Matcher"worg.apache.tika.sax.xpath.ChildMatcher#descend(Ljava/lang/String;Ljava/lang/String;)Lorg/apache/tika/sax/xpath/Matcher;*
+""*
+
+	namespacejava.lang.String*
+
+namejava.lang.String"Å
+T
+JD:/git_project/code/src/org/apache/tika/sax/xpath/NamedElementMatcher.java& &(2)
+'
+%4!org.apache.tika.sax.xpath.Matcher*É
+3T
+JD:/git_project/code/src/org/apache/tika/sax/xpath/NamedElementMatcher.java%1 %(5¥
+±
+T
+JD:/git_project/code/src/org/apache/tika/sax/xpath/NamedElementMatcher.java%= %(F
+%2java.lang.String"__id*;*9/
+-org.apache.tika.sax.xpath.NamedElementMatcher"
+nameËÂ
+T
+JD:/git_project/code/src/org/apache/tika/sax/xpath/NamedElementMatcher.java%1 %(G
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+namejava.lang.String*
+
+%2java.lang.String2equals(Ljava/lang/Object;)*
+2
+1*”
+4T
+JD:/git_project/code/src/org/apache/tika/sax/xpath/NamedElementMatcher.java% %(π
+∂
+T
+JD:/git_project/code/src/org/apache/tika/sax/xpath/NamedElementMatcher.java% %(,
+%0java.lang.String"__id*@*>/
+-org.apache.tika.sax.xpath.NamedElementMatcher"
+	namespace≥
+∞
+T
+JD:/git_project/code/src/org/apache/tika/sax/xpath/NamedElementMatcher.java% %(-
+%1boolean"[org.apache.tika.sax.xpath.NamedElementMatcher#equals(Ljava/lang/String;Ljava/lang/String;)Z*1"/
+-org.apache.tika.sax.xpath.NamedElementMatcher*
+
+	namespacejava.lang.String*
+
+%0java.lang.String*
+3
+1*
+1T
+JD:/git_project/code/src/org/apache/tika/sax/xpath/NamedElementMatcher.java( ((ê
+ç
+T
+JD:/git_project/code/src/org/apache/tika/sax/xpath/NamedElementMatcher.java( (('
+%5!org.apache.tika.sax.xpath.Matcher"__id*
+"""Å
+T
+JD:/git_project/code/src/org/apache/tika/sax/xpath/NamedElementMatcher.java( (()
+'
+%5!org.apache.tika.sax.xpath.Matcher:
+	namespacejava.lang.String:
+namejava.lang.StringB1/
+-org.apache.tika.sax.xpath.NamedElementMatcher

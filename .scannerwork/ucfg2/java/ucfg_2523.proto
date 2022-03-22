@@ -1,0 +1,27 @@
+
+corg.apache.tika.language.ProfilingWriter#getLanguage()Lorg/apache/tika/language/LanguageIdentifier;O
+ED:/git_project/code/src/org/apache/tika/language/ProfilingWriter.java? ?()"1*Å
+1O
+ED:/git_project/code/src/org/apache/tika/language/ProfilingWriter.java@& @(-≈
+¬
+O
+ED:/git_project/code/src/org/apache/tika/language/ProfilingWriter.java@& @(-.
+%0(org.apache.tika.language.LanguageProfile"__id*9*7*
+(org.apache.tika.language.ProfilingWriter"	
+profile¥±
+O
+ED:/git_project/code/src/org/apache/tika/language/ProfilingWriter.java@ @(%1
+%1+org.apache.tika.language.LanguageIdentifier"+org.apache.tika.language.LanguageIdentifier¢
+ü
+O
+ED:/git_project/code/src/org/apache/tika/language/ProfilingWriter.java@ @(.
+%2"_org.apache.tika.language.LanguageIdentifier#<init>(Lorg/apache/tika/language/LanguageProfile;)V*3
+1
+%1+org.apache.tika.language.LanguageIdentifier*0
+.
+%0(org.apache.tika.language.LanguageProfile"Ü
+O
+ED:/git_project/code/src/org/apache/tika/language/ProfilingWriter.java@ @(/3
+1
+%1+org.apache.tika.language.LanguageIdentifierB,*
+(org.apache.tika.language.ProfilingWriter

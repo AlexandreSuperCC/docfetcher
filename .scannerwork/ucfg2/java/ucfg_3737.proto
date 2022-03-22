@@ -1,0 +1,282 @@
+
+Ánet.sourceforge.docfetcher.model.index.outlook.OutlookIndex#doUpdate(Lnet/sourceforge/docfetcher/model/index/IndexingReporter;Lnet/sourceforge/docfetcher/model/Cancelable;)Lnet/sourceforge/docfetcher/model/TreeIndex$IndexingResult;b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaW W("startingBlock*Í
+24b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javae e(2ı
+Ú
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaf f(A
+%6boolean"znet.sourceforge.docfetcher.model.UtilModel#isUnmodifiedArchive(Lnet/sourceforge/docfetcher/model/Folder;Ljava/lang/Long;)Z*.",
+*net.sourceforge.docfetcher.model.UtilModel*I
+G
+
+rootFolder9net.sourceforge.docfetcher.model.index.outlook.MailFolder*
+""*
+21
+22*ë
+13b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javao o(<†
+ù
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javao o(<
+%17"œnet.sourceforge.docfetcher.model.index.outlook.OutlookIndex#visitFolder(Lnet/sourceforge/docfetcher/model/index/outlook/OutlookContext;Lnet/sourceforge/docfetcher/model/index/outlook/MailFolder;LPSTFolder;)V*?"=
+;net.sourceforge.docfetcher.model.index.outlook.OutlookIndex*J
+H
+context=net.sourceforge.docfetcher.model.index.outlook.OutlookContext*I
+G
+
+rootFolder9net.sourceforge.docfetcher.model.index.outlook.MailFolder*
+""*
+12*Œ
+25b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javad d(*ù
+ö
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javad d(*
+rootFilejava.io.File"__id*
+
+%4java.io.FileΩ∫
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javae e(1
+
+%5long"java.io.File#lastModified()J*
+
+rootFilejava.io.File2lastModified()*
+24*ñ
+26b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javad d('•¢
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javad d()
+%4java.io.File"Onet.sourceforge.docfetcher.model.TreeIndex#getCanonicalRootFile()Ljava/io/File;*?=
+;net.sourceforge.docfetcher.model.index.outlook.OutlookIndex2getCanonicalRootFile()*
+25*⁄
+27b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaY Y(
+∞
+≠
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaY Y(2
+
+%0long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System£†
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaY Y(3
+
+%1void"Hnet.sourceforge.docfetcher.model.index.IndexingReporter#setStartTime(J)V*E
+C
+reporter7net.sourceforge.docfetcher.model.index.IndexingReporter*
+
+
+%0long2setStartTime(J)ﬂ‹
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaZ Z()?
+%29net.sourceforge.docfetcher.model.index.outlook.MailFolder"cnet.sourceforge.docfetcher.model.TreeIndex#getRootFolder()Lnet/sourceforge/docfetcher/model/Folder;*?=
+;net.sourceforge.docfetcher.model.index.outlook.OutlookIndex2getRootFolder()˘
+ˆ
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaZ Z(*G
+
+rootFolder9net.sourceforge.docfetcher.model.index.outlook.MailFolder"__id*A
+?
+%29net.sourceforge.docfetcher.model.index.outlook.MailFolderıÚ
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.java[ [(
+
+%3void"knet.sourceforge.docfetcher.model.TreeNode#setError(Lnet/sourceforge/docfetcher/model/index/IndexingError;)V*I
+G
+
+rootFolder9net.sourceforge.docfetcher.model.index.outlook.MailFolder*
+""2@setError(Lnet/sourceforge/docfetcher/model/index/IndexingError;)∫
+∑
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.java\ \(#C
+writer9net.sourceforge.docfetcher.model.index.IndexWriterAdapter"__id*
+""*
+26*ƒ
+16b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javak m(ˇ
+¸
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javak m(H
+context=net.sourceforge.docfetcher.model.index.outlook.OutlookContext"__id*F
+D
+%14=net.sourceforge.docfetcher.model.index.outlook.OutlookContext—Œ
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javan n(+
+%16java.lang.String"(java.io.File#getPath()Ljava/lang/String;*
+
+rootFilejava.io.File2	getPath()*
+13*√
+17b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javal l(ÏÈ
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javak  k(.D
+%14=net.sourceforge.docfetcher.model.index.outlook.OutlookContext"=net.sourceforge.docfetcher.model.index.outlook.OutlookContext„
+‡
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javak m(
+%15"ünet.sourceforge.docfetcher.model.index.outlook.OutlookContext#<init>(Lnet/sourceforge/docfetcher/model/index/IndexingConfig;Lnet/sourceforge/docfetcher/model/index/IndexWriterAdapter;Lnet/sourceforge/docfetcher/model/index/IndexingReporter;Lnet/sourceforge/docfetcher/model/Cancelable;)V*F
+D
+%14=net.sourceforge.docfetcher.model.index.outlook.OutlookContext*>
+<
+%135net.sourceforge.docfetcher.model.index.IndexingConfig*E
+C
+writer9net.sourceforge.docfetcher.model.index.IndexWriterAdapter*E
+C
+reporter7net.sourceforge.docfetcher.model.index.IndexingReporter*;
+9
+
+cancelable+net.sourceforge.docfetcher.model.Cancelable*
+16*Ã
+18b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaj j(2ˆ
+Û
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaj j(2C
+writer9net.sourceforge.docfetcher.model.index.IndexWriterAdapter"__id*B
+@
+%119net.sourceforge.docfetcher.model.index.IndexWriterAdapter‚ﬂ
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javal l(<
+%135net.sourceforge.docfetcher.model.index.IndexingConfig"mnet.sourceforge.docfetcher.model.TreeIndex#getConfig()Lnet/sourceforge/docfetcher/model/index/IndexingConfig;*?=
+;net.sourceforge.docfetcher.model.index.outlook.OutlookIndex2getConfig()*
+17*˚
+19b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaj j(2‰·
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaj j("@
+%119net.sourceforge.docfetcher.model.index.IndexWriterAdapter"9net.sourceforge.docfetcher.model.index.IndexWriterAdapter£
+†
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaj j(2
+%12"fnet.sourceforge.docfetcher.model.index.IndexWriterAdapter#<init>(Lorg/apache/lucene/store/Directory;)V*B
+@
+%119net.sourceforge.docfetcher.model.index.IndexWriterAdapter*
+
+%10*
+18*Î
+startingBlockb
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaW X((˙
+˜
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaW! W()
+%32"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*E
+C
+reporter7net.sourceforge.docfetcher.model.index.IndexingReporter√
+¿
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaW; W(CC
+reporter7net.sourceforge.docfetcher.model.index.IndexingReporter"__annotation*
+
+%32
+Ì
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaX	 X(
+%33"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*;
+9
+
+cancelable+net.sourceforge.docfetcher.model.Cancelableπ
+∂
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaX X('9
+
+cancelable+net.sourceforge.docfetcher.model.Cancelable"__annotation*
+
+%33*
+27*ì
+9b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaq {('ä
+á
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaq {('W=
+;net.sourceforge.docfetcher.model.index.outlook.OutlookIndex"
+simplifiedRootFolder"__id*B
+@
+%219net.sourceforge.docfetcher.model.index.outlook.MailFolder∑
+¥
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.java}
+ }(@
+%229net.sourceforge.docfetcher.model.TreeIndex$IndexingResult"__id*
+""∑
+¥
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.java}
+ }((@
+%239net.sourceforge.docfetcher.model.TreeIndex$IndexingResult"__id*
+"""®
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.java} }()B
+@
+%239net.sourceforge.docfetcher.model.TreeIndex$IndexingResult*é
+20b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaj# j(/ùö
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaj# j(1
+%10"\net.sourceforge.docfetcher.model.TreeIndex#getLuceneDir()Lorg/apache/lucene/store/Directory;*?=
+;net.sourceforge.docfetcher.model.index.outlook.OutlookIndex2getLuceneDir()*
+19*¶
+21b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javah h(µ≤
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javah h(.
+
+%9void"Jnet.sourceforge.docfetcher.model.Folder#setLastModified(Ljava/lang/Long;)V*I
+G
+
+rootFolder9net.sourceforge.docfetcher.model.index.outlook.MailFolder*
+""2!setLastModified(Ljava/lang/Long;)*
+20*Ã
+10b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaq {('‹Ÿ
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaq {('@
+%219net.sourceforge.docfetcher.model.index.outlook.MailFolder"ynet.sourceforge.docfetcher.model.index.outlook.TreeRootSimplifier#getSimplifiedRoot(Ljava/lang/Object;)Ljava/lang/Object;*K
+I
+%18BLnet/sourceforge/docfetcher/model/index/outlook/OutlookIndex$4028;*B
+@
+%209net.sourceforge.docfetcher.model.index.outlook.MailFolder2%getSimplifiedRoot(Ljava/lang/Object;)*
+9*Ñ
+22b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javag g(∂
+≥
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javag g(?
+%79net.sourceforge.docfetcher.model.TreeIndex$IndexingResult"__id*
+""∂
+≥
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javag g(+?
+%89net.sourceforge.docfetcher.model.TreeIndex$IndexingResult"__id*
+"""ß
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javag g(,A
+?
+%89net.sourceforge.docfetcher.model.TreeIndex$IndexingResult*—
+11b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.java{ {($‡›
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.java{ {(&@
+%209net.sourceforge.docfetcher.model.index.outlook.MailFolder"cnet.sourceforge.docfetcher.model.TreeIndex#getRootFolder()Lnet/sourceforge/docfetcher/model/Folder;*?=
+;net.sourceforge.docfetcher.model.index.outlook.OutlookIndex2getRootFolder()*
+10*Ú
+12b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaq {(ˆÛ
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaq q(<I
+%18BLnet/sourceforge/docfetcher/model/index/outlook/OutlookIndex$4028;"BLnet/sourceforge/docfetcher/model/index/outlook/OutlookIndex$4028;à
+Ö
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaq {(
+%19"Knet.sourceforge.docfetcher.model.index.outlook.TreeRootSimplifier#<init>()V*K
+I
+%18BLnet/sourceforge/docfetcher/model/index/outlook/OutlookIndex$4028;*
+11:C
+reporter7net.sourceforge.docfetcher.model.index.IndexingReporter:9
+
+cancelable+net.sourceforge.docfetcher.model.CancelableB?=
+;net.sourceforge.docfetcher.model.index.outlook.OutlookIndex

@@ -1,0 +1,47 @@
+
+Worg.apache.tika.language.LanguageProfilerBuilder$NGramEntry#equals(Ljava/lang/Object;)ZY
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¤ ¤("4*Ã
+2Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java© ©(-"c
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java© ©(-
+""*Ê
+3Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¨% ¨((Å
+Â
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¨ ¨((D
+ngram;org.apache.tika.language.LanguageProfilerBuilder$NGramEntry"__id*
+
+objjava.lang.ObjectÓ
+Ð
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java© ©( 
+%0java.lang.CharSequence"__id*O*M
+D
+ngram;org.apache.tika.language.LanguageProfilerBuilder$NGramEntry"
+seqÌ
+É
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java©( ©(+
+%1java.lang.CharSequence"__id*H*F=
+;org.apache.tika.language.LanguageProfilerBuilder$NGramEntry"
+seq÷ô
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java© ©(,
+%2boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.CharSequence*
+
+%1java.lang.CharSequence2equals(Ljava/lang/Object;)*
+2*˜
+4Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¦ ¦(#²
+¯
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¦ ¦($D
+ngram;org.apache.tika.language.LanguageProfilerBuilder$NGramEntry"__id*
+""*
+3:
+objjava.lang.ObjectB?=
+;org.apache.tika.language.LanguageProfilerBuilder$NGramEntry

@@ -1,0 +1,17 @@
+
+Ynull#getLabel(Lnet/sourceforge/docfetcher/model/search/ResultDocument;)Ljava/lang/String;S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaê ê("1*‚
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaë ë(ñì
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaë ë(
+%0java.lang.String"Snet.sourceforge.docfetcher.model.search.ResultDocument#getTitle()Ljava/lang/String;*C
+A
+element6net.sourceforge.docfetcher.model.search.ResultDocument2
+getTitle()"o
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaë ë(
+
+%0java.lang.String:A
+element6net.sourceforge.docfetcher.model.search.ResultDocumentB53
+1Lnet/sourceforge/docfetcher/gui/ResultPanel$5492;

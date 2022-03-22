@@ -1,0 +1,65 @@
+
+Lnet.sourceforge.docfetcher.util.Util#contains(Ljava/io/File;Ljava/io/File;)ZM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java⁄ ⁄("startingBlock*€
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java⁄ €(!¥
+±
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java⁄! ⁄()
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+dirjava.io.File|
+z
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java⁄/ ⁄(2
+dirjava.io.File"__annotation*
+
+%3∫
+∑
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java€	 €(
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+	fileOrDirjava.io.FileÉ
+Ä
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java€ €( 
+	fileOrDirjava.io.File"__annotation*
+
+%4*
+1*À
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java‹	 ‹(˛
+˚
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java‹ ‹(!
+%0java.lang.String"Qnet.sourceforge.docfetcher.util.Util#getAbsPath(Ljava/io/File;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+dirjava.io.FileÑ
+Å
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java‹# ‹(8
+%1java.lang.String"Qnet.sourceforge.docfetcher.util.Util#getAbsPath(Ljava/io/File;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+	fileOrDirjava.io.Fileï
+í
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java‹	 ‹(9
+%2boolean"Tnet.sourceforge.docfetcher.util.Util#contains(Ljava/lang/String;Ljava/lang/String;)Z*("&
+$net.sourceforge.docfetcher.util.Util*
+
+%0java.lang.String*
+
+%1java.lang.String"W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java‹ ‹(:
+"":
+dirjava.io.File:
+	fileOrDirjava.io.FileB("&
+$net.sourceforge.docfetcher.util.Util

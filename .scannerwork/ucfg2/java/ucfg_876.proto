@@ -1,0 +1,20 @@
+
+4org.apache.tika.io.ProxyInputStream#markSupported()ZL
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java³ ³( "1*†
+1L
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java´ ´(£
+ 
+L
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java´ ´(
+%0java.io.InputStream"__id*/*-%
+#org.apache.tika.io.ProxyInputStream"
+in´±
+L
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java´ ´(!
+%1boolean"$java.io.InputStream#markSupported()Z*
+
+%0java.io.InputStream2markSupported()"V
+L
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java´ ´("
+""B'%
+#org.apache.tika.io.ProxyInputStream

@@ -1,0 +1,57 @@
+
+Rnet.sourceforge.docfetcher.util.Util#notNull(Ljava/lang/String;)Ljava/lang/String;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java½ ½("startingBlock*è
+2M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¾ ¾(%Ž
+‹
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¾ ¾(%
+%0java.lang.String"__id*
+
+stringjava.lang.String*
+1*ä
+3M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¾ ¾(Š
+‡
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¾ ¾(
+%0java.lang.String"__id*
+
+%1java.lang.String*
+1*ò
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java½ ½(6»
+¸
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¼ ¼(	
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+stringjava.lang.String¼
+¹
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java½ ½('
+%3"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+stringjava.lang.StringŒ
+‰
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java½/ ½(5
+stringjava.lang.String"__annotation*
+
+%2*
+
+%3*
+2
+3*½
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¾ ¾(&"i
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¾ ¾(&
+
+%0java.lang.String:
+stringjava.lang.StringB("&
+$net.sourceforge.docfetcher.util.Util

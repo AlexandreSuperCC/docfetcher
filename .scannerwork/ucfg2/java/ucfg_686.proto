@@ -1,0 +1,35 @@
+
+]org.apache.tika.mime.Patterns$LengthComparator#compare(Ljava/lang/String;Ljava/lang/String;)ID
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaC C("3*ß
+2D
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaF F(÷”
+D
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaF F(%	
+%2int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+ajava.lang.String*
+
+bjava.lang.String2compareTo(Ljava/lang/String;)*
+1*˝
+3D
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaD D(ìê
+D
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaD D(!	
+%0int"java.lang.String#length()I*
+
+bjava.lang.String2length()ìê
+D
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaD$ D(.	
+%1int"java.lang.String#length()I*
+
+ajava.lang.String2length()*
+2
+1*ô
+1D
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaH H("N
+D
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaH H(
+"":
+ajava.lang.String:
+bjava.lang.StringB20
+.org.apache.tika.mime.Patterns$LengthComparator

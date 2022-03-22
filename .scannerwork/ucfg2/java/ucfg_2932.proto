@@ -1,0 +1,61 @@
+
+Wnet.sourceforge.docfetcher.UtilGlobal#convert(Ljava/lang/Iterable;)Ljava/lang/Iterable;L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java (&"startingBlock*Ò
+2L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java
+ (µ
+≤
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java
+ (!
+%0java.util.List"1java.util.Collections#emptyList()Ljava/util/List;*"
+java.util.Collections"f
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java ("
+
+%0java.util.List*˙
+startingBlockL
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java& (Væ
+ª
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java (	
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull* 
+
+iterablejava.lang.Iterableø
+º
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java' (0
+%4"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable* 
+
+iterablejava.lang.Iterableè
+å
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaM (U
+iterablejava.lang.Iterable"__annotation*
+
+%3*
+
+%4*
+2
+1*•
+1L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java 	 4(©¶
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java   (-
+%1'net.sourceforge.docfetcher.UtilGlobal$1"'net.sourceforge.docfetcher.UtilGlobal$1§
+°
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java 	 4(
+%2"java.lang.Object#<init>()V*/
+-
+%1'net.sourceforge.docfetcher.UtilGlobal$1"
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java  4(/
+-
+%1'net.sourceforge.docfetcher.UtilGlobal$1:
+iterablejava.lang.IterableB)"'
+%net.sourceforge.docfetcher.UtilGlobal

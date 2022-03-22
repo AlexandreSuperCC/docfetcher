@@ -1,0 +1,44 @@
+
+ƒnet.sourceforge.docfetcher.model.parse.ParseResult#setTitle(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java9 9("startingBlock*œ
+startingBlockY
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java9 9(4Æ
+Ã
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java8 8(	
+%0"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+titlejava.lang.StringÇ
+Ä
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java9 9(&
+%1"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+titlejava.lang.String—
+”
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java9. 9(3
+titlejava.lang.String"__annotation*
+
+%0*
+
+%1*
+1*¹
+1Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java: :(Â
+¿
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java: :(?4
+2net.sourceforge.docfetcher.model.parse.ParseResult"
+title"__id*
+
+titlejava.lang.String"“
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java; ;(64
+2net.sourceforge.docfetcher.model.parse.ParseResult:
+titlejava.lang.StringB64
+2net.sourceforge.docfetcher.model.parse.ParseResult

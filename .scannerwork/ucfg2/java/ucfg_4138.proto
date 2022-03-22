@@ -1,0 +1,109 @@
+
+gorg.apache.tika.parser.CompositeParser#getParsers(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Map;M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java\" \(,"7*ê
+2M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java^ ^(â
+Ü
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java^ ^('
+parserorg.apache.tika.parser.Parser"__id*
+""ß
+§
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java^ ^('
+parserorg.apache.tika.parser.Parser"
+__arrayGet*
+
+%2java.util.List*
+""*
+5
+1*ç
+3M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java_ _(à
+Ö
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java_ _(&
+typeorg.apache.tika.mime.MediaType"__id*
+""•
+¢
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java_ _(&
+typeorg.apache.tika.mime.MediaType"
+__arrayGet*
+
+%3java.util.Set*
+""*
+2
+4*ˇ
+4M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java` `(¿
+Ω
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java` `( ,
+%4&org.apache.tika.mime.MediaTypeRegistry"__id*8*6(
+&org.apache.tika.parser.CompositeParser"
+
+registryÛ
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java` `(0$
+%5org.apache.tika.mime.MediaType"rorg.apache.tika.mime.MediaTypeRegistry#normalize(Lorg/apache/tika/mime/MediaType;)Lorg/apache/tika/mime/MediaType;*.
+,
+%4&org.apache.tika.mime.MediaTypeRegistry*(
+&
+typeorg.apache.tika.mime.MediaType2+normalize(Lorg/apache/tika/mime/MediaType;)Ï
+È
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java` `(9#
+%6org.apache.tika.parser.Parser"__mapSet*
+
+mapjava.util.Map*&
+$
+%5org.apache.tika.mime.MediaType*)
+'
+parserorg.apache.tika.parser.Parser*
+3*ø
+5M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java_" _((Â‚
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java_" _(C
+%3java.util.Set"eorg.apache.tika.parser.Parser#getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Set;*)
+'
+parserorg.apache.tika.parser.Parser*0
+.
+context#org.apache.tika.parser.ParseContext28getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)*
+3*Å
+6M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java^ ^($ß
+§
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java^ ^($
+%2java.util.List"__id*7*5(
+&org.apache.tika.parser.CompositeParser"	
+parsers*
+2*ı
+7M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java]% ](E}{
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java]) ](C
+%0java.util.HashMap"java.util.HashMapê
+ç
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java]% ](E
+%1"java.util.HashMap#<init>()V*
+
+%0java.util.HashMapâ
+Ü
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java] ](F
+mapjava.util.Map"__id*
+
+%0java.util.HashMap*
+6*ª
+1M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javac c("g
+M
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javac c(
+
+mapjava.util.Map:.
+context#org.apache.tika.parser.ParseContextB*(
+&org.apache.tika.parser.CompositeParser

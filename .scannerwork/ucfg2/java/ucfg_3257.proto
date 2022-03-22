@@ -1,0 +1,42 @@
+
+^org.apache.tika.language.LanguageProfile#distance(Lorg/apache/tika/language/LanguageProfile;)DQ
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.javaŠ Š("2"3*‡
+2Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java‹< ‹(L®
+«
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java‹< ‹(R
+%2double"forg.apache.tika.language.LanguageProfile#distanceStandard(Lorg/apache/tika/language/LanguageProfile;)D*,*
+(org.apache.tika.language.LanguageProfile*2
+0
+that(org.apache.tika.language.LanguageProfiley
+w
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java‹< ‹(R
+%0double"__id*
+
+%2double*
+1*Š
+3Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java‹  ‹(3±
+®
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java‹  ‹(9
+%1double"iorg.apache.tika.language.LanguageProfile#distanceInterleaved(Lorg/apache/tika/language/LanguageProfile;)D*,*
+(org.apache.tika.language.LanguageProfile*2
+0
+that(org.apache.tika.language.LanguageProfiley
+w
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java‹  ‹(9
+%0double"__id*
+
+%1double*
+1*³
+1Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java‹ ‹(S"[
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java‹ ‹(S
+"":0
+that(org.apache.tika.language.LanguageProfileB,*
+(org.apache.tika.language.LanguageProfile

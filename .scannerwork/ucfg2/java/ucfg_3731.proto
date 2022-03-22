@@ -1,0 +1,49 @@
+
+°net.sourceforge.docfetcher.model.index.outlook.OutlookIndex#createRootFolder(Lnet/sourceforge/docfetcher/model/Path;)Lnet/sourceforge/docfetcher/model/index/outlook/MailFolder;b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaK K(&"startingBlock*û
+startingBlockb
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaK& K(:ã
+à
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaJ J(	
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*/
+-
+path%net.sourceforge.docfetcher.model.Pathã
+à
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaK' K(/
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*/
+-
+path%net.sourceforge.docfetcher.model.Path´
+±
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaK5 K(9-
+path%net.sourceforge.docfetcher.model.Path"__annotation*
+
+%2*
+
+%3*
+1*Ç
+1b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaL L(ãà
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaL L(?
+%09net.sourceforge.docfetcher.model.index.outlook.MailFolder"9net.sourceforge.docfetcher.model.index.outlook.MailFolderÍ
+Ê
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaL	 L(
+%1"jnet.sourceforge.docfetcher.model.index.outlook.MailFolder#<init>(Lnet/sourceforge/docfetcher/model/Path;)V*A
+?
+%09net.sourceforge.docfetcher.model.index.outlook.MailFolder*/
+-
+path%net.sourceforge.docfetcher.model.Path"§
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javaL L(A
+?
+%09net.sourceforge.docfetcher.model.index.outlook.MailFolder:-
+path%net.sourceforge.docfetcher.model.PathB?=
+;net.sourceforge.docfetcher.model.index.outlook.OutlookIndex

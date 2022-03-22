@@ -1,0 +1,58 @@
+
+porg.apache.tika.parser.ParserDecorator$2#getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Set;M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaR" R(3"startingBlock*¯
+startingBlockM
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaR3 R(I®
+«
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaQ Q(
+%4"
+__annotate*
+java.lang.Override*0
+.
+context#org.apache.tika.parser.ParseContext˜
+•
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaRA R(H.
+context#org.apache.tika.parser.ParseContext"__annotation*
+
+%4*
+1*‹	
+1M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaU/ U(4‘
+Ž
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaU/ U(O
+%0java.util.Set"norg.apache.tika.parser.ParserDecorator#getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Set;*
+""*0
+.
+context#org.apache.tika.parser.ParseContext}{
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaU U(.
+%1java.util.HashSet"java.util.HashSet½
+º
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaU U(P
+%2"1java.util.HashSet#<init>(Ljava/util/Collection;)V*
+
+%1java.util.HashSet*
+
+%0java.util.Set‘
+Ž
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaT U(Q
+parserTypesjava.util.Set"__id*
+
+%1java.util.HashSetÞÛ
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaW W(3
+%3boolean"0java.util.Set#removeAll(Ljava/util/Collection;)Z*
+
+parserTypesjava.util.Set*
+""2!removeAll(Ljava/util/Collection;)"o
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaY Y(#
+
+parserTypesjava.util.Set:.
+context#org.apache.tika.parser.ParseContextB,*
+(org.apache.tika.parser.ParserDecorator$2

@@ -1,0 +1,44 @@
+
+Ånet.sourceforge.docfetcher.util.gui.ToolItemFactory#text(Ljava/lang/String;)Lnet/sourceforge/docfetcher/util/gui/ToolItemFactory;Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/ToolItemFactory.javaQ Q("startingBlock*ù
+startingBlockZ
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/ToolItemFactory.javaQ Q(3∆
+√
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/ToolItemFactory.javaP P(	
+%0"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+textjava.lang.String«
+ƒ
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/ToolItemFactory.javaQ Q(&
+%1"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+textjava.lang.Stringó
+î
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/ToolItemFactory.javaQ. Q(2
+textjava.lang.String"__annotation*
+
+%0*
+
+%1*
+1*º
+1Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/ToolItemFactory.javaR R(¬
+ø
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/ToolItemFactory.javaR R(?5
+3net.sourceforge.docfetcher.util.gui.ToolItemFactory"
+text"__id*
+
+textjava.lang.String"ï
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/ToolItemFactory.javaS S(75
+3net.sourceforge.docfetcher.util.gui.ToolItemFactory:
+textjava.lang.StringB75
+3net.sourceforge.docfetcher.util.gui.ToolItemFactory

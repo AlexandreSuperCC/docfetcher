@@ -1,0 +1,32 @@
+
+null#compare(Lnet/sourceforge/docfetcher/model/search/ResultDocument;Lnet/sourceforge/docfetcher/model/search/ResultDocument;)IS
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java¡ ¡("1*Ö
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java¢ ¢(óð
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java¢ ¢(+	
+%0int"Bnet.sourceforge.docfetcher.model.search.ResultDocument#getScore()I*>
+<
+e16net.sourceforge.docfetcher.model.search.ResultDocument2
+getScore()óð
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java¢- ¢(:	
+%1int"Bnet.sourceforge.docfetcher.model.search.ResultDocument#getScore()I*>
+<
+e26net.sourceforge.docfetcher.model.search.ResultDocument2
+getScore()°
+­
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java¢ ¢(;	
+%2int"java.lang.Float#compare(FF)I*"
+java.lang.Float*
+	
+%0int*
+	
+%1int"]
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java¢ ¢(<
+"":<
+e16net.sourceforge.docfetcher.model.search.ResultDocument:<
+e26net.sourceforge.docfetcher.model.search.ResultDocumentB53
+1Lnet/sourceforge/docfetcher/gui/ResultPanel$6016;

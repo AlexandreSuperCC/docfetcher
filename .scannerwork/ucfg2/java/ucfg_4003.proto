@@ -1,0 +1,54 @@
+
+mnet.sourceforge.docfetcher.model.search.ResultDocument#getParentPath()Lnet/sourceforge/docfetcher/model/Path;_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java¥ ¥("3*°
+
+2_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java∂ ∂(¡æ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java∂ ∂(+
+%1%net.sourceforge.docfetcher.model.Path"gnet.sourceforge.docfetcher.model.search.ResultDocument#getPath()Lnet/sourceforge/docfetcher/model/Path;*:8
+6net.sourceforge.docfetcher.model.search.ResultDocument2	getPath()—Œ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java∂ ∂(05
+%2/net.sourceforge.docfetcher.model.Path$PathParts"mnet.sourceforge.docfetcher.model.Path#splitAtLastSeparator()Lnet/sourceforge/docfetcher/model/Path$PathParts;*-
++
+%1%net.sourceforge.docfetcher.model.Path2splitAtLastSeparator()∑¥
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java∂ ∂(:+
+%3%net.sourceforge.docfetcher.model.Path"`net.sourceforge.docfetcher.model.Path$PathParts#getLeft()Lnet/sourceforge/docfetcher/model/Path;*7
+5
+%2/net.sourceforge.docfetcher.model.Path$PathParts2	getLeft()„
+‡
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java∂ ∂(:H8
+6net.sourceforge.docfetcher.model.search.ResultDocument"
+
+parentPath"__id*-
++
+%3%net.sourceforge.docfetcher.model.Path*
+1*“
+3_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaµ µ(„
+‡
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaµ µ(+
+%0%net.sourceforge.docfetcher.model.Path"__id*J*H8
+6net.sourceforge.docfetcher.model.search.ResultDocument"
+
+parentPath*
+2
+1*›
+1_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java∑	 ∑(„
+‡
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java∑	 ∑(+
+%4%net.sourceforge.docfetcher.model.Path"__id*J*H8
+6net.sourceforge.docfetcher.model.search.ResultDocument"
+
+parentPath"ê
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java∑ ∑(-
++
+%4%net.sourceforge.docfetcher.model.PathB:8
+6net.sourceforge.docfetcher.model.search.ResultDocument

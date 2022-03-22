@@ -1,0 +1,44 @@
+
+[org.apache.tika.language.detect.LanguageNames#equals(Ljava/lang/String;Ljava/lang/String;)ZT
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.javaD D("1*È	
+1T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.javaE E(ò
+ï
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.javaE E(6
+%0java.util.Locale"Ejava.util.Locale#forLanguageTag(Ljava/lang/String;)Ljava/util/Locale;*"
+java.util.Locale*"
+ 
+languageTagAjava.lang.String–
+“
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.javaE E(7
+localeAjava.util.Locale"__id*
+
+%0java.util.Localeò
+ï
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.javaF F(6
+%1java.util.Locale"Ejava.util.Locale#forLanguageTag(Ljava/lang/String;)Ljava/util/Locale;*"
+java.util.Locale*"
+ 
+languageTagBjava.lang.String–
+“
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.javaF F(7
+localeBjava.util.Locale"__id*
+
+%1java.util.Localeðí
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.javaT	 T( 
+%2boolean",java.util.Locale#equals(Ljava/lang/Object;)Z*
+
+localeAjava.util.Locale*
+
+localeBjava.util.Locale2equals(Ljava/lang/Object;)"^
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.javaT T(!
+"": 
+languageTagAjava.lang.String: 
+languageTagBjava.lang.StringB1"/
+-org.apache.tika.language.detect.LanguageNames

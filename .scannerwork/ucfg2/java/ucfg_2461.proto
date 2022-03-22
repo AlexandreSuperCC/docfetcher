@@ -1,0 +1,17 @@
+
+Sorg.apache.tika.Tika#getTranslator()Lorg/apache/tika/language/translate/Translator;=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÊ Ê(#"1*ä
+1=
+1D:/git_project/code/src/org/apache/tika/Tika.javaË Ë(§
+¤
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaË Ë(3
+%0-org.apache.tika.language.translate.Translator"__id*(*&
+org.apache.tika.Tika"
+
+translator"v
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaË Ë(5
+3
+%0-org.apache.tika.language.translate.TranslatorB
+org.apache.tika.Tika

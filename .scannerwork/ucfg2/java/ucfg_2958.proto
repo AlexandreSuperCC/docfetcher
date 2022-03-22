@@ -1,0 +1,122 @@
+
+ånet.sourceforge.docfetcher.gui.indexing.ProgressReporter#getMessage(Lnet/sourceforge/docfetcher/model/index/IndexingInfo;)Ljava/lang/String;a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaÑ Ñ("startingBlock*´
+2a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaä ä(ìê
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaä ä(&
+%6java.lang.String"Lnet.sourceforge.docfetcher.model.TreeNode#getDisplayName()Ljava/lang/String;*3
+1
+node)net.sourceforge.docfetcher.model.TreeNode2getDisplayName()ß
+§
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaä ä(&
+displayNamejava.lang.String"__id*
+
+%6java.lang.String*
+1*≈
+3a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaà à(Ø¨
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaà à(+
+%4%net.sourceforge.docfetcher.model.Path"Znet.sourceforge.docfetcher.model.TreeNode#getPath()Lnet/sourceforge/docfetcher/model/Path;*3
+1
+node)net.sourceforge.docfetcher.model.TreeNode2	getPath()˚¯
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaà à()
+%5java.lang.String"Anet.sourceforge.docfetcher.model.Path#getPath()Ljava/lang/String;*-
++
+%4%net.sourceforge.docfetcher.model.Path2	getPath()ß
+§
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaà à()
+displayNamejava.lang.String"__id*
+
+%5java.lang.String*
+1*£
+startingBlocka
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaÑ Ñ(6
+Ì
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaÉ É(	
+%9"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*=
+;
+info3net.sourceforge.docfetcher.model.index.IndexingInfoÒ
+Ó
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaÑ Ñ(#
+%10"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*=
+;
+info3net.sourceforge.docfetcher.model.index.IndexingInfo¬
+ø
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaÑ1 Ñ(5;
+info3net.sourceforge.docfetcher.model.index.IndexingInfo"__annotation*
+
+%9*
+
+%10*
+4*Ö
+4a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaÖ Ö(”–
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaÖ Ö($/
+%0)net.sourceforge.docfetcher.model.TreeNode"lnet.sourceforge.docfetcher.model.index.IndexingInfo#getTreeNode()Lnet/sourceforge/docfetcher/model/TreeNode;*=
+;
+info3net.sourceforge.docfetcher.model.index.IndexingInfo2getTreeNode()“
+œ
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaÖ Ö(%1
+node)net.sourceforge.docfetcher.model.TreeNode"__id*1
+/
+%0)net.sourceforge.docfetcher.model.TreeNodeï
+í
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaÜ Ü(
+displayNamejava.lang.String"__id*
+""≠
+™
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaá á(7
+%11net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""≠
+™
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaá á(.7
+%21net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""ÒÓ
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaá á(4
+%3boolean"8net.sourceforge.docfetcher.enums.ProgramConf$Bool#get()Z*9
+7
+%21net.sourceforge.docfetcher.enums.ProgramConf$Bool2get()*
+2
+3*é
+1a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaå	 å(ˇ¸
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaå# å(3	
+%7int"@net.sourceforge.docfetcher.model.index.IndexingInfo#getNumber()I*=
+;
+info3net.sourceforge.docfetcher.model.index.IndexingInfo2getNumber()§
+°
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaå	 å(A
+%8java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*
+
+%,d\t %s*
+	
+%7int*!
+
+displayNamejava.lang.String"}
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ProgressReporter.javaå å(B
+
+%8java.lang.String:;
+info3net.sourceforge.docfetcher.model.index.IndexingInfoB<:
+8net.sourceforge.docfetcher.gui.indexing.ProgressReporter

@@ -1,0 +1,42 @@
+
+Korg.apache.tika.io.IOUtils#readLines(Ljava/io/InputStream;)Ljava/util/List;C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaπ π(("1*∏
+1C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java∫9 ∫(>u
+s
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java∫@ ∫(E
+%0java.nio.charset.Charset"__id*
+""ÑÅ
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java∫' ∫(8
+%1java.io.InputStreamReader"java.io.InputStreamReaderá
+Ñ
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java∫# ∫(F
+%2"Rjava.io.InputStreamReader#<init>(Ljava/io/InputStream;Ljava/nio/charset/Charset;)V*!
+
+%1java.io.InputStreamReader*
+
+inputjava.io.InputStream* 
+
+%0java.nio.charset.Charsetñ
+ì
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java∫ ∫(G#
+readerjava.io.InputStreamReader"__id*!
+
+%1java.io.InputStreamReaderÌ
+Í
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaª ª( 
+%3java.util.List"Forg.apache.tika.io.IOUtils#readLines(Ljava/io/Reader;)Ljava/util/List;*"
+org.apache.tika.io.IOUtils*%
+#
+readerjava.io.InputStreamReader"]
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaª ª(!
+
+%3java.util.List:
+inputjava.io.InputStreamB"
+org.apache.tika.io.IOUtils

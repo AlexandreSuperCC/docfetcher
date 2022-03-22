@@ -1,0 +1,42 @@
+
+knet.sourceforge.docfetcher.model.index.Task#getDeletion()Lnet/sourceforge/docfetcher/model/PendingDeletion;T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java¨ ¨("3*≈
+2T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javaØ
+ Ø(÷
+”
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javaØ
+ Ø(6
+%30net.sourceforge.docfetcher.model.PendingDeletion"__id*=*;-
++net.sourceforge.docfetcher.model.index.Task"
+
+deletion"ê
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javaØ Ø(8
+6
+%30net.sourceforge.docfetcher.model.PendingDeletion*œ
+3T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java≠ ≠(◊
+‘
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java≠ ≠(:
+%04net.sourceforge.docfetcher.model.index.IndexingQueue"__id*:*8-
++net.sourceforge.docfetcher.model.index.Task"
+queue“
+œ
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java≠ ≠(%
+%1java.util.concurrent.locks.Lock"__id*J*H
+:
+%04net.sourceforge.docfetcher.model.index.IndexingQueue"
+
+readLockøº
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java≠ ≠(
+
+%2void"'java.util.concurrent.locks.Lock#lock()V*'
+%
+%1java.util.concurrent.locks.Lock2lock()*
+2B/-
++net.sourceforge.docfetcher.model.index.Task

@@ -1,0 +1,93 @@
+
+Ðorg.apache.tika.parser.odf.OpenDocumentMetaParser#getStatistic(Lorg/xml/sax/ContentHandler;Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;Ljava/lang/String;)Lorg/xml/sax/ContentHandler;X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javai" i(."1*’
+1X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javal l(˜
+•
+X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javal l(+
+%0%org.apache.tika.sax.xpath.XPathParser"__id*
+""Æ
+Ã
+X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javal! l(O
+%1java.lang.String"__concat*$"
+ //meta:document-statistic/@meta:*
+
+	attributejava.lang.StringÎË
+X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javal l(P'
+%2!org.apache.tika.sax.xpath.Matcher"borg.apache.tika.sax.xpath.XPathParser#parse(Ljava/lang/String;)Lorg/apache/tika/sax/xpath/Matcher;*-
++
+%0%org.apache.tika.sax.xpath.XPathParser*
+
+%1java.lang.String2parse(Ljava/lang/String;)¼
+¹
+X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javak l(Q,
+matcher!org.apache.tika.sax.xpath.Matcher"__id*)
+'
+%2!org.apache.tika.sax.xpath.Matcherƒ
+€
+X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javan- n(4
+%3java.lang.String"__id*
+""ÍÊ
+X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javan n(,9
+%43org.apache.tika.parser.xml.AttributeMetadataHandler"3org.apache.tika.parser.xml.AttributeMetadataHandlerá
+Þ
+X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javan n(N
+%5"§org.apache.tika.parser.xml.AttributeMetadataHandler#<init>(Ljava/lang/String;Ljava/lang/String;Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;)V*;
+9
+%43org.apache.tika.parser.xml.AttributeMetadataHandler*
+
+%3java.lang.String*
+
+	attributejava.lang.String*)
+'
+md!org.apache.tika.metadata.Metadata*/
+-
+property!org.apache.tika.metadata.PropertyÇÄ
+X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javam$ m(:6
+%60org.apache.tika.sax.xpath.MatchingContentHandler"0org.apache.tika.sax.xpath.MatchingContentHandler…
+‚
+X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javam  n(X
+%7"yorg.apache.tika.sax.xpath.MatchingContentHandler#<init>(Lorg/xml/sax/ContentHandler;Lorg/apache/tika/sax/xpath/Matcher;)V*8
+6
+%60org.apache.tika.sax.xpath.MatchingContentHandler*;
+9
+%43org.apache.tika.parser.xml.AttributeMetadataHandler*.
+,
+matcher!org.apache.tika.sax.xpath.MatcherÃ
+À
+X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javam n(Y$
+branchorg.xml.sax.ContentHandler"__id*8
+6
+%60org.apache.tika.sax.xpath.MatchingContentHandler±®
+X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javao o($+
+%8%org.apache.tika.sax.TeeContentHandler"%org.apache.tika.sax.TeeContentHandler¬
+©
+X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javao o(0
+%9"Lorg.apache.tika.sax.TeeContentHandler#<init>([Lorg/xml/sax/ContentHandler;)V*-
++
+%8%org.apache.tika.sax.TeeContentHandler*"
+ 
+chorg.xml.sax.ContentHandler*&
+$
+branchorg.xml.sax.ContentHandler"‰
+X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javao o(1-
++
+%8%org.apache.tika.sax.TeeContentHandler: 
+chorg.xml.sax.ContentHandler:'
+md!org.apache.tika.metadata.Metadata:-
+property!org.apache.tika.metadata.Property:
+	attributejava.lang.StringB5"3
+1org.apache.tika.parser.odf.OpenDocumentMetaParser

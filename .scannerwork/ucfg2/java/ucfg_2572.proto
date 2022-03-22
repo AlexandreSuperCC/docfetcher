@@ -1,0 +1,86 @@
+
+Nnet.sourceforge.docfetcher.model.DocumentType#isEmailType(Ljava/lang/String;)ZT
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java/ /(""startingBlock*Â
+2T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java1 1(û
+õ
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java1 1(5
+type-net.sourceforge.docfetcher.model.DocumentType"__id*
+""›
+⁄
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java1 1(5
+type-net.sourceforge.docfetcher.model.DocumentType"
+__arrayGet*7
+5
+%1/net.sourceforge.docfetcher.model.DocumentType[]*
+""*	
+2
+4
+1*π
+3T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java3 3("^
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java3 3(
+""*∑
+startingBlockT
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java/" /(7ø
+º
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java/# /(+
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+uidjava.lang.Stringà
+Ö
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java/3 /(6
+uidjava.lang.String"__annotation*
+
+%4*
+7*í
+4T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java2 2(º
+π
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java2& 2(1
+%2java.lang.String"__id*C*A
+5
+type-net.sourceforge.docfetcher.model.DocumentType"
+prefixÔÏ
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java2 2(2
+%3boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+uidjava.lang.String*
+
+%2java.lang.String2startsWith(Ljava/lang/String;)*
+2
+3*å
+6T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java1 1(!´
+®
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java1 1(#5
+%1/net.sourceforge.docfetcher.model.DocumentType[]"fnet.sourceforge.docfetcher.model.DocumentType#values()[Lnet/sourceforge/docfetcher/model/DocumentType;*1"/
+-net.sourceforge.docfetcher.model.DocumentType*
+2*
+7T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java0 0(è
+å
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java0 0(
+%0java.lang.String"Wnet.sourceforge.docfetcher.util.Util#checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+uidjava.lang.String*
+6*π
+1T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java4	 4("^
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java4 4(
+"":
+uidjava.lang.StringB1"/
+-net.sourceforge.docfetcher.model.DocumentType

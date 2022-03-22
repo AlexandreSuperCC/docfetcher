@@ -1,0 +1,41 @@
+
+:org.apache.tika.io.IOUtils#toByteArray(Ljava/io/Reader;)[BC
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaÿ ÿ($"1*π
+1C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaŸ' Ÿ(Båâ
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaŸ+ Ÿ(@#
+%0java.io.ByteArrayOutputStream"java.io.ByteArrayOutputStreamû
+õ
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaŸ' Ÿ(B
+%1"'java.io.ByteArrayOutputStream#<init>()V*%
+#
+%0java.io.ByteArrayOutputStreamû
+õ
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaŸ Ÿ(C'
+outputjava.io.ByteArrayOutputStream"__id*%
+#
+%0java.io.ByteArrayOutputStreamÑ
+Å
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java⁄ ⁄(
+
+%2void"Horg.apache.tika.io.IOUtils#copy(Ljava/io/Reader;Ljava/io/OutputStream;)V*"
+org.apache.tika.io.IOUtils*
+
+inputjava.io.Reader*)
+'
+outputjava.io.ByteArrayOutputStreamøº
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java€ €(#
+%3byte[]"-java.io.ByteArrayOutputStream#toByteArray()[B*)
+'
+outputjava.io.ByteArrayOutputStream2toByteArray()"U
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java€ €($
+
+%3byte[]:
+inputjava.io.ReaderB"
+org.apache.tika.io.IOUtils

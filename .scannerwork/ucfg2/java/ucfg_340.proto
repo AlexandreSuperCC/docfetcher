@@ -1,0 +1,71 @@
+
+null#isEnabled()ZS
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÄ Ä("7*œ
+2S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÑ	 Ñ(•
+¢
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÑ	 Ñ(=
+doc6net.sourceforge.docfetcher.model.search.ResultDocument"__id*
+""ƒ
+¡
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÑ	 Ñ(=
+doc6net.sourceforge.docfetcher.model.search.ResultDocument"
+__arrayGet*
+
+seljava.util.List*
+""*
+4
+1*∑
+3S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÜ Ü("]
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÜ Ü(
+""*Ÿ
+4S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÖ	 Ö(ˆÛ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÖ	 Ö(
+%3boolean"Anet.sourceforge.docfetcher.model.search.ResultDocument#isEmail()Z*?
+=
+doc6net.sourceforge.docfetcher.model.search.ResultDocument2	isEmail()*
+2
+3*∑
+6S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÉ É("]
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÉ É(
+""*®
+7S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÅ Å(%Ê
+„
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÅ Å(%C
+%0=net.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer"__id*A*?3
+1Lnet/sourceforge/docfetcher/gui/ResultPanel$9452;"
+viewer£†
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÅ Å(4
+%1java.util.List"\net.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer#getSelection()Ljava/util/List;*E
+C
+%0=net.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer2getSelection()ç
+ä
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÅ Å(5
+seljava.util.List"__id*
+
+%1java.util.List¶£
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÇ Ç(
+%2boolean"java.util.List#isEmpty()Z*
+
+seljava.util.List2	isEmpty()*
+2
+6*∑
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaá á("]
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaá á(
+""B53
+1Lnet/sourceforge/docfetcher/gui/ResultPanel$9452;

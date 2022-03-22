@@ -1,0 +1,24 @@
+
+bnet.sourceforge.docfetcher.model.index.outlook.OutlookMailResource#getRecipients()Ljava/util/List;i
+_D:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookMailResource.javae e(""1*›
+1i
+_D:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookMailResource.javaf	 f(‚
+ﬂ
+i
+_D:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookMailResource.javaf& f(0
+%0java.util.List"__id*V*TD
+Bnet.sourceforge.docfetcher.model.index.outlook.OutlookMailResource"
+
+recipientsÅ
+˛
+i
+_D:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookMailResource.javaf	 f(1
+%1java.util.List"Hjava.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;*"
+java.util.Collections*
+
+%0java.util.List"É
+i
+_D:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookMailResource.javaf f(2
+
+%1java.util.ListBFD
+Bnet.sourceforge.docfetcher.model.index.outlook.OutlookMailResource

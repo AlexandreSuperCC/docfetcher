@@ -1,0 +1,154 @@
+
+eorg.apache.tika.parser.DefaultParser#getParsers(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Map;K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.javaV" V(,"startingBlock*
+2K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java_ _(‡
+„
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java_ _('
+parserorg.apache.tika.parser.Parser"__id*
+""ª
+§
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java_ _('
+parserorg.apache.tika.parser.Parser"
+__arrayGet*
+
+parsersjava.util.List*
+""*
+5
+1*‡
+3K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java` `(#†
+ƒ
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java` `(#&
+typeorg.apache.tika.mime.MediaType"__id*
+""£
+ 
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java` `(#&
+typeorg.apache.tika.mime.MediaType"
+__arrayGet*
+
+%6java.util.Set*
+""*
+2
+4*©
+startingBlockK
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.javaV, V(B¬
+©
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.javaU U(
+%9"
+__annotate*
+java.lang.Override*0
+.
+context#org.apache.tika.parser.ParseContext–
+“
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.javaV: V(A.
+context#org.apache.tika.parser.ParseContext"__annotation*
+
+%9*
+8*¼
+4K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.javaa a(÷ô
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.javaa a(4$
+%7org.apache.tika.mime.MediaType"rorg.apache.tika.mime.MediaTypeRegistry#normalize(Lorg/apache/tika/mime/MediaType;)Lorg/apache/tika/mime/MediaType;*4
+2
+registry&org.apache.tika.mime.MediaTypeRegistry*(
+&
+typeorg.apache.tika.mime.MediaType2+normalize(Lorg/apache/tika/mime/MediaType;)ê
+ç
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.javaa a(=#
+%8org.apache.tika.parser.Parser"__mapSet*
+
+mapjava.util.Map*&
+$
+%7org.apache.tika.mime.MediaType*)
+'
+parserorg.apache.tika.parser.Parser*
+3*»
+5K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java`& `(,ãà
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java`& `(G
+%6java.util.Set"eorg.apache.tika.parser.Parser#getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Set;*)
+'
+parserorg.apache.tika.parser.Parser*0
+.
+context#org.apache.tika.parser.ParseContext28getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)*
+3*€
+7K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java[) [(=§¤
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java[) [(?,
+%2&org.apache.tika.mime.MediaTypeRegistry"eorg.apache.tika.parser.CompositeParser#getMediaTypeRegistry()Lorg/apache/tika/mime/MediaTypeRegistry;*(&
+$org.apache.tika.parser.DefaultParser2getMediaTypeRegistry()º
+·
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java[ [(@2
+registry&org.apache.tika.mime.MediaTypeRegistry"__id*.
+,
+%2&org.apache.tika.mime.MediaTypeRegistry¸
+µ
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java] ](*
+%3$org.apache.tika.config.ServiceLoader"__id*4*2&
+$org.apache.tika.parser.DefaultParser"
+loader±®
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java] ](D
+%4java.util.List"corg.apache.tika.config.ServiceLoader#loadDynamicServiceProviders(Ljava/lang/Class;)Ljava/util/List;*,
+*
+%3$org.apache.tika.config.ServiceLoader*
+""2.loadDynamicServiceProviders(Ljava/lang/Class;)‰
+†
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java\ ](E
+parsersjava.util.List"__id*
+
+%4java.util.ListÆ
+Ã
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java^ ^((
+
+%5void"0java.util.Collections#reverse(Ljava/util/List;)V*"
+java.util.Collections*
+
+parsersjava.util.List*
+2*¤
+8K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.javaW% W(*ˆ
+…
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.javaW% W(>
+%0java.util.Map"gorg.apache.tika.parser.CompositeParser#getParsers(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Map;*
+""*0
+.
+context#org.apache.tika.parser.ParseContextƒ
+€
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.javaW W(?
+mapjava.util.Map"__id*
+
+%0java.util.Map¸
+µ
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.javaY Y(*
+%1$org.apache.tika.config.ServiceLoader"__id*4*2&
+$org.apache.tika.parser.DefaultParser"
+loader*
+7
+1*·
+1K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.javaf f("e
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.javaf f(
+
+mapjava.util.Map:.
+context#org.apache.tika.parser.ParseContextB(&
+$org.apache.tika.parser.DefaultParser

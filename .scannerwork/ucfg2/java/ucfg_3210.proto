@@ -1,0 +1,308 @@
+
+Ënet.sourceforge.docfetcher.model.index.file.FileIndex#switchDirZipToSolid(Lnet/sourceforge/docfetcher/model/index/file/FileContext;Lnet/sourceforge/docfetcher/model/index/file/FileFolder;Ljava/io/File;)Z^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaà à(+"startingBlock*Î
+24^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaò ò("h
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaò ò(
+""*œ
+13^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaþ% ÿ(B¯¬
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaþ% ÿ(BC
+%17<net.sourceforge.docfetcher.model.index.file.SolidArchiveTree"ånet.sourceforge.docfetcher.model.index.file.SolidArchiveFactory#createSolidArchiveTree(Lnet/sourceforge/docfetcher/model/index/file/SolidArchiveContext;Ljava/io/File;)Lnet/sourceforge/docfetcher/model/index/file/SolidArchiveTree;*L
+J
+factory?net.sourceforge.docfetcher.model.index.file.SolidArchiveFactory*O
+M
+
+subContext?net.sourceforge.docfetcher.model.index.file.SolidArchiveContext*
+
+%16java.io.File2gcreateSolidArchiveTree(Lnet/sourceforge/docfetcher/model/index/file/SolidArchiveContext;Ljava/io/File;)*
+12*â
+25^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javañ ñ(ñ
+î
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javañ ñ(D
+%7boolean"znet.sourceforge.docfetcher.model.UtilModel#isUnmodifiedArchive(Lnet/sourceforge/docfetcher/model/Folder;Ljava/lang/Long;)Z*.",
+*net.sourceforge.docfetcher.model.UtilModel*I
+G
+archiveFolder6net.sourceforge.docfetcher.model.index.file.FileFolder*
+""*
+24
+23*Š
+14^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaÿ6 ÿ(A
+š
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaÿ6 ÿ(A
+%16java.io.File"__id*
+
+archiveFilejava.io.File*
+13*ù
+26^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaî î(ÙÖ
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaí í(!<
+%56net.sourceforge.docfetcher.model.index.file.FileFolder"6net.sourceforge.docfetcher.model.index.file.FileFolder»
+¸
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaí î(/
+%6"šnet.sourceforge.docfetcher.model.index.file.FileFolder#<init>(Lnet/sourceforge/docfetcher/model/index/file/FileFolder;Ljava/lang/String;Ljava/lang/Long;)V*>
+<
+%56net.sourceforge.docfetcher.model.index.file.FileFolder*H
+F
+parentFolder6net.sourceforge.docfetcher.model.index.file.FileFolder*!
+
+archiveNamejava.lang.String*
+""ò
+ï
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaí î(/G
+archiveFolder6net.sourceforge.docfetcher.model.index.file.FileFolder"__id*>
+<
+%56net.sourceforge.docfetcher.model.index.file.FileFolder*
+22*’
+15^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaÿ  ÿ(3¥
+¢
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaÿ  ÿ(3
+%16java.io.File"__id*%
+#
+unpackedArchiveFilejava.io.File*
+13*È
+27^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaê ê()£ 
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaê ê(C<
+%36net.sourceforge.docfetcher.model.index.file.FileFolder"qnet.sourceforge.docfetcher.model.Folder#getSubFolder(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/Folder;*H
+F
+parentFolder6net.sourceforge.docfetcher.model.index.file.FileFolder*!
+
+archiveNamejava.lang.String2 getSubFolder(Ljava/lang/String;)ò
+ï
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaê ê(DG
+archiveFolder6net.sourceforge.docfetcher.model.index.file.FileFolder"__id*>
+<
+%36net.sourceforge.docfetcher.model.index.file.FileFolder¼¹
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaë ë(3
+
+%4long"java.io.File#lastModified()J*
+
+archiveFilejava.io.File2lastModified()*
+25
+26*ó
+16^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaü ý(R‚
+ÿ
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaü ý(RM
+
+subContext?net.sourceforge.docfetcher.model.index.file.SolidArchiveContext"__id*H
+F
+%14?net.sourceforge.docfetcher.model.index.file.SolidArchiveContext*
+14
+15*Î
+28^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaç ç(#"h
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaç ç($
+""*à
+17^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaü$ ý(Qìé
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaü( ü(;F
+%14?net.sourceforge.docfetcher.model.index.file.SolidArchiveContext"?net.sourceforge.docfetcher.model.index.file.SolidArchiveContext„
+
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaü$ ý(Q
+%15"¸net.sourceforge.docfetcher.model.index.file.SolidArchiveContext#<init>(Lnet/sourceforge/docfetcher/model/index/file/FileContext;Lnet/sourceforge/docfetcher/model/Path;ZLjava/io/File;)V*H
+F
+%14?net.sourceforge.docfetcher.model.index.file.SolidArchiveContext*D
+B
+context7net.sourceforge.docfetcher.model.index.file.FileContext*.
+,
+%12%net.sourceforge.docfetcher.model.Path*
+""*
+
+%13java.io.File*
+16*¹
+29^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaä ä("ÏÌ
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaä ä(,
+%0java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+archiveFilejava.io.File2	getName()¤
+¡
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaä ä(-
+archiveNamejava.lang.String"__id*
+
+%0java.lang.Stringïì
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaå  å(3;
+%15net.sourceforge.docfetcher.model.index.IndexingConfig"znet.sourceforge.docfetcher.model.index.file.FileContext#getConfig()Lnet/sourceforge/docfetcher/model/index/IndexingConfig;*D
+B
+context7net.sourceforge.docfetcher.model.index.file.FileContext2getConfig()ÜÙ
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaå  æ((E
+%2?net.sourceforge.docfetcher.model.index.file.SolidArchiveFactory"¡net.sourceforge.docfetcher.model.index.IndexingConfig#getSolidArchiveFactory(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/index/file/SolidArchiveFactory;*=
+;
+%15net.sourceforge.docfetcher.model.index.IndexingConfig*!
+
+archiveNamejava.lang.String2*getSolidArchiveFactory(Ljava/lang/String;)þ
+û
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaå æ()J
+factory?net.sourceforge.docfetcher.model.index.file.SolidArchiveFactory"__id*G
+E
+%2?net.sourceforge.docfetcher.model.index.file.SolidArchiveFactory*
+27
+28*›
+18^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaý& ý(3®«
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaý5 ý(P
+%13java.io.File"Ynet.sourceforge.docfetcher.model.index.file.FileContext#getIndexParentDir()Ljava/io/File;*D
+B
+context7net.sourceforge.docfetcher.model.index.file.FileContext2getIndexParentDir()*
+17*Ö
+19^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaù ú(%¥
+¢
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaù ú(%#
+unpackedArchiveFilejava.io.File"__id*
+
+%11java.io.FileÁ¾
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaý ý($,
+%12%net.sourceforge.docfetcher.model.Path"Xnet.sourceforge.docfetcher.model.Folder#getPath()Lnet/sourceforge/docfetcher/model/Path;*I
+G
+archiveFolder6net.sourceforge.docfetcher.model.index.file.FileFolder2	getPath()*
+18*Í
+1^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java’	 ’("h
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java’ ’(
+""*Ú
+
+startingBlock^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaà+ â(&õ
+ò
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaà- à(5
+%35"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*D
+B
+context7net.sourceforge.docfetcher.model.index.file.FileContext¾
+»
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaàB à(IB
+context7net.sourceforge.docfetcher.model.index.file.FileContext"__annotation*
+
+%35ù
+ö
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaá á(
+%36"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*H
+F
+parentFolder6net.sourceforge.docfetcher.model.index.file.FileFolderÂ
+¿
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaá  á(,F
+parentFolder6net.sourceforge.docfetcher.model.index.file.FileFolder"__annotation*
+
+%36Î
+Ë
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaâ â(
+%37"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+archiveFilejava.io.File—
+”
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaâ â(%
+archiveFilejava.io.File"__annotation*
+
+%37*
+29*Š
+20^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaú ú($
+š
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaù ú(%
+%11java.io.File"“net.sourceforge.docfetcher.model.UtilModel#maybeUnpackZipEntry(Lnet/sourceforge/docfetcher/model/index/IndexingConfig;Ljava/io/File;)Ljava/io/File;*.",
+*net.sourceforge.docfetcher.model.UtilModel*>
+<
+%105net.sourceforge.docfetcher.model.index.IndexingConfig*
+
+archiveFilejava.io.File*
+19*Ý
+21^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaù ù("ðí
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaú ú(<
+%105net.sourceforge.docfetcher.model.index.IndexingConfig"znet.sourceforge.docfetcher.model.index.file.FileContext#getConfig()Lnet/sourceforge/docfetcher/model/index/IndexingConfig;*D
+B
+context7net.sourceforge.docfetcher.model.index.file.FileContext2getConfig()*
+20*ƒ
+22^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java÷ ÷(!–
+“
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java÷ ÷("#
+unpackedArchiveFilejava.io.File"__id*
+""*
+21*’
+23^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaó ó(±®
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaó ó(1
+
+%8void"Jnet.sourceforge.docfetcher.model.Folder#setLastModified(Ljava/lang/Long;)V*I
+G
+archiveFolder6net.sourceforge.docfetcher.model.index.file.FileFolder*
+""2!setLastModified(Ljava/lang/Long;)ñî
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaô ô(
+
+%9void"knet.sourceforge.docfetcher.model.TreeNode#setError(Lnet/sourceforge/docfetcher/model/index/IndexingError;)V*I
+G
+archiveFolder6net.sourceforge.docfetcher.model.index.file.FileFolder*
+""2@setError(Lnet/sourceforge/docfetcher/model/index/IndexingError;)*
+22*†
+12^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaþ ÿ(Cý
+ú
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaþ ÿ(CK
+archiveTree<net.sourceforge.docfetcher.model.index.file.SolidArchiveTree"__id*E
+C
+%17<net.sourceforge.docfetcher.model.index.file.SolidArchiveTreeš
+—
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java€ €(<
+%18void"net.sourceforge.docfetcher.model.index.file.FileIndex#visitSolidArchive(Lnet/sourceforge/docfetcher/model/index/file/SolidArchiveContext;Lnet/sourceforge/docfetcher/model/index/file/FileFolder;Lnet/sourceforge/docfetcher/model/index/file/SolidArchiveTree;)V*9"7
+5net.sourceforge.docfetcher.model.index.file.FileIndex*O
+M
+
+subContext?net.sourceforge.docfetcher.model.index.file.SolidArchiveContext*I
+G
+archiveFolder6net.sourceforge.docfetcher.model.index.file.FileFolder*M
+K
+archiveTree<net.sourceforge.docfetcher.model.index.file.SolidArchiveTree*
+1:B
+context7net.sourceforge.docfetcher.model.index.file.FileContext:F
+parentFolder6net.sourceforge.docfetcher.model.index.file.FileFolder:
+archiveFilejava.io.FileB9"7
+5net.sourceforge.docfetcher.model.index.file.FileIndex

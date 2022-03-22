@@ -1,0 +1,109 @@
+
+Fnet.sourceforge.docfetcher.util.LoopTimer#getTimes()Ljava/lang/String;P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaP P("5*Å
+2P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaR R( Ä
+~
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaR R( 
+entryjava.util.Map$Entry"__id*
+""û
+õ
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaR R( 
+entryjava.util.Map$Entry"
+__arrayGet*
+
+%3java.util.Set*
+""*
+3
+1*Ô	
+3P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaS S(«ƒ
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaS S(
+%4java.lang.String".java.util.Map$Entry#getKey()Ljava/lang/Object;*
+
+entryjava.util.Map$Entry2getKey()ô
+ñ
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaS S("
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+: …∆
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaS% S(5
+%6java.lang.Long"0java.util.Map$Entry#getValue()Ljava/lang/Object;*
+
+entryjava.util.Map$Entry2
+getValue()©
+¶
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaS S(5
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.Longô
+ñ
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaS S(<
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+\nòï
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaS S(=
+%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%8java.lang.String2append(Ljava/lang/String;)*
+2*¬
+4P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaR# R(*¨
+©
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaR# R(*
+%2java.util.Map"__id*:*8+
+)net.sourceforge.docfetcher.util.LoopTimer"	
+timeMap∂≥
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaR# R(5
+%3java.util.Set"'java.util.Map#entrySet()Ljava/util/Set;*
+
+%2java.util.Map2
+entrySet()*
+2*™
+5P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaQ Q((çä
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaQ Q(&
+%0java.lang.StringBuilder"java.lang.StringBuilderü
+ú
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaQ Q((
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderõ
+ò
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaQ Q()
+sbjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder*
+4*ò
+1P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaT	 T(—Œ
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaT	 T(
+%10java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()"m
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/util/LoopTimer.javaT T(
+
+%10java.lang.StringB-+
+)net.sourceforge.docfetcher.util.LoopTimer

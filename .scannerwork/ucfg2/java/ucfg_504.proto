@@ -1,0 +1,19 @@
+
+oorg.apache.tika.parser.microsoft.POIFSContainerDetector#detect(Ljava/util/Set;)Lorg/apache/tika/mime/MediaType;`
+TD:/git_project/code/src/org/apache/tika/parser/microsoft/POIFSContainerDetector.java³ ³(%"1*à
+1`
+TD:/git_project/code/src/org/apache/tika/parser/microsoft/POIFSContainerDetector.java´ ´(ë
+è
+`
+TD:/git_project/code/src/org/apache/tika/parser/microsoft/POIFSContainerDetector.java´ ´("$
+%0org.apache.tika.mime.MediaType"org.apache.tika.parser.microsoft.POIFSContainerDetector#detect(Ljava/util/Set;LDirectoryEntry;)Lorg/apache/tika/mime/MediaType;*;"9
+7org.apache.tika.parser.microsoft.POIFSContainerDetector*
+
+namesjava.util.Set*
+"""Š
+`
+TD:/git_project/code/src/org/apache/tika/parser/microsoft/POIFSContainerDetector.java´ ´(#&
+$
+%0org.apache.tika.mime.MediaType:
+namesjava.util.SetB;"9
+7org.apache.tika.parser.microsoft.POIFSContainerDetector

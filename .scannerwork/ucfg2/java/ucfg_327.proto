@@ -1,0 +1,36 @@
+
+Ynull#getLabel(Lnet/sourceforge/docfetcher/model/search/ResultDocument;)Ljava/lang/String;S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java° °("3*ä
+2S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java² ²(˜•
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java² ²(
+%1java.lang.String"Tnet.sourceforge.docfetcher.model.search.ResultDocument#getSender()Ljava/lang/String;*C
+A
+element6net.sourceforge.docfetcher.model.search.ResultDocument2getSender()"o
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java² ²( 
+
+%1java.lang.String*Ý
+3S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java± ±(ú÷
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java± ±(
+%0boolean"Anet.sourceforge.docfetcher.model.search.ResultDocument#isEmail()Z*C
+A
+element6net.sourceforge.docfetcher.model.search.ResultDocument2	isEmail()*
+2
+1*è
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java³ ³(œ™
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java³ ³( 
+%2java.lang.String"Vnet.sourceforge.docfetcher.model.search.ResultDocument#getFilename()Ljava/lang/String;*C
+A
+element6net.sourceforge.docfetcher.model.search.ResultDocument2getFilename()"o
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java³ ³(!
+
+%2java.lang.String:A
+element6net.sourceforge.docfetcher.model.search.ResultDocumentB53
+1Lnet/sourceforge/docfetcher/gui/ResultPanel$6695;

@@ -1,0 +1,15 @@
+
+Fnet.sourceforge.docfetcher.gui.ManualLocator$2#accept(Ljava/io/File;)ZS
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaE E("1*å
+1S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaF F(«¨
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaF F(
+%0boolean"java.io.File#isDirectory()Z*
+
+filejava.io.File2isDirectory()"]
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaF F(
+"":
+filejava.io.FileB20
+.net.sourceforge.docfetcher.gui.ManualLocator$2

@@ -1,0 +1,63 @@
+
+Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)ZQ
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÕ Õ("8*≥
+3Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java‘ ‘("[
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java‘ ‘(
+""*∆
+4Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“ “(´®
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“ “((
+
+%1char"java.lang.String#charAt(I)C*
+
+sjava.lang.String*
+""2	charAt(I)◊
+‘
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“ “()
+%2boolean"4org.apache.tika.parser.rtf.TextExtractor#isAlpha(I)Z*,"*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+
+%1char´®
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java” ”(%
+
+%3char"java.lang.String#charAt(I)C*
+
+sjava.lang.String*
+""2	charAt(I)¨
+©
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java”* ”(8
+%4byte[]"__id*@*>*
+(org.apache.tika.parser.rtf.TextExtractor"
+pendingControl*	
+3
+4
+1*≥
+7Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaœ œ("[
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaœ œ(
+""*Ñ
+8Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaŒ Œ(†ù
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaŒ# Œ(-	
+%0int"java.lang.String#length()I*
+
+sjava.lang.String2length()*	
+4
+7
+1*≥
+1Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java◊ ◊("[
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java◊ ◊(
+"":
+sjava.lang.StringB,*
+(org.apache.tika.parser.rtf.TextExtractor

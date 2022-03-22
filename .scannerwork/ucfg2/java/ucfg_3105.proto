@@ -1,0 +1,21 @@
+
+morg.apache.tika.language.detect.LanguageHandler#getLanguage()Lorg/apache/tika/language/detect/LanguageResult;V
+LD:/git_project/code/src/org/apache/tika/language/detect/LanguageHandler.java? ?(%"1*í
+1V
+LD:/git_project/code/src/org/apache/tika/language/detect/LanguageHandler.java@ @(ÿ
+’
+V
+LD:/git_project/code/src/org/apache/tika/language/detect/LanguageHandler.java@ @(4
+%0.org.apache.tika.language.detect.LanguageWriter"__id*?*=1
+/org.apache.tika.language.detect.LanguageHandler"
+writer∆√
+V
+LD:/git_project/code/src/org/apache/tika/language/detect/LanguageHandler.java@ @( 4
+%1.org.apache.tika.language.detect.LanguageResult"lorg.apache.tika.language.detect.LanguageWriter#getLanguage()Lorg/apache/tika/language/detect/LanguageResult;*6
+4
+%0.org.apache.tika.language.detect.LanguageWriter2getLanguage()"ê
+V
+LD:/git_project/code/src/org/apache/tika/language/detect/LanguageHandler.java@ @(!6
+4
+%1.org.apache.tika.language.detect.LanguageResultB31
+/org.apache.tika.language.detect.LanguageHandler

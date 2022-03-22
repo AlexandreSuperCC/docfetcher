@@ -1,0 +1,28 @@
+
+rorg.apache.tika.language.LanguageProfile#updateInterleaved()Lorg/apache/tika/language/LanguageProfile$Interleaved;Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¸ ¸()"1*‹
+1Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¹ ¹(×
+Ô
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¹ ¹(:
+%04org.apache.tika.language.LanguageProfile$Interleaved"__id*=*;*
+(org.apache.tika.language.LanguageProfile"
+interleavedêç
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¹ ¹(
+
+%1void">org.apache.tika.language.LanguageProfile$Interleaved#update()V*<
+:
+%04org.apache.tika.language.LanguageProfile$Interleaved2update()×
+Ô
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.javaº º(:
+%24org.apache.tika.language.LanguageProfile$Interleaved"__id*=*;*
+(org.apache.tika.language.LanguageProfile"
+interleaved"‘
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.javaº º(<
+:
+%24org.apache.tika.language.LanguageProfile$InterleavedB,*
+(org.apache.tika.language.LanguageProfile

@@ -1,0 +1,41 @@
+
+Yorg.apache.tika.Tika#translate(Ljava/io/InputStream;Ljava/lang/String;)Ljava/lang/String;=
+1D:/git_project/code/src/org/apache/tika/Tika.java€ €("5*
+3=
+1D:/git_project/code/src/org/apache/tika/Tika.java‚ ‚(P"Y
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java‚ ‚(P
+
+%2java.lang.String*½
+4=
+1D:/git_project/code/src/org/apache/tika/Tika.java‚@ ‚(Nóð
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java‚ ‚(O
+%2java.lang.String"oorg.apache.tika.language.translate.Translator#translate(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*5
+3
+%0-org.apache.tika.language.translate.Translator*
+
+%1java.lang.String*$
+"
+targetLanguagejava.lang.String2/translate(Ljava/lang/String;Ljava/lang/String;)*
+3*Û
+5=
+1D:/git_project/code/src/org/apache/tika/Tika.java‚ ‚(§
+¤
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java‚ ‚(3
+%0-org.apache.tika.language.translate.Translator"__id*(*&
+org.apache.tika.Tika"
+
+translatorç
+ä
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java‚( ‚(>
+%1java.lang.String"Lorg.apache.tika.io.IOUtils#toString(Ljava/io/InputStream;)Ljava/lang/String;*"
+org.apache.tika.io.IOUtils*
+
+textjava.io.InputStream*
+4:
+textjava.io.InputStream:"
+targetLanguagejava.lang.StringB
+org.apache.tika.Tika

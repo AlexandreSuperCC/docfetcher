@@ -1,0 +1,21 @@
+
+Dnet.sourceforge.docfetcher.model.index.file.FileContext#isStopped()Z^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javav v("1*¬
+1^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaw	 w(é
+æ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaw	 w(1
+%0+net.sourceforge.docfetcher.model.Cancelable"__id*K*I9
+7net.sourceforge.docfetcher.model.index.file.FileContext"
+
+cancelableðí
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaw	 w( 
+%1boolean"9net.sourceforge.docfetcher.model.Cancelable#isCanceled()Z*3
+1
+%0+net.sourceforge.docfetcher.model.Cancelable2isCanceled()"h
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaw w(!
+""B;9
+7net.sourceforge.docfetcher.model.index.file.FileContext

@@ -1,0 +1,73 @@
+
+¤org.apache.tika.config.TikaConfig$DetectorXmlLoader#preLoadOne(Ljava/lang/Class;Ljava/lang/String;Lorg/apache/tika/mime/MimeTypes;)Lorg/apache/tika/detect/Detector;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¾ ¾("startingBlock*Ì
+2J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÃ Ã( "{
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÃ Ã(!-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes*¬
+3J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÂ Â(ÒÏ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÂ Â(3
+%0boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
+""* 
+
+loadedClassjava.lang.Class2equals(Ljava/lang/Object;)*
+2
+1*ê
+startingBlockJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¾ ¿(0›
+˜
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java½ ½(
+%1"
+__annotate*
+java.lang.Override* 
+
+loadedClassjava.lang.Class…
+‚
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¾6 ¾(A
+loadedClassjava.lang.Class"__annotation*
+
+%1š
+—
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java½ ½(
+%2"
+__annotate*
+java.lang.Override*
+
+	classnamejava.lang.String„
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¾J ¾(S
+	classnamejava.lang.String"__annotation*
+
+%2¨
+¥
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java½ ½(
+%3"
+__annotate*
+java.lang.Override*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes’
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¿& ¿(/+
+	mimeTypesorg.apache.tika.mime.MimeTypes"__annotation*
+
+%3*
+3*¥
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÆ Æ("T
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÆ Æ(
+"":
+loadedClassjava.lang.Class:
+	classnamejava.lang.String:+
+	mimeTypesorg.apache.tika.mime.MimeTypesB75
+3org.apache.tika.config.TikaConfig$DetectorXmlLoader

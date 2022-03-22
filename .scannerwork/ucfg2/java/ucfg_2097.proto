@@ -1,0 +1,20 @@
+
+Ynet.sourceforge.docfetcher.util.gui.viewer.SimpleTreeViewer#getElements()Ljava/util/List;d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTreeViewer.javaÅ Å(!"1*×
+1d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTreeViewer.javaÆ Æ(*™–
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTreeViewer.javaÆ Æ(
+%0java.util.ArrayList"java.util.ArrayListÉ
+Æ
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTreeViewer.javaÆ	 Æ(4
+%1"3java.util.ArrayList#<init>(Ljava/util/Collection;)V*
+
+%0java.util.ArrayList*
+"""ƒ
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTreeViewer.javaÆ Æ(5
+
+%0java.util.ArrayListB?=
+;net.sourceforge.docfetcher.util.gui.viewer.SimpleTreeViewer

@@ -1,0 +1,17 @@
+
+Corg.apache.tika.Tika#getDetector()Lorg/apache/tika/detect/Detector;=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÀ À("1*Æ
+1=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÁ Á(—
+”
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÁ Á(%
+%0org.apache.tika.detect.Detector"__id*&*$
+org.apache.tika.Tika"
+
+detector"h
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÁ Á('
+%
+%0org.apache.tika.detect.DetectorB
+org.apache.tika.Tika

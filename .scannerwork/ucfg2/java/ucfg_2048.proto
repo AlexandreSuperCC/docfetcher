@@ -1,0 +1,14 @@
+
+Porg.apache.tika.parser.chm.lzx.ChmSection#unmarshalUlong()Ljava/math/BigInteger;P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaw w($"1*Ô
+1P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javax x(Š‡
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javax x(
+%0java.math.BigInteger"Porg.apache.tika.parser.chm.lzx.ChmSection#getBigInteger(I)Ljava/math/BigInteger;*-+
+)org.apache.tika.parser.chm.lzx.ChmSection*22getBigInteger(I)"p
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javax x( 
+
+%0java.math.BigIntegerB-+
+)org.apache.tika.parser.chm.lzx.ChmSection

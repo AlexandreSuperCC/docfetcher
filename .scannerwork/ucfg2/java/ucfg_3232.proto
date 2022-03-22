@@ -1,0 +1,76 @@
+
+Vnet.sourceforge.docfetcher.model.Path#getDisplayName(Ljava/io/File;)Ljava/lang/String;L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaS S(%"startingBlock*¤
+2L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaV V(¿¼
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaV V(
+%3java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+canonicalFilejava.io.File2	getName()‰
+†
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaV V(
+%1java.lang.String"__id*
+
+%3java.lang.String*
+1*¦
+3L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaU U(Á¾
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaU U(
+%2java.lang.String")java.io.File#toString()Ljava/lang/String;*
+
+canonicalFilejava.io.File2
+toString()‰
+†
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaU U(
+%1java.lang.String"__id*
+
+%2java.lang.String*
+1*ó
+startingBlockL
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaS% S(B½
+º
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaR R(	
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+canonicalFilejava.io.File½
+º
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaS& S(.
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+canonicalFilejava.io.FileŽ
+‹
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaS4 S(A
+canonicalFilejava.io.File"__annotation*
+
+%4*
+
+%5*
+4*Ÿ
+4L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaT	 T(ÃÀ
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaT	 T("
+%0java.lang.String"*java.io.File#getParent()Ljava/lang/String;*
+
+canonicalFilejava.io.File2getParent()*
+2
+3*»
+1L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaT V("h
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaT V(
+
+%1java.lang.String:
+canonicalFilejava.io.FileB)"'
+%net.sourceforge.docfetcher.model.Path

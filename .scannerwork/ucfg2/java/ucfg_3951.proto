@@ -1,0 +1,21 @@
+
+$org.apache.tika.sax.Link#isAnchor()Z?
+5D:/git_project/code/src/org/apache/tika/sax/Link.java/ /("1*Ý
+1?
+5D:/git_project/code/src/org/apache/tika/sax/Link.java0 0(Š
+‡
+?
+5D:/git_project/code/src/org/apache/tika/sax/Link.java0 0(
+%0java.lang.String"__id*&*$
+org.apache.tika.sax.Link"
+type¾»
+?
+5D:/git_project/code/src/org/apache/tika/sax/Link.java0 0(
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+a*
+
+%0java.lang.String2equals(Ljava/lang/Object;)"I
+?
+5D:/git_project/code/src/org/apache/tika/sax/Link.java0 0( 
+""B
+org.apache.tika.sax.Link

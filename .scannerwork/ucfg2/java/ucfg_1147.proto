@@ -1,0 +1,116 @@
+
+snet.sourceforge.docfetcher.model.Daemon#findIndex(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/LuceneIndex;N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javan n("startingBlock*¯
+2N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javap p(˜
+•
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javap p(5
+index,net.sourceforge.docfetcher.model.LuceneIndex"__id*
+""¶
+³
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javap p(5
+index,net.sourceforge.docfetcher.model.LuceneIndex"
+__arrayGet*
+
+%4java.util.List*
+""*
+4
+1*ß
+3N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javar r("‰
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javar r(7
+5
+index,net.sourceforge.docfetcher.model.LuceneIndex*ù
+startingBlockN
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javan n(8¿
+¼
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javam m(
+
+%7"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+rootPathjava.lang.String¾
+»
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javan n('
+%8"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+rootPathjava.lang.String
+Œ
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javan/ n(7
+rootPathjava.lang.String"__annotation*
+
+%7*
+
+%8*
+6*Æ
+4N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javaq q(‹ˆ
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javaq q(3
+%5java.io.File"Qnet.sourceforge.docfetcher.model.LuceneIndex#getCanonicalRootFile()Ljava/io/File;*7
+5
+index,net.sourceforge.docfetcher.model.LuceneIndex2getCanonicalRootFile()Ú×
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javaq q(4
+%6boolean"(java.io.File#equals(Ljava/lang/Object;)Z*
+
+rootFilejava.io.File*
+
+%5java.io.File2equals(Ljava/lang/Object;)*
+2
+3*©
+5N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javap p((Ï
+Ì
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javap p((4
+%3.net.sourceforge.docfetcher.model.IndexRegistry"__id*>*<)
+'net.sourceforge.docfetcher.model.Daemon"
+indexRegistryüù
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javap p(5
+%4java.util.List"Knet.sourceforge.docfetcher.model.IndexRegistry#getIndexes()Ljava/util/List;*6
+4
+%3.net.sourceforge.docfetcher.model.IndexRegistry2getIndexes()*
+2*×
+6N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javao o(#tr
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javao o(
+%0java.io.File"java.io.File¹
+¶
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javao o($
+%1"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%0java.io.File*
+
+rootPathjava.lang.String¾»
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javao o(6
+%2java.io.File",java.io.File#getAbsoluteFile()Ljava/io/File;*
+
+%0java.io.File2getAbsoluteFile()‰
+†
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javao o(7
+rootFilejava.io.File"__id*
+
+%2java.io.File*
+5*­
+1N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javas	 s("X
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javas s(
+"":
+rootPathjava.lang.StringB+)
+'net.sourceforge.docfetcher.model.Daemon

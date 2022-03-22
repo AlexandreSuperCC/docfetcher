@@ -1,0 +1,23 @@
+
+[net.sourceforge.docfetcher.model.IndexLoadingProblems#getCorruptedIndexes()Ljava/util/List;\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexLoadingProblems.java5 5(0"1*¡
+1\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexLoadingProblems.java6	 6(Î
+Ë
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexLoadingProblems.java6& 6(6
+%0java.util.List"__id*O*M7
+5net.sourceforge.docfetcher.model.IndexLoadingProblems"
+corruptedIndexesô
+ñ
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexLoadingProblems.java6	 6(7
+%1java.util.List"Hjava.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;*"
+java.util.Collections*
+
+%0java.util.List"v
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexLoadingProblems.java6 6(8
+
+%1java.util.ListB97
+5net.sourceforge.docfetcher.model.IndexLoadingProblems

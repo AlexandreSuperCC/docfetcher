@@ -1,0 +1,44 @@
+
+porg.apache.tika.parser.xml.ElementMetadataHandler#isMatchingParentElement(Ljava/lang/String;Ljava/lang/String;)ZZ
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.javaª ª(-"3* 
+2Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java«( «(1Ã
+À
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java«9 «(G
+%2java.lang.String"__id*D*B3
+1org.apache.tika.parser.xml.ElementMetadataHandler"
+	localNameóð
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java«( «(H
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	localNamejava.lang.String*
+
+%2java.lang.String2equals(Ljava/lang/Object;)*
+1*—
+3Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java« «(½
+º
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java« «(#
+%0java.lang.String"__id*>*<3
+1org.apache.tika.parser.xml.ElementMetadataHandler"
+uriíê
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java« «($
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+urijava.lang.String*
+
+%0java.lang.String2equals(Ljava/lang/Object;)*
+2
+1*Å
+1Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java« «(J"d
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java« «(J
+"":
+urijava.lang.String:
+	localNamejava.lang.StringB53
+1org.apache.tika.parser.xml.ElementMetadataHandler

@@ -1,0 +1,291 @@
+
+Vnet.sourceforge.docfetcher.model.search.Searcher#list(Ljava/util/Set;)Ljava/util/List;Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java… …(!"startingBlock*œ
+24Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÿ ÿ(Á
+‰
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÿ ÿ(
+
+%7void"Enet.sourceforge.docfetcher.model.search.Searcher#checkIndexesExist()V*42
+0net.sourceforge.docfetcher.model.search.Searcher*
+21*Á
+13Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java‰ ‰(.Â
+‚
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java‰ ‰(.?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig"__id*>
+<
+%135net.sourceforge.docfetcher.model.index.IndexingConfigÎ
+Ë
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÊ& Ê(1>
+%147net.sourceforge.docfetcher.model.index.file.FileFactory"__id*E*C2
+0net.sourceforge.docfetcher.model.search.Searcher"
+fileFactory¸
+˘
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÁ Á(H
+%15Anet.sourceforge.docfetcher.model.index.outlook.OutlookMailFactory"__id*L*J2
+0net.sourceforge.docfetcher.model.search.Searcher"
+outlookMailFactory’“
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÂ Â(#=
+%166net.sourceforge.docfetcher.model.search.ResultDocument"6net.sourceforge.docfetcher.model.search.ResultDocument“
+œ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÂ Á(
+%17"∫net.sourceforge.docfetcher.model.search.ResultDocument#<init>(Lorg/apache/lucene/document/Document;FLorg/apache/lucene/search/Query;ZLnet/sourceforge/docfetcher/model/index/IndexingConfig;Lnet/sourceforge/docfetcher/model/index/file/FileFactory;Lnet/sourceforge/docfetcher/model/index/outlook/OutlookMailFactory;)V*?
+=
+%166net.sourceforge.docfetcher.model.search.ResultDocument*
+""*
+""*
+""*2*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*@
+>
+%147net.sourceforge.docfetcher.model.index.file.FileFactory*J
+H
+%15Anet.sourceforge.docfetcher.model.index.outlook.OutlookMailFactory*
+12*˛
+25Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java—' —(,œ
+Ã
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java÷ ÷(
+%
+%5java.util.concurrent.locks.Lock"__id*B*@2
+0net.sourceforge.docfetcher.model.search.Searcher"
+
+readLockƒ¡
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java÷ ÷(
+
+%6void"'java.util.concurrent.locks.Lock#lock()V*'
+%
+%5java.util.concurrent.locks.Lock2lock()*
+24*ê
+14Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java„ „(v“
+œ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java„ „(v5
+index,net.sourceforge.docfetcher.model.LuceneIndex"__id*5
+3
+%12,net.sourceforge.docfetcher.model.LuceneIndex”–
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java‰ ‰(-<
+%135net.sourceforge.docfetcher.model.index.IndexingConfig"onet.sourceforge.docfetcher.model.LuceneIndex#getConfig()Lnet/sourceforge/docfetcher/model/index/IndexingConfig;*7
+5
+index,net.sourceforge.docfetcher.model.LuceneIndex2getConfig()*
+13*ò
+26Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaœ œ(Ö
+Ç
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaœ œ(
+uidjava.lang.String"__id*
+""§
+°
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaœ œ(
+uidjava.lang.String"
+__arrayGet*
+
+uidsjava.util.Set*
+""*
+25
+26*Æ
+15Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java„ „(u∆
+√
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java„ „(u3
+%12,net.sourceforge.docfetcher.model.LuceneIndex"
+__arrayGet*
+
+%10java.util.List*
+
+
+%11int*
+14*—
+16Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java„% „([ÈÊ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java„$ „(t
+
+%11int"Tnet.sourceforge.docfetcher.model.index.DecoratedMultiReader#decoratedReaderIndex(I)I*
+""*
+""2decoratedReaderIndex(I)*
+15*¶
+17Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java· ·(8æ
+ª
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java„ „(
+%10java.util.List"__id*A*?2
+0net.sourceforge.docfetcher.model.search.Searcher"	
+indexes*
+16*œ
+29Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÃ Ã(9°û
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÕ, Õ(7	
+%0int"java.util.Set#size()I*
+
+uidsjava.util.Set2size()xv
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÕ Õ(+
+%1"java.util.ArrayListô
+ñ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÕ Õ(8
+%2"java.util.ArrayList#<init>(I)V*
+
+%1*
+	
+%0intõ
+ò
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaŒ Œ(-
+%3'net.sourceforge.docfetcher.model.Fields"__id*
+""ÔÏ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaŒ Œ(%
+%4java.lang.String"?net.sourceforge.docfetcher.model.Fields#key()Ljava/lang/String;*/
+-
+%3'net.sourceforge.docfetcher.model.Fields2key()ù
+ö
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaŒ Œ(&
+	fieldNamejava.lang.String"__id*
+
+%4java.lang.String*
+26*ª
+startingBlockY
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java…! …(<…
+∆
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java∆ ∆(
+%30"
+__annotate*=;
+9net.sourceforge.docfetcher.util.annotations.ImmutableCopy*
+
+uidsjava.util.Set√
+¿
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java« «(	
+%31"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+uidsjava.util.Set∆
+√
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java» »(
+%32"
+__annotate*:8
+6net.sourceforge.docfetcher.util.annotations.ThreadSafe*
+
+uidsjava.util.Set√
+¿
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java…" …(*
+%33"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+uidsjava.util.Setß
+§
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java…7 …(;
+uidsjava.util.Set"__annotation*
+
+%30*
+
+%31*
+
+%32*
+
+%33*
+29*‘
+7Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÚ Ú(!"t
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÚ Ú(!
+
+%22java.util.List*ˆ
+8Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÚ
+ Ú(ê
+ç
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÚ
+ Ú( 
+%22java.util.List"<java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;*"
+java.util.Arrays*E
+C
+results8net.sourceforge.docfetcher.model.search.ResultDocument[]*
+7*¥
+9Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÎ (Œ
+À
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÎ (
+%21void"Ajava.util.Arrays#sort([Ljava/lang/Object;Ljava/util/Comparator;)V*"
+java.util.Arrays*E
+C
+results8net.sourceforge.docfetcher.model.search.ResultDocument[]*A
+?
+%198Lnet/sourceforge/docfetcher/model/search/Searcher$12760;*
+8*≤
+20Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java‹ ‹(Wÿ’
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaﬂ ﬂ(B>
+%98net.sourceforge.docfetcher.model.search.ResultDocument[]"8net.sourceforge.docfetcher.model.search.ResultDocument[]Î
+Ë
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaﬂ ﬂ(CC
+results8net.sourceforge.docfetcher.model.search.ResultDocument[]"__id*@
+>
+%98net.sourceforge.docfetcher.model.search.ResultDocument[]*
+17
+10*›
+21Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java‹A ‹(Lv
+t
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.java‹A ‹(L	
+%8int"__id*
+""*
+20*á
+10Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÎ Î(	Ÿ÷
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÎ Î(6?
+%198Lnet/sourceforge/docfetcher/model/search/Searcher$12760;"8Lnet/sourceforge/docfetcher/model/search/Searcher$12760;ƒ
+¡
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÎ (
+%20"java.lang.Object#<init>()V*A
+?
+%198Lnet/sourceforge/docfetcher/model/search/Searcher$12760;*
+9*Ì
+12Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÂ Á(Å
+˛
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÂ Á(
+%18"
+__arraySet*E
+C
+results8net.sourceforge.docfetcher.model.search.ResultDocument[]*
+""*?
+=
+%166net.sourceforge.docfetcher.model.search.ResultDocument*
+17
+10:
+uidsjava.util.SetB42
+0net.sourceforge.docfetcher.model.search.Searcher

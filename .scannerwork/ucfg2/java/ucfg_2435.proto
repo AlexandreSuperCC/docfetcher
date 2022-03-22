@@ -1,0 +1,36 @@
+
+1org.apache.tika.Tika#detect([B)Ljava/lang/String;=
+1D:/git_project/code/src/org/apache/tika/Tika.javaó ó("5*
+3=
+1D:/git_project/code/src/org/apache/tika/Tika.javaö ö(&"Y
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaö ö(&
+
+%1java.lang.String*Ú
+4=
+1D:/git_project/code/src/org/apache/tika/Tika.javaõ õ(A“
+
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaõ õ(A
+streamjava.io.InputStream"__id**
+(
+%0"org.apache.tika.io.TikaInputStreamú÷
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaö ö(%
+%1java.lang.String"Dorg.apache.tika.Tika#detect(Ljava/io/InputStream;)Ljava/lang/String;*
+org.apache.tika.Tika*
+
+streamjava.io.InputStream2detect(Ljava/io/InputStream;)*
+3*Â
+5=
+1D:/git_project/code/src/org/apache/tika/Tika.javaõ& õ(5ø
+õ
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaõ& õ(A(
+%0"org.apache.tika.io.TikaInputStream"Norg.apache.tika.io.TikaInputStream#get([B)Lorg/apache/tika/io/TikaInputStream;*&"$
+"org.apache.tika.io.TikaInputStream*
+
+prefixbyte[]*
+4:
+prefixbyte[]B
+org.apache.tika.Tika

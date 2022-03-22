@@ -1,0 +1,36 @@
+
+dorg.apache.tika.config.ServiceLoader#findServiceResources(Ljava/lang/String;)Ljava/util/Enumeration;M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javaâ â(0"5*ç
+4M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javaä
+ ä(H›
+˜
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javaä
+ ä(H"
+	resourcesjava.util.Enumeration"__id*
+
+%1java.util.Enumeration"u
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javaå
+ å($
+"
+	resourcesjava.util.Enumeration*ª
+5M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javaä' ä(-«
+¨
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javaä' ä(-
+%0java.lang.ClassLoader"__id*4*2&
+$org.apache.tika.config.ServiceLoader"
+loader¢Ÿ
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javaä' ä(G
+%1java.util.Enumeration"Mjava.lang.ClassLoader#getResources(Ljava/lang/String;)Ljava/util/Enumeration;*
+
+%0java.lang.ClassLoader*!
+
+filePatternjava.lang.String2 getResources(Ljava/lang/String;)*
+4:
+filePatternjava.lang.StringB(&
+$org.apache.tika.config.ServiceLoader

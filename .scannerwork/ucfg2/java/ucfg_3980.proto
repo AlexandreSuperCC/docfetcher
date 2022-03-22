@@ -1,0 +1,50 @@
+
+}null#compare(Lnet/sourceforge/docfetcher/util/collect/ListMap$Entry;Lnet/sourceforge/docfetcher/util/collect/ListMap$Entry;)IZ
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java< <("1*€
+1Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java> >(¯¬
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java> >(3
+%0-net.sourceforge.docfetcher.model.parse.Parser"Pnet.sourceforge.docfetcher.util.collect.ListMap$Entry#getKey()Ljava/lang/Object;*=
+;
+o15net.sourceforge.docfetcher.util.collect.ListMap$Entry2getKey()Ž‹
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java> >(.
+%1java.lang.String"Nnet.sourceforge.docfetcher.model.parse.Parser#getTypeLabel()Ljava/lang/String;*5
+3
+%0-net.sourceforge.docfetcher.model.parse.Parser2getTypeLabel()›
+˜
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java> >(/
+label1java.lang.String"__id*
+
+%1java.lang.String¯¬
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java? ?(3
+%2-net.sourceforge.docfetcher.model.parse.Parser"Pnet.sourceforge.docfetcher.util.collect.ListMap$Entry#getKey()Ljava/lang/Object;*=
+;
+o25net.sourceforge.docfetcher.util.collect.ListMap$Entry2getKey()Ž‹
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java? ?(.
+%3java.lang.String"Nnet.sourceforge.docfetcher.model.parse.Parser#getTypeLabel()Ljava/lang/String;*5
+3
+%2-net.sourceforge.docfetcher.model.parse.Parser2getTypeLabel()›
+˜
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java? ?(/
+label2java.lang.String"__id*
+
+%3java.lang.Stringöó
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java@ @(#	
+%4int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+label1java.lang.String*
+
+label2java.lang.String2compareTo(Ljava/lang/String;)"d
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java@ @($
+"":;
+o15net.sourceforge.docfetcher.util.collect.ListMap$Entry:;
+o25net.sourceforge.docfetcher.util.collect.ListMap$EntryB><
+:Lnet/sourceforge/docfetcher/gui/filter/FileTypePanel$2132;

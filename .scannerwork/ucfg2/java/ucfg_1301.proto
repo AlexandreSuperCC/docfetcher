@@ -1,0 +1,46 @@
+
+Zorg.apache.tika.parser.rtf.RTFEmbObjHandler#getConfig()Lorg/apache/tika/config/TikaConfig;T
+HD:/git_project/code/src/org/apache/tika/parser/rtf/RTFEmbObjHandler.javaÑ Ñ( "3*ù
+2T
+HD:/git_project/code/src/org/apache/tika/parser/rtf/RTFEmbObjHandler.javaá á(Ç
+ˇ
+T
+HD:/git_project/code/src/org/apache/tika/parser/rtf/RTFEmbObjHandler.javaá á(2'
+%2!org.apache.tika.config.TikaConfig"Worg.apache.tika.config.TikaConfig#getDefaultConfig()Lorg/apache/tika/config/TikaConfig;*%"#
+!org.apache.tika.config.TikaConfig∑
+¥
+T
+HD:/git_project/code/src/org/apache/tika/parser/rtf/RTFEmbObjHandler.javaá á(2+
+config!org.apache.tika.config.TikaConfig"__id*)
+'
+%2!org.apache.tika.config.TikaConfig*
+1*Ü
+3T
+HD:/git_project/code/src/org/apache/tika/parser/rtf/RTFEmbObjHandler.javaÖ Ö(#»
+≈
+T
+HD:/git_project/code/src/org/apache/tika/parser/rtf/RTFEmbObjHandler.javaÖ Ö(#)
+%0#org.apache.tika.parser.ParseContext"__id*<*:-
++org.apache.tika.parser.rtf.RTFEmbObjHandler"	
+contextùö
+T
+HD:/git_project/code/src/org/apache/tika/parser/rtf/RTFEmbObjHandler.javaÖ Ö(9'
+%1!org.apache.tika.config.TikaConfig"Lorg.apache.tika.parser.ParseContext#get(Ljava/lang/Class;)Ljava/lang/Object;*+
+)
+%0#org.apache.tika.parser.ParseContext*
+""2get(Ljava/lang/Class;)∑
+¥
+T
+HD:/git_project/code/src/org/apache/tika/parser/rtf/RTFEmbObjHandler.javaÖ Ö(:+
+config!org.apache.tika.config.TikaConfig"__id*)
+'
+%1!org.apache.tika.config.TikaConfig*
+2
+1*·
+1T
+HD:/git_project/code/src/org/apache/tika/parser/rtf/RTFEmbObjHandler.javaâ â("Ö
+T
+HD:/git_project/code/src/org/apache/tika/parser/rtf/RTFEmbObjHandler.javaâ â(-
++
+config!org.apache.tika.config.TikaConfigB/-
++org.apache.tika.parser.rtf.RTFEmbObjHandler

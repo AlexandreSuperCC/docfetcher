@@ -1,0 +1,23 @@
+
+8null#apply(Lnet/sourceforge/docfetcher/model/ViewNode;)ZY
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java• •("1*˜
+1Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java– –(Ê
+Ç
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java– –(
+%0java.util.Set"__id*O*M9
+7Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$6625;"
+nodesToBeAdded…‚
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java– –(,
+%1boolean"+java.util.Set#contains(Ljava/lang/Object;)Z*
+
+%0java.util.Set*4
+2
+child)net.sourceforge.docfetcher.model.ViewNode2contains(Ljava/lang/Object;)"c
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java– –(-
+"":2
+child)net.sourceforge.docfetcher.model.ViewNodeB;9
+7Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$6625;

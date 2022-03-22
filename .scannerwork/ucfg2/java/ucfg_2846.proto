@@ -1,0 +1,17 @@
+
+Porg.apache.tika.config.TikaConfig#getDetector()Lorg/apache/tika/detect/Detector;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¯ ¯("1*Œ
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java° °(º
+·
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java° °(.
+%0(org.apache.tika.detect.CompositeDetector"__id*3*1#
+!org.apache.tika.config.TikaConfig"
+
+detector"~
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java° °(0
+.
+%0(org.apache.tika.detect.CompositeDetectorB%#
+!org.apache.tika.config.TikaConfig

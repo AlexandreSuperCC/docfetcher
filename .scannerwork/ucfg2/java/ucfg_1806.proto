@@ -1,0 +1,36 @@
+
+^org.apache.tika.parser.ParseContext#get(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;J
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javal l("3*´
+2J
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javao o("Z
+J
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javao o(
+
+
+valueT*»
+3J
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javam m(Å˛
+J
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javam m(
+%0T"Lorg.apache.tika.parser.ParseContext#get(Ljava/lang/Class;)Ljava/lang/Object;*'%
+#org.apache.tika.parser.ParseContext*
+
+keyjava.lang.Class2get(Ljava/lang/Class;)k
+i
+J
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javam m(
+
+valueT"__id*	
+
+%0T*
+2
+1*≤
+1J
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaq q("a
+J
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaq q( 
+
+defaultValueT:
+keyjava.lang.Class:
+defaultValueTB'%
+#org.apache.tika.parser.ParseContext

@@ -1,0 +1,57 @@
+
+wnet.sourceforge.docfetcher.model.DocumentType#createUniqueId(Lnet/sourceforge/docfetcher/model/Path;)Ljava/lang/String;T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java" "("startingBlock*Ã
+startingBlockT
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java" "(1Õ
+Ò
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java! !(	
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*/
+-
+path%net.sourceforge.docfetcher.model.PathÕ
+Ò
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java" "(&
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*/
+-
+path%net.sourceforge.docfetcher.model.Path¦
+£
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java", "(0-
+path%net.sourceforge.docfetcher.model.Path"__annotation*
+
+%3*
+
+%4*
+1*©
+1T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java#	 #(¶
+³
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java#	 #(
+%0java.lang.String"__id*=*;/
+-net.sourceforge.docfetcher.model.DocumentType"
+prefixðí
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java# #( 
+%1java.lang.String"Anet.sourceforge.docfetcher.model.Path#getPath()Ljava/lang/String;*/
+-
+path%net.sourceforge.docfetcher.model.Path2	getPath()¯
+¬
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java#	 #( 
+%2java.lang.String"__concat*
+
+%0java.lang.String*
+
+%1java.lang.String"p
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/DocumentType.java# #(!
+
+%2java.lang.String:-
+path%net.sourceforge.docfetcher.model.PathB1/
+-net.sourceforge.docfetcher.model.DocumentType

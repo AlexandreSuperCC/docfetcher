@@ -1,0 +1,15 @@
+
+Dorg.apache.tika.io.TaggedIOException#getCause()Ljava/io/IOException;K
+AD:/git_project/code/src/org/apache/tika/io/TaggedIOException.java< <("1*ç
+1K
+AD:/git_project/code/src/org/apache/tika/io/TaggedIOException.java= =("¨
+¥
+K
+AD:/git_project/code/src/org/apache/tika/io/TaggedIOException.java= =(-
+%0java.lang.Throwable"3java.lang.Throwable#getCause()Ljava/lang/Throwable;*
+"""j
+K
+AD:/git_project/code/src/org/apache/tika/io/TaggedIOException.java= =(.
+
+%0java.lang.ThrowableB(&
+$org.apache.tika.io.TaggedIOException

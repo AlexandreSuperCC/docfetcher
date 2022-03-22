@@ -1,0 +1,23 @@
+
+Znet.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer#getColumns()Ljava/util/List;f
+ZD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/VirtualTableViewer.java¥ ¥(("1*É
+1f
+ZD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/VirtualTableViewer.java¦	 ¦(×
+Ô
+f
+ZD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/VirtualTableViewer.java¦& ¦(-
+%0java.util.List"__id*N*L?
+=net.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer"	
+columnsþ
+û
+f
+ZD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/VirtualTableViewer.java¦	 ¦(.
+%1java.util.List"Hjava.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;*"
+java.util.Collections*
+
+%0java.util.List"€
+f
+ZD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/VirtualTableViewer.java¦ ¦(/
+
+%1java.util.ListBA?
+=net.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer

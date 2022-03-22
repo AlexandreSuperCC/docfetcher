@@ -1,0 +1,41 @@
+
+[net.contentobjects.jnotify.win32.JNotifyAdapterWin32$WatchData#toString()Ljava/lang/String;[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaj j("1*À
+1[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javal
+ l(“
+
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javal
+ l(
+%0java.lang.String"__concat*
+wd=*
+""«
+¨
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javal
+ l(#
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+	, action ç
+ä
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javal& l(=
+%2java.lang.String"@net.contentobjects.jnotify.Util#getMaskDesc(I)Ljava/lang/String;*#"!
+net.contentobjects.jnotify.Util*
+""¶
+³
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javal
+ l(=
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String"w
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javal l(>
+
+%3java.lang.StringBB@
+>net.contentobjects.jnotify.win32.JNotifyAdapterWin32$WatchData

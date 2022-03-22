@@ -1,0 +1,40 @@
+
+gorg.apache.tika.concurrent.SimpleThreadPoolExecutor$1#newThread(Ljava/lang/Runnable;)Ljava/lang/Thread;Z
+PD:/git_project/code/src/org/apache/tika/concurrent/SimpleThreadPoolExecutor.java# #(#"startingBlock*¨
+startingBlockZ
+PD:/git_project/code/src/org/apache/tika/concurrent/SimpleThreadPoolExecutor.java## #(/¤
+¡
+Z
+PD:/git_project/code/src/org/apache/tika/concurrent/SimpleThreadPoolExecutor.java" "(
+%2"
+__annotate*
+java.lang.Override*
+
+rjava.lang.RunnableŽ
+‹
+Z
+PD:/git_project/code/src/org/apache/tika/concurrent/SimpleThreadPoolExecutor.java#- #(.
+rjava.lang.Runnable"__annotation*
+
+%2*
+1*Ü
+1Z
+PD:/git_project/code/src/org/apache/tika/concurrent/SimpleThreadPoolExecutor.java$" $(#‰†
+Z
+PD:/git_project/code/src/org/apache/tika/concurrent/SimpleThreadPoolExecutor.java$ $(!
+%0java.lang.Thread"java.lang.Threadö
+ó
+Z
+PD:/git_project/code/src/org/apache/tika/concurrent/SimpleThreadPoolExecutor.java$ $(<
+%1"@java.lang.Thread#<init>(Ljava/lang/Runnable;Ljava/lang/String;)V*
+
+%0java.lang.Thread*
+
+rjava.lang.Runnable*
+Tika Executor Thread"v
+Z
+PD:/git_project/code/src/org/apache/tika/concurrent/SimpleThreadPoolExecutor.java$ $(=
+
+%0java.lang.Thread:
+rjava.lang.RunnableB97
+5org.apache.tika.concurrent.SimpleThreadPoolExecutor$1

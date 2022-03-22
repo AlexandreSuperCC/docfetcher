@@ -1,0 +1,61 @@
+
+)org.apache.tika.mime.MagicMatch#eval([B)ZF
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java; ;("6*ù
+2F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java? ?( ~
+|
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java? ?(-$
+%6org.apache.tika.mime.MediaType"__id*
+"""P
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java= ?(.
+""*ç
+3F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java= >(C∫∑
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java= >(C$
+%5org.apache.tika.mime.MediaType"Öorg.apache.tika.detect.MagicDetector#detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/mime/MediaType;*,
+*
+%0$org.apache.tika.detect.MagicDetector*$
+"
+%1java.io.ByteArrayInputStream*)
+'
+%3!org.apache.tika.metadata.Metadata2@detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)*
+2*ñ
+4F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java>4 >(Bóî
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java>8 >(@'
+%3!org.apache.tika.metadata.Metadata"!org.apache.tika.metadata.Metadata©
+¶
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java>4 >(B
+%4"+org.apache.tika.metadata.Metadata#<init>()V*)
+'
+%3!org.apache.tika.metadata.Metadata*
+3*ñ
+5F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java>- >(1çä
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java> >(,"
+%1java.io.ByteArrayInputStream"java.io.ByteArrayInputStream≥
+∞
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java> >(2
+%2"(java.io.ByteArrayInputStream#<init>([B)V*$
+"
+%1java.io.ByteArrayInputStream*
+
+databyte[]*
+4*ƒ
+6F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java= =(Ò
+Ó
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java= =( *
+%0$org.apache.tika.detect.MagicDetector"Sorg.apache.tika.mime.MagicMatch#getDetector()Lorg/apache/tika/detect/MagicDetector;*#!
+org.apache.tika.mime.MagicMatch*
+5:
+databyte[]B#!
+org.apache.tika.mime.MagicMatch

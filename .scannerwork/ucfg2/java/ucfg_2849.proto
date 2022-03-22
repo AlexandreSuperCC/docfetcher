@@ -1,0 +1,16 @@
+
+Uorg.apache.tika.config.TikaConfig#getMimeRepository()Lorg/apache/tika/mime/MimeTypes;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÀ À(&"1*ù
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÁ Á(±
+®
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÁ Á($
+%0org.apache.tika.mime.MimeTypes"__id*4*2#
+!org.apache.tika.config.TikaConfig"
+	mimeTypes"t
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÁ Á(&
+$
+%0org.apache.tika.mime.MimeTypesB%#
+!org.apache.tika.config.TikaConfig

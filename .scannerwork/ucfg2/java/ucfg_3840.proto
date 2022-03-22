@@ -1,0 +1,54 @@
+
+torg.apache.tika.sax.ToXMLContentHandler$ElementInfo#getQName(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;N
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.javaB B("3*è
+2N
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.javaF F(ö
+ó
+N
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.javaF F(#
+%2java.lang.String"__concat*
+
+prefixjava.lang.String*
+:∞
+≠
+N
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.javaF F(/
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+
+	localNamejava.lang.String"j
+N
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.javaF F(0
+
+%3java.lang.String*ÿ
+3N
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.javaD D(%√¿
+N
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.javaD D(*
+%0java.lang.String"corg.apache.tika.sax.ToXMLContentHandler$ElementInfo#getPrefix(Ljava/lang/String;)Ljava/lang/String;*75
+3org.apache.tika.sax.ToXMLContentHandler$ElementInfo*
+
+urijava.lang.String2getPrefix(Ljava/lang/String;)è
+å
+N
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.javaD D(+
+prefixjava.lang.String"__id*
+
+%0java.lang.String¢ü
+N
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.javaE E(	
+%1int"java.lang.String#length()I*
+
+prefixjava.lang.String2length()*
+2
+1*∆
+1N
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.javaH H( "q
+N
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.javaH H(!
+
+	localNamejava.lang.String:
+urijava.lang.String:
+	localNamejava.lang.StringB75
+3org.apache.tika.sax.ToXMLContentHandler$ElementInfo

@@ -1,0 +1,160 @@
+
+Korg.apache.tika.parser.chm.core.ChmCommons#getLanguage(J)Ljava/lang/String;Q
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaz z($"24"25"26"27"28"29"30"10"11"12"13"14"15"16"17"18"19"2"3"4"5"6"7"8"9"20"21"22"23*º
+24S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaâ ä("a
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaä ä(
+
+Danish*ª
+25S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaá à("`
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaà à(	
+Czech*À
+26S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaÖ Ü(+"p
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaÜ Ü(+
+Chinese (Traditional)* 
+27S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaÉ Ñ(*"o
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaÑ Ñ(*
+Chinese (Simplified)*Ω
+28S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaÅ Ç("b
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaÇ Ç(	
+Catalan*ª
+29R
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java Ä("a
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaÄ Ä(
+
+Basque*∏
+30Q
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java} ~("_
+Q
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java~ ~(
+
+Arabic*¿
+10S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java• ¶( "e
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java¶ ¶( 
+
+Portuguese*º
+11S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java£ §("a
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java§ §(
+
+Polish*ø
+12S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java° ¢("d
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java¢ ¢(
+	Norwegian*º
+13S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaü †("a
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java† †(
+
+Korean*æ
+14S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaù û("c
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaû û(
+
+Japanese*Ω
+15S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaõ ú("b
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaú ú(	
+Italian*ø
+16S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaô ö("d
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaö ö(
+	Hungarian*º
+17S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaó ò("a
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaò ò(
+
+Hebrew*ª
+18S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaï ñ("`
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javañ ñ(	
+Greek*º
+19S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaì î("a
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaî î(
+
+German*Ä
+2S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaµ ∂(`"•
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java∂ ∂(`NL
+Junknown - http://msdn.microsoft.com/en-us/library/bb165625%28VS.80%29.aspx*º
+3S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java≥ ¥("b
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java¥ ¥(	
+Turkish*º
+4S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java± ≤("b
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java≤ ≤(	
+Swedish*º
+5S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaØ ∞("b
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java∞ ∞(	
+Spanish*æ
+6S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java≠ Æ("d
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaÆ Æ(
+	Slovenian*æ
+7S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java´ ¨("d
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java¨ ¨(
+	Slovakian*º
+8S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java© ™("b
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java™ ™(	
+Russian*»
+9S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaß ®()"n
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.java® ®()
+Portuguese (Brazil)*º
+20S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaë í("a
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaí í(
+
+French*Ω
+21S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaè ê("b
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaê ê(	
+Finnish*Õ
+22S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaç é(-"r
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaé é(-
+English (United States)*ª
+23S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaã å("`
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaå å(	
+Dutch:
+""B.",
+*org.apache.tika.parser.chm.core.ChmCommons

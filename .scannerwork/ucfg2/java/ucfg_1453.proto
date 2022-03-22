@@ -1,0 +1,45 @@
+
+Znet.sourceforge.docfetcher.util.Util#getDefaultIndexName(Ljava/io/File;)Ljava/lang/String;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaœ
+ œ
+()"1*ä
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java–
+ –
+(£
+†
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java–
+ –
+(=
+%0java.lang.String"hnet.sourceforge.docfetcher.util.Util#getNameOrLetter(Ljava/io/File;Ljava/lang/String;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+rootFilejava.io.File*
+:\\î
+ë
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java–
+ –
+(> 
+nameOrLetterjava.lang.String"__id*
+
+%0java.lang.Stringç
+ä
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java—
+
+ —
+(%
+%1java.lang.String"Snet.sourceforge.docfetcher.util.Util#truncate(Ljava/lang/String;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*"
+ 
+nameOrLetterjava.lang.String"i
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java—
+ —
+('
+
+%1java.lang.String:
+rootFilejava.io.FileB("&
+$net.sourceforge.docfetcher.util.Util

@@ -1,0 +1,29 @@
+
+@net.contentobjects.jnotify.macosx.JNotify_macosx#removeWatch(I)ZW
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.javaR R(""4*£
+3W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.javaW W(¿
+¼
+W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.javaW W(
+%1java.lang.Object"__id*C*A2
+0net.contentobjects.jnotify.macosx.JNotify_macosx"
+	countLock*
+1*Ø
+4W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.javaT T(%ñ
+î
+W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.javaT T()
+%0boolean"Fnet.contentobjects.jnotify.macosx.JNotify_macosx#nativeRemoveWatch(I)Z*4"2
+0net.contentobjects.jnotify.macosx.JNotify_macosx*
+""*
+3
+1*¿
+1W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.java\	 \("a
+W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.java\ \(
+"":
+""B4"2
+0net.contentobjects.jnotify.macosx.JNotify_macosx

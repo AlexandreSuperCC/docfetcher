@@ -1,0 +1,55 @@
+
+Norg.apache.tika.parser.mp3.CompositeTagHandler#getComposer()Ljava/lang/String;U
+KD:/git_project/code/src/org/apache/tika/parser/mp3/CompositeTagHandler.javaF F("5*¬
+2U
+KD:/git_project/code/src/org/apache/tika/parser/mp3/CompositeTagHandler.javaG G(ì
+ê
+U
+KD:/git_project/code/src/org/apache/tika/parser/mp3/CompositeTagHandler.javaG G()
+tag"org.apache.tika.parser.mp3.ID3Tags"__id*
+""«
+ƒ
+U
+KD:/git_project/code/src/org/apache/tika/parser/mp3/CompositeTagHandler.javaG G()
+tag"org.apache.tika.parser.mp3.ID3Tags"
+__arrayGet*,
+*
+%0$org.apache.tika.parser.mp3.ID3Tags[]*
+""*
+4
+1*¬
+3U
+KD:/git_project/code/src/org/apache/tika/parser/mp3/CompositeTagHandler.javaI I(ÚÔ
+U
+KD:/git_project/code/src/org/apache/tika/parser/mp3/CompositeTagHandler.javaI I((
+%2java.lang.String"Borg.apache.tika.parser.mp3.ID3Tags#getComposer()Ljava/lang/String;*+
+)
+tag"org.apache.tika.parser.mp3.ID3Tags2getComposer()"q
+U
+KD:/git_project/code/src/org/apache/tika/parser/mp3/CompositeTagHandler.javaI I()
+
+%2java.lang.String*◊
+4U
+KD:/git_project/code/src/org/apache/tika/parser/mp3/CompositeTagHandler.javaH H(ÚÔ
+U
+KD:/git_project/code/src/org/apache/tika/parser/mp3/CompositeTagHandler.javaH H(!
+%1java.lang.String"Borg.apache.tika.parser.mp3.ID3Tags#getComposer()Ljava/lang/String;*+
+)
+tag"org.apache.tika.parser.mp3.ID3Tags2getComposer()*
+2
+3*¨
+5U
+KD:/git_project/code/src/org/apache/tika/parser/mp3/CompositeTagHandler.javaG G( 
+«
+U
+KD:/git_project/code/src/org/apache/tika/parser/mp3/CompositeTagHandler.javaG G(*
+%0$org.apache.tika.parser.mp3.ID3Tags[]"__id*<*:0
+.org.apache.tika.parser.mp3.CompositeTagHandler"
+tags*
+2*ª
+1U
+KD:/git_project/code/src/org/apache/tika/parser/mp3/CompositeTagHandler.javaL L("_
+U
+KD:/git_project/code/src/org/apache/tika/parser/mp3/CompositeTagHandler.javaL L(
+""B20
+.org.apache.tika.parser.mp3.CompositeTagHandler

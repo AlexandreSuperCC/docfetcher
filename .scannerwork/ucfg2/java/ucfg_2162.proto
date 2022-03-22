@@ -1,0 +1,21 @@
+
+onet.sourceforge.docfetcher.build.FileSets#setDir(Ljava/lang/String;)Lnet/sourceforge/docfetcher/build/FileSets;P
+FD:/git_project/code/src/net/sourceforge/docfetcher/build/FileSets.java   ("1*ä
+1P
+FD:/git_project/code/src/net/sourceforge/docfetcher/build/FileSets.java! !(	vt
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/build/FileSets.java! !(
+%0java.io.File"java.io.File∂
+≥
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/build/FileSets.java! !(
+%1"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%0java.io.File*
+
+dirjava.lang.String"Å
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/build/FileSets.java" "(-+
+)net.sourceforge.docfetcher.build.FileSets:
+dirjava.lang.StringB-+
+)net.sourceforge.docfetcher.build.FileSets

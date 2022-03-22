@@ -1,0 +1,47 @@
+
+@net.sourceforge.docfetcher.gui.HotkeyHandler#registerHotkey(II)ZS
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/HotkeyHandler.java7 7("2"1*¦
+2S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/HotkeyHandler.java9 9(Ó
+Ð
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/HotkeyHandler.java9 9(7
+%01net.sourceforge.docfetcher.gui.HotkeyListenerImpl"__id*:*8.
+,net.sourceforge.docfetcher.gui.HotkeyHandler"
+implðí
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/HotkeyHandler.java9 9(
+
+%1void"gnet.sourceforge.docfetcher.gui.HotkeyListenerImpl#init(Lnet/sourceforge/docfetcher/gui/HotkeyHandler;)V*9
+7
+%01net.sourceforge.docfetcher.gui.HotkeyListenerImpl*0.
+,net.sourceforge.docfetcher.gui.HotkeyHandler24init(Lnet/sourceforge/docfetcher/gui/HotkeyHandler;)*
+1*ž
+1S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/HotkeyHandler.java<	 <(Ó
+Ð
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/HotkeyHandler.java<	 <(7
+%21net.sourceforge.docfetcher.gui.HotkeyListenerImpl"__id*:*8.
+,net.sourceforge.docfetcher.gui.HotkeyHandler"
+implp
+n
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/HotkeyHandler.java< <(&	
+%3int"__id*
+""œ™
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/HotkeyHandler.java<	 <(2
+%4boolean"Fnet.sourceforge.docfetcher.gui.HotkeyListenerImpl#registerHotkey(III)Z*9
+7
+%21net.sourceforge.docfetcher.gui.HotkeyListenerImpl*
+	
+%3int*
+""*
+""2registerHotkey(III)"]
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/HotkeyHandler.java< <(3
+"":
+"":
+""B0.
+,net.sourceforge.docfetcher.gui.HotkeyHandler

@@ -1,0 +1,41 @@
+
+onet.sourceforge.docfetcher.model.index.Task#update()Lnet/sourceforge/docfetcher/model/TreeIndex$IndexingResult;R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javaa a("1*¦
+1R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javab	 b(Í
+Ê
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javab	 b(2
+%0,net.sourceforge.docfetcher.model.LuceneIndex"__id*:*8-
++net.sourceforge.docfetcher.model.index.Task"
+indexÝ
+Ú
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javab b(?
+%19net.sourceforge.docfetcher.model.index.DelegatingReporter"__id*=*;-
++net.sourceforge.docfetcher.model.index.Task"
+
+reporter»¸
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javab$ b(.3
+%2-net.sourceforge.docfetcher.model.index.Task$1"-net.sourceforge.docfetcher.model.index.Task$1°
+­
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javab  f(
+%3"java.lang.Object#<init>()V*5
+3
+%2-net.sourceforge.docfetcher.model.index.Task$1‘Ž
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javab	 f(?
+%49net.sourceforge.docfetcher.model.TreeIndex$IndexingResult"Önet.sourceforge.docfetcher.model.LuceneIndex#update(Lnet/sourceforge/docfetcher/model/index/IndexingReporter;Lnet/sourceforge/docfetcher/model/Cancelable;)Lnet/sourceforge/docfetcher/model/TreeIndex$IndexingResult;*4
+2
+%0,net.sourceforge.docfetcher.model.LuceneIndex*A
+?
+%19net.sourceforge.docfetcher.model.index.DelegatingReporter*5
+3
+%2-net.sourceforge.docfetcher.model.index.Task$12nupdate(Lnet/sourceforge/docfetcher/model/index/IndexingReporter;Lnet/sourceforge/docfetcher/model/Cancelable;)"—
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javab f(A
+?
+%49net.sourceforge.docfetcher.model.TreeIndex$IndexingResultB/-
++net.sourceforge.docfetcher.model.index.Task

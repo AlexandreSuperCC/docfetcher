@@ -1,0 +1,29 @@
+
+Zorg.apache.tika.io.TikaInputStream#get(Ljava/net/URL;)Lorg/apache/tika/io/TikaInputStream;K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaû" û(%"1*
+1K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaü ü(œ™
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaü ü($'
+%0!org.apache.tika.metadata.Metadata"!org.apache.tika.metadata.Metadata®
+«
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaü ü(&
+%1"+org.apache.tika.metadata.Metadata#<init>()V*)
+'
+%0!org.apache.tika.metadata.Metadataã
+à
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaü ü('(
+%2"org.apache.tika.io.TikaInputStream"}org.apache.tika.io.TikaInputStream#get(Ljava/net/URL;Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/io/TikaInputStream;*&"$
+"org.apache.tika.io.TikaInputStream*
+
+urljava.net.URL*)
+'
+%0!org.apache.tika.metadata.Metadata"y
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaü ü((*
+(
+%2"org.apache.tika.io.TikaInputStream:
+urljava.net.URLB&"$
+"org.apache.tika.io.TikaInputStream

@@ -1,0 +1,19 @@
+
+.org.apache.tika.io.EndianUtils#getUIntLE([BI)JG
+;D:/git_project/code/src/org/apache/tika/io/EndianUtils.javaÙ Ù("1*æ
+1G
+;D:/git_project/code/src/org/apache/tika/io/EndianUtils.javaÚ Ú(Ä
+Á
+G
+;D:/git_project/code/src/org/apache/tika/io/EndianUtils.javaÚ Ú(+	
+%0int"-org.apache.tika.io.EndianUtils#getIntLE([BI)I*"" 
+org.apache.tika.io.EndianUtils*
+
+databyte[]*
+"""Q
+G
+;D:/git_project/code/src/org/apache/tika/io/EndianUtils.javaÛ Û(%
+"":
+databyte[]:
+""B"" 
+org.apache.tika.io.EndianUtils

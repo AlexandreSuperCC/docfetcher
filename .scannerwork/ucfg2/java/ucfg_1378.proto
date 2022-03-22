@@ -1,0 +1,60 @@
+
+Wnet.sourceforge.docfetcher.util.Util#encodeBase64(Ljava/lang/String;)Ljava/lang/String;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaä ä(""startingBlock*Î
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaä" ä(9∫
+∑
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaâ â(	
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+inputjava.lang.String∫
+∑
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaä# ä(+
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+inputjava.lang.Stringã
+à
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaä3 ä(8
+inputjava.lang.String"__annotation*
+
+%3*
+
+%4*
+1*∞
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaã ã(®•
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaã9 ã(I
+%0byte[]"java.lang.String#getBytes()[B*
+
+inputjava.lang.String2
+getBytes()Å
+
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaã ã(K 
+encodedBytesjava.lang.String"__id*
+""{y
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaå å(
+%1java.lang.String"java.lang.Stringƒ
+¡
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaå	 å(!
+%2",java.lang.String#<init>(Ljava/lang/String;)V*
+
+%1java.lang.String*"
+ 
+encodedBytesjava.lang.String"i
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaå å("
+
+%1java.lang.String:
+inputjava.lang.StringB("&
+$net.sourceforge.docfetcher.util.Util

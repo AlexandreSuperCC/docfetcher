@@ -1,0 +1,74 @@
+
+£net.sourceforge.docfetcher.model.HotColdFileCache#putIfAbsent(Lnet/sourceforge/docfetcher/model/Path;Ljava/io/File;)Lnet/sourceforge/docfetcher/model/FileResource;Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.javaš" š(-"startingBlock*“
+
+startingBlockZ
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.javaš- ›()Ú
+×
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java™ ™(	
+%1"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*.
+,
+key%net.sourceforge.docfetcher.model.PathÚ
+×
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.javaš/ š(7
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*.
+,
+key%net.sourceforge.docfetcher.model.Path«
+¨
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.javaš= š(@,
+key%net.sourceforge.docfetcher.model.Path"__annotation*
+
+%1*
+
+%2Ë
+È
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java™ ™(	
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+deletableFilejava.io.FileË
+È
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java› ›(
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+deletableFilejava.io.Fileœ
+™
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java› ›((
+deletableFilejava.io.File"__annotation*
+
+%3*
+
+%4*
+1*»
+1Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.javaœ	 œ(ÃÀ
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.javaœ	 œ(73
+%0-net.sourceforge.docfetcher.model.FileResource"±net.sourceforge.docfetcher.model.HotColdFileCache#putIfAbsent(Lnet/sourceforge/docfetcher/model/Path;Ljava/io/File;Ljava/io/File;)Lnet/sourceforge/docfetcher/model/FileResource;*53
+1net.sourceforge.docfetcher.model.HotColdFileCache*.
+,
+key%net.sourceforge.docfetcher.model.Path*
+
+deletableFilejava.io.File*
+
+deletableFilejava.io.File2PputIfAbsent(Lnet/sourceforge/docfetcher/model/Path;Ljava/io/File;Ljava/io/File;)"“
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.javaœ œ(85
+3
+%0-net.sourceforge.docfetcher.model.FileResource:,
+key%net.sourceforge.docfetcher.model.Path:
+deletableFilejava.io.FileB53
+1net.sourceforge.docfetcher.model.HotColdFileCache

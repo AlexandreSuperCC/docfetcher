@@ -1,0 +1,19 @@
+
+Jnet.sourceforge.docfetcher.model.Path#getCanonicalPath()Ljava/lang/String;N
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaç ç("1*È
+1N
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaé	 é(ÓÎ
+N
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaé	 é(
+%0java.io.File"Fnet.sourceforge.docfetcher.model.Path#getCanonicalFile()Ljava/io/File;*)'
+%net.sourceforge.docfetcher.model.Path2getCanonicalFile()∂≥
+N
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaé	 é(%
+%1java.lang.String"(java.io.File#getPath()Ljava/lang/String;*
+
+%0java.io.File2	getPath()"j
+N
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaé é(&
+
+%1java.lang.StringB)'
+%net.sourceforge.docfetcher.model.Path

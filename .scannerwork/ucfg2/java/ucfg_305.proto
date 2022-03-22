@@ -1,0 +1,117 @@
+
+ºnet.sourceforge.docfetcher.model.parse.AbiWordParser#parse(Ljava/io/InputStream;Lnet/sourceforge/docfetcher/model/parse/ParseContext;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java+ +("startingBlock*·
+startingBlock[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java+ ,(2§
+¤
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java* *(
+
+%8"
+__annotate*
+java.lang.Override*
+
+injava.io.InputStream‘
+Ž
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java+) +(+
+injava.io.InputStream"__annotation*
+
+%8Ì
+É
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java* *(
+
+%9"
+__annotate*
+java.lang.Override*@
+>
+context3net.sourceforge.docfetcher.model.parse.ParseContext¶
+³
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java,* ,(1>
+context3net.sourceforge.docfetcher.model.parse.ParseContext"__annotation*
+
+%9*
+1*‡
+1[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java- -(ž›
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java-  -(5
+%0java.lang.String"Snet.sourceforge.docfetcher.model.parse.ParseContext#getFilename()Ljava/lang/String;*@
+>
+context3net.sourceforge.docfetcher.model.parse.ParseContext2getFilename()È
+Å
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java- -(6
+%1"onet.sourceforge.docfetcher.model.parse.AbiWordParser#getSource(Ljava/io/InputStream;Ljava/lang/String;)LSource;*8"6
+4net.sourceforge.docfetcher.model.parse.AbiWordParser*
+
+injava.io.InputStream*
+
+%0java.lang.String¨
+¥
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java. .(3
+%2"nnet.sourceforge.docfetcher.model.parse.AbiWordParser#getMetaData(LSource;Ljava/lang/String;)Ljava/lang/String;*86
+4net.sourceforge.docfetcher.model.parse.AbiWordParser*
+""*
+
+dc.creatorŠ
+‡
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java. .(4
+authorjava.lang.String"__id*
+
+%2¦
+£
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java/ /(0
+%3"nnet.sourceforge.docfetcher.model.parse.AbiWordParser#getMetaData(LSource;Ljava/lang/String;)Ljava/lang/String;*86
+4net.sourceforge.docfetcher.model.parse.AbiWordParser*
+""*
+
+dc.title‰
+†
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java/ /(1
+titlejava.lang.String"__id*
+
+%3Œ
+‰
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java0 0(9
+contentsjava.lang.String"__id*
+""ÎË
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java1 1(8
+%42net.sourceforge.docfetcher.model.parse.ParseResult"2net.sourceforge.docfetcher.model.parse.ParseResult˜
+•
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java1	 1("
+%5"Tnet.sourceforge.docfetcher.model.parse.ParseResult#<init>(Ljava/lang/CharSequence;)V*:
+8
+%42net.sourceforge.docfetcher.model.parse.ParseResult*
+
+contentsjava.lang.String—”
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java1	 1(28
+%62net.sourceforge.docfetcher.model.parse.ParseResult"ƒnet.sourceforge.docfetcher.model.parse.ParseResult#setTitle(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*:
+8
+%42net.sourceforge.docfetcher.model.parse.ParseResult*
+
+titlejava.lang.String2setTitle(Ljava/lang/String;)š—
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java1	 1(D8
+%72net.sourceforge.docfetcher.model.parse.ParseResult"„net.sourceforge.docfetcher.model.parse.ParseResult#addAuthor(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*:
+8
+%62net.sourceforge.docfetcher.model.parse.ParseResult*
+
+authorjava.lang.String2addAuthor(Ljava/lang/String;)"™
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java1 1(E:
+8
+%72net.sourceforge.docfetcher.model.parse.ParseResult:
+injava.io.InputStream:>
+context3net.sourceforge.docfetcher.model.parse.ParseContextB86
+4net.sourceforge.docfetcher.model.parse.AbiWordParser

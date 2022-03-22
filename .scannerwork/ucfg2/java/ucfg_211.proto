@@ -1,0 +1,58 @@
+
+rnet.sourceforge.docfetcher.model.Folder#getDocument(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/Document;P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÿ ÿ(("startingBlock*±
+2P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaŸ  Ÿ($"Z
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaŸ Ÿ(%
+""*ê
+3P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaŸ Ÿ(∞
+≠
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaŸ Ÿ(
+%0java.util.HashMap"__id*:*8)
+'net.sourceforge.docfetcher.model.Folder"
+	documents*
+2
+1*Æ
+startingBlockP
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÿ( ÿ(5Ω
+∫
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java◊ ◊(
+
+%3"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+namejava.lang.StringÖ
+Ç
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÿ0 ÿ(4
+namejava.lang.String"__annotation*
+
+%3*
+3*â
+1P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java⁄	 ⁄(∞
+≠
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java⁄	 ⁄(
+%1java.util.HashMap"__id*:*8)
+'net.sourceforge.docfetcher.model.Folder"
+	documentsü
+ú
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java⁄	 ⁄(
+%2D"__mapGet*
+
+%1java.util.HashMap*
+
+namejava.lang.String"]
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java⁄ ⁄(	
+
+%2D:
+namejava.lang.StringB+)
+'net.sourceforge.docfetcher.model.Folder

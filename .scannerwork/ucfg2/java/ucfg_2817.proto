@@ -1,0 +1,103 @@
+
+áorg.apache.tika.parser.external.ExternalParsersFactory#create(Ljava/lang/String;Lorg/apache/tika/config/ServiceLoader;)Ljava/util/List;]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java4& 4(,"1*º
+1]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java6 6(4¬ø
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java6 6(A
+%0java.lang.Package"/java.lang.Class#getPackage()Ljava/lang/Package;*
+""2getPackage()œÃ
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java6 6(K
+%1java.lang.String"-java.lang.Package#getName()Ljava/lang/String;*
+
+%0java.lang.Package2	getName()ﬂ‹
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java6 6(]
+%2java.lang.String".java.lang.String#replace(CC)Ljava/lang/String;*
+
+%1java.lang.String*
+.*
+/2replace(CC)•
+¢
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java6 7(
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+/æ
+ª
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java6 7(#
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+
+filenamejava.lang.String†
+ù
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java6 7($
+filepathjava.lang.String"__id*
+
+%4java.lang.String·ﬁ
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java8 8(D
+%5java.util.Enumeration"dorg.apache.tika.config.ServiceLoader#findServiceResources(Ljava/lang/String;)Ljava/util/Enumeration;*0
+.
+loader$org.apache.tika.config.ServiceLoader*
+
+filepathjava.lang.String2(findServiceResources(Ljava/lang/String;)ß
+§
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java8 8(E
+filesjava.util.Enumeration"__id*
+
+%5java.util.EnumerationÑ
+Å
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java9 9(3
+%6java.util.ArrayList"Hjava.util.Collections#list(Ljava/util/Enumeration;)Ljava/util/ArrayList;*"
+java.util.Collections* 
+
+filesjava.util.Enumeration¢
+ü
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java9 9(4
+listjava.util.ArrayList"__id*
+
+%6java.util.ArrayList±Æ
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java:( :(3	
+%7int"java.util.ArrayList#size()I*
+
+listjava.util.ArrayList2size()àÖ
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java:  :(4
+%8java.net.URL[]"java.net.URL[]íè
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java: :(5
+%9java.net.URL[]"Cjava.util.ArrayList#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
+
+listjava.util.ArrayList*
+
+%8java.net.URL[]2toArray([Ljava/lang/Object;)ò
+ï
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java: :(6
+urlsjava.net.URL[]"__id*
+
+%9java.net.URL[]Ø
+¨
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java; ;(
+%10java.util.List"^org.apache.tika.parser.external.ExternalParsersFactory#create([Ljava/net/URL;)Ljava/util/List;*:"8
+6org.apache.tika.parser.external.ExternalParsersFactory*
+
+urlsjava.net.URL[]"x
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java; ;(
+
+%10java.util.List:
+filenamejava.lang.String:.
+loader$org.apache.tika.config.ServiceLoaderB:"8
+6org.apache.tika.parser.external.ExternalParsersFactory

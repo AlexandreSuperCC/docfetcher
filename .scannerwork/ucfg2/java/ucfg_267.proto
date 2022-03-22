@@ -1,0 +1,65 @@
+
+Tnet.sourceforge.docfetcher.util.gui.CocoaUIEnhancer#wrapPointer(J)Ljava/lang/Object;\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaô ô(%"4"5*ˆ
+2\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java÷ ÷("‡„
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java÷ ÷(
+%3java.lang.Long"java.lang.Long¢
+Ÿ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java÷ ÷($
+%4"java.lang.Long#<init>(J)V*
+
+%3java.lang.Long*
+"""v
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java÷ ÷(%
+
+%3java.lang.Long*ù
+3\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaõ õ(H
+Š
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaõ õ(H
+	PTR_CLASSjava.lang.Class"__id*
+
+%0*
+2
+1*ï
+4\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaõ> õ(G†
+ƒ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaõ> õ(G
+%0"__id*
+
+%2java.lang.Class*
+3*ï
+5\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaõ1 õ(;†
+ƒ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaõ1 õ(;
+%0"__id*
+
+%1java.lang.Class*
+3*—
+1\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaù& ù(+Š
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaù ù(
+%5java.lang.Integer"java.lang.Integer¨
+¥
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaù ù(-
+%6"java.lang.Integer#<init>(I)V*
+
+%5java.lang.Integer*
+"""y
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaù ù(.
+
+%5java.lang.Integer:
+""B7"5
+3net.sourceforge.docfetcher.util.gui.CocoaUIEnhancer

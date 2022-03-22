@@ -1,0 +1,58 @@
+
+Corg.apache.tika.Tika#detect(Ljava/nio/file/Path;)Ljava/lang/String;=
+1D:/git_project/code/src/org/apache/tika/Tika.javaâ â("4*—
+2=
+1D:/git_project/code/src/org/apache/tika/Tika.javaã ã(Eì
+ê
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaã ã(E
+streamjava.io.InputStream"__id**
+(
+%2"org.apache.tika.io.TikaInputStreamÒÓ
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaå å(+
+%3java.lang.String"gorg.apache.tika.Tika#detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)Ljava/lang/String;*
+org.apache.tika.Tika*
+
+streamjava.io.InputStream*/
+-
+metadata!org.apache.tika.metadata.Metadata2@detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)*
+1*≥
+3=
+1D:/git_project/code/src/org/apache/tika/Tika.javaã" ã(1È
+Ê
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaã" ã(E(
+%2"org.apache.tika.io.TikaInputStream"Éorg.apache.tika.io.TikaInputStream#get(Ljava/nio/file/Path;Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/io/TikaInputStream;*&"$
+"org.apache.tika.io.TikaInputStream*
+
+pathjava.nio.file.Path*/
+-
+metadata!org.apache.tika.metadata.Metadata*
+2*†
+4=
+1D:/git_project/code/src/org/apache/tika/Tika.javaä ä(*éã
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaä  ä(('
+%0!org.apache.tika.metadata.Metadata"!org.apache.tika.metadata.Metadata†
+ù
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaä ä(*
+%1"+org.apache.tika.metadata.Metadata#<init>()V*)
+'
+%0!org.apache.tika.metadata.Metadata¢
+ü
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaä ä(+-
+metadata!org.apache.tika.metadata.Metadata"__id*)
+'
+%0!org.apache.tika.metadata.Metadata*
+3*ù
+1=
+1D:/git_project/code/src/org/apache/tika/Tika.javaå å(,"Y
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaå å(,
+
+%3java.lang.String:
+pathjava.nio.file.PathB
+org.apache.tika.Tika

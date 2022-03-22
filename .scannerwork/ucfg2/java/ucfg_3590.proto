@@ -1,0 +1,112 @@
+
+jorg.apache.tika.parser.xml.ElementMetadataHandler#isMatchingElement(Ljava/lang/String;Ljava/lang/String;)ZZ
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java® ®('"10*å
+2Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java³0 ³(9†
+ƒ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java³A ³(R
+%10java.lang.String"__id*
+""õò
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java³0 ³(S
+%11boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	localNamejava.lang.String*
+
+%10java.lang.String2equals(Ljava/lang/Object;)*
+1*ß
+3Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java³ ³(…
+‚
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java³$ ³(+
+%8java.lang.String"__id*
+""íê
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java³ ³(,
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+urijava.lang.String*
+
+%8java.lang.String2equals(Ljava/lang/Object;)*
+2
+1*å
+5Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java²1 ²(:…
+‚
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java²B ²(T
+%6java.lang.String"__id*
+""óð
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java²1 ²(U
+%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	localNamejava.lang.String*
+
+%6java.lang.String2equals(Ljava/lang/Object;)*
+3
+1*â
+6Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java² ²(…
+‚
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java²% ²(,
+%4java.lang.String"__id*
+""íê
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java² ²(-
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+urijava.lang.String*
+
+%4java.lang.String2equals(Ljava/lang/Object;)*	
+3
+5
+1*£
+9Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java°( °(1Ã
+À
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java°9 °(G
+%2java.lang.String"__id*D*B3
+1org.apache.tika.parser.xml.ElementMetadataHandler"
+	localNameóð
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java°( °(H
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	localNamejava.lang.String*
+
+%2java.lang.String2equals(Ljava/lang/Object;)*
+6
+1*›
+10Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java° °(½
+º
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java° °(#
+%0java.lang.String"__id*>*<3
+1org.apache.tika.parser.xml.ElementMetadataHandler"
+uriíê
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java° °($
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+urijava.lang.String*
+
+%0java.lang.String2equals(Ljava/lang/Object;)*	
+6
+9
+1*Å
+1Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java° µ(
+"d
+Z
+ND:/git_project/code/src/org/apache/tika/parser/xml/ElementMetadataHandler.java° µ(
+
+"":
+urijava.lang.String:
+	localNamejava.lang.StringB53
+1org.apache.tika.parser.xml.ElementMetadataHandler

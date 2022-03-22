@@ -1,0 +1,61 @@
+
+-org.apache.tika.io.ProxyInputStream#read([B)IJ
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.javaK K("startingBlock*¥
+3J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.javaP P("T
+J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.javaP P(
+""*â
+startingBlockJ
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.javaK K(Š
+‡
+J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.javaJ J(
+%5"
+__annotate*
+java.lang.Override*
+
+btsbyte[]s
+q
+J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.javaK K(
+btsbyte[]"__annotation*
+
+%5*
+6*¤
+4J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.javaN N(!ÍÊ
+J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.javaO O(
+
+%3void"1org.apache.tika.io.ProxyInputStream#afterRead(I)V*'%
+#org.apache.tika.io.ProxyInputStream*
+""2afterRead(I)*
+3*¬
+5J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.javaN N(¡
+ž
+J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.javaN N(
+%1java.io.InputStream"__id*/*-%
+#org.apache.tika.io.ProxyInputStream"
+in±®
+J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.javaN N( 	
+%2int"java.io.InputStream#read([B)I*
+
+%1java.io.InputStream*
+
+btsbyte[]2read([B)*
+4*¦
+6J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.javaM M(ÏÌ
+J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.javaM M("
+
+%0void"2org.apache.tika.io.ProxyInputStream#beforeRead(I)V*'%
+#org.apache.tika.io.ProxyInputStream*
+""2beforeRead(I)*
+5:
+btsbyte[]B'%
+#org.apache.tika.io.ProxyInputStream

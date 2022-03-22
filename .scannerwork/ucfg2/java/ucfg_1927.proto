@@ -1,0 +1,16 @@
+
+]org.apache.tika.parser.external.ExternalParser#getMetadataExtractionPatterns()Ljava/util/Map;U
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javas s(<"1*Œ
+1U
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javat t(¿
+¼
+U
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javat t(
+%0java.util.Map"__id*H*F0
+.org.apache.tika.parser.external.ExternalParser"
+metadataPatterns"n
+U
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javat t(
+
+%0java.util.MapB20
+.org.apache.tika.parser.external.ExternalParser

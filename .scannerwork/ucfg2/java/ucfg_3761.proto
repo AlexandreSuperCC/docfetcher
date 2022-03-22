@@ -1,0 +1,109 @@
+
+Knet.sourceforge.docfetcher.gui.indexing.OutlookConfigPanel#writeToConfig()Za
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaP P( "1*Å'
+1a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaQ Q(Î
+Ë
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaQ Q(2
+%0,net.sourceforge.docfetcher.model.LuceneIndex"__id*I*G<
+:net.sourceforge.docfetcher.gui.indexing.OutlookConfigPanel"
+index◊‘
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaQ Q(+;
+%15net.sourceforge.docfetcher.model.index.IndexingConfig"onet.sourceforge.docfetcher.model.LuceneIndex#getConfig()Lnet/sourceforge/docfetcher/model/index/IndexingConfig;*4
+2
+%0,net.sourceforge.docfetcher.model.LuceneIndex2getConfig()Ï
+È
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaQ Q(,?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig"__id*=
+;
+%15net.sourceforge.docfetcher.model.index.IndexingConfigöó
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaR R(:
+%2"Knet.sourceforge.docfetcher.model.index.IndexingConfig#setIndexFilenames(Z)V*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*
+""2setIndexFilenames(Z)¢ü
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaS S(C
+%3"Onet.sourceforge.docfetcher.model.index.IndexingConfig#setStoreRelativePaths(Z)V*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*
+""2setStoreRelativePaths(Z)ñì
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaT T(6
+%4"Inet.sourceforge.docfetcher.model.index.IndexingConfig#setWatchFolders(Z)V*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*
+""2setWatchFolders(Z)ÿ’
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaW' W(4:
+%54net.sourceforge.docfetcher.model.index.PatternAction"4net.sourceforge.docfetcher.model.index.PatternActionÑ
+Å
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaW# W(:
+%6"Pnet.sourceforge.docfetcher.model.index.PatternAction#<init>(Ljava/lang/String;)V*<
+:
+%54net.sourceforge.docfetcher.model.index.PatternAction*
+.*Ù
+Ò
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaW W(;H
+alwaysDetectMime4net.sourceforge.docfetcher.model.index.PatternAction"__id*<
+:
+%54net.sourceforge.docfetcher.model.index.PatternActionº
+π
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaX X((F
+%7@net.sourceforge.docfetcher.model.index.PatternAction$MatchAction"__id*
+""º
+π
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaX X(4F
+%8@net.sourceforge.docfetcher.model.index.PatternAction$MatchAction"__id*
+""›⁄
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaX X(5
+
+%9void"Énet.sourceforge.docfetcher.model.index.PatternAction#setAction(Lnet/sourceforge/docfetcher/model/index/PatternAction$MatchAction;)V*J
+H
+alwaysDetectMime4net.sourceforge.docfetcher.model.index.PatternAction*H
+F
+%8@net.sourceforge.docfetcher.model.index.PatternAction$MatchAction2MsetAction(Lnet/sourceforge/docfetcher/model/index/PatternAction$MatchAction;)Ω
+∫
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaY Y((G
+%10@net.sourceforge.docfetcher.model.index.PatternAction$MatchTarget"__id*
+""Ω
+∫
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaY Y(1G
+%11@net.sourceforge.docfetcher.model.index.PatternAction$MatchTarget"__id*
+""ﬂ‹
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaY Y(2
+%12void"Énet.sourceforge.docfetcher.model.index.PatternAction#setTarget(Lnet/sourceforge/docfetcher/model/index/PatternAction$MatchTarget;)V*J
+H
+alwaysDetectMime4net.sourceforge.docfetcher.model.index.PatternAction*I
+G
+%11@net.sourceforge.docfetcher.model.index.PatternAction$MatchTarget2MsetTarget(Lnet/sourceforge/docfetcher/model/index/PatternAction$MatchTarget;)≠
+™
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaZ Z(F
+%13java.util.List"Gjava.util.Collections#singletonList(Ljava/lang/Object;)Ljava/util/List;*"
+java.util.Collections*J
+H
+alwaysDetectMime4net.sourceforge.docfetcher.model.index.PatternAction–Õ
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.javaZ Z(G
+%14void"Znet.sourceforge.docfetcher.model.index.IndexingConfig#setPatternActions(Ljava/util/List;)V*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*
+
+%13java.util.List2#setPatternActions(Ljava/util/List;)"k
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/OutlookConfigPanel.java\ \(
+""B><
+:net.sourceforge.docfetcher.gui.indexing.OutlookConfigPanel

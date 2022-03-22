@@ -1,0 +1,85 @@
+
+rorg.apache.tika.mime.MediaTypeRegistry#normalize(Lorg/apache/tika/mime/MediaType;)Lorg/apache/tika/mime/MediaType;M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javas s("5"6*ì
+2M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java{! {(*áÞ
+M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java{, {(@
+%4java.util.Map"=org.apache.tika.mime.MediaType#getParameters()Ljava/util/Map;*(
+&
+typeorg.apache.tika.mime.MediaType2getParameters()˜•
+M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java{ {( $
+%5org.apache.tika.mime.MediaType"org.apache.tika.mime.MediaTypeŸ
+œ
+M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java{ {(A
+%6"Worg.apache.tika.mime.MediaType#<init>(Lorg/apache/tika/mime/MediaType;Ljava/util/Map;)V*&
+$
+%5org.apache.tika.mime.MediaType*-
++
+	canonicalorg.apache.tika.mime.MediaType*
+
+%4java.util.Map"w
+M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java{ {(B&
+$
+%5org.apache.tika.mime.MediaType*ª
+3M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaz z(ÍÊ
+M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaz z('
+%3boolean"/org.apache.tika.mime.MediaType#hasParameters()Z*(
+&
+typeorg.apache.tika.mime.MediaType2hasParameters()*
+2
+1*Í
+4M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javay y("y
+M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javay y((
+&
+typeorg.apache.tika.mime.MediaType*ú
+5M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaw w(&§
+¤
+M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaw w(&
+%0java.util.Map"__id*8*6(
+&org.apache.tika.mime.MediaTypeRegistry"
+
+registryÿü
+M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaw+ w(=$
+%1org.apache.tika.mime.MediaType"Lorg.apache.tika.mime.MediaType#getBaseType()Lorg/apache/tika/mime/MediaType;*(
+&
+typeorg.apache.tika.mime.MediaType2getBaseType()Á
+¾
+M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaw w(>$
+%2org.apache.tika.mime.MediaType"__mapGet*
+
+%0java.util.Map*&
+$
+%1org.apache.tika.mime.MediaType­
+ª
+M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaw w(?+
+	canonicalorg.apache.tika.mime.MediaType"__id*&
+$
+%2org.apache.tika.mime.MediaType*
+3
+4*«
+6M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javau u("W
+M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javau u(
+""*Ò
+1M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java} }("~
+M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java} }(-
++
+	canonicalorg.apache.tika.mime.MediaType:&
+typeorg.apache.tika.mime.MediaTypeB*(
+&org.apache.tika.mime.MediaTypeRegistry

@@ -1,0 +1,53 @@
+
+corg.apache.tika.utils.ExceptionUtils#getFilteredStackTrace(Ljava/lang/Throwable;)Ljava/lang/String;K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java- -(."4*¥
+2K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java1 1(»≈
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java1 1( 
+%1java.lang.Throwable"3java.lang.Throwable#getCause()Ljava/lang/Throwable;*
+
+tjava.lang.Throwable2
+getCause()ë
+é
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java1 1( 
+causejava.lang.Throwable"__id*
+
+%1java.lang.Throwable*
+1*£
+3K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java0 0(»≈
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java0 0(
+%0java.lang.Throwable"3java.lang.Throwable#getCause()Ljava/lang/Throwable;*
+
+tjava.lang.Throwable2
+getCause()*
+2
+1*Î
+4K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java. .(ê
+ç
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java. .(
+causejava.lang.Throwable"__id*
+
+tjava.lang.Throwable*
+3
+1*À
+1K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java3 3(è
+å
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java3 3(#
+%2java.lang.String"[org.apache.tika.utils.ExceptionUtils#getStackTrace(Ljava/lang/Throwable;)Ljava/lang/String;*("&
+$org.apache.tika.utils.ExceptionUtils*
+
+causejava.lang.Throwable"g
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java3 3($
+
+%2java.lang.String:
+tjava.lang.ThrowableB("&
+$org.apache.tika.utils.ExceptionUtils

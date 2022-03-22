@@ -1,0 +1,23 @@
+
+corg.apache.tika.metadata.Metadata#getValues(Lorg/apache/tika/metadata/Property;)[Ljava/lang/String;J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java ("1* 
+1J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java‘ ‘(âß
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java‘ ‘(,
+%0java.lang.String"=org.apache.tika.metadata.Property#getName()Ljava/lang/String;*/
+-
+property!org.apache.tika.metadata.Property2	getName()ÿ
+ü
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java‘ ‘(-
+%1java.lang.String[]"Sorg.apache.tika.metadata.Metadata#_getValues(Ljava/lang/String;)[Ljava/lang/String;*%#
+!org.apache.tika.metadata.Metadata*
+
+%0java.lang.String"h
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java‘ ‘(.
+
+%1java.lang.String[]:-
+property!org.apache.tika.metadata.PropertyB%#
+!org.apache.tika.metadata.Metadata

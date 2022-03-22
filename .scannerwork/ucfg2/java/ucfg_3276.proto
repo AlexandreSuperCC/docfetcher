@@ -1,0 +1,267 @@
+
+∂net.sourceforge.docfetcher.model.parse.RtfParser#parse(Ljava/io/InputStream;Lnet/sourceforge/docfetcher/model/parse/ParseContext;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java# #("22*◊
+13W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaD D(î
+ë
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaD D(6(
+%16!org.apache.tika.metadata.Property"__id*
+""⁄◊
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaD D(7
+%17java.lang.String"\org.apache.tika.metadata.Metadata#get(Lorg/apache/tika/metadata/Property;)Ljava/lang/String;*/
+-
+metadata!org.apache.tika.metadata.Metadata**
+(
+%16!org.apache.tika.metadata.Property2(get(Lorg/apache/tika/metadata/Property;)*
+12*≈
+14W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaC
+ C(1À»
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaC C(9
+%142net.sourceforge.docfetcher.model.parse.ParseResult"2net.sourceforge.docfetcher.model.parse.ParseResultë
+é
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaC
+ C(1
+%15"Tnet.sourceforge.docfetcher.model.parse.ParseResult#<init>(Ljava/lang/CharSequence;)V*;
+9
+%142net.sourceforge.docfetcher.model.parse.ParseResult*
+
+%13java.lang.String*
+13*Í
+15W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaC C(%ÑÅ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaC C(0
+%13java.lang.String"Horg.apache.tika.sax.ContentHandlerDecorator#toString()Ljava/lang/String;*7
+5
+bodyHandler&org.apache.tika.sax.BodyContentHandler2
+toString()*
+14*Á
+16W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java: :(Å˛
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java: :(@
+%12void"¶org.apache.tika.parser.rtf.RTFParser#parse(Ljava/io/InputStream;Lorg/xml/sax/ContentHandler;Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/parser/ParseContext;)V*-
++
+%10$org.apache.tika.parser.rtf.RTFParser*
+
+injava.io.InputStream*7
+5
+bodyHandler&org.apache.tika.sax.BodyContentHandler*/
+-
+metadata!org.apache.tika.metadata.Metadata*4
+2
+tikaContext#org.apache.tika.parser.ParseContext2Äparse(Ljava/io/InputStream;Lorg/xml/sax/ContentHandler;Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/parser/ParseContext;)*
+15*⁄
+17W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java: :(Ø¨
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java: :(+
+%10$org.apache.tika.parser.rtf.RTFParser"$org.apache.tika.parser.rtf.RTFParser¬
+ø
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java: :(
+%11".org.apache.tika.parser.rtf.RTFParser#<init>()V*-
++
+%10$org.apache.tika.parser.rtf.RTFParser*
+16*˘
+18W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java0 7(æ
+ª
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java0 7(/
+
+tikaConfig!org.apache.tika.config.TikaConfig"__id*)
+'
+%7!org.apache.tika.config.TikaConfig“œ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java8 8(0
+
+%9void"Morg.apache.tika.parser.ParseContext#set(Ljava/lang/Class;Ljava/lang/Object;)V*4
+2
+tikaContext#org.apache.tika.parser.ParseContext*
+""*1
+/
+
+tikaConfig!org.apache.tika.config.TikaConfig2(set(Ljava/lang/Class;Ljava/lang/Object;)*
+17*û
+19W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java0 7(®•
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java0 0()'
+%7!org.apache.tika.config.TikaConfig"!org.apache.tika.config.TikaConfigç
+ä
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java0 7(
+%8"Borg.apache.tika.config.TikaConfig#<init>(Ljava/lang/ClassLoader;)V*)
+'
+%7!org.apache.tika.config.TikaConfig*:
+8
+%52net.sourceforge.docfetcher.model.parse.RtfParser$1*
+18*ı
+5W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaC G(@"ñ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaC G(@;
+9
+%272net.sourceforge.docfetcher.model.parse.ParseResult*Ö
+6W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaC
+ G(?°û
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaC
+ G(?9
+%272net.sourceforge.docfetcher.model.parse.ParseResult"änet.sourceforge.docfetcher.model.parse.ParseResult#addMiscMetadata(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*;
+9
+%242net.sourceforge.docfetcher.model.parse.ParseResult*
+
+%26java.lang.String2#addMiscMetadata(Ljava/lang/String;)*
+5*’
+7W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaG G(î
+ë
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaG" G(=(
+%25!org.apache.tika.metadata.Property"__id*
+""⁄◊
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaG G(>
+%26java.lang.String"\org.apache.tika.metadata.Metadata#get(Lorg/apache/tika/metadata/Property;)Ljava/lang/String;*/
+-
+metadata!org.apache.tika.metadata.Metadata**
+(
+%25!org.apache.tika.metadata.Property2(get(Lorg/apache/tika/metadata/Property;)*
+6*Ö
+8W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaC
+ F(4°û
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaC
+ F(49
+%242net.sourceforge.docfetcher.model.parse.ParseResult"änet.sourceforge.docfetcher.model.parse.ParseResult#addMiscMetadata(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*;
+9
+%212net.sourceforge.docfetcher.model.parse.ParseResult*
+
+%23java.lang.String2#addMiscMetadata(Ljava/lang/String;)*
+7*ë
+9W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaF F(É
+Ä
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaF" F(2
+%22java.lang.String"__id*
+""ß§
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaF F(3
+%23java.lang.String"Korg.apache.tika.metadata.Metadata#get(Ljava/lang/String;)Ljava/lang/String;*/
+-
+metadata!org.apache.tika.metadata.Metadata*
+
+%22java.lang.String2get(Ljava/lang/String;)*
+8*∏
+20W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java/ /(P√
+¿
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java/ /(P2
+tikaContext#org.apache.tika.parser.ParseContext"__id*+
+)
+%4#org.apache.tika.parser.ParseContext «
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java0. 0(98
+%52net.sourceforge.docfetcher.model.parse.RtfParser$1"2net.sourceforge.docfetcher.model.parse.RtfParser$1ø
+º
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java0* 7(
+%6"java.lang.ClassLoader#<init>()V*:
+8
+%52net.sourceforge.docfetcher.model.parse.RtfParser$1*
+19*é
+21W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java/5 /(A®
+•
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java/5 /(O)
+%4#org.apache.tika.parser.ParseContext"fnet.sourceforge.docfetcher.model.parse.ParseService#tikaContext()Lorg/apache/tika/parser/ParseContext;*7"5
+3net.sourceforge.docfetcher.model.parse.ParseService*
+20*¯
+10W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaC
+ E(5ìê
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaC
+ E(59
+%212net.sourceforge.docfetcher.model.parse.ParseResult"Énet.sourceforge.docfetcher.model.parse.ParseResult#setTitle(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*;
+9
+%182net.sourceforge.docfetcher.model.parse.ParseResult*
+
+%20java.lang.String2setTitle(Ljava/lang/String;)*
+9*€	
+22W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java%; %(<≤Ø
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java%' %(9,
+%0&org.apache.tika.sax.BodyContentHandler"&org.apache.tika.sax.BodyContentHandlerÕ
+ 
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java%# %(=
+%1"1org.apache.tika.sax.BodyContentHandler#<init>(I)V*.
+,
+%0&org.apache.tika.sax.BodyContentHandler*
+""…
+∆
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java% %(>5
+bodyHandler&org.apache.tika.sax.BodyContentHandler"__id*.
+,
+%0&org.apache.tika.sax.BodyContentHandler®•
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java& &("'
+%2!org.apache.tika.metadata.Metadata"!org.apache.tika.metadata.Metadata∫
+∑
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java& &($
+%3"+org.apache.tika.metadata.Metadata#<init>()V*)
+'
+%2!org.apache.tika.metadata.Metadataº
+π
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.java& &(%-
+metadata!org.apache.tika.metadata.Metadata"__id*)
+'
+%2!org.apache.tika.metadata.Metadata*
+21*◊
+11W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaE E(î
+ë
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaE E(3(
+%19!org.apache.tika.metadata.Property"__id*
+""⁄◊
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaE E(4
+%20java.lang.String"\org.apache.tika.metadata.Metadata#get(Lorg/apache/tika/metadata/Property;)Ljava/lang/String;*/
+-
+metadata!org.apache.tika.metadata.Metadata**
+(
+%19!org.apache.tika.metadata.Property2(get(Lorg/apache/tika/metadata/Property;)*
+10*˚
+12W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaC
+ D(8ïí
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/RtfParser.javaC
+ D(89
+%182net.sourceforge.docfetcher.model.parse.ParseResult"Ñnet.sourceforge.docfetcher.model.parse.ParseResult#addAuthor(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*;
+9
+%142net.sourceforge.docfetcher.model.parse.ParseResult*
+
+%17java.lang.String2addAuthor(Ljava/lang/String;)*
+11:
+injava.io.InputStream:>
+context3net.sourceforge.docfetcher.model.parse.ParseContextB42
+0net.sourceforge.docfetcher.model.parse.RtfParser

@@ -1,0 +1,112 @@
+
+Hnet.sourceforge.docfetcher.model.Folder#getDocumentIds()Ljava/util/List;P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java¿( ¿(6"7*é
+2P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÄ Ä(q
+o
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÄ Ä(
+documentD"__id*
+""–
+“
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÄ Ä(
+documentD"
+__arrayGet*
+
+%6java.util.Collection*
+""*
+3
+1*ß
+3P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÅ Å(ØÕ
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÅ Å(#
+%7java.lang.String"Inet.sourceforge.docfetcher.model.Document#getUniqueId()Ljava/lang/String;*
+
+documentD2getUniqueId()§
+¤
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÅ Å(#
+%8"
+__arraySet*
+
+uidsjava.lang.String[]*
+""*
+
+%7java.lang.String*
+2*Ø
+4P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÄ Ä(°
+­
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÄ Ä(
+%5java.util.HashMap"__id*:*8)
+'net.sourceforge.docfetcher.model.Folder"
+	documentsÈÅ
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÄ Ä(&
+%6java.util.Collection"0java.util.HashMap#values()Ljava/util/Collection;*
+
+%5java.util.HashMap2values()*
+2*Ê
+5P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÂ Â(&°
+­
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÂ Â(&
+%2java.util.HashMap"__id*:*8)
+'net.sourceforge.docfetcher.model.Folder"
+	documents›
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÂ Â(-	
+%3int"java.util.HashMap#size()I*
+
+%2java.util.HashMap2size()ƒ€
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÂ Â(.
+%4java.lang.String[]"java.lang.String[]“
+
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÂ Â(/
+uidsjava.lang.String[]"__id*
+
+%4java.lang.String[]*
+4*ı
+6P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÁ
+ Á(¹
+¶
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÁ
+ Á(!
+%1java.util.List"1java.util.Collections#emptyList()Ljava/util/List;*"
+java.util.Collections"j
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÁ Á("
+
+%1java.util.List*
+7P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÀ À(°
+­
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÀ À(
+%0java.util.HashMap"__id*:*8)
+'net.sourceforge.docfetcher.model.Folder"
+	documents*
+5
+6*¡
+1P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÈ	 È(İ
+Ú
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÈ	 È(
+%9java.util.List"<java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;*"
+java.util.Arrays*
+
+uidsjava.lang.String[]"j
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÈ È(
+
+%9java.util.ListB+)
+'net.sourceforge.docfetcher.model.Folder

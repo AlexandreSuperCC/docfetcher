@@ -1,0 +1,43 @@
+
+}org.apache.tika.parser.microsoft.POIFSContainerDetector#getTopLevelNames(Lorg/apache/tika/io/TikaInputStream;)Ljava/util/Set;`
+TD:/git_project/code/src/org/apache/tika/parser/microsoft/POIFSContainerDetector.javaı ı(/"10*—
+5`
+TD:/git_project/code/src/org/apache/tika/parser/microsoft/POIFSContainerDetector.javaÇ Ç(2"j
+`
+TD:/git_project/code/src/org/apache/tika/parser/microsoft/POIFSContainerDetector.javaÇ Ç(2
+
+%2*ú
+6`
+TD:/git_project/code/src/org/apache/tika/parser/microsoft/POIFSContainerDetector.javaÇ Ç(1Ø
+¨
+`
+TD:/git_project/code/src/org/apache/tika/parser/microsoft/POIFSContainerDetector.javaÇ Ç(1
+%2"}org.apache.tika.parser.microsoft.POIFSContainerDetector#getTopLevelNames(Lorg/apache/tika/io/TikaInputStream;)Ljava/util/Set;*;"9
+7org.apache.tika.parser.microsoft.POIFSContainerDetector*
+""*
+5*Ä
+8`
+TD:/git_project/code/src/org/apache/tika/parser/microsoft/POIFSContainerDetector.java¸ ¸(Cìê
+`
+TD:/git_project/code/src/org/apache/tika/parser/microsoft/POIFSContainerDetector.javaÄ Ä('
+%1"Horg.apache.tika.io.TikaInputStream#setOpenContainer(Ljava/lang/Object;)V*.
+,
+stream"org.apache.tika.io.TikaInputStream*
+""2$setOpenContainer(Ljava/lang/Object;)*
+6*¯
+10`
+TD:/git_project/code/src/org/apache/tika/parser/microsoft/POIFSContainerDetector.java˘ ˘(Ì
+`
+TD:/git_project/code/src/org/apache/tika/parser/microsoft/POIFSContainerDetector.java˘ ˘($
+%0java.io.File":org.apache.tika.io.TikaInputStream#getFile()Ljava/io/File;*.
+,
+stream"org.apache.tika.io.TikaInputStream2	getFile()ó
+î
+`
+TD:/git_project/code/src/org/apache/tika/parser/microsoft/POIFSContainerDetector.java˘ ˘(%
+filejava.io.File"__id*
+
+%0java.io.File*
+8:,
+stream"org.apache.tika.io.TikaInputStreamB;"9
+7org.apache.tika.parser.microsoft.POIFSContainerDetector

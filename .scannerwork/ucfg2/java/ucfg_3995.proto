@@ -1,0 +1,15 @@
+
+Bnet.sourceforge.docfetcher.model.search.ResultDocument#getScore()I]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javax x("1*ñ
+1]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javay	 y(£
+ 
+]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javay	 y( 	
+%0int"java.lang.Math#round(F)I*"
+java.lang.Math*
+"""g
+]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javay y(!
+""B:8
+6net.sourceforge.docfetcher.model.search.ResultDocument

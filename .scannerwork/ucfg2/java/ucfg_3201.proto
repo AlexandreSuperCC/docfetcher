@@ -1,0 +1,92 @@
+
+≈net.sourceforge.docfetcher.model.index.file.FileIndex#createFileDoc(Lnet/sourceforge/docfetcher/model/index/file/FileFolder;Ljava/io/File;)Lnet/sourceforge/docfetcher/model/index/file/FileDocument;^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java˜ ˜(*"startingBlock*‚
+
+startingBlock^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java˜* ¯(¯
+ı
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaˆ ˆ(	
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*H
+F
+parentFolder6net.sourceforge.docfetcher.model.index.file.FileFolder¯
+ı
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java˜, ˜(4
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*H
+F
+parentFolder6net.sourceforge.docfetcher.model.index.file.FileFolder…
+∆
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java˜@ ˜(LF
+parentFolder6net.sourceforge.docfetcher.model.index.file.FileFolder"__annotation*
+
+%4*
+
+%5∆
+√
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaˆ ˆ(	
+%6"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.File∆
+√
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java¯ ¯(
+%7"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.Fileó
+î
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java¯ ¯(
+filejava.io.File"__annotation*
+
+%6*
+
+%7*
+1*õ
+
+1^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java˘ ˘(&»≈
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java˘( ˘(6
+%0java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+filejava.io.File2	getName()µ≤
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java˘8 ˘(K
+
+%1long"java.io.File#lastModified()J*
+
+filejava.io.File2lastModified()›⁄
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java˘ ˘(>
+%28net.sourceforge.docfetcher.model.index.file.FileDocument"8net.sourceforge.docfetcher.model.index.file.FileDocument≠
+™
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java˘	 ˘(L
+%3"çnet.sourceforge.docfetcher.model.index.file.FileDocument#<init>(Lnet/sourceforge/docfetcher/model/index/file/FileFolder;Ljava/lang/String;J)V*@
+>
+%28net.sourceforge.docfetcher.model.index.file.FileDocument*H
+F
+parentFolder6net.sourceforge.docfetcher.model.index.file.FileFolder*
+
+%0java.lang.String*
+
+
+%1long"¢
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.java˘ ˘(M@
+>
+%28net.sourceforge.docfetcher.model.index.file.FileDocument:F
+parentFolder6net.sourceforge.docfetcher.model.index.file.FileFolder:
+filejava.io.FileB9"7
+5net.sourceforge.docfetcher.model.index.file.FileIndex

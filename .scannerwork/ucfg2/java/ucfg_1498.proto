@@ -1,0 +1,24 @@
+
+Šorg.apache.tika.extractor.ParserContainerExtractor$RecursiveParser#getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Set;Y
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javae e(/"1*¢
+1Y
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javaf f(Ý
+Ú
+Y
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javaf f(#
+%0org.apache.tika.parser.Parser"__id*R*PD
+Borg.apache.tika.extractor.ParserContainerExtractor$RecursiveParser"
+parseríê
+Y
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javaf f(4
+%1java.util.Set"eorg.apache.tika.parser.Parser#getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Set;*%
+#
+%0org.apache.tika.parser.Parser*0
+.
+context#org.apache.tika.parser.ParseContext28getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)"r
+Y
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javaf f(5
+
+%1java.util.Set:.
+context#org.apache.tika.parser.ParseContextBFD
+Borg.apache.tika.extractor.ParserContainerExtractor$RecursiveParser

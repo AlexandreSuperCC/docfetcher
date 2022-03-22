@@ -1,0 +1,47 @@
+
+4org.apache.tika.parser.chm.lzx.ChmSection#getByte()BP
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaN N("3*’
+2P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaP P(ÒÏ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaP P(	
+%2int"5org.apache.tika.parser.chm.lzx.ChmSection#getSwath()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2
+getSwath()ÝÚ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaP P($
+
+%3void"6org.apache.tika.parser.chm.lzx.ChmSection#setSwath(I)V*-+
+)org.apache.tika.parser.chm.lzx.ChmSection*
+""2setSwath(I)ÔÑ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaQ Q(
+%4byte[]"5org.apache.tika.parser.chm.lzx.ChmSection#getData()[B*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2	getData()ÒÏ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaQ Q('	
+%5int"5org.apache.tika.parser.chm.lzx.ChmSection#getSwath()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2
+getSwath()"Z
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaQ Q(-
+""*‰
+3P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaO O(ÒÏ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaO O(	
+%0int"5org.apache.tika.parser.chm.lzx.ChmSection#getSwath()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2
+getSwath()ÔÑ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaO O("
+%1byte[]"5org.apache.tika.parser.chm.lzx.ChmSection#getData()[B*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2	getData()*
+2
+1*±
+1P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaS S("Z
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaS S(
+""B-+
+)org.apache.tika.parser.chm.lzx.ChmSection

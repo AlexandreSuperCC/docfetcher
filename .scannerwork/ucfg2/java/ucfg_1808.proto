@@ -1,0 +1,46 @@
+
+Oorg.apache.tika.parser.ParseContext#getSAXParser()Ljavax/xml/parsers/SAXParser;L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaó ó(!"10*∆
+5L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaù ù(<"s
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaù ù(<#
+!
+%2javax.xml.parsers.SAXParser*Ÿ
+6L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaù ù(;Ä˝
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaù ù(;!
+%2javax.xml.parsers.SAXParser"Njavax.xml.parsers.SAXParserFactory#newSAXParser()Ljavax/xml/parsers/SAXParser;**
+(
+%1"javax.xml.parsers.SAXParserFactory2newSAXParser()*
+5*Û
+7L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaù ù(*öó
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaù ù(,(
+%1"javax.xml.parsers.SAXParserFactory"]org.apache.tika.parser.ParseContext#getSAXParserFactory()Ljavax/xml/parsers/SAXParserFactory;*'%
+#org.apache.tika.parser.ParseContext2getSAXParserFactory()*
+6* 
+9L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaö ö("w
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaö ö('
+%
+parserjavax.xml.parsers.SAXParser*é
+10L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaò ò(ãà
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaò ò(/!
+%0javax.xml.parsers.SAXParser"Lorg.apache.tika.parser.ParseContext#get(Ljava/lang/Class;)Ljava/lang/Object;*'%
+#org.apache.tika.parser.ParseContext*
+""2get(Ljava/lang/Class;)£
+†
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaò ò(0%
+parserjavax.xml.parsers.SAXParser"__id*#
+!
+%0javax.xml.parsers.SAXParser*
+7
+9B'%
+#org.apache.tika.parser.ParseContext

@@ -1,0 +1,106 @@
+
+Çnet.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX#addWatch(Ljava/lang/String;IZLnet/contentobjects/jnotify/JNotifyListener;)I]
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaw w("7*˚
+2]
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java} }((ë
+é
+]
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java} }((
+fjava.io.File"__id*
+
+%2java.io.File*
+1*π
+5]
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java} }((œÃ
+]
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java} }((
+%2java.io.File"-java.io.File#getCanonicalFile()Ljava/io/File;*
+
+%0java.io.File2getCanonicalFile()*
+2*µ
+6]
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java} }(ÑÅ
+]
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java} }(
+%0java.io.File"java.io.Fileƒ
+¡
+]
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java} }(
+%1"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%0java.io.File*
+
+pathjava.lang.String*
+5*Ì
+7]
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaz z(	É
+Ä
+]
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaz z(	
+fjava.io.File"__id*
+""*
+6*”
+1_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÑ Ñ(∆√
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÑ# Ñ(.
+%6java.lang.String"(java.io.File#getPath()Ljava/lang/String;*
+
+fjava.io.File2	getPath()è
+å
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÑ Ñ(/	
+%7int"Nnet.contentobjects.jnotify.macosx.JNotify_macosx#addWatch(Ljava/lang/String;)I*4"2
+0net.contentobjects.jnotify.macosx.JNotify_macosx*
+
+%6java.lang.Stringœ
+Ã
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÖ Ö(
+
+%8java.util.Hashtable"__id*H*F8
+6net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX"
+
+_id2DataÕ
+ 
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÖ Ö("
+%9java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*"
+java.lang.Integer*
+""ÔÏ
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÖ( Ö(1G
+%10@net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData"@net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData’
+“
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÖ$ Ü(
+%11"ônet.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData#<init>(IILnet/contentobjects/jnotify/JNotifyListener;Ljava/lang/String;Ljava/io/File;Z)V*I
+G
+%10@net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData*
+""*
+""*8
+6
+listener*net.contentobjects.jnotify.JNotifyListener*
+
+pathjava.lang.String*
+
+fjava.io.File*
+""∫
+∑
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÖ Ü(G
+%12@net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData"__mapSet*
+
+%8java.util.Hashtable*
+
+%9java.lang.Integer*I
+G
+%10@net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData"i
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaá á(
+"":
+pathjava.lang.String:
+"":
+"":6
+listener*net.contentobjects.jnotify.JNotifyListenerB:8
+6net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX

@@ -1,0 +1,70 @@
+
+hnet.sourceforge.docfetcher.model.index.Task#is(Lnet/sourceforge/docfetcher/model/index/Task$TaskState;)ZT
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javaŠ Š("startingBlock*¹
+2T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java (+"^
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java (+
+""*¹
+3T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java
+ (Ø
+Õ
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java (";
+%35net.sourceforge.docfetcher.model.index.Task$TaskState"__id*:*8-
++net.sourceforge.docfetcher.model.index.Task"
+state*
+2*ú
+startingBlockT
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javaŠ Š(-é
+æ
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java‰ ‰(
+%7"
+__annotate*:8
+6net.sourceforge.docfetcher.util.annotations.ThreadSafe*@
+>
+state5net.sourceforge.docfetcher.model.index.Task$TaskStateç
+ä
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javaŠ Š(
+%8"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*@
+>
+state5net.sourceforge.docfetcher.model.index.Task$TaskState·
+´
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javaŠ' Š(,>
+state5net.sourceforge.docfetcher.model.index.Task$TaskState"__annotation*
+
+%7*
+
+%8*
+4*Ï
+4T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java‹ ‹(×
+Ô
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java‹ ‹(:
+%04net.sourceforge.docfetcher.model.index.IndexingQueue"__id*:*8-
++net.sourceforge.docfetcher.model.index.Task"
+queueÒ
+Ï
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java‹ ‹(%
+%1java.util.concurrent.locks.Lock"__id*J*H
+:
+%04net.sourceforge.docfetcher.model.index.IndexingQueue"
+
+readLock¿¼
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java‹ ‹(
+
+%2void"'java.util.concurrent.locks.Lock#lock()V*'
+%
+%1java.util.concurrent.locks.Lock2lock()*
+3:>
+state5net.sourceforge.docfetcher.model.index.Task$TaskStateB/-
++net.sourceforge.docfetcher.model.index.Task

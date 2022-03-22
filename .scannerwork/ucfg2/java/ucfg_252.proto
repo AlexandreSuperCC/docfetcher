@@ -1,0 +1,30 @@
+
+nnet.contentobjects.jnotify.JNotify#addWatch(Ljava/lang/String;IZLnet/contentobjects/jnotify/JNotifyListener;)II
+?D:/git_project/code/src/net/contentobjects/jnotify/JNotify.java^ ^("1*ˆ
+1I
+?D:/git_project/code/src/net/contentobjects/jnotify/JNotify.java`	 `(¶
+³
+I
+?D:/git_project/code/src/net/contentobjects/jnotify/JNotify.java`	 `()
+%0#net.contentobjects.jnotify.IJNotify"__id*5*3$
+"net.contentobjects.jnotify.JNotify"
+	_instance©¦
+I
+?D:/git_project/code/src/net/contentobjects/jnotify/JNotify.java`	 `(?	
+%1int"onet.contentobjects.jnotify.IJNotify#addWatch(Ljava/lang/String;IZLnet/contentobjects/jnotify/JNotifyListener;)I*+
+)
+%0#net.contentobjects.jnotify.IJNotify*
+
+pathjava.lang.String*
+""*
+""*8
+6
+listener*net.contentobjects.jnotify.JNotifyListener2JaddWatch(Ljava/lang/String;IZLnet/contentobjects/jnotify/JNotifyListener;)"S
+I
+?D:/git_project/code/src/net/contentobjects/jnotify/JNotify.java` `(@
+"":
+pathjava.lang.String:
+"":
+"":6
+listener*net.contentobjects.jnotify.JNotifyListenerB&"$
+"net.contentobjects.jnotify.JNotify

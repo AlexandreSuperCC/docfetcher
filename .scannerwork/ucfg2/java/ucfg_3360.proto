@@ -1,0 +1,81 @@
+
+net.sourceforge.docfetcher.model.index.file.SolidArchiveTree#getArchiveEntryPath(Lnet/sourceforge/docfetcher/model/TreeNode;)Ljava/lang/String;e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaè è(("startingBlock*Û
+2e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaë
+ ë("o
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaë ë(
+""*ì
+
+3e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaé é($þ
+û
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaé é($8
+%02net.sourceforge.docfetcher.util.collect.SafeKeyMap"__id*R*P>
+<net.sourceforge.docfetcher.model.index.file.SolidArchiveTree"
+entryDataMap·´
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaé. é(@+
+%1%net.sourceforge.docfetcher.model.Path"Znet.sourceforge.docfetcher.model.TreeNode#getPath()Lnet/sourceforge/docfetcher/model/Path;*7
+5
+treeNode)net.sourceforge.docfetcher.model.TreeNode2	getPath()¤¡
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaé é(AL
+%2Fnet.sourceforge.docfetcher.model.index.file.SolidArchiveTree$EntryData"anet.sourceforge.docfetcher.util.collect.SafeKeyMap#getValue(Ljava/lang/Object;)Ljava/lang/Object;*:
+8
+%02net.sourceforge.docfetcher.util.collect.SafeKeyMap*-
++
+%1%net.sourceforge.docfetcher.model.Path2getValue(Ljava/lang/Object;)•
+’
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaé é(BS
+	entryDataFnet.sourceforge.docfetcher.model.index.file.SolidArchiveTree$EntryData"__id*N
+L
+%2Fnet.sourceforge.docfetcher.model.index.file.SolidArchiveTree$EntryData*
+2
+1* 
+startingBlocke
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaè( è(Dï
+ì
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaç ç(
+
+%4"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*7
+5
+treeNode)net.sourceforge.docfetcher.model.TreeNodeî
+ë
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaè) è(1
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*7
+5
+treeNode)net.sourceforge.docfetcher.model.TreeNode¿
+¼
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaè; è(C5
+treeNode)net.sourceforge.docfetcher.model.TreeNode"__annotation*
+
+%4*
+
+%5*
+3*ß
+1e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaì	 ì(î
+ë
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaì	 ì(
+%3java.lang.String"__id*d*b
+S
+	entryDataFnet.sourceforge.docfetcher.model.index.file.SolidArchiveTree$EntryData"
+	innerPath"
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaì ì(
+
+%3java.lang.String:5
+treeNode)net.sourceforge.docfetcher.model.TreeNodeB@>
+<net.sourceforge.docfetcher.model.index.file.SolidArchiveTree

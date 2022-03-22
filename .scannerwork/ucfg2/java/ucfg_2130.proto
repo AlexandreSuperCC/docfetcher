@@ -1,0 +1,60 @@
+
+Vorg.apache.tika.sax.WriteOutContentHandler#isWriteLimitReached(Ljava/lang/Throwable;)ZS
+GD:/git_project/code/src/org/apache/tika/sax/WriteOutContentHandler.java± ±(&"3"4*ë
+2S
+GD:/git_project/code/src/org/apache/tika/sax/WriteOutContentHandler.javaµ+ µ(>ÐÍ
+S
+GD:/git_project/code/src/org/apache/tika/sax/WriteOutContentHandler.javaµ? µ(K
+%4java.lang.Throwable"3java.lang.Throwable#getCause()Ljava/lang/Throwable;*
+
+tjava.lang.Throwable2
+getCause()¸µ
+S
+GD:/git_project/code/src/org/apache/tika/sax/WriteOutContentHandler.javaµ+ µ(L
+%5boolean"Vorg.apache.tika.sax.WriteOutContentHandler#isWriteLimitReached(Ljava/lang/Throwable;)Z*.,
+*org.apache.tika.sax.WriteOutContentHandler*
+
+%4java.lang.Throwable2*isWriteLimitReached(Ljava/lang/Throwable;)*
+1*³
+3S
+GD:/git_project/code/src/org/apache/tika/sax/WriteOutContentHandler.javaµ µ(ÐÍ
+S
+GD:/git_project/code/src/org/apache/tika/sax/WriteOutContentHandler.javaµ µ(
+%3java.lang.Throwable"3java.lang.Throwable#getCause()Ljava/lang/Throwable;*
+
+tjava.lang.Throwable2
+getCause()*
+2
+1*ÿ
+4S
+GD:/git_project/code/src/org/apache/tika/sax/WriteOutContentHandler.java³ ³(³
+°
+S
+GD:/git_project/code/src/org/apache/tika/sax/WriteOutContentHandler.java³ ³(
+%0java.io.Serializable"__id*7*5,
+*org.apache.tika.sax.WriteOutContentHandler"
+tagŸ
+œ
+S
+GD:/git_project/code/src/org/apache/tika/sax/WriteOutContentHandler.java³ ³(B
+%1java.io.Serializable"__id*#*!
+
+tjava.lang.Throwable"
+tagíê
+S
+GD:/git_project/code/src/org/apache/tika/sax/WriteOutContentHandler.java³ ³(C
+%2boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
+
+%0java.io.Serializable*
+
+%1java.io.Serializable2equals(Ljava/lang/Object;)"]
+S
+GD:/git_project/code/src/org/apache/tika/sax/WriteOutContentHandler.java³ ³(D
+""*·
+1S
+GD:/git_project/code/src/org/apache/tika/sax/WriteOutContentHandler.javaµ µ(M"]
+S
+GD:/git_project/code/src/org/apache/tika/sax/WriteOutContentHandler.javaµ µ(M
+"":
+tjava.lang.ThrowableB.,
+*org.apache.tika.sax.WriteOutContentHandler

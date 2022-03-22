@@ -1,0 +1,38 @@
+
+null#compare(Lnet/sourceforge/docfetcher/model/search/ResultDocument;Lnet/sourceforge/docfetcher/model/search/ResultDocument;)IY
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaì ì("1*¦
+
+1Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaí í(®
+«
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaí í(1@
+%0:net.sourceforge.docfetcher.util.collect.AlphanumComparator"__id*
+""—”
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaî î(
+%1java.lang.String"Snet.sourceforge.docfetcher.model.search.ResultDocument#getTitle()Ljava/lang/String;*>
+<
+o16net.sourceforge.docfetcher.model.search.ResultDocument2
+getTitle()—”
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaî î("
+%2java.lang.String"Snet.sourceforge.docfetcher.model.search.ResultDocument#getTitle()Ljava/lang/String;*>
+<
+o26net.sourceforge.docfetcher.model.search.ResultDocument2
+getTitle()ûø
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaí î(#	
+%3int"inet.sourceforge.docfetcher.util.collect.AlphanumComparator#compare(Ljava/lang/String;Ljava/lang/String;)I*B
+@
+%0:net.sourceforge.docfetcher.util.collect.AlphanumComparator*
+
+%1java.lang.String*
+
+%2java.lang.String2-compare(Ljava/lang/String;Ljava/lang/String;)"c
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaí î($
+"":<
+o16net.sourceforge.docfetcher.model.search.ResultDocument:<
+o26net.sourceforge.docfetcher.model.search.ResultDocumentB<:
+8Lnet/sourceforge/docfetcher/model/search/Searcher$12760;

@@ -1,0 +1,123 @@
+
+‘org.apache.tika.parser.mp3.MpegStream#createHeader(Lorg/apache/tika/parser/mp3/MpegStream$HeaderBitField;)Lorg/apache/tika/parser/mp3/AudioFrame;N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÏ Ï(#"9*­
+2N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaà à("X
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaà à(
+""*œ
+
+7N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÖ Ö(òï
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÖ Ö(&	
+%1int"=org.apache.tika.parser.mp3.MpegStream$HeaderBitField#get(II)I*>
+<
+bits4org.apache.tika.parser.mp3.MpegStream$HeaderBitField*2*22get(II)òï
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.java× ×($	
+%2int"=org.apache.tika.parser.mp3.MpegStream$HeaderBitField#get(II)I*>
+<
+bits4org.apache.tika.parser.mp3.MpegStream$HeaderBitField*2*22get(II)òï
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaØ Ø(*	
+%3int"=org.apache.tika.parser.mp3.MpegStream$HeaderBitField#get(II)I*>
+<
+bits4org.apache.tika.parser.mp3.MpegStream$HeaderBitField*2*22get(II)òï
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÙ Ù(-	
+%4int"=org.apache.tika.parser.mp3.MpegStream$HeaderBitField#get(II)I*>
+<
+bits4org.apache.tika.parser.mp3.MpegStream$HeaderBitField*2
+*22get(II)êç
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÚ Ú(!	
+%5int"<org.apache.tika.parser.mp3.MpegStream$HeaderBitField#get(I)I*>
+<
+bits4org.apache.tika.parser.mp3.MpegStream$HeaderBitField*2	2get(I)*
+2
+1*­
+8N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÓ Ó("X
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÓ Ó(
+""*Ð
+9N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÑ Ñ(òï
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÑ Ñ(	
+%0int"=org.apache.tika.parser.mp3.MpegStream$HeaderBitField#get(II)I*>
+<
+bits4org.apache.tika.parser.mp3.MpegStream$HeaderBitField*2*22get(II)*
+7
+8*Õ
+1N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaã ã(&ß
+Ü
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaã ã(C	
+%6int"<org.apache.tika.parser.mp3.MpegStream#calculateBitRate(III)I*)"'
+%org.apache.tika.parser.mp3.MpegStream*
+""*
+""*
+""Ù
+Ö
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaä ä(E	
+%7int">org.apache.tika.parser.mp3.MpegStream#calculateSampleRate(II)I*)"'
+%org.apache.tika.parser.mp3.MpegStream*
+""*
+""ì
+é
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaå å(N	
+%8int"Aorg.apache.tika.parser.mp3.MpegStream#calculateFrameLength(IIII)I*)"'
+%org.apache.tika.parser.mp3.MpegStream*
+""*
+""*
+""*
+""Ù
+Ö
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaæ æ(=
+%9float"<org.apache.tika.parser.mp3.MpegStream#calculateDuration(II)F*)"'
+%org.apache.tika.parser.mp3.MpegStream*
+""*
+""óð
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaç) ç(7
+
+%10int"=org.apache.tika.parser.mp3.MpegStream$HeaderBitField#get(II)I*>
+<
+bits4org.apache.tika.parser.mp3.MpegStream$HeaderBitField*2*22get(II)Õ
+Ò
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaç ç(8
+
+%11int";org.apache.tika.parser.mp3.MpegStream#calculateChannels(I)I*)"'
+%org.apache.tika.parser.mp3.MpegStream*
+
+
+%10int¨¥
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaè è(,
+%12%org.apache.tika.parser.mp3.AudioFrame"%org.apache.tika.parser.mp3.AudioFrameú
+÷
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaè é(!
+%13"6org.apache.tika.parser.mp3.AudioFrame#<init>(IIIIIIF)V*.
+,
+%12%org.apache.tika.parser.mp3.AudioFrame*
+""*
+""*
+""*
+""*
+""*
+""*
+"""€
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaè é(".
+,
+%12%org.apache.tika.parser.mp3.AudioFrame:<
+bits4org.apache.tika.parser.mp3.MpegStream$HeaderBitFieldB)'
+%org.apache.tika.parser.mp3.MpegStream

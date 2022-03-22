@@ -1,0 +1,68 @@
+
+Iorg.apache.tika.parser.ParseContext#getXMLReader()Lorg/xml/sax/XMLReader;J
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java (!"9*ð
+2L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java… …(2—
+”
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java… …(2
+readerorg.xml.sax.XMLReader"__id*
+
+%2org.xml.sax.XMLReader*
+1*¿
+5L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java… …(2æã
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java… …(2
+%2org.xml.sax.XMLReader"Ajavax.xml.parsers.SAXParser#getXMLReader()Lorg/xml/sax/XMLReader;*#
+!
+%1javax.xml.parsers.SAXParser2getXMLReader()*
+2*×
+6L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java… …(!þû
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java… …(#!
+%1javax.xml.parsers.SAXParser"Oorg.apache.tika.parser.ParseContext#getSAXParser()Ljavax/xml/parsers/SAXParser;*'%
+#org.apache.tika.parser.ParseContext2getSAXParser()*
+5*Ä
+8L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java‚ ‚("q
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java‚ ‚(!
+
+readerorg.xml.sax.XMLReader*û
+9L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java€ €(…‚
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java€ €(/
+%0org.xml.sax.XMLReader"Lorg.apache.tika.parser.ParseContext#get(Ljava/lang/Class;)Ljava/lang/Object;*'%
+#org.apache.tika.parser.ParseContext*
+""2get(Ljava/lang/Class;)—
+”
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java€ €(0
+readerorg.xml.sax.XMLReader"__id*
+
+%0org.xml.sax.XMLReader*
+6
+8*ç
+1L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java‰ ‰(€
+~
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java‰! ‰(= 
+%5org.xml.sax.EntityResolver"__id*
+""š
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java‰ ‰(>
+
+%6void"Forg.xml.sax.XMLReader#setEntityResolver(Lorg/xml/sax/EntityResolver;)V*!
+
+readerorg.xml.sax.XMLReader*"
+ 
+%5org.xml.sax.EntityResolver2/setEntityResolver(Lorg/xml/sax/EntityResolver;)"q
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaŠ Š(!
+
+readerorg.xml.sax.XMLReaderB'%
+#org.apache.tika.parser.ParseContext

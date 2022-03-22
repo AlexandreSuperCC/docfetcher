@@ -1,0 +1,113 @@
+
+cnet.sourceforge.docfetcher.model.TreeCheckState#isChecked(Lnet/sourceforge/docfetcher/model/Path;)ZV
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java0 0("startingBlock*½
+2V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java5
+ 5("`
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java5 5(
+""*À
+3V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java4 4(»
+¸
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java4 4(
+%3java.util.Set"__id*C*A1
+/net.sourceforge.docfetcher.model.TreeCheckState"
+
+checkedSetœ™
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java4 4(&	
+%4int"java.util.Set#size()I*
+
+%3java.util.Set2size()*
+2
+1*´
+startingBlockV
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java0 0(-¾
+»
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java/ /('
+%9"
+__annotate*
+java.lang.SuppressWarnings*/
+-
+path%net.sourceforge.docfetcher.model.PathØ
+Õ
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java0 0("
+%10"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*/
+-
+path%net.sourceforge.docfetcher.model.Path©
+¦
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java0( 0(,-
+path%net.sourceforge.docfetcher.model.Path"__annotation*
+
+%9*
+
+%10*
+5*½
+4V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java3
+ 3("`
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java3 3(
+""*‰
+5V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java1 1(¼
+¹
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java1 1(+
+%0%net.sourceforge.docfetcher.model.Path"Wnet.sourceforge.docfetcher.util.Util#checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;*("&
+$net.sourceforge.docfetcher.util.Util*/
+-
+path%net.sourceforge.docfetcher.model.Path»
+¸
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java2 2(
+%1java.util.Set"__id*C*A1
+/net.sourceforge.docfetcher.model.TreeCheckState"
+
+checkedSet¦£
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java2 2(
+%2boolean"java.util.Set#isEmpty()Z*
+
+%1java.util.Set2	isEmpty()*
+3
+4*µ	
+1V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java6	 6(»
+¸
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java6	 6(
+%5java.util.Set"__id*C*A1
+/net.sourceforge.docfetcher.model.TreeCheckState"
+
+checkedSetÛØ
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java6! 6(,A
+%6;net.sourceforge.docfetcher.model.TreeCheckState$PathWrapper";net.sourceforge.docfetcher.model.TreeCheckState$PathWrapperÅ
+Â
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java6 6(2
+%7"lnet.sourceforge.docfetcher.model.TreeCheckState$PathWrapper#<init>(Lnet/sourceforge/docfetcher/model/Path;)V*C
+A
+%6;net.sourceforge.docfetcher.model.TreeCheckState$PathWrapper*/
+-
+path%net.sourceforge.docfetcher.model.Path‘Ž
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java6	 6(3
+%8boolean"+java.util.Set#contains(Ljava/lang/Object;)Z*
+
+%5java.util.Set*C
+A
+%6;net.sourceforge.docfetcher.model.TreeCheckState$PathWrapper2contains(Ljava/lang/Object;)"`
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java6 6(4
+"":-
+path%net.sourceforge.docfetcher.model.PathB31
+/net.sourceforge.docfetcher.model.TreeCheckState

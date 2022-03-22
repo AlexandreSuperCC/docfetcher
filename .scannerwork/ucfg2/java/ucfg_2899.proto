@@ -1,0 +1,69 @@
+
+Úorg.apache.tika.config.TikaConfig$ExecutorServiceXmlLoader#loadOne(Lorg/w3c/dom/Element;Lorg/apache/tika/mime/MimeTypes;Lorg/apache/tika/config/ServiceLoader;)Lorg/apache/tika/concurrent/ConfigurableThreadPoolExecutor;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaà' à(."startingBlock*Œ
+startingBlockJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaà. á(%›
+˜
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaß ß(
+%1"
+__annotate*
+java.lang.Override* 
+
+elementorg.w3c.dom.Element…
+‚
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaà7 à(>
+elementorg.w3c.dom.Element"__annotation*
+
+%1¨
+¥
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaß ß(
+%2"
+__annotate*
+java.lang.Override*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes’
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaàJ à(S+
+	mimeTypesorg.apache.tika.mime.MimeTypes"__annotation*
+
+%2«
+¨
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaß ß(
+%3"
+__annotate*
+java.lang.Override*0
+.
+loader$org.apache.tika.config.ServiceLoader•
+’
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaá á($.
+loader$org.apache.tika.config.ServiceLoader"__annotation*
+
+%3*
+1*¤
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaâ â(À
+½
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaâ â(<?
+%09org.apache.tika.concurrent.ConfigurableThreadPoolExecutor"¢org.apache.tika.config.TikaConfig$XmlLoader#loadOne(Lorg/w3c/dom/Element;Lorg/apache/tika/mime/MimeTypes;Lorg/apache/tika/config/ServiceLoader;)Ljava/lang/Object;*
+""* 
+
+elementorg.w3c.dom.Element*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes*0
+.
+loader$org.apache.tika.config.ServiceLoader"
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaâ â(=A
+?
+%09org.apache.tika.concurrent.ConfigurableThreadPoolExecutor:
+elementorg.w3c.dom.Element:+
+	mimeTypesorg.apache.tika.mime.MimeTypes:.
+loader$org.apache.tika.config.ServiceLoaderB><
+:org.apache.tika.config.TikaConfig$ExecutorServiceXmlLoader

@@ -1,0 +1,16 @@
+
+Aorg.apache.tika.sax.LinkContentHandler#getLinks()Ljava/util/List;M
+CD:/git_project/code/src/org/apache/tika/sax/LinkContentHandler.javaH H("1*ã
+1M
+CD:/git_project/code/src/org/apache/tika/sax/LinkContentHandler.javaI I(¥
+¢
+M
+CD:/git_project/code/src/org/apache/tika/sax/LinkContentHandler.javaI I(
+%0java.util.List"__id*5*3(
+&org.apache.tika.sax.LinkContentHandler"
+links"g
+M
+CD:/git_project/code/src/org/apache/tika/sax/LinkContentHandler.javaI I(
+
+%0java.util.ListB*(
+&org.apache.tika.sax.LinkContentHandler

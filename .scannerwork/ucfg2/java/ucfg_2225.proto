@@ -1,0 +1,15 @@
+
+Korg.apache.tika.sax.TaggedSAXException#getCause()Lorg/xml/sax/SAXException;M
+CD:/git_project/code/src/org/apache/tika/sax/TaggedSAXException.java= =( "1*ò
+1M
+CD:/git_project/code/src/org/apache/tika/sax/TaggedSAXException.java> >(#¯
+¬
+M
+CD:/git_project/code/src/org/apache/tika/sax/TaggedSAXException.java> >(.
+%0java.lang.Throwable"8org.xml.sax.SAXException#getCause()Ljava/lang/Throwable;*
+"""l
+M
+CD:/git_project/code/src/org/apache/tika/sax/TaggedSAXException.java> >(/
+
+%0java.lang.ThrowableB*(
+&org.apache.tika.sax.TaggedSAXException

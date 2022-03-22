@@ -1,0 +1,71 @@
+
+mnet.sourceforge.docfetcher.model.index.file.FileFactory#getLastPathPart(Ljava/lang/String;)Ljava/lang/String;`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaš š(&"startingBlock*È
+3`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaž ž(âß
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaž ž("
+%2java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+stringjava.lang.String*
+""2substring(I)"|
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaž ž(#
+
+%2java.lang.String*º
+startingBlock`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaš& š(>Î
+Ë
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java™ ™(	
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+stringjava.lang.StringÎ
+Ë
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaš' š(/
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+stringjava.lang.StringŸ
+œ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaš7 š(=
+stringjava.lang.String"__annotation*
+
+%3*
+
+%4*
+7*²
+5`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaœ œ(¿¼
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaœ œ(
+
+%1char"java.lang.String#charAt(I)C*
+
+stringjava.lang.String*
+""2	charAt(I)*	
+3
+5
+1*¤
+7`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java› ›(´±
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java› ›(	
+%0int"java.lang.String#length()I*
+
+stringjava.lang.String2length()*
+5
+1*è
+1`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java¡	 ¡("€
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java¡ ¡(
+
+stringjava.lang.String:
+stringjava.lang.StringB;"9
+7net.sourceforge.docfetcher.model.index.file.FileFactory

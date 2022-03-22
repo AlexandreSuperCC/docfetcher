@@ -1,0 +1,31 @@
+
+3net.sourceforge.docfetcher.model.Path#isAbsolute()ZL
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javar r("1*õ
+1L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javas s(§
+°
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javas s(
+%0java.lang.String"__id*3*1'
+%net.sourceforge.docfetcher.model.Path"
+pathrp
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javas s(
+%1java.io.File"java.io.File±
+Æ
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javas	 s(
+%2"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%1java.io.File*
+
+%0java.lang.String†ù
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javas	 s($
+%3boolean"java.io.File#isAbsolute()Z*
+
+%1java.io.File2isAbsolute()"V
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javas s(%
+""B)'
+%net.sourceforge.docfetcher.model.Path

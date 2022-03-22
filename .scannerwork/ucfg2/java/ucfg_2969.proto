@@ -1,0 +1,46 @@
+
+|net.sourceforge.docfetcher.model.index.IndexingConfig#getStorablePath(Ljava/io/File;)Lnet/sourceforge/docfetcher/model/Path;^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaû û(""startingBlock*†
+startingBlock^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaû" û(6∆
+√
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaù ù(	
+%1"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.File∆
+√
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaû# û(+
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.Fileó
+î
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaû1 û(5
+filejava.io.File"__annotation*
+
+%1*
+
+%2*
+1*‚
+1^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaü	 ü(Í
+Á
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaü	 ü(2+
+%0%net.sourceforge.docfetcher.model.Path"}net.sourceforge.docfetcher.model.index.IndexingConfig#getStorablePath(Ljava/io/File;Z)Lnet/sourceforge/docfetcher/model/Path;*9"7
+5net.sourceforge.docfetcher.model.index.IndexingConfig*
+
+filejava.io.File*
+"""è
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaü ü(3-
++
+%0%net.sourceforge.docfetcher.model.Path:
+filejava.io.FileB97
+5net.sourceforge.docfetcher.model.index.IndexingConfig

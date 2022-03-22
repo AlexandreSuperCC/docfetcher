@@ -1,0 +1,57 @@
+
+`org.apache.tika.sax.xpath.SubtreeMatcher#matchesAttribute(Ljava/lang/String;Ljava/lang/String;)ZO
+ED:/git_project/code/src/org/apache/tika/sax/xpath/SubtreeMatcher.java/ /(#"startingBlock*∑
+startingBlockO
+ED:/git_project/code/src/org/apache/tika/sax/xpath/SubtreeMatcher.java/# /(Bü
+ú
+O
+ED:/git_project/code/src/org/apache/tika/sax/xpath/SubtreeMatcher.java. .(
+%2"
+__annotate*
+java.lang.Override*
+
+	namespacejava.lang.Stringâ
+Ü
+O
+ED:/git_project/code/src/org/apache/tika/sax/xpath/SubtreeMatcher.java/+ /(4
+	namespacejava.lang.String"__annotation*
+
+%2ö
+ó
+O
+ED:/git_project/code/src/org/apache/tika/sax/xpath/SubtreeMatcher.java. .(
+%3"
+__annotate*
+java.lang.Override*
+
+namejava.lang.StringÑ
+Å
+O
+ED:/git_project/code/src/org/apache/tika/sax/xpath/SubtreeMatcher.java/= /(A
+namejava.lang.String"__annotation*
+
+%3*
+1*Œ
+1O
+ED:/git_project/code/src/org/apache/tika/sax/xpath/SubtreeMatcher.java0 0(ª
+∏
+O
+ED:/git_project/code/src/org/apache/tika/sax/xpath/SubtreeMatcher.java0 0('
+%0!org.apache.tika.sax.xpath.Matcher"__id*6*4*
+(org.apache.tika.sax.xpath.SubtreeMatcher"
+thenﬁ€
+O
+ED:/git_project/code/src/org/apache/tika/sax/xpath/SubtreeMatcher.java0 0(5
+%1boolean"Yorg.apache.tika.sax.xpath.Matcher#matchesAttribute(Ljava/lang/String;Ljava/lang/String;)Z*)
+'
+%0!org.apache.tika.sax.xpath.Matcher*
+
+	namespacejava.lang.String*
+
+namejava.lang.String26matchesAttribute(Ljava/lang/String;Ljava/lang/String;)"Y
+O
+ED:/git_project/code/src/org/apache/tika/sax/xpath/SubtreeMatcher.java0 0(6
+"":
+	namespacejava.lang.String:
+namejava.lang.StringB,*
+(org.apache.tika.sax.xpath.SubtreeMatcher

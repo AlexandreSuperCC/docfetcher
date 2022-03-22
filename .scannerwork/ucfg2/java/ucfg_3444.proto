@@ -1,0 +1,551 @@
+
+oorg.apache.tika.parser.chm.accessor.ChmItsfHeader#parse([BLorg/apache/tika/parser/chm/accessor/ChmItsfHeader;)VZ
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java¡ ¡("17*ö
+13Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java‘$ ‘(:∏µ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java‘ ‘(#.
+%46'org.apache.tika.exception.TikaException"'org.apache.tika.exception.TikaException˜
+Ù
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java‘ ‘(;
+%47"Corg.apache.tika.exception.TikaException#<init>(Ljava/lang/String;)V*0
+.
+%46'org.apache.tika.exception.TikaException*
+seems not valid file*
+0*ÚW
+14Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java∆ ∆(Ä
+˝
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java∆ ∆(2
+
+%4void"Eorg.apache.tika.parser.chm.accessor.ChmItsfHeader#setDataRemained(I)V*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+""w
+u
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java«> «(\	
+%5int"__id*
+""ï
+í
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java« «(]
+
+%6void"}org.apache.tika.parser.chm.accessor.ChmItsfHeader#unmarshalCharArray([BLorg/apache/tika/parser/chm/accessor/ChmItsfHeader;I)V*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+databyte[]*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+	
+%5intˇ¸
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java»D »(^	
+%7int"?org.apache.tika.parser.chm.accessor.ChmItsfHeader#getVersion()I*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getVersion()ó
+î
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java»! »(_	
+%8int"Forg.apache.tika.parser.chm.accessor.ChmItsfHeader#unmarshalInt32([BI)I*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+databyte[]*
+	
+%7intèå
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java» »(`
+
+%9void"@org.apache.tika.parser.chm.accessor.ChmItsfHeader#setVersion(I)V*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+	
+%8int2setVersion(I)ÑÅ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java…F …(b
+
+%10int"Aorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getHeaderLen()I*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getHeaderLen()ô
+ñ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java…# …(c
+
+%11int"Forg.apache.tika.parser.chm.accessor.ChmItsfHeader#unmarshalInt32([BI)I*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+databyte[]*
+
+
+%10intïí
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java… …(d
+%12void"Borg.apache.tika.parser.chm.accessor.ChmItsfHeader#setHeaderLen(I)V*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+
+%11int2setHeaderLen(I)äá
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java I  (h
+
+%13int"Dorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getUnknown_000c()I*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getUnknown_000c()ô
+ñ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java &  (i
+
+%14int"Forg.apache.tika.parser.chm.accessor.ChmItsfHeader#unmarshalInt32([BI)I*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+databyte[]*
+
+
+%13intõò
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java   (j
+%15void"Eorg.apache.tika.parser.chm.accessor.ChmItsfHeader#setUnknown_000c(I)V*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+
+%14int2setUnknown_000c(I)ãà
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÀJ À(i
+%16long"Dorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getLastModified()J*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getLastModified()ú
+ô
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÀ& À(j
+%17long"Gorg.apache.tika.parser.chm.accessor.ChmItsfHeader#unmarshalUInt32([BJ)J*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+databyte[]*
+
+%16longúô
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÀ À(k
+%18void"Eorg.apache.tika.parser.chm.accessor.ChmItsfHeader#setLastModified(J)V*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+%17long2setLastModified(J)ˇ¸
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÃD Ã(]
+%19long">org.apache.tika.parser.chm.accessor.ChmItsfHeader#getLangId()J*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getLangId()ú
+ô
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÃ  Ã(^
+%20long"Gorg.apache.tika.parser.chm.accessor.ChmItsfHeader#unmarshalUInt32([BJ)J*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+databyte[]*
+
+%19longêç
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÃ Ã(_
+%21void"?org.apache.tika.parser.chm.accessor.ChmItsfHeader#setLangId(J)V*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+%20long2setLangId(J)ÜÉ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÕD Õ(_
+%22byte[]"Aorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getDir_uuid()[B*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getDir_uuid()ß
+§
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÕ" Õ(d
+%23byte[]"Horg.apache.tika.parser.chm.accessor.ChmItsfHeader#unmarshalUuid([B[BI)[B*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+databyte[]*
+
+%22byte[]*2òï
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÕ Õ(e
+%24void"Borg.apache.tika.parser.chm.accessor.ChmItsfHeader#setDir_uuid([B)V*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+%23byte[]2setDir_uuid([B)åâ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaŒG Œ(e
+%25byte[]"Dorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getStream_uuid()[B*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getStream_uuid()ß
+§
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaŒ% Œ(j
+%26byte[]"Horg.apache.tika.parser.chm.accessor.ChmItsfHeader#unmarshalUuid([B[BI)[B*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+databyte[]*
+
+%25byte[]*2ûõ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaŒ Œ(k
+%27void"Eorg.apache.tika.parser.chm.accessor.ChmItsfHeader#setStream_uuid([B)V*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+%26byte[]2setStream_uuid([B)çä
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaœK œ(k
+%28long"Eorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getUnknownOffset()J*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getUnknownOffset()ú
+ô
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaœ' œ(l
+%29long"Gorg.apache.tika.parser.chm.accessor.ChmItsfHeader#unmarshalUint64([BJ)J*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+databyte[]*
+
+%28longûõ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaœ œ(m
+%30void"Forg.apache.tika.parser.chm.accessor.ChmItsfHeader#setUnknownOffset(J)V*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+%29long2setUnknownOffset(J)áÑ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java–H –(e
+%31long"Borg.apache.tika.parser.chm.accessor.ChmItsfHeader#getUnknownLen()J*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getUnknownLen()ú
+ô
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java–$ –(f
+%32long"Gorg.apache.tika.parser.chm.accessor.ChmItsfHeader#unmarshalUint64([BJ)J*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+databyte[]*
+
+%31longòï
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java– –(g
+%33void"Corg.apache.tika.parser.chm.accessor.ChmItsfHeader#setUnknownLen(J)V*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+%32long2setUnknownLen(J)ÖÇ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java—G —(c
+%34long"Aorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getDirOffset()J*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getDirOffset()ú
+ô
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java—# —(d
+%35long"Gorg.apache.tika.parser.chm.accessor.ChmItsfHeader#unmarshalUint64([BJ)J*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+databyte[]*
+
+%34longñì
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java— —(e
+%36void"Borg.apache.tika.parser.chm.accessor.ChmItsfHeader#setDirOffset(J)V*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+%35long2setDirOffset(J)ˇ¸
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java“D “(]
+%37long">org.apache.tika.parser.chm.accessor.ChmItsfHeader#getDirLen()J*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getDirLen()ú
+ô
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java“  “(^
+%38long"Gorg.apache.tika.parser.chm.accessor.ChmItsfHeader#unmarshalUint64([BJ)J*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+databyte[]*
+
+%37longêç
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java“ “(_
+%39void"?org.apache.tika.parser.chm.accessor.ChmItsfHeader#setDirLen(J)V*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+
+%38long2setDirLen(J)àÖ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java” ”(4
+%40byte[]"Borg.apache.tika.parser.chm.accessor.ChmItsfHeader#getSignature()[B*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getSignature()é
+ã
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java”6 ”(;
+%41java.nio.charset.Charset"__id*
+""äá
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java” ”(
+%42java.lang.String"java.lang.StringÌ
+Í
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java” ”(<
+%43"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
+
+%42java.lang.String*
+
+%40byte[]*!
+
+%41java.nio.charset.CharsetÜ
+É
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java”D ”(U
+%44java.lang.String"__id*
+""ÔÏ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java” ”(V
+%45boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%42java.lang.String*
+
+%44java.lang.String2equals(Ljava/lang/Object;)*
+13
+12*¬
+15Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaƒ$ ƒ(e∑¥
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaƒ ƒ(#-
+%2'org.apache.tika.exception.TikaException"'org.apache.tika.exception.TikaException†
+ù
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaƒ ƒ(f
+%3"Corg.apache.tika.exception.TikaException#<init>(Ljava/lang/String;)V*/
+-
+%2'org.apache.tika.exception.TikaException*CA
+?we only know how to deal with the 0x58 and 0x60 byte structures*
+0*„
+16Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java√ √(w
+u
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java√! √(=	
+%1int"__id*
+""*
+14
+15*„
+17Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java¬ ¬(w
+u
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java¬ ¬(6	
+%0int"__id*
+""*
+15
+16*x
+0 "q
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÎ Î(
+implicit return*Ç
+1Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÈ È(ÖÇ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÈ( È(D
+%70long"Aorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getDirOffset()J*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getDirOffset()ˇ¸
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÍ Í(/
+%71long">org.apache.tika.parser.chm.accessor.ChmItsfHeader#getDirLen()J*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getDirLen()ëé
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÈ Í(0
+%72void"Corg.apache.tika.parser.chm.accessor.ChmItsfHeader#setDataOffset(J)V*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+""2setDataOffset(J)*
+0*≠
+2Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÁ( Á(R∏µ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÁ Á('.
+%68'org.apache.tika.exception.TikaException"'org.apache.tika.exception.TikaExceptionã
+à
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÁ Á(S
+%69"Corg.apache.tika.exception.TikaException#<init>(Ljava/lang/String;)V*0
+.
+%68'org.apache.tika.exception.TikaException*,*
+(cannot set data offset, no data remained*
+0*Ç
+3Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java‰ ‰(ÖÇ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java‰, ‰(H
+%65long"Aorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getDirOffset()J*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getDirOffset()ˇ¸
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÂ Â(3
+%66long">org.apache.tika.parser.chm.accessor.ChmItsfHeader#getDirLen()J*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getDirLen()ëé
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java‰ Â(4
+%67void"Corg.apache.tika.parser.chm.accessor.ChmItsfHeader#setDataOffset(J)V*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+""2setDataOffset(J)*
+0*·
+4Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java„ „(˜
+Ù
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java„ „(/
+
+%64int"Dorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getDataRemained()I*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader*
+2
+3*‰
+5Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java‚ ‚(Ä˝
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java‚ ‚(&
+
+%62int"?org.apache.tika.parser.chm.accessor.ChmItsfHeader#getVersion()I*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getVersion()x
+v
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java‚* ‚(@
+
+%63int"__id*
+""*
+4
+1*ﬂ
+6Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java‹* ‹(B⁄◊
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java‹ ‹()?
+%608org.apache.tika.parser.chm.exception.ChmParsingException"8org.apache.tika.parser.chm.exception.ChmParsingExceptionõ
+ò
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java‹ ‹(C
+%61"Torg.apache.tika.parser.chm.exception.ChmParsingException#<init>(Ljava/lang/String;)V*A
+?
+%608org.apache.tika.parser.chm.exception.ChmParsingException*
+unsupported chm format*
+0*ù
+7Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java⁄( ⁄(B∏µ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java⁄ ⁄('.
+%58'org.apache.tika.exception.TikaException"'org.apache.tika.exception.TikaException˚
+¯
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java⁄ ⁄(C
+%59"Corg.apache.tika.exception.TikaException#<init>(Ljava/lang/String;)V*0
+.
+%58'org.apache.tika.exception.TikaException*
+unknown v3 header lenght*
+0*Ë
+8Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaŸ Ÿ(ÑÅ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaŸ Ÿ(,
+
+%56int"Aorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getHeaderLen()I*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getHeaderLen()x
+v
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaŸ/ Ÿ(K
+
+%57int"__id*
+""*
+5
+7*‰
+9Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÿ ÿ( Ä˝
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÿ ÿ(-
+
+%54int"?org.apache.tika.parser.chm.accessor.ChmItsfHeader#getVersion()I*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getVersion()x
+v
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.javaÿ1 ÿ(G
+
+%55int"__id*
+""*
+6
+8*°
+10Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java◊( ◊(E∏µ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java◊ ◊('.
+%52'org.apache.tika.exception.TikaException"'org.apache.tika.exception.TikaException˛
+˚
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java◊ ◊(F
+%53"Corg.apache.tika.exception.TikaException#<init>(Ljava/lang/String;)V*0
+.
+%52'org.apache.tika.exception.TikaException*
+something wrong with header*
+0*Í
+11Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java÷ ÷(ÑÅ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java÷ ÷(,
+
+%50int"Aorg.apache.tika.parser.chm.accessor.ChmItsfHeader#getHeaderLen()I*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getHeaderLen()x
+v
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java÷/ ÷(K
+
+%51int"__id*
+""*
+5
+10*Ê
+12Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java’ ’(Ä˝
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java’ ’(&
+
+%48int"?org.apache.tika.parser.chm.accessor.ChmItsfHeader#getVersion()I*D
+B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeader2getVersion()x
+v
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItsfHeader.java’* ’(@
+
+%49int"__id*
+""*
+9
+11:
+databyte[]:B
+chmItsfHeader1org.apache.tika.parser.chm.accessor.ChmItsfHeaderB53
+1org.apache.tika.parser.chm.accessor.ChmItsfHeader

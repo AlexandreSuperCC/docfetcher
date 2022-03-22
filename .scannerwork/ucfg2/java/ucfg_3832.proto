@@ -1,0 +1,62 @@
+
+Ñorg.apache.tika.detect.TypeDetector#detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/mime/MediaType;J
+@D:/git_project/code/src/org/apache/tika/detect/TypeDetector.java, ,("4*«
+2J
+@D:/git_project/code/src/org/apache/tika/detect/TypeDetector.java2 2("v
+J
+@D:/git_project/code/src/org/apache/tika/detect/TypeDetector.java2 2((
+&
+typeorg.apache.tika.mime.MediaType*ë
+3J
+@D:/git_project/code/src/org/apache/tika/detect/TypeDetector.java0 0(&è
+å
+J
+@D:/git_project/code/src/org/apache/tika/detect/TypeDetector.java0 0(2$
+%2org.apache.tika.mime.MediaType"Xorg.apache.tika.mime.MediaType#parse(Ljava/lang/String;)Lorg/apache/tika/mime/MediaType;*"" 
+org.apache.tika.mime.MediaType*
+
+hintjava.lang.String•
+¢
+J
+@D:/git_project/code/src/org/apache/tika/detect/TypeDetector.java0 0(3&
+typeorg.apache.tika.mime.MediaType"__id*&
+$
+%2org.apache.tika.mime.MediaType*
+2
+1*Ù
+4J
+@D:/git_project/code/src/org/apache/tika/detect/TypeDetector.java. .(t
+r
+J
+@D:/git_project/code/src/org/apache/tika/detect/TypeDetector.java.# .(8
+%0java.lang.String"__id*
+""òï
+J
+@D:/git_project/code/src/org/apache/tika/detect/TypeDetector.java. .(9
+%1java.lang.String"Korg.apache.tika.metadata.Metadata#get(Ljava/lang/String;)Ljava/lang/String;*/
+-
+metadata!org.apache.tika.metadata.Metadata*
+
+%0java.lang.String2get(Ljava/lang/String;)â
+Ü
+J
+@D:/git_project/code/src/org/apache/tika/detect/TypeDetector.java. .(:
+hintjava.lang.String"__id*
+
+%1java.lang.String*
+3
+1*À
+1J
+@D:/git_project/code/src/org/apache/tika/detect/TypeDetector.java5 5(É
+Ä
+J
+@D:/git_project/code/src/org/apache/tika/detect/TypeDetector.java5 5(%$
+%3org.apache.tika.mime.MediaType"__id*
+"""t
+J
+@D:/git_project/code/src/org/apache/tika/detect/TypeDetector.java5 5(&&
+$
+%3org.apache.tika.mime.MediaType:
+inputjava.io.InputStream:-
+metadata!org.apache.tika.metadata.MetadataB'%
+#org.apache.tika.detect.TypeDetector

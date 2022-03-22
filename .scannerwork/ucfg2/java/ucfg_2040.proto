@@ -1,0 +1,105 @@
+
+<org.apache.tika.parser.chm.lzx.ChmSection#getDesyncBits(II)IP
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java> >("3*ï
+
+2P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java@ @(Ç
+Ä
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java@ @("	
+%1int"6org.apache.tika.parser.chm.lzx.ChmSection#getBuffer()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSectionÞÛ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java@, @(<	
+%2int";org.apache.tika.parser.chm.lzx.ChmSection#unmarshalUByte()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2unmarshalUByte()ÞÛ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaA A('	
+%3int";org.apache.tika.parser.chm.lzx.ChmSection#unmarshalUByte()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2unmarshalUByte()Ñ
+Î
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java@ A(.
+
+%4void"7org.apache.tika.parser.chm.lzx.ChmSection#setBuffer(I)V*-+
+)org.apache.tika.parser.chm.lzx.ChmSection*
+""ÒÏ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaB B(	
+%5int"5org.apache.tika.parser.chm.lzx.ChmSection#getTotal()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2
+getTotal()ÝÚ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaB B(%
+
+%6void"6org.apache.tika.parser.chm.lzx.ChmSection#setTotal(I)V*-+
+)org.apache.tika.parser.chm.lzx.ChmSection*
+""2setTotal(I)*
+3*²
+3P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java? ?(ÒÏ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java? ?(	
+%0int"5org.apache.tika.parser.chm.lzx.ChmSection#getTotal()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2
+getTotal()*
+2
+1*
+1P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaD D(Ç
+Ä
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaD D(	
+%7int"6org.apache.tika.parser.chm.lzx.ChmSection#getBuffer()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSectionÒÏ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaD$ D(.	
+%8int"5org.apache.tika.parser.chm.lzx.ChmSection#getTotal()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2
+getTotal()ÒÏ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaE E(	
+%9int"5org.apache.tika.parser.chm.lzx.ChmSection#getTotal()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2
+getTotal()ÞÛ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaE E((
+%10void"6org.apache.tika.parser.chm.lzx.ChmSection#setTotal(I)V*-+
+)org.apache.tika.parser.chm.lzx.ChmSection*
+""2setTotal(I)È
+Å
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaF F(
+
+%11int"6org.apache.tika.parser.chm.lzx.ChmSection#getBuffer()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSectionÈ
+Å
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaF" F(-
+
+%12int"6org.apache.tika.parser.chm.lzx.ChmSection#getBuffer()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSectionÓÐ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaF2 F(<
+
+%13int"5org.apache.tika.parser.chm.lzx.ChmSection#getTotal()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2
+getTotal()ÓÐ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaFA F(K
+
+%14int"5org.apache.tika.parser.chm.lzx.ChmSection#getTotal()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2
+getTotal()Ò
+Ï
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaF F(M
+%15void"7org.apache.tika.parser.chm.lzx.ChmSection#setBuffer(I)V*-+
+)org.apache.tika.parser.chm.lzx.ChmSection*
+"""Z
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaG G(
+"":
+"":
+""B-+
+)org.apache.tika.parser.chm.lzx.ChmSection

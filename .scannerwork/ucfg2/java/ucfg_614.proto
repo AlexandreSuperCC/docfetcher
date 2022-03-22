@@ -1,0 +1,107 @@
+
+¿org.apache.tika.parser.xml.FictionBookParser#getContentHandler(Lorg/xml/sax/ContentHandler;Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/parser/ParseContext;)Lorg/xml/sax/ContentHandler;S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java- -(."startingBlock*ÿ
+2S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java16 1(=÷”
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java1 1(5@
+%1:org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor":org.apache.tika.extractor.ParsingEmbeddedDocumentExtractorø
+º
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java1 1(>
+%2"iorg.apache.tika.extractor.ParsingEmbeddedDocumentExtractor#<init>(Lorg/apache/tika/parser/ParseContext;)V*B
+@
+%1:org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor*0
+.
+context#org.apache.tika.parser.ParseContext›
+⁄
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java1 1(>9
+ex3org.apache.tika.extractor.EmbeddedDocumentExtractor"__id*B
+@
+%1:org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor*
+1*Ô
+3S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java.' .(.≥∞
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java.' .(S9
+%03org.apache.tika.extractor.EmbeddedDocumentExtractor"Lorg.apache.tika.parser.ParseContext#get(Ljava/lang/Class;)Ljava/lang/Object;*0
+.
+context#org.apache.tika.parser.ParseContext*
+""2get(Ljava/lang/Class;)÷
+”
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java. .(T9
+ex3org.apache.tika.extractor.EmbeddedDocumentExtractor"__id*;
+9
+%03org.apache.tika.extractor.EmbeddedDocumentExtractor*
+2
+1*›
+startingBlockS
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java-. -(o´
+®
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java, ,(
+%5"
+__annotate*
+java.lang.Override*'
+%
+handlerorg.xml.sax.ContentHandlerï
+í
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java-> -(E%
+handlerorg.xml.sax.ContentHandler"__annotation*
+
+%5≥
+∞
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java, ,(
+%6"
+__annotate*
+java.lang.Override*/
+-
+metadata!org.apache.tika.metadata.Metadataù
+ö
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java-P -(X-
+metadata!org.apache.tika.metadata.Metadata"__annotation*
+
+%6¥
+±
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java, ,(
+%7"
+__annotate*
+java.lang.Override*0
+.
+context#org.apache.tika.parser.ParseContextû
+õ
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java-g -(n.
+context#org.apache.tika.parser.ParseContext"__annotation*
+
+%7*
+3*¨
+1S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java4- 4(/ÓÎ
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java4 4(,L
+%3Forg.apache.tika.parser.xml.FictionBookParser$BinaryElementsDataHandler"Forg.apache.tika.parser.xml.FictionBookParser$BinaryElementsDataHandler∏
+µ
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java4 4(9
+%4"°org.apache.tika.parser.xml.FictionBookParser$BinaryElementsDataHandler#<init>(Lorg/apache/tika/extractor/EmbeddedDocumentExtractor;Lorg/xml/sax/ContentHandler;)V*N
+L
+%3Forg.apache.tika.parser.xml.FictionBookParser$BinaryElementsDataHandler*;
+9
+ex3org.apache.tika.extractor.EmbeddedDocumentExtractor*'
+%
+handlerorg.xml.sax.ContentHandler"•
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java4 4(:N
+L
+%3Forg.apache.tika.parser.xml.FictionBookParser$BinaryElementsDataHandler:%
+handlerorg.xml.sax.ContentHandler:-
+metadata!org.apache.tika.metadata.Metadata:.
+context#org.apache.tika.parser.ParseContextB0.
+,org.apache.tika.parser.xml.FictionBookParser

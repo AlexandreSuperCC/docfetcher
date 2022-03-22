@@ -1,0 +1,564 @@
+
+null#run()VS
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java¨ ¨("53*«
+46S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java≈ —(Â‚
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java≈ —(
+%11void"\net.sourceforge.docfetcher.util.Event#add(Lnet/sourceforge/docfetcher/util/Event$Listener;)V*-
++
+%8%net.sourceforge.docfetcher.util.Event*:
+8
+%92Lnet/sourceforge/docfetcher/gui/Application$21564;25add(Lnet/sourceforge/docfetcher/util/Event$Listener;)*
+45*Ì
+24S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÏ Ï(
+ãà
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÏ Ï(
+%37java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+msgjava.lang.StringBuilder*
+\n2append(Ljava/lang/String;)*
+23*í	
+47S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java¬ ¬(5◊
+‘
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java¬ ¬(5?,
+*net.sourceforge.docfetcher.gui.Application"
+folderWatcher"__id*6
+4
+%5.net.sourceforge.docfetcher.model.FolderWatcher◊
+‘
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java≈ ≈(4
+%7.net.sourceforge.docfetcher.model.FolderWatcher"__id*A*?,
+*net.sourceforge.docfetcher.gui.Application"
+folderWatcher€
+ÿ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java≈ ≈(%+
+%8%net.sourceforge.docfetcher.util.Event"__id*N*L
+4
+%7.net.sourceforge.docfetcher.model.FolderWatcher"
+evtWatchLimitError∆√
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java≈. ≈(D8
+%92Lnet/sourceforge/docfetcher/gui/Application$21564;"2Lnet/sourceforge/docfetcher/gui/Application$21564;’
+“
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java≈* —(
+%10"8net.sourceforge.docfetcher.util.Event$Listener#<init>()V*:
+8
+%92Lnet/sourceforge/docfetcher/gui/Application$21564;*
+46*Ä
+25S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÎ Î(.ûõ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÎ Î(.
+%36java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+msgjava.lang.StringBuilder*
+
+%35java.lang.String2append(Ljava/lang/String;)*
+24*µ
+48S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java¬' ¬(4◊
+‘
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java¬' ¬(44
+%4.net.sourceforge.docfetcher.model.IndexRegistry"__id*A*?,
+*net.sourceforge.docfetcher.gui.Application"
+indexRegistryæª
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java¬ ¬(&4
+%5.net.sourceforge.docfetcher.model.FolderWatcher".net.sourceforge.docfetcher.model.FolderWatcher∏
+µ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java¬ ¬(5
+%6"hnet.sourceforge.docfetcher.model.FolderWatcher#<init>(Lnet/sourceforge/docfetcher/model/IndexRegistry;)V*6
+4
+%5.net.sourceforge.docfetcher.model.FolderWatcher*6
+4
+%4.net.sourceforge.docfetcher.model.IndexRegistry*
+47*ƒ
+26S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÍ Í(8ó
+î
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÍ Í(8
+errorMsgjava.lang.String"__id*
+
+%33java.lang.Stringì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÎ Î(+
+%34$net.sourceforge.docfetcher.enums.Msg"__id*
+""≤Ø
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÎ Î(-
+%35java.lang.String"Rnet.sourceforge.docfetcher.enums.Msg#format([Ljava/lang/Object;)Ljava/lang/String;*-
++
+%34$net.sourceforge.docfetcher.enums.Msg*
+
+	indexNamejava.lang.String2format([Ljava/lang/Object;)*
+25*∏
+49S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java∂ ∂("]
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java∂ ∂(
+""*≠
+27S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÈ È(Gò
+ï
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÈ È(G
+	indexNamejava.lang.String"__id*
+
+%31java.lang.String‹
+Ÿ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÍ Í(*
+%32java.io.IOException"__id*`*^
+M
+indexDnet.sourceforge.docfetcher.model.IndexLoadingProblems$CorruptedIndex"
+ioException—Œ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÍ Í(7
+%33java.lang.String"2java.lang.Throwable#getMessage()Ljava/lang/String;*
+
+%32java.io.IOException2getMessage()*
+26*Â
+28S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÈ È(FÉÄ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÈ È(F
+%31java.lang.String"Lnet.sourceforge.docfetcher.model.TreeNode#getDisplayName()Ljava/lang/String;*0
+.
+%30'net.sourceforge.docfetcher.model.Folder2getDisplayName()*
+27*ã
+29S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÈ È(Ô
+Ï
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÈ È(%3
+%29,net.sourceforge.docfetcher.model.LuceneIndex"__id*Z*X
+M
+indexDnet.sourceforge.docfetcher.model.IndexLoadingProblems$CorruptedIndex"
+index∑¥
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÈ È(5.
+%30'net.sourceforge.docfetcher.model.Folder"enet.sourceforge.docfetcher.model.LuceneIndex#getRootFolder()Lnet/sourceforge/docfetcher/model/Folder;*5
+3
+%29,net.sourceforge.docfetcher.model.LuceneIndex2getRootFolder()*
+28*Õ
+51S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÆ ≤(Á
+‰
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÆ ≤(H
+loadingProblems5net.sourceforge.docfetcher.model.IndexLoadingProblems"__id*=
+;
+%35net.sourceforge.docfetcher.model.IndexLoadingProblems*
+48
+49*º
+52S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÆ2 ≤(⁄◊
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÆ2 ≤(;
+%35net.sourceforge.docfetcher.model.IndexLoadingProblems"ônet.sourceforge.docfetcher.model.IndexRegistry#load(Lnet/sourceforge/docfetcher/model/Cancelable;)Lnet/sourceforge/docfetcher/model/IndexLoadingProblems;*6
+4
+%0.net.sourceforge.docfetcher.model.IndexRegistry*:
+8
+%12Lnet/sourceforge/docfetcher/gui/Application$20733;23load(Lnet/sourceforge/docfetcher/model/Cancelable;)*
+51*Ô
+30S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaË Ë(
+çä
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaË Ë(
+%28java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+msgjava.lang.StringBuilder*
+\n\n2append(Ljava/lang/String;)*
+29*ª
+53S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÆ2 Æ(?◊
+‘
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÆ2 Æ(?4
+%0.net.sourceforge.docfetcher.model.IndexRegistry"__id*A*?,
+*net.sourceforge.docfetcher.gui.Application"
+indexRegistry∆√
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÆI Æ(S8
+%12Lnet/sourceforge/docfetcher/gui/Application$20733;"2Lnet/sourceforge/docfetcher/gui/Application$20733;∂
+≥
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÆE ≤(
+%2"java.lang.Object#<init>()V*:
+8
+%12Lnet/sourceforge/docfetcher/gui/Application$20733;*
+52*ë
+31S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÁ" Á(1Ø¨
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÁ" Á(G
+%27java.util.List"[net.sourceforge.docfetcher.model.IndexLoadingProblems#getCorruptedIndexes()Ljava/util/List;*J
+H
+loadingProblems5net.sourceforge.docfetcher.model.IndexLoadingProblems2getCorruptedIndexes()*
+21*Ó
+10S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaˆ ˆ(
+Õ
+ 
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaˆ ˆ(
+%52java.io.File"__id*X*V
+L
+indexCnet.sourceforge.docfetcher.model.IndexLoadingProblems$OverflowIndex"
+fileΩ∫
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaˆ ˆ(&
+%53java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+%52java.io.File2	getName()*
+9*Ç
+32S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÊ Ê(I†
+ù
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÊ Ê(I
+msgjava.lang.StringBuilder"__id* 
+
+%25java.lang.StringBuilder*
+31*Ì
+11S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaı ı(
+ãà
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaı ı(
+%51java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+msgjava.lang.StringBuilder*
+\n2append(Ljava/lang/String;)*
+10*«
+33S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÊ Ê(Hëé
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÊ Ê(+
+%25java.lang.StringBuilder"java.lang.StringBuilder—
+Œ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÊ Ê(H
+%26"3java.lang.StringBuilder#<init>(Ljava/lang/String;)V* 
+
+%25java.lang.StringBuilder*
+
+%24java.lang.String*
+32*›
+34S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÊ, Ê(/ì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÊ, Ê(A+
+%23$net.sourceforge.docfetcher.enums.Msg"__id*
+""Â‚
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÊ, Ê(G
+%24java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%23$net.sourceforge.docfetcher.enums.Msg2get()*
+33*é
+12S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÙ! Ù(0≠™
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÙ! Ù(E
+%50java.util.List"Znet.sourceforge.docfetcher.model.IndexLoadingProblems#getOverflowIndexes()Ljava/util/List;*J
+H
+loadingProblems5net.sourceforge.docfetcher.model.IndexLoadingProblems2getOverflowIndexes()*
+8*ê
+13S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÚ Ú(\†
+ù
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÚ Ú(\
+msgjava.lang.StringBuilder"__id* 
+
+%47java.lang.StringBuilderãà
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÛ Û(
+%49java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+msgjava.lang.StringBuilder*
+\n2append(Ljava/lang/String;)*
+12*ç
+36S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÂ
+ Â(9ß§
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÂ
+ Â(9
+%22boolean"java.util.List#isEmpty()Z*
+
+%21java.util.List2	isEmpty()*
+18
+34*«
+14S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÚ Ú([ëé
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÚ Ú(+
+%47java.lang.StringBuilder"java.lang.StringBuilder—
+Œ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÚ Ú([
+%48"3java.lang.StringBuilder#<init>(Ljava/lang/String;)V* 
+
+%47java.lang.StringBuilder*
+
+%46java.lang.String*
+13*ë
+37S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÂ
+ Â(Ø¨
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÂ
+ Â(/
+%21java.util.List"[net.sourceforge.docfetcher.model.IndexLoadingProblems#getCorruptedIndexes()Ljava/util/List;*J
+H
+loadingProblems5net.sourceforge.docfetcher.model.IndexLoadingProblems2getCorruptedIndexes()*
+36*›
+15S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÚ, Ú(/ì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÚ, Ú(T+
+%45$net.sourceforge.docfetcher.enums.Msg"__id*
+""Â‚
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÚ, Ú(Z
+%46java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%45$net.sourceforge.docfetcher.enums.Msg2get()*
+14*ü
+38S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java⁄ ·(Ω
+∫
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java⁄ ·(
+%20"jnet.sourceforge.docfetcher.util.UtilGui#runSyncExec(Lorg/eclipse/swt/widgets/Widget;Ljava/lang/Runnable;)Z*+")
+'net.sourceforge.docfetcher.util.UtilGui*
+""*;
+9
+%182Lnet/sourceforge/docfetcher/gui/Application$22326;*
+37*‰
+39S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java⁄ ⁄(«ƒ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java⁄) ⁄(19
+%182Lnet/sourceforge/docfetcher/gui/Application$22326;"2Lnet/sourceforge/docfetcher/gui/Application$22326;∏
+µ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java⁄% ·(
+%19"java.lang.Object#<init>()V*;
+9
+%182Lnet/sourceforge/docfetcher/gui/Application$22326;*
+38*å
+17S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÒ
+ Ò(8ß§
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÒ
+ Ò(8
+%44boolean"java.util.List#isEmpty()Z*
+
+%43java.util.List2	isEmpty()*
+15
+1*è
+18S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÒ
+ Ò(≠™
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÒ
+ Ò(.
+%43java.util.List"Znet.sourceforge.docfetcher.model.IndexLoadingProblems#getOverflowIndexes()Ljava/util/List;*J
+H
+loadingProblems5net.sourceforge.docfetcher.model.IndexLoadingProblems2getOverflowIndexes()*
+17*„
+19S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÔ( Ô(,Å
+˛
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÔ Ô(4
+%42void"Hnet.sourceforge.docfetcher.util.AppUtil#showError(Ljava/lang/String;ZZ)V*+")
+'net.sourceforge.docfetcher.util.AppUtil*
+
+%41java.lang.String*2*2 *
+18*q
+0 "j
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaä ä(
+implicit return*£
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÇ Ç(«ƒ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÇ) Ç(19
+%592Lnet/sourceforge/docfetcher/gui/Application$23794;"2Lnet/sourceforge/docfetcher/gui/Application$23794;∏
+µ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÇ% à(
+%60"java.lang.Object#<init>()V*;
+9
+%592Lnet/sourceforge/docfetcher/gui/Application$23794;æ
+ª
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÇ à(
+%61"knet.sourceforge.docfetcher.util.UtilGui#runAsyncExec(Lorg/eclipse/swt/widgets/Widget;Ljava/lang/Runnable;)V*+")
+'net.sourceforge.docfetcher.util.UtilGui*
+""*;
+9
+%592Lnet/sourceforge/docfetcher/gui/Application$23794;*
+0*·
+6S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java¯( ¯(,Å
+˛
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java¯ ¯(4
+%56void"Hnet.sourceforge.docfetcher.util.AppUtil#showError(Ljava/lang/String;ZZ)V*+")
+'net.sourceforge.docfetcher.util.AppUtil*
+
+%55java.lang.String*2*2 *
+1*µ
+7S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java¯ ¯(’“
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java¯ ¯(&
+%55java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+msgjava.lang.StringBuilder2
+toString()*
+6*Ó
+8S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÙ Ù(¥
+±
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÙ Ù(L
+indexCnet.sourceforge.docfetcher.model.IndexLoadingProblems$OverflowIndex"__id*
+""”
+–
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÙ Ù(L
+indexCnet.sourceforge.docfetcher.model.IndexLoadingProblems$OverflowIndex"
+__arrayGet*
+
+%50java.util.List*
+""*
+7
+11*˛
+9S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaˆ ˆ('ûõ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaˆ ˆ('
+%54java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+msgjava.lang.StringBuilder*
+
+%53java.lang.String2append(Ljava/lang/String;)*
+8*ç
+41S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaŸ Ÿ(7ß§
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaŸ Ÿ(7
+%17boolean"java.util.List#isEmpty()Z*
+
+%16java.util.List2	isEmpty()*
+37
+39*ã
+42S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaŸ Ÿ(©¶
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaŸ Ÿ(-
+%16java.util.List"Xnet.sourceforge.docfetcher.model.IndexLoadingProblems#getObsoleteFiles()Ljava/util/List;*J
+H
+loadingProblems5net.sourceforge.docfetcher.model.IndexLoadingProblems2getObsoleteFiles()*
+41*∑
+20S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÔ Ô(’“
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÔ Ô(&
+%41java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+msgjava.lang.StringBuilder2
+toString()*
+19*Ú
+21S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÁ Á(µ
+≤
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÁ Á(M
+indexDnet.sourceforge.docfetcher.model.IndexLoadingProblems$CorruptedIndex"__id*
+""‘
+—
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÁ Á(M
+indexDnet.sourceforge.docfetcher.model.IndexLoadingProblems$CorruptedIndex"
+__arrayGet*
+
+%27java.util.List*
+""*
+30
+20*ë
+44S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÿ	 ÿ(†
+ù
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÿ	 ÿ(8
+%131net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""†
+ù
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÿ	 ÿ(28
+%141net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""Â‚
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÿ	 ÿ(8
+%15boolean"8net.sourceforge.docfetcher.enums.ProgramConf$Bool#get()Z*:
+8
+%141net.sourceforge.docfetcher.enums.ProgramConf$Bool2get()*
+37
+42*Ä
+22S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÌ Ì(-ûõ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÌ Ì(-
+%40java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+msgjava.lang.StringBuilder*
+
+%39java.lang.String2append(Ljava/lang/String;)*
+21*§
+45S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java‘ ‘(¬ø
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java‘ ‘( 
+%12void"=net.sourceforge.docfetcher.model.Daemon#enqueueUpdateTasks()V*
+""2enqueueUpdateTasks()*
+44*©
+23S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÌ Ì(
+ì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÌ Ì(+
+%38$net.sourceforge.docfetcher.enums.Msg"__id*
+""±Æ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÌ Ì(,
+%39java.lang.String"Rnet.sourceforge.docfetcher.enums.Msg#format([Ljava/lang/Object;)Ljava/lang/String;*-
++
+%38$net.sourceforge.docfetcher.enums.Msg*
+
+errorMsgjava.lang.String2format([Ljava/lang/Object;)*
+22B64
+2Lnet/sourceforge/docfetcher/gui/Application$20559;

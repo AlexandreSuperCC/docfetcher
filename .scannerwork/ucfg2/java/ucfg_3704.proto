@@ -1,0 +1,42 @@
+
+Knet.sourceforge.docfetcher.model.IndexRegistry#getIndexes()Ljava/util/List;W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÓ Ó($"5*¿
+2W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÖ Ö(1"a
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÖ Ö(1
+""*Ø
+4W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÖ
+ Ö(¸
+µ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÖ Ö(&
+%2java.util.Map"__id*?*=0
+.net.sourceforge.docfetcher.model.IndexRegistry"	
+indexes¹¶
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÖ Ö(/
+%3java.util.Set"%java.util.Map#keySet()Ljava/util/Set;*
+
+%2java.util.Map2keySet()*
+2*ô
+5W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÔ Ô(
+Ë
+È
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÔ Ô(
+%
+%0java.util.concurrent.locks.Lock"__id*@*>0
+.net.sourceforge.docfetcher.model.IndexRegistry"
+
+readLockÂ¿
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÔ Ô(
+
+%1void"'java.util.concurrent.locks.Lock#lock()V*'
+%
+%0java.util.concurrent.locks.Lock2lock()*
+4B20
+.net.sourceforge.docfetcher.model.IndexRegistry

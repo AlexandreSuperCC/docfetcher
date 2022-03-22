@@ -1,0 +1,109 @@
+
+forg.apache.tika.config.ServiceLoader#identifyStaticServiceProviders(Ljava/lang/Class;)Ljava/util/List;M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java¢ ¢(="8*ı
+2M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java© ©(y
+w
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java© ©(
+resourcejava.net.URL"__id*
+""ù
+ö
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java© ©(
+resourcejava.net.URL"
+__arrayGet*
+
+%6java.util.ArrayList*
+""*
+4
+1*ˇ
+4M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java´ ´(,•
+¢
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java´ ´(=
+
+%7void"dorg.apache.tika.config.ServiceLoader#collectServiceClassNames(Ljava/net/URL;Ljava/util/Collection;)V*(&
+$org.apache.tika.config.ServiceLoader*
+
+resourcejava.net.URL*
+
+namesjava.util.List*
+2*“
+6M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java©  ©(+¯
+ı
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java©  ©(;
+%6java.util.ArrayList"Hjava.util.Collections#list(Ljava/util/Enumeration;)Ljava/util/ArrayList;*"
+java.util.Collections*$
+"
+	resourcesjava.util.Enumeration*
+2*ƒ
+7M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java¶! ¶(&æª
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java¶! ¶(0
+%3java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+
+ifacejava.lang.Class2	getName()ì
+ê
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java¶ ¶(1
+serviceNamejava.lang.String"__id*
+
+%3java.lang.StringØ
+¨
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java®) ®(K
+%4java.lang.String"__concat*
+META-INF/services/*!
+
+serviceNamejava.lang.String√¿
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java® ®(L
+%5java.util.Enumeration"dorg.apache.tika.config.ServiceLoader#findServiceResources(Ljava/lang/String;)Ljava/util/Enumeration;*(&
+$org.apache.tika.config.ServiceLoader*
+
+%4java.lang.String2(findServiceResources(Ljava/lang/String;)õ
+ò
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javaß ®(M"
+	resourcesjava.util.Enumeration"__id*
+
+%5java.util.Enumeration*
+6*¥
+8M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java£ £(4Å
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java£! £(2
+%0java.util.ArrayList"java.util.ArrayListî
+ë
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java£ £(4
+%1"java.util.ArrayList#<init>()V*
+
+%0java.util.ArrayListé
+ã
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java£ £(5
+namesjava.util.List"__id*
+
+%0java.util.ArrayList´
+®
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java• •(
+%2java.lang.ClassLoader"__id*4*2&
+$org.apache.tika.config.ServiceLoader"
+loader*
+7
+1*æ
+1M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java≤ ≤("j
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java≤ ≤(
+
+namesjava.util.List:
+ifacejava.lang.ClassB(&
+$org.apache.tika.config.ServiceLoader

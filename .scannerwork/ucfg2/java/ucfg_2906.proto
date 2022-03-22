@@ -1,0 +1,479 @@
+
+Pnet.sourceforge.docfetcher.model.parse.ParseServiceTest#testMimeTypeDetection()V^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java' '(""4*ô
+2^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java;& ;(+ª∏
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java;& ;(64
+%71-net.sourceforge.docfetcher.model.parse.Parser"Rnet.sourceforge.docfetcher.util.collect.ListMap$Entry#getValue()Ljava/lang/Object;*@
+>
+entry5net.sourceforge.docfetcher.util.collect.ListMap$Entry2
+getValue()îë
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java;& ;(A
+%72java.util.Collection"Nnet.sourceforge.docfetcher.model.parse.Parser#getTypes()Ljava/util/Collection;*6
+4
+%71-net.sourceforge.docfetcher.model.parse.Parser2
+getTypes()Ø
+¨
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java; ;(B%
+expectedTypesjava.util.Collection"__id*
+
+%72java.util.Collectionñì
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java<F <(T
+%73java.io.File"Pnet.sourceforge.docfetcher.util.collect.ListMap$Entry#getKey()Ljava/lang/Object;*@
+>
+entry5net.sourceforge.docfetcher.util.collect.ListMap$Entry2getKey()¥
+±
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java<$ <(U
+%74java.util.List"hnet.sourceforge.docfetcher.model.parse.ParseService#getPossibleMimeTypes(Ljava/io/File;)Ljava/util/List;*7"5
+3net.sourceforge.docfetcher.model.parse.ParseService*
+
+%73java.io.Fileß
+§
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java< <(V#
+actualTypesjava.util.Collection"__id*
+
+%74java.util.List≠
+™
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java= =(?
+%75boolean"Mjava.util.Collections#disjoint(Ljava/util/Collection;Ljava/util/Collection;)Z*"
+java.util.Collections*'
+%
+expectedTypesjava.util.Collection*%
+#
+actualTypesjava.util.Collection*
+1*æô
+4^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java(* ((1∫
+∑
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java(* ((H5
+%0/net.sourceforge.docfetcher.util.collect.ListMap"inet.sourceforge.docfetcher.util.collect.ListMap#create()Lnet/sourceforge/docfetcher/util/collect/ListMap;*3"1
+/net.sourceforge.docfetcher.util.collect.ListMapù
+ö
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java) )( *
+%1$net.sourceforge.docfetcher.TestFiles"__id*
+""Ê„
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java) )(&
+%2java.io.File"8net.sourceforge.docfetcher.TestFiles#get()Ljava/io/File;*,
+*
+%1$net.sourceforge.docfetcher.TestFiles2get()’“
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java), )(9:
+%34net.sourceforge.docfetcher.model.parse.AbiWordParser"4net.sourceforge.docfetcher.model.parse.AbiWordParserÁ
+‰
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java)( )(;
+%4">net.sourceforge.docfetcher.model.parse.AbiWordParser#<init>()V*<
+:
+%34net.sourceforge.docfetcher.model.parse.AbiWordParserﬂ‹
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java(* )(<5
+%5/net.sourceforge.docfetcher.util.collect.ListMap"änet.sourceforge.docfetcher.util.collect.ListMap#add(Ljava/lang/Object;Ljava/lang/Object;)Lnet/sourceforge/docfetcher/util/collect/ListMap;*7
+5
+%0/net.sourceforge.docfetcher.util.collect.ListMap*
+
+%2java.io.File*<
+:
+%34net.sourceforge.docfetcher.model.parse.AbiWordParser2)add(Ljava/lang/Object;Ljava/lang/Object;)ù
+ö
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java* *(#*
+%6$net.sourceforge.docfetcher.TestFiles"__id*
+""Ê„
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java* *()
+%7java.io.File"8net.sourceforge.docfetcher.TestFiles#get()Ljava/io/File;*,
+*
+%6$net.sourceforge.docfetcher.TestFiles2get()’“
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java*/ *(<:
+%84net.sourceforge.docfetcher.model.parse.AbiWordParser"4net.sourceforge.docfetcher.model.parse.AbiWordParserÁ
+‰
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java*+ *(>
+%9">net.sourceforge.docfetcher.model.parse.AbiWordParser#<init>()V*<
+:
+%84net.sourceforge.docfetcher.model.parse.AbiWordParser‡›
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java(* *(?6
+%10/net.sourceforge.docfetcher.util.collect.ListMap"änet.sourceforge.docfetcher.util.collect.ListMap#add(Ljava/lang/Object;Ljava/lang/Object;)Lnet/sourceforge/docfetcher/util/collect/ListMap;*7
+5
+%5/net.sourceforge.docfetcher.util.collect.ListMap*
+
+%7java.io.File*<
+:
+%84net.sourceforge.docfetcher.model.parse.AbiWordParser2)add(Ljava/lang/Object;Ljava/lang/Object;)û
+õ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java+ +(!+
+%11$net.sourceforge.docfetcher.TestFiles"__id*
+""ËÂ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java+ +('
+%12java.io.File"8net.sourceforge.docfetcher.TestFiles#get()Ljava/io/File;*-
++
+%11$net.sourceforge.docfetcher.TestFiles2get()Çˇ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java+- +(=Q
+%13Jnet.sourceforge.docfetcher.model.parse.MSOffice2007Parser$MSWord2007Parser"Jnet.sourceforge.docfetcher.model.parse.MSOffice2007Parser$MSWord2007Parserï
+í
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java+) +(?
+%14"Tnet.sourceforge.docfetcher.model.parse.MSOffice2007Parser$MSWord2007Parser#<init>()V*S
+Q
+%13Jnet.sourceforge.docfetcher.model.parse.MSOffice2007Parser$MSWord2007Parser˘ˆ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java(* +(@6
+%15/net.sourceforge.docfetcher.util.collect.ListMap"änet.sourceforge.docfetcher.util.collect.ListMap#add(Ljava/lang/Object;Ljava/lang/Object;)Lnet/sourceforge/docfetcher/util/collect/ListMap;*8
+6
+%10/net.sourceforge.docfetcher.util.collect.ListMap*
+
+%12java.io.File*S
+Q
+%13Jnet.sourceforge.docfetcher.model.parse.MSOffice2007Parser$MSWord2007Parser2)add(Ljava/lang/Object;Ljava/lang/Object;)û
+õ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java, ,(!+
+%16$net.sourceforge.docfetcher.TestFiles"__id*
+""ËÂ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java, ,('
+%17java.io.File"8net.sourceforge.docfetcher.TestFiles#get()Ljava/io/File;*-
++
+%16$net.sourceforge.docfetcher.TestFiles2get()–Õ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java,- ,(78
+%181net.sourceforge.docfetcher.model.parse.HtmlParser"1net.sourceforge.docfetcher.model.parse.HtmlParser„
+‡
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java,) ,(9
+%19";net.sourceforge.docfetcher.model.parse.HtmlParser#<init>()V*:
+8
+%181net.sourceforge.docfetcher.model.parse.HtmlParser‡›
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java(* ,(:6
+%20/net.sourceforge.docfetcher.util.collect.ListMap"änet.sourceforge.docfetcher.util.collect.ListMap#add(Ljava/lang/Object;Ljava/lang/Object;)Lnet/sourceforge/docfetcher/util/collect/ListMap;*8
+6
+%15/net.sourceforge.docfetcher.util.collect.ListMap*
+
+%17java.io.File*:
+8
+%181net.sourceforge.docfetcher.model.parse.HtmlParser2)add(Ljava/lang/Object;Ljava/lang/Object;)û
+õ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java- -( +
+%21$net.sourceforge.docfetcher.TestFiles"__id*
+""ËÂ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java- -(&
+%22java.io.File"8net.sourceforge.docfetcher.TestFiles#get()Ljava/io/File;*-
++
+%21$net.sourceforge.docfetcher.TestFiles2get()äá
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java-, -(BU
+%23Nnet.sourceforge.docfetcher.model.parse.OpenOfficeParser$OpenOfficeWriterParser"Nnet.sourceforge.docfetcher.model.parse.OpenOfficeParser$OpenOfficeWriterParserù
+ö
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java-( -(D
+%24"Xnet.sourceforge.docfetcher.model.parse.OpenOfficeParser$OpenOfficeWriterParser#<init>()V*W
+U
+%23Nnet.sourceforge.docfetcher.model.parse.OpenOfficeParser$OpenOfficeWriterParser˝˙
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java(* -(E6
+%25/net.sourceforge.docfetcher.util.collect.ListMap"änet.sourceforge.docfetcher.util.collect.ListMap#add(Ljava/lang/Object;Ljava/lang/Object;)Lnet/sourceforge/docfetcher/util/collect/ListMap;*8
+6
+%20/net.sourceforge.docfetcher.util.collect.ListMap*
+
+%22java.io.File*W
+U
+%23Nnet.sourceforge.docfetcher.model.parse.OpenOfficeParser$OpenOfficeWriterParser2)add(Ljava/lang/Object;Ljava/lang/Object;)û
+õ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java. .( +
+%26$net.sourceforge.docfetcher.TestFiles"__id*
+""ËÂ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java. .(&
+%27java.io.File"8net.sourceforge.docfetcher.TestFiles#get()Ljava/io/File;*-
++
+%26$net.sourceforge.docfetcher.TestFiles2get()ŒÀ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java., .(57
+%280net.sourceforge.docfetcher.model.parse.PdfParser"0net.sourceforge.docfetcher.model.parse.PdfParser·
+ﬁ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java.( .(7
+%29":net.sourceforge.docfetcher.model.parse.PdfParser#<init>()V*9
+7
+%280net.sourceforge.docfetcher.model.parse.PdfParserﬂ‹
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java(* .(86
+%30/net.sourceforge.docfetcher.util.collect.ListMap"änet.sourceforge.docfetcher.util.collect.ListMap#add(Ljava/lang/Object;Ljava/lang/Object;)Lnet/sourceforge/docfetcher/util/collect/ListMap;*8
+6
+%25/net.sourceforge.docfetcher.util.collect.ListMap*
+
+%27java.io.File*9
+7
+%280net.sourceforge.docfetcher.model.parse.PdfParser2)add(Ljava/lang/Object;Ljava/lang/Object;)û
+õ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java/ /( +
+%31$net.sourceforge.docfetcher.TestFiles"__id*
+""ËÂ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java/ /(&
+%32java.io.File"8net.sourceforge.docfetcher.TestFiles#get()Ljava/io/File;*-
++
+%31$net.sourceforge.docfetcher.TestFiles2get()ŒÀ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java/, /(57
+%330net.sourceforge.docfetcher.model.parse.RtfParser"0net.sourceforge.docfetcher.model.parse.RtfParser·
+ﬁ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java/( /(7
+%34":net.sourceforge.docfetcher.model.parse.RtfParser#<init>()V*9
+7
+%330net.sourceforge.docfetcher.model.parse.RtfParserﬂ‹
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java(* /(86
+%35/net.sourceforge.docfetcher.util.collect.ListMap"änet.sourceforge.docfetcher.util.collect.ListMap#add(Ljava/lang/Object;Ljava/lang/Object;)Lnet/sourceforge/docfetcher/util/collect/ListMap;*8
+6
+%30/net.sourceforge.docfetcher.util.collect.ListMap*
+
+%32java.io.File*9
+7
+%330net.sourceforge.docfetcher.model.parse.RtfParser2)add(Ljava/lang/Object;Ljava/lang/Object;)û
+õ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java0 0( +
+%36$net.sourceforge.docfetcher.TestFiles"__id*
+""ËÂ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java0 0(&
+%37java.io.File"8net.sourceforge.docfetcher.TestFiles#get()Ljava/io/File;*-
++
+%36$net.sourceforge.docfetcher.TestFiles2get()ŒÀ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java0, 0(57
+%380net.sourceforge.docfetcher.model.parse.SvgParser"0net.sourceforge.docfetcher.model.parse.SvgParser·
+ﬁ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java0( 0(7
+%39":net.sourceforge.docfetcher.model.parse.SvgParser#<init>()V*9
+7
+%380net.sourceforge.docfetcher.model.parse.SvgParserﬂ‹
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java(* 0(86
+%40/net.sourceforge.docfetcher.util.collect.ListMap"änet.sourceforge.docfetcher.util.collect.ListMap#add(Ljava/lang/Object;Ljava/lang/Object;)Lnet/sourceforge/docfetcher/util/collect/ListMap;*8
+6
+%35/net.sourceforge.docfetcher.util.collect.ListMap*
+
+%37java.io.File*9
+7
+%380net.sourceforge.docfetcher.model.parse.SvgParser2)add(Ljava/lang/Object;Ljava/lang/Object;)û
+õ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java1 1( +
+%41$net.sourceforge.docfetcher.TestFiles"__id*
+""ËÂ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java1 1(&
+%42java.io.File"8net.sourceforge.docfetcher.TestFiles#get()Ljava/io/File;*-
++
+%41$net.sourceforge.docfetcher.TestFiles2get()–Õ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java1, 1(68
+%431net.sourceforge.docfetcher.model.parse.TextParser"1net.sourceforge.docfetcher.model.parse.TextParser„
+‡
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java1( 1(8
+%44";net.sourceforge.docfetcher.model.parse.TextParser#<init>()V*:
+8
+%431net.sourceforge.docfetcher.model.parse.TextParser‡›
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java(* 1(96
+%45/net.sourceforge.docfetcher.util.collect.ListMap"änet.sourceforge.docfetcher.util.collect.ListMap#add(Ljava/lang/Object;Ljava/lang/Object;)Lnet/sourceforge/docfetcher/util/collect/ListMap;*8
+6
+%40/net.sourceforge.docfetcher.util.collect.ListMap*
+
+%42java.io.File*:
+8
+%431net.sourceforge.docfetcher.model.parse.TextParser2)add(Ljava/lang/Object;Ljava/lang/Object;)û
+õ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java3 3(#+
+%46$net.sourceforge.docfetcher.TestFiles"__id*
+""ËÂ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java3 3()
+%47java.io.File"8net.sourceforge.docfetcher.TestFiles#get()Ljava/io/File;*-
++
+%46$net.sourceforge.docfetcher.TestFiles2get()ÚÔ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java3/ 3(;I
+%48Bnet.sourceforge.docfetcher.model.parse.MSOfficeParser$MSWordParser"Bnet.sourceforge.docfetcher.model.parse.MSOfficeParser$MSWordParserÖ
+Ç
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java3+ 3(=
+%49"Lnet.sourceforge.docfetcher.model.parse.MSOfficeParser$MSWordParser#<init>()V*K
+I
+%48Bnet.sourceforge.docfetcher.model.parse.MSOfficeParser$MSWordParserÒÓ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java(* 3(>6
+%50/net.sourceforge.docfetcher.util.collect.ListMap"änet.sourceforge.docfetcher.util.collect.ListMap#add(Ljava/lang/Object;Ljava/lang/Object;)Lnet/sourceforge/docfetcher/util/collect/ListMap;*8
+6
+%45/net.sourceforge.docfetcher.util.collect.ListMap*
+
+%47java.io.File*K
+I
+%48Bnet.sourceforge.docfetcher.model.parse.MSOfficeParser$MSWordParser2)add(Ljava/lang/Object;Ljava/lang/Object;)û
+õ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java4 4($+
+%51$net.sourceforge.docfetcher.TestFiles"__id*
+""ËÂ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java4 4(*
+%52java.io.File"8net.sourceforge.docfetcher.TestFiles#get()Ljava/io/File;*-
++
+%51$net.sourceforge.docfetcher.TestFiles2get()÷”
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java40 4(=;
+%534net.sourceforge.docfetcher.model.parse.MSExcelParser"4net.sourceforge.docfetcher.model.parse.MSExcelParserÈ
+Ê
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java4, 4(?
+%54">net.sourceforge.docfetcher.model.parse.MSExcelParser#<init>()V*=
+;
+%534net.sourceforge.docfetcher.model.parse.MSExcelParser„‡
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java(* 4(@6
+%55/net.sourceforge.docfetcher.util.collect.ListMap"änet.sourceforge.docfetcher.util.collect.ListMap#add(Ljava/lang/Object;Ljava/lang/Object;)Lnet/sourceforge/docfetcher/util/collect/ListMap;*8
+6
+%50/net.sourceforge.docfetcher.util.collect.ListMap*
+
+%52java.io.File*=
+;
+%534net.sourceforge.docfetcher.model.parse.MSExcelParser2)add(Ljava/lang/Object;Ljava/lang/Object;)û
+õ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java5 5(#+
+%56$net.sourceforge.docfetcher.TestFiles"__id*
+""ËÂ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java5 5()
+%57java.io.File"8net.sourceforge.docfetcher.TestFiles#get()Ljava/io/File;*-
++
+%56$net.sourceforge.docfetcher.TestFiles2get()÷”
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java5/ 5(<;
+%584net.sourceforge.docfetcher.model.parse.MSExcelParser"4net.sourceforge.docfetcher.model.parse.MSExcelParserÈ
+Ê
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java5+ 5(>
+%59">net.sourceforge.docfetcher.model.parse.MSExcelParser#<init>()V*=
+;
+%584net.sourceforge.docfetcher.model.parse.MSExcelParser„‡
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java(* 5(?6
+%60/net.sourceforge.docfetcher.util.collect.ListMap"änet.sourceforge.docfetcher.util.collect.ListMap#add(Ljava/lang/Object;Ljava/lang/Object;)Lnet/sourceforge/docfetcher/util/collect/ListMap;*8
+6
+%55/net.sourceforge.docfetcher.util.collect.ListMap*
+
+%57java.io.File*=
+;
+%584net.sourceforge.docfetcher.model.parse.MSExcelParser2)add(Ljava/lang/Object;Ljava/lang/Object;)û
+õ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java6 6(#+
+%61$net.sourceforge.docfetcher.TestFiles"__id*
+""ËÂ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java6 6()
+%62java.io.File"8net.sourceforge.docfetcher.TestFiles#get()Ljava/io/File;*-
++
+%61$net.sourceforge.docfetcher.TestFiles2get()÷”
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java6/ 6(<;
+%634net.sourceforge.docfetcher.model.parse.MSExcelParser"4net.sourceforge.docfetcher.model.parse.MSExcelParserÈ
+Ê
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java6+ 6(>
+%64">net.sourceforge.docfetcher.model.parse.MSExcelParser#<init>()V*=
+;
+%634net.sourceforge.docfetcher.model.parse.MSExcelParser„‡
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java(* 6(?6
+%65/net.sourceforge.docfetcher.util.collect.ListMap"änet.sourceforge.docfetcher.util.collect.ListMap#add(Ljava/lang/Object;Ljava/lang/Object;)Lnet/sourceforge/docfetcher/util/collect/ListMap;*8
+6
+%60/net.sourceforge.docfetcher.util.collect.ListMap*
+
+%62java.io.File*=
+;
+%634net.sourceforge.docfetcher.model.parse.MSExcelParser2)add(Ljava/lang/Object;Ljava/lang/Object;)û
+õ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java7 7(#+
+%66$net.sourceforge.docfetcher.TestFiles"__id*
+""ËÂ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java7 7()
+%67java.io.File"8net.sourceforge.docfetcher.TestFiles#get()Ljava/io/File;*-
++
+%66$net.sourceforge.docfetcher.TestFiles2get()˛˚
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java7/ 7(AO
+%68Hnet.sourceforge.docfetcher.model.parse.MSOfficeParser$MSPowerPointParser"Hnet.sourceforge.docfetcher.model.parse.MSOfficeParser$MSPowerPointParserë
+é
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java7+ 7(C
+%69"Rnet.sourceforge.docfetcher.model.parse.MSOfficeParser$MSPowerPointParser#<init>()V*Q
+O
+%68Hnet.sourceforge.docfetcher.model.parse.MSOfficeParser$MSPowerPointParser˜Ù
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java(* 7(D6
+%70/net.sourceforge.docfetcher.util.collect.ListMap"änet.sourceforge.docfetcher.util.collect.ListMap#add(Ljava/lang/Object;Ljava/lang/Object;)Lnet/sourceforge/docfetcher/util/collect/ListMap;*8
+6
+%65/net.sourceforge.docfetcher.util.collect.ListMap*
+
+%67java.io.File*Q
+O
+%68Hnet.sourceforge.docfetcher.model.parse.MSOfficeParser$MSPowerPointParser2)add(Ljava/lang/Object;Ljava/lang/Object;)Á
+‰
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java( 8(B
+fileToParserMap/net.sourceforge.docfetcher.util.collect.ListMap"__id*8
+6
+%70/net.sourceforge.docfetcher.util.collect.ListMap*
+1*|
+0 "u
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java? ?(
+implicit return*ü
+1^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java: :( ±
+Æ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java: :( >
+entry5net.sourceforge.docfetcher.util.collect.ListMap$Entry"__id*
+""˝
+˙
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.java: :( >
+entry5net.sourceforge.docfetcher.util.collect.ListMap$Entry"
+__arrayGet*D
+B
+fileToParserMap/net.sourceforge.docfetcher.util.collect.ListMap*
+""*
+2
+0B;9
+7net.sourceforge.docfetcher.model.parse.ParseServiceTest

@@ -1,0 +1,80 @@
+
+Nnet.contentobjects.jnotify.macosx.JNotify_macosx#addWatch(Ljava/lang/String;)IW
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.java6 6("8*µ
+2W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.javaI I(è
+å
+W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.javaI I(	
+%4int"Tnet.contentobjects.jnotify.macosx.JNotify_macosx#nativeAddWatch(Ljava/lang/String;)I*4"2
+0net.contentobjects.jnotify.macosx.JNotify_macosx*
+
+pathjava.lang.Stringø
+º
+W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.javaJ J(
+%5java.lang.Object"__id*C*A2
+0net.contentobjects.jnotify.macosx.JNotify_macosx"
+	countLock*
+1*Œ
+4W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.javaA A(√
+¿
+W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.javaA A(
+%2java.lang.Object"__id*G*E2
+0net.contentobjects.jnotify.macosx.JNotify_macosx"
+initCondition§°
+W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.javaA A(
+
+%3void"java.lang.Object#wait()V*
+
+%2java.lang.Object2wait()*
+6*™
+6W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.java= =(√
+¿
+W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.java= =(
+%1java.lang.Object"__id*G*E2
+0net.contentobjects.jnotify.macosx.JNotify_macosx"
+initCondition*
+2
+4* 
+8W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.java8 8($√
+¿
+W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.java8 8($
+%0java.lang.Object"__id*G*E2
+0net.contentobjects.jnotify.macosx.JNotify_macosx"
+initConditionù
+ö
+W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.java8 8(%
+myConditionjava.lang.Object"__id*
+
+%0java.lang.Object*
+2
+6*≤
+1W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.javaL L(
+ø
+º
+W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.javaM M(
+%6java.lang.Object"__id*C*A2
+0net.contentobjects.jnotify.macosx.JNotify_macosx"
+	countLockÆ´
+W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.javaM M(
+
+%7void"java.lang.Object#notifyAll()V*
+
+%6java.lang.Object2notifyAll()"a
+W
+MD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotify_macosx.javaO O(
+"":
+pathjava.lang.StringB4"2
+0net.contentobjects.jnotify.macosx.JNotify_macosx

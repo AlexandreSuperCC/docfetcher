@@ -1,0 +1,17 @@
+
+eorg.apache.tika.parser.CompositeParser#getMediaTypeRegistry()Lorg/apache/tika/mime/MediaTypeRegistry;O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaò ò(1"1*ù
+1O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaô ô(¬
+ø
+O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaô ô(,
+%0&org.apache.tika.mime.MediaTypeRegistry"__id*8*6(
+&org.apache.tika.parser.CompositeParser"
+
+registry"Å
+O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaô ô(.
+,
+%0&org.apache.tika.mime.MediaTypeRegistryB*(
+&org.apache.tika.parser.CompositeParser

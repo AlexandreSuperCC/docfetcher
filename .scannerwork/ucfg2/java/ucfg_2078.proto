@@ -1,0 +1,51 @@
+
+snet.sourceforge.docfetcher.util.gui.viewer.SimpleTreeViewer#getFilteredChildren(Ljava/lang/Object;)Ljava/util/List;d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTreeViewer.javaê ê($"startingBlock*²
+startingBlockd
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTreeViewer.javaê$ ê(>Ê
+Ç
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTreeViewer.javaé é(	
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+parentElementEÊ
+Ç
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTreeViewer.javaê% ê(-
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+parentElementE›
+˜
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTreeViewer.javaê0 ê(=
+parentElementE"__annotation*
+
+%2*
+
+%3*
+1*¨
+1d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTreeViewer.javaë	 ë(ìé
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTreeViewer.javaë ë(1
+%0java.lang.Iterable"onet.sourceforge.docfetcher.util.gui.viewer.SimpleTreeViewer#getChildren(Ljava/lang/Object;)Ljava/lang/Iterable;*?=
+;net.sourceforge.docfetcher.util.gui.viewer.SimpleTreeViewer*
+
+parentElementE2getChildren(Ljava/lang/Object;)Í
+Ê
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTreeViewer.javaë	 ë(2
+%1java.util.List"onet.sourceforge.docfetcher.util.gui.viewer.SimpleTreeViewer#filterAndSort(Ljava/lang/Iterable;)Ljava/util/List;*?=
+;net.sourceforge.docfetcher.util.gui.viewer.SimpleTreeViewer*
+
+%0java.lang.Iterable"~
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTreeViewer.javaë ë(3
+
+%1java.util.List:
+parentElementEB?=
+;net.sourceforge.docfetcher.util.gui.viewer.SimpleTreeViewer

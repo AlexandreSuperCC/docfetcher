@@ -1,0 +1,71 @@
+
+Wnet.sourceforge.docfetcher.model.search.HighlightedString#getString()Ljava/lang/String;`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java' '("5*Ø
+2`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java) )(è
+å
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java) )(
+stringjava.lang.String"__id*
+""≠
+™
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java) )(
+stringjava.lang.String"
+__arrayGet*
+
+%2java.util.List*
+""*
+3
+1*ô
+3`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java* *(¨©
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java* *(
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+stringjava.lang.String2append(Ljava/lang/String;)*
+2*∫
+4`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java) )(Õ
+ 
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java) )(
+%2java.util.List"__id*J*H;
+9net.sourceforge.docfetcher.model.search.HighlightedString"	
+strings*
+2*Û
+5`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java(' ((-ùö
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java( ((&
+%0java.lang.StringBuilder"java.lang.StringBuilder∏
+µ
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java( ((.
+%1""java.lang.StringBuilder#<init>(I)V*
+
+%0java.lang.StringBuilder*
+""´
+®
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java( ((/
+sbjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder*
+4*∆
+1`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java+	 +(‡›
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java+	 +(
+%4java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()"|
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java+ +(
+
+%4java.lang.StringB=;
+9net.sourceforge.docfetcher.model.search.HighlightedString

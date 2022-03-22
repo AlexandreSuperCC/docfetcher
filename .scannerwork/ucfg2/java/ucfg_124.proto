@@ -1,0 +1,16 @@
+
+dorg.apache.tika.sax.ElementMappingContentHandler$TargetElement#getAttributesMapping()Ljava/util/Map;W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javay! y(5"1*£
+1W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaz z($Ò
+Ï
+W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaz z($
+%0java.util.Map"__id*Y*W@
+>org.apache.tika.sax.ElementMappingContentHandler$TargetElement"
+attributesMapping"p
+W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaz z(%
+
+%0java.util.MapBB@
+>org.apache.tika.sax.ElementMappingContentHandler$TargetElement

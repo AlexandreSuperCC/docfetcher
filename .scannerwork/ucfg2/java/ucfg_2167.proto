@@ -1,0 +1,96 @@
+
+[org.apache.tika.utils.ExceptionUtils#getStackTrace(Ljava/lang/Throwable;)Ljava/lang/String;K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java; ;(&"7*ò
+3K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.javaC C(š—
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.javaC C(
+
+%8void"java.io.Writer#close()V*
+
+resultjava.io.Writer2close()*
+1*ü
+4K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.javaB B(¤¡
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.javaB B(
+
+%7void"java.io.PrintWriter#close()V*
+
+writerjava.io.PrintWriter2close()*
+3*ò
+5K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.javaA A(š—
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.javaA A(
+
+%6void"java.io.Writer#flush()V*
+
+resultjava.io.Writer2flush()*
+4*ü
+6K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java@ @(¤¡
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java@ @(
+
+%5void"java.io.PrintWriter#flush()V*
+
+writerjava.io.PrintWriter2flush()*
+5*Ù	
+7K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java< <(*
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java< <((
+%0java.io.StringWriter"java.io.StringWriter”
+‘
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java< <(*
+%1"java.io.StringWriter#<init>()V*
+
+%0java.io.StringWriterŽ
+‹
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java< <(+
+resultjava.io.Writer"__id*
+
+%0java.io.StringWriter}
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java=! =(,
+%2java.io.PrintWriter"java.io.PrintWriter¾
+»
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java= =(4
+%3"-java.io.PrintWriter#<init>(Ljava/io/Writer;)V*
+
+%2java.io.PrintWriter*
+
+resultjava.io.Writer’
+
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java= =(5
+writerjava.io.PrintWriter"__id*
+
+%2java.io.PrintWriterþû
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.java> >(!
+
+%4void";java.lang.Throwable#printStackTrace(Ljava/io/PrintWriter;)V*
+
+tjava.lang.Throwable*
+
+writerjava.io.PrintWriter2&printStackTrace(Ljava/io/PrintWriter;)*
+6*û
+1K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.javaG G(¿¼
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.javaG G( 
+%9java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+
+resultjava.io.Writer2
+toString()"g
+K
+AD:/git_project/code/src/org/apache/tika/utils/ExceptionUtils.javaG G(!
+
+%9java.lang.String:
+tjava.lang.ThrowableB("&
+$org.apache.tika.utils.ExceptionUtils

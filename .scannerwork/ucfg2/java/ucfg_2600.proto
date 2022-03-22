@@ -1,0 +1,333 @@
+
+Yorg.apache.tika.detect.MagicDetector#decodeString(Ljava/lang/String;Ljava/lang/String;)[BK
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java} }(&"40*ñ
+24M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javañ ñ(∫∑
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javañ ñ(+
+%17void"!java.io.CharArrayWriter#write(I)V*$
+"
+decodedjava.io.CharArrayWriter*
+\n2write(I)*
+33*ê
+25M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaï ï( ¨©
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaï ï(.
+%16char"java.lang.String#charAt(I)C*
+
+valuejava.lang.String*
+""2	charAt(I)*
+24
+18
+21*ñ
+26M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaì ì(∫∑
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaì ì(,
+%15void"!java.io.CharArrayWriter#write(I)V*$
+"
+decodedjava.io.CharArrayWriter*
+\r2write(I)*
+33*å
+27M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaí í( ¨©
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaí í(.
+%14char"java.lang.String#charAt(I)C*
+
+valuejava.lang.String*
+""2	charAt(I)*
+25
+26*√
+28M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaè è(Ÿ÷
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaê ê(9
+%11java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+valuejava.lang.String*
+""*
+""2substring(II)»
+≈
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaè" ê(>
+
+%12int"0java.lang.Integer#parseInt(Ljava/lang/String;I)I*"
+java.lang.Integer*
+
+%11java.lang.String*2¿Ω
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaè ê(?
+%13void"!java.io.CharArrayWriter#write(I)V*$
+"
+decodedjava.io.CharArrayWriter*
+
+
+%12int2write(I)*
+33*å
+29M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaé é( ¨©
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaé é(.
+%10char"java.lang.String#charAt(I)C*
+
+valuejava.lang.String*
+""2	charAt(I)*
+27
+28*ï
+30M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaå å(π∂
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaå å('
+
+%9void"!java.io.CharArrayWriter#write(I)V*$
+"
+decodedjava.io.CharArrayWriter*
+\\2write(I)*
+33*ã
+31M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaã ã(´®
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaã ã('
+
+%8char"java.lang.String#charAt(I)C*
+
+valuejava.lang.String*
+""2	charAt(I)*
+29
+30*ã
+32M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaä ä(´®
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaä ä(
+
+%7char"java.lang.String#charAt(I)C*
+
+valuejava.lang.String*
+""2	charAt(I)*
+17
+31*µ
+10M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java∞ ∞(◊‘
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java∞ ∞(+
+%30boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+	unicodeBE*
+
+typejava.lang.String2equals(Ljava/lang/Object;)*
+5
+9*Ä
+33M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaâ â(†ù
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaâ â(*	
+%6int"java.lang.String#length()I*
+
+valuejava.lang.String2length()*
+15
+32*•
+34M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaá" á(7äá
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaá& á(5
+%4java.io.CharArrayWriter"java.io.CharArrayWriterú
+ô
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaá" á(7
+%5"!java.io.CharArrayWriter#<init>()V*
+
+%4java.io.CharArrayWriterù
+ö
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaá á(8"
+decodedjava.io.CharArrayWriter"__id*
+
+%4java.io.CharArrayWriter*
+33*∂
+35M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaÑ Ñ("a
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaÑ Ñ(
+
+valsbyte[]* 
+14M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java´ ´("p
+n
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java´ ´(.
+bytesbyte[]"__id*
+""*
+1*Ê
+15M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java® ®(øº
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java® ®(,
+%28char[]"'java.io.CharArrayWriter#toCharArray()[C*$
+"
+decodedjava.io.CharArrayWriter2toCharArray()y
+w
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java® ®(-
+charschar[]"__id*
+
+%28char[]p
+n
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java© ©(
+bytesbyte[]"__id*
+""◊‘
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java™ ™($
+%29boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+	unicodeLE*
+
+typejava.lang.String2equals(Ljava/lang/Object;)*
+14
+10*Å
+37M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaÅ Å(ÿ’
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaÇ! Ç(F
+%2java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+valuejava.lang.String*
+""*
+""2substring(II)∆
+√
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaÇ Ç(K	
+%3int"0java.lang.Integer#parseInt(Ljava/lang/String;I)I*"
+java.lang.Integer*
+
+%2java.lang.String*2*
+35
+37*Î
+39K
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java$ ()ûõ
+K
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java$ (2	
+%1int"java.lang.String#length()I*
+
+valuejava.lang.String2length()m
+k
+K
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java (=
+valsbyte[]"__id*
+""*
+35
+37*Ã
+17M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java£ £(¨©
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java£ £(-
+%26char"java.lang.String#charAt(I)C*
+
+valuejava.lang.String*
+""2	charAt(I)¡æ
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java£ £(.
+%27void"!java.io.CharArrayWriter#write(I)V*$
+"
+decodedjava.io.CharArrayWriter*
+
+%26char2write(I)*
+33*î
+18M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaû û(Ÿ÷
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaü" ü(;
+%21java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+valuejava.lang.String*
+""*
+""2substring(II)ó
+î
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaü ü(;
+%22java.lang.String"__concat*
+0*
+
+%21java.lang.String◊
+‘
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaû" ü(<
+%23java.lang.Short";java.lang.Short#decode(Ljava/lang/String;)Ljava/lang/Short;*"
+java.lang.Short*
+
+%22java.lang.String§°
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaû" ü(H
+%24byte"java.lang.Short#byteValue()B*
+
+%23java.lang.Short2byteValue()¡æ
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaû ü(I
+%25void"!java.io.CharArrayWriter#write(I)V*$
+"
+decodedjava.io.CharArrayWriter*
+
+%24byte2write(I)*
+33*∂
+1M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaΩ Ω("b
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaΩ Ω(
+
+bytesbyte[]*…
+5M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java∏ ∏("p
+n
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java∏ ∏(*
+bytesbyte[]"__id*
+""*
+1*…
+9M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java± ±("p
+n
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java± ±(.
+bytesbyte[]"__id*
+""*
+1*¥
+40K
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java~ ~(÷”
+K
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java~ ~("
+%0boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+valuejava.lang.String*
+0x2startsWith(Ljava/lang/String;)*
+39
+34*∫
+20M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaõ  õ()¨©
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaõ2 õ(A
+%19char"java.lang.String#charAt(I)C*
+
+valuejava.lang.String*
+""2	charAt(I)´
+®
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaõ  õ(B
+%20boolean"java.lang.Character#isDigit(C)Z*"
+java.lang.Character*
+
+%19char*
+18
+21*Å
+21M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaö+ ö(,°û
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaö/ ö(=
+
+%18int"java.lang.String#length()I*
+
+valuejava.lang.String2length()*
+18
+20:
+valuejava.lang.String:
+typejava.lang.StringB("&
+$org.apache.tika.detect.MagicDetector

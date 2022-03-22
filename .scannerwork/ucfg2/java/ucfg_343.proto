@@ -1,0 +1,25 @@
+
+null#isEnabled()ZS
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java’ ’("1*î
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java“ “(æ
+ã
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java“ “(C
+%0=net.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer"__id*A*?3
+1Lnet/sourceforge/docfetcher/gui/ResultPanel$9885;"
+viewer£ 
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java“ “(!
+%1java.util.List"\net.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer#getSelection()Ljava/util/List;*E
+C
+%0=net.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer2getSelection()¥¢
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java“ “(+
+%2boolean"java.util.List#isEmpty()Z*
+
+%1java.util.List2	isEmpty()"]
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java“ “(,
+""B53
+1Lnet/sourceforge/docfetcher/gui/ResultPanel$9885;

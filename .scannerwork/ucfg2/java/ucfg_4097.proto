@@ -1,0 +1,60 @@
+
+`net.sourceforge.docfetcher.util.CharsetDetectorHelper#toString(Ljava/io/File;)Ljava/lang/String;\
+RD:/git_project/code/src/net/sourceforge/docfetcher/util/CharsetDetectorHelper.javaA A("startingBlock*Ì
+startingBlock\
+RD:/git_project/code/src/net/sourceforge/docfetcher/util/CharsetDetectorHelper.javaA A(2ƒ
+¡
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/util/CharsetDetectorHelper.java? ?(	
+%1"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.File 
+«
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/util/CharsetDetectorHelper.java@ @(
+%2"
+__annotate*=;
+9net.sourceforge.docfetcher.util.annotations.NotThreadSafe*
+
+filejava.io.Fileƒ
+¡
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/util/CharsetDetectorHelper.javaA A('
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.Fileù
+ö
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/util/CharsetDetectorHelper.javaA- A(1
+filejava.io.File"__annotation*
+
+%1*
+
+%2*
+
+%3*
+1*¸
+1\
+RD:/git_project/code/src/net/sourceforge/docfetcher/util/CharsetDetectorHelper.javaC C(
+}
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/util/CharsetDetectorHelper.javaC C()
+bytesbyte[]"__id*
+""ù
+ö
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/util/CharsetDetectorHelper.javaD	 D(
+%0java.lang.String"Tnet.sourceforge.docfetcher.util.CharsetDetectorHelper#toString([B)Ljava/lang/String;*9"7
+5net.sourceforge.docfetcher.util.CharsetDetectorHelper*
+
+bytesbyte[]"x
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/util/CharsetDetectorHelper.javaD D(
+
+%0java.lang.String:
+filejava.io.FileB9"7
+5net.sourceforge.docfetcher.util.CharsetDetectorHelper

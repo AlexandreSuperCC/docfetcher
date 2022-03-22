@@ -1,0 +1,31 @@
+
+Vorg.apache.tika.Tika#translate(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;=
+1D:/git_project/code/src/org/apache/tika/Tika.javaà à("4*
+3=
+1D:/git_project/code/src/org/apache/tika/Tika.javaâ â(>"Y
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaâ â(>
+
+%1java.lang.String*é
+4=
+1D:/git_project/code/src/org/apache/tika/Tika.javaâ â(§
+¤
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaâ â(3
+%0-org.apache.tika.language.translate.Translator"__id*(*&
+org.apache.tika.Tika"
+
+translatorõò
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaâ â(=
+%1java.lang.String"oorg.apache.tika.language.translate.Translator#translate(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*5
+3
+%0-org.apache.tika.language.translate.Translator*
+
+textjava.lang.String*$
+"
+targetLanguagejava.lang.String2/translate(Ljava/lang/String;Ljava/lang/String;)*
+3:
+textjava.lang.String:"
+targetLanguagejava.lang.StringB
+org.apache.tika.Tika

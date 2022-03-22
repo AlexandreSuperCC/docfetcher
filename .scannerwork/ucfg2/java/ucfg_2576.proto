@@ -1,0 +1,19 @@
+
+'org.apache.tika.mime.MagicMatch#size()IF
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.javaF F("1*Ø
+1F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.javaG G(ñ
+î
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.javaG G(*
+%0$org.apache.tika.detect.MagicDetector"Sorg.apache.tika.mime.MagicMatch#getDetector()Lorg/apache/tika/detect/MagicDetector;*#!
+org.apache.tika.mime.MagicMatchÄÁ
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.javaG G((	
+%1int"1org.apache.tika.detect.MagicDetector#getLength()I*,
+*
+%0$org.apache.tika.detect.MagicDetector2getLength()"P
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.javaG G()
+""B#!
+org.apache.tika.mime.MagicMatch

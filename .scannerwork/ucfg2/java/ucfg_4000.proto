@@ -1,0 +1,25 @@
+
+Rnet.sourceforge.docfetcher.model.search.ResultDocument#getType()Ljava/lang/String;_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java   ("1*Ž
+1_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java¡ ¡(¡
+ž
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java¡ ¡()-
+%0'net.sourceforge.docfetcher.model.Fields"__id*
+""õò
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java¡ ¡(/
+%1java.lang.String"?net.sourceforge.docfetcher.model.Fields#key()Ljava/lang/String;*/
+-
+%0'net.sourceforge.docfetcher.model.Fields2key()Œ
+‰
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java¡ ¡(1
+typejava.lang.String"__id*
+"""}
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java£ £(
+
+typejava.lang.StringB:8
+6net.sourceforge.docfetcher.model.search.ResultDocument

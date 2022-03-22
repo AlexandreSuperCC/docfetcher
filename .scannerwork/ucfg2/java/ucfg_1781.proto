@@ -1,0 +1,49 @@
+
+Qnet.sourceforge.docfetcher.model.parse.ChmParser#parsePage([BZ)Ljava/lang/String;W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javax x("startingBlock*ø
+2W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java (0"a
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java (0
+""*Ø
+startingBlockW
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javax x(9∫
+∑
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaw w(
+
+%2"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+databyte[]Å
+
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javax  x($
+databyte[]"__annotation*
+
+%2*
+12*ø
+5W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java} }(J"a
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java} }(J
+""*Õ
+12W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaz7 z(;ûõ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaz" z(6"
+%0java.io.ByteArrayInputStream"java.io.ByteArrayInputStreamƒ
+¡
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaz z(<
+%1"(java.io.ByteArrayInputStream#<init>([B)V*$
+"
+%0java.io.ByteArrayInputStream*
+
+databyte[]*
+2
+5:
+databyte[]:
+""B4"2
+0net.sourceforge.docfetcher.model.parse.ChmParser

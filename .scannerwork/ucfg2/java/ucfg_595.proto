@@ -1,0 +1,27 @@
+
+dnet.sourceforge.docfetcher.model.parse.OpenOfficeParser#matchesPasswordError(Ljava/lang/Exception;)Z`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.java‘ ‘(,"startingBlock*Þ
+startingBlock`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.java‘, ‘(CÍ
+Ê
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.java‘- ‘(6
+%0"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+ejava.lang.Exception•
+’
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.java‘A ‘(B
+ejava.lang.Exception"__annotation*
+
+%0*
+1*Ñ
+1`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javaœ œ(;"j
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javaœ œ(;
+"":
+ejava.lang.ExceptionB;"9
+7net.sourceforge.docfetcher.model.parse.OpenOfficeParser

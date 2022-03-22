@@ -1,0 +1,42 @@
+
+Korg.apache.tika.language.detect.LanguageResult#toString()Ljava/lang/String;U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.java_ _("1*ä
+1U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.java`	 `(
+}
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.java` `( 
+%0java.util.Locale"__id*
+""º
+·
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.java`1 `(9
+%1java.lang.String"__id*@*>0
+.org.apache.tika.language.detect.LanguageResult"
+
+languageÞ
+Û
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.java`; `(E8
+%22org.apache.tika.language.detect.LanguageConfidence"__id*B*@0
+.org.apache.tika.language.detect.LanguageResult"
+
+confidenceõ
+ò
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.java`	 `(P
+%3java.lang.String"bjava.lang.String#format(Ljava/util/Locale;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*
+
+%0java.util.Locale*
+%s: %s (%f)*
+
+%1java.lang.String*:
+8
+%22org.apache.tika.language.detect.LanguageConfidence*
+"""q
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.java` `(Q
+
+%3java.lang.StringB20
+.org.apache.tika.language.detect.LanguageResult

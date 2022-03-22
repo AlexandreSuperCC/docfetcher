@@ -1,0 +1,29 @@
+
+5net.sourceforge.docfetcher.util.Util#isInterrupted()ZM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaµ
+ µ
+($"1*”
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¶
+	 ¶
+(´
+±
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¶
+	 ¶
+(
+%0java.lang.Thread"2java.lang.Thread#currentThread()Ljava/lang/Thread;*"
+java.lang.Thread¯¬
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¶
+	 ¶
+(/
+%1boolean"!java.lang.Thread#isInterrupted()Z*
+
+%0java.lang.Thread2isInterrupted()"W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¶
+ ¶
+(0
+""B("&
+$net.sourceforge.docfetcher.util.Util

@@ -1,0 +1,49 @@
+
+lnet.sourceforge.docfetcher.model.Folder#getTreeCheckState()Lnet/sourceforge/docfetcher/model/TreeCheckState;P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java®* ®(;"1*ž
+1P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java¯ ¯(3½º
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java¯# ¯(15
+%0/net.sourceforge.docfetcher.model.TreeCheckState"/net.sourceforge.docfetcher.model.TreeCheckStateÏ
+Ì
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java¯ ¯(3
+%1"9net.sourceforge.docfetcher.model.TreeCheckState#<init>()V*7
+5
+%0/net.sourceforge.docfetcher.model.TreeCheckStateÎ
+Ë
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java¯ ¯(48
+state/net.sourceforge.docfetcher.model.TreeCheckState"__id*7
+5
+%0/net.sourceforge.docfetcher.model.TreeCheckStateåâ
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java° °(
+
+%2void"`net.sourceforge.docfetcher.model.TreeCheckState#add(Lnet/sourceforge/docfetcher/model/Folder;Z)V*:
+8
+state/net.sourceforge.docfetcher.model.TreeCheckState*+)
+'net.sourceforge.docfetcher.model.Folder*
+""2/add(Lnet/sourceforge/docfetcher/model/Folder;Z)ÍÊ
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java± ±($=
+%37Lnet/sourceforge/docfetcher/model/Folder<TD;TF;>$12961;"7Lnet/sourceforge/docfetcher/model/Folder<TD;TF;>$12961;¬
+©
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java± µ(
+%4"anet.sourceforge.docfetcher.model.FolderVisitor#<init>(Lnet/sourceforge/docfetcher/model/Folder;)V*?
+=
+%37Lnet/sourceforge/docfetcher/model/Folder<TD;TF;>$12961;*+)
+'net.sourceforge.docfetcher.model.Folderëè
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java± µ(
+
+%5void"8net.sourceforge.docfetcher.util.Stoppable#runSilently()V*?
+=
+%37Lnet/sourceforge/docfetcher/model/Folder<TD;TF;>$12961;2runSilently()"Ž
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java¶ ¶(:
+8
+state/net.sourceforge.docfetcher.model.TreeCheckStateB+)
+'net.sourceforge.docfetcher.model.Folder

@@ -1,0 +1,21 @@
+
+"org.apache.tika.sax.Link#isLink()Z?
+5D:/git_project/code/src/org/apache/tika/sax/Link.java7 7("1*à
+1?
+5D:/git_project/code/src/org/apache/tika/sax/Link.java8 8(Š
+‡
+?
+5D:/git_project/code/src/org/apache/tika/sax/Link.java8 8(!
+%0java.lang.String"__id*&*$
+org.apache.tika.sax.Link"
+typeÁ¾
+?
+5D:/git_project/code/src/org/apache/tika/sax/Link.java8 8("
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+link*
+
+%0java.lang.String2equals(Ljava/lang/Object;)"I
+?
+5D:/git_project/code/src/org/apache/tika/sax/Link.java8 8(#
+""B
+org.apache.tika.sax.Link

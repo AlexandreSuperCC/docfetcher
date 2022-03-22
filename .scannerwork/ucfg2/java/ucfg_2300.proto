@@ -1,0 +1,124 @@
+
+ìnet.sourceforge.docfetcher.model.UtilModel#maybeUnpackZipEntry(Lnet/sourceforge/docfetcher/model/index/IndexingConfig;Ljava/io/File;)Ljava/io/File;S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java˘ ˘('"startingBlock*∑
+2S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÄ
+ Ä("]
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÄ Ä(
+""*›
+startingBlockS
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java˘' ˙(Á
+‰
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java˜ ˜(
+
+%3"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfigı
+Ú
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java¯ ¯(
+%4"
+__annotate*FD
+Bnet.sourceforge.docfetcher.util.annotations.VisibleForPackageGroup*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfigÊ
+„
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java˘) ˘(1
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfigø
+º
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java˘A ˘(G?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig"__annotation*
+
+%3*
+
+%4*
+
+%5º
+π
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java˜ ˜(
+
+%6"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+filejava.io.File 
+«
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java¯ ¯(
+%7"
+__annotate*FD
+Bnet.sourceforge.docfetcher.util.annotations.VisibleForPackageGroup*
+
+filejava.io.Fileª
+∏
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java˙ ˙(
+%8"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.Fileî
+ë
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java˙ ˙(
+filejava.io.File"__annotation*
+
+%6*
+
+%7*
+
+%8*	
+2
+4
+1*∑
+4S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java˝
+ ˝("]
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java˝ ˝(
+""*´	
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÅ Å(ûõ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÇ Ç(/
+
+%0void"Qnet.sourceforge.docfetcher.model.index.IndexingConfig#checkDiskSpaceInTempDir(J)V*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*
+""2checkDiskSpaceInTempDir(J)Ω∫
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÉ3 É(A
+%1java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+filejava.io.File2	getName()„‡
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÉ É(B
+%2java.io.File"mnet.sourceforge.docfetcher.model.index.IndexingConfig#createDerivedTempFile(Ljava/lang/String;)Ljava/io/File;*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*
+
+%1java.lang.String2)createDerivedTempFile(Ljava/lang/String;)í
+è
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÉ É(C
+unpackedFilejava.io.File"__id*
+
+%2java.io.File"u
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÜ Ü(
+
+unpackedFilejava.io.File:?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig:
+filejava.io.FileB.",
+*net.sourceforge.docfetcher.model.UtilModel

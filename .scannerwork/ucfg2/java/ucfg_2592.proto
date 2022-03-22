@@ -1,0 +1,71 @@
+
+1net.sourceforge.docfetcher.Main#isJava9OrLater()ZH
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java‡ ‡(&"3*¡
+2H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java
+ ("R
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java (
+""*
+
+3H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.javaŒ Œ(Ñ
+Î
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.javaŒ Œ(8
+%0java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+java.version
+Š
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.javaŒ Œ(9
+
+versionStrjava.lang.String"__id*
+
+%0java.lang.Stringå
+â
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java ()
+%1java.util.regex.Pattern"Ljava.util.regex.Pattern#compile(Ljava/lang/String;)Ljava/util/regex/Pattern;*"
+java.util.regex.Pattern*
+
+(\\d+).*¦£
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java (=
+%2java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
+
+%1java.util.regex.Pattern* 
+
+
+versionStrjava.lang.String2!matcher(Ljava/lang/CharSequence;)’
+
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java (>
+mjava.util.regex.Matcher"__id*
+
+%2java.util.regex.Matcher«¨
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.javaŽ Ž(
+%3boolean""java.util.regex.Matcher#matches()Z*
+
+mjava.util.regex.Matcher2	matches()*
+2
+1*ª
+1H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java‘	 ‘(ÉÆ
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java‘ ‘($
+%4java.lang.String"2java.util.regex.Matcher#group(I)Ljava/lang/String;*
+
+mjava.util.regex.Matcher*22group(I)º
+·
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java‘	 ‘(%	
+%5int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+%4java.lang.String"R
+H
+<D:/git_project/code/src/net/sourceforge/docfetcher/Main.java‘ ‘(*
+""B#"!
+net.sourceforge.docfetcher.Main

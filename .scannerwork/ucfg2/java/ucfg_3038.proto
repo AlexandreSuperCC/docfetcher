@@ -1,0 +1,27 @@
+
+^org.apache.tika.language.detect.LanguageDetector#detectAll(Ljava/lang/String;)Ljava/util/List;Y
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaã ã(&"1*ù
+1Y
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaä ä(äá
+Y
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaä ä(	
+
+%0void"9org.apache.tika.language.detect.LanguageDetector#reset()V*42
+0org.apache.tika.language.detect.LanguageDetector2reset()´±
+Y
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaå å(
+
+%1void"Sorg.apache.tika.language.detect.LanguageDetector#addText(Ljava/lang/CharSequence;)V*42
+0org.apache.tika.language.detect.LanguageDetector*
+
+textjava.lang.String2!addText(Ljava/lang/CharSequence;)…‚
+Y
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaæ	 æ(
+%2java.util.List"Lorg.apache.tika.language.detect.LanguageDetector#detectAll()Ljava/util/List;*42
+0org.apache.tika.language.detect.LanguageDetector2detectAll()"s
+Y
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaæ æ(
+
+%2java.util.List:
+textjava.lang.StringB42
+0org.apache.tika.language.detect.LanguageDetector

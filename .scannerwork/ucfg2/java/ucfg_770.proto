@@ -1,0 +1,44 @@
+
+,org.apache.tika.io.TikaInputStream#peek([B)IK
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java• •("6*¿
+3K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaž ž(äá
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaž ž(6	
+%2int"/org.apache.tika.io.ProxyInputStream#read([BII)I*&$
+"org.apache.tika.io.TikaInputStream*
+
+bufferbyte[]*
+""*
+""2
+read([BII)*
+3
+1*ð
+6K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java– –(Â¿
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java˜ ˜(
+
+%0void"+org.apache.tika.io.TikaInputStream#mark(I)V*&$
+"org.apache.tika.io.TikaInputStream*
+""2mark(I)ÐÍ
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaš š(	
+%1int"-org.apache.tika.io.ProxyInputStream#read([B)I*&$
+"org.apache.tika.io.TikaInputStream*
+
+bufferbyte[]2read([B)*
+3
+1*ä
+1K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java¤ ¤(º·
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java¤ ¤(
+
+%3void"+org.apache.tika.io.TikaInputStream#reset()V*&$
+"org.apache.tika.io.TikaInputStream2reset()"U
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java¦ ¦(
+"":
+bufferbyte[]B&$
+"org.apache.tika.io.TikaInputStream

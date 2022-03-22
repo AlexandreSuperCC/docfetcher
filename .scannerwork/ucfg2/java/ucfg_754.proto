@@ -1,0 +1,16 @@
+
+borg.apache.tika.io.TikaInputStream#cast(Ljava/io/InputStream;)Lorg/apache/tika/io/TikaInputStream;K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaž" ž(&"2"1*À
+2K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java %  (+"n
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java   (,
+
+streamjava.io.InputStream*§
+1K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java¢ ¢("U
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java¢ ¢(
+"":
+streamjava.io.InputStreamB&"$
+"org.apache.tika.io.TikaInputStream

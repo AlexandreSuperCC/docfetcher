@@ -1,0 +1,72 @@
+
+Inet.sourceforge.docfetcher.gui.filter.IndexPanel#isOnlyIndexesSelected()ZY
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÌ Ì(&"7*×
+2Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÑ Ñ(£
+ 
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÑ Ñ(5
+viewNode)net.sourceforge.docfetcher.model.ViewNode"__id*
+""È
+Å
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÑ Ñ(5
+viewNode)net.sourceforge.docfetcher.model.ViewNode"
+__arrayGet*
+
+	selectionjava.util.List*
+""*
+4
+1*Ã
+3Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÓ Ó("c
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÓ Ó(
+""*Ð
+4Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÒ Ò(çä
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÒ Ò(
+%3boolean"4net.sourceforge.docfetcher.model.ViewNode#isIndex()Z*7
+5
+viewNode)net.sourceforge.docfetcher.model.ViewNode2	isIndex()*
+2
+3*Ã
+6Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÏ
+ Ï("c
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÏ Ï(
+""*Ë
+7Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÍ Í(#é
+æ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÍ Í(#A
+%0;net.sourceforge.docfetcher.util.gui.viewer.SimpleTreeViewer"__id*@*>2
+0net.sourceforge.docfetcher.gui.filter.IndexPanel"
+viewer¥¢
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÍ Í(2
+%1java.util.List"Znet.sourceforge.docfetcher.util.gui.viewer.SimpleTreeViewer#getSelection()Ljava/util/List;*C
+A
+%0;net.sourceforge.docfetcher.util.gui.viewer.SimpleTreeViewer2getSelection()™
+–
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÍ Í(3
+	selectionjava.util.List"__id*
+
+%1java.util.List²¯
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÎ Î(
+%2boolean"java.util.List#isEmpty()Z*
+
+	selectionjava.util.List2	isEmpty()*
+2
+6*Ã
+1Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÔ	 Ô("c
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÔ Ô(
+""B42
+0net.sourceforge.docfetcher.gui.filter.IndexPanel

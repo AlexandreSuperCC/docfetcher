@@ -1,0 +1,39 @@
+
+Forg.apache.tika.io.TaggedInputStream#isCauseOf(Ljava/io/IOException;)ZK
+AD:/git_project/code/src/org/apache/tika/io/TaggedInputStream.javaa a("2"1*È
+2K
+AD:/git_project/code/src/org/apache/tika/io/TaggedInputStream.javac; c(Dª
+§
+K
+AD:/git_project/code/src/org/apache/tika/io/TaggedInputStream.javac c(E.
+tagged$org.apache.tika.io.TaggedIOException"__id*"
+ 
+	exceptionjava.io.IOException¥
+¢
+K
+AD:/git_project/code/src/org/apache/tika/io/TaggedInputStream.javad d(
+%0java.io.Serializable"__id*1*/&
+$org.apache.tika.io.TaggedInputStream"
+tagåâ
+K
+AD:/git_project/code/src/org/apache/tika/io/TaggedInputStream.javad d(-
+%1java.lang.Object"?org.apache.tika.io.TaggedIOException#getTag()Ljava/lang/Object;*0
+.
+tagged$org.apache.tika.io.TaggedIOException2getTag()áÞ
+K
+AD:/git_project/code/src/org/apache/tika/io/TaggedInputStream.javad d(.
+%2boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
+
+%0java.io.Serializable*
+
+%1java.lang.Object2equals(Ljava/lang/Object;)"U
+K
+AD:/git_project/code/src/org/apache/tika/io/TaggedInputStream.javad d(/
+""*§
+1K
+AD:/git_project/code/src/org/apache/tika/io/TaggedInputStream.javaf f("U
+K
+AD:/git_project/code/src/org/apache/tika/io/TaggedInputStream.javaf f(
+"": 
+	exceptionjava.io.IOExceptionB(&
+$org.apache.tika.io.TaggedInputStream

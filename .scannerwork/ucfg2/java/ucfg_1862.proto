@@ -1,0 +1,62 @@
+
+Onet.sourceforge.docfetcher.TestFiles#getChild(Ljava/lang/String;)Ljava/io/File;K
+AD:/git_project/code/src/net/sourceforge/docfetcher/TestFiles.javaa a("startingBlock*ì
+startingBlockK
+AD:/git_project/code/src/net/sourceforge/docfetcher/TestFiles.javaa a(/»
+¸
+K
+AD:/git_project/code/src/net/sourceforge/docfetcher/TestFiles.java` `(	
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filenamejava.lang.String»
+¸
+K
+AD:/git_project/code/src/net/sourceforge/docfetcher/TestFiles.javaa a(
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filenamejava.lang.StringŒ
+‰
+K
+AD:/git_project/code/src/net/sourceforge/docfetcher/TestFiles.javaa& a(.
+filenamejava.lang.String"__annotation*
+
+%4*
+
+%5*
+1*ý
+1K
+AD:/git_project/code/src/net/sourceforge/docfetcher/TestFiles.javab b(‹
+ˆ
+K
+AD:/git_project/code/src/net/sourceforge/docfetcher/TestFiles.javab b(
+%0java.lang.String"Wnet.sourceforge.docfetcher.util.Util#checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+filenamejava.lang.StringßÜ
+K
+AD:/git_project/code/src/net/sourceforge/docfetcher/TestFiles.javac c(
+%1java.lang.String"@net.sourceforge.docfetcher.TestFiles#getPath()Ljava/lang/String;*(&
+$net.sourceforge.docfetcher.TestFiles2	getPath()qo
+K
+AD:/git_project/code/src/net/sourceforge/docfetcher/TestFiles.javac c(
+%2java.io.File"java.io.Fileâ
+ß
+K
+AD:/git_project/code/src/net/sourceforge/docfetcher/TestFiles.javac	 c(&
+%3":java.io.File#<init>(Ljava/lang/String;Ljava/lang/String;)V*
+
+%2java.io.File*
+
+%1java.lang.String*
+
+filenamejava.lang.String"c
+K
+AD:/git_project/code/src/net/sourceforge/docfetcher/TestFiles.javac c('
+
+%2java.io.File:
+filenamejava.lang.StringB(&
+$net.sourceforge.docfetcher.TestFiles

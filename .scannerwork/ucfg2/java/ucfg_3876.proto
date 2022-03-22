@@ -1,0 +1,31 @@
+
+norg.apache.tika.parser.DefaultParser#getDefaultParsers(Lorg/apache/tika/config/ServiceLoader;)Ljava/util/List;K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java3  3(1"1*÷
+1K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java4 4(%³°
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java4 4(N
+%0java.util.List"borg.apache.tika.config.ServiceLoader#loadStaticServiceProviders(Ljava/lang/Class;)Ljava/util/List;*0
+.
+loader$org.apache.tika.config.ServiceLoader*
+""2-loadStaticServiceProviders(Ljava/lang/Class;)‰
+†
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java4 4(O
+parsersjava.util.List"__id*
+
+%0java.util.Listö
+ó
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java5 5(5
+
+%1void"Morg.apache.tika.utils.ServiceLoaderUtils#sortLoadedClasses(Ljava/util/List;)V*,"*
+(org.apache.tika.utils.ServiceLoaderUtils*
+
+parsersjava.util.List"j
+K
+AD:/git_project/code/src/org/apache/tika/parser/DefaultParser.java6 6(
+
+parsersjava.util.List:.
+loader$org.apache.tika.config.ServiceLoaderB("&
+$org.apache.tika.parser.DefaultParser

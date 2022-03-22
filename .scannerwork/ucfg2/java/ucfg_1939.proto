@@ -1,0 +1,52 @@
+
+Lorg.apache.tika.parser.external.ExternalParser#check([Ljava/lang/String;[I)ZW
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javaç ç("22*À
+14W
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javaò ò("a
+W
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javaò
+ ò(
+""*À
+16W
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javað& ð(+"a
+W
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javað ð(,
+""*¸
+20W
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javaí
+ í(?›
+˜
+W
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javaí
+ í(?
+processjava.lang.Process"__id*
+
+%1java.lang.Process°­
+W
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javaî î((	
+%2int"java.lang.Process#waitFor()I*
+
+processjava.lang.Process2	waitFor()*
+14
+16*ó
+21W
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javaí5 í(=Š
+W
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javaí í(>
+%1java.lang.Process">java.lang.Runtime#exec([Ljava/lang/String;)Ljava/lang/Process;*
+
+%0java.lang.Runtime* 
+
+checkCmdjava.lang.String[]2exec([Ljava/lang/String;)*
+20*¥
+22W
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javaí í("¿
+¼
+W
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javaí í(/
+%0java.lang.Runtime"1java.lang.Runtime#getRuntime()Ljava/lang/Runtime;*"
+java.lang.Runtime*
+21:
+checkCmdjava.lang.String[]:
+""B2"0
+.org.apache.tika.parser.external.ExternalParser

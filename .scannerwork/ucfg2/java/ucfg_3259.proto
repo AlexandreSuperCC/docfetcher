@@ -1,0 +1,22 @@
+
+Eorg.apache.tika.language.LanguageProfile#toString()Ljava/lang/String;Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¨ ¨("1*¶
+1Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java© ©(«
+¨
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java© ©(
+%0java.util.Map"__id*8*6*
+(org.apache.tika.language.LanguageProfile"
+ngramsÀ½
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java© ©( 
+%1java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+
+%0java.util.Map2
+toString()"m
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java© ©(!
+
+%1java.lang.StringB,*
+(org.apache.tika.language.LanguageProfile

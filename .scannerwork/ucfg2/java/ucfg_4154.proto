@@ -1,0 +1,243 @@
+
+ºorg.apache.tika.parser.xml.DcXMLParser#getContentHandler(Lorg/xml/sax/ContentHandler;Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/parser/ParseContext;)Lorg/xml/sax/ContentHandler;M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java* *(."1*£C
+1M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java- -(Ã
+À
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java- -(C 
+%0org.xml.sax.ContentHandler"¸org.apache.tika.parser.xml.XMLParser#getContentHandler(Lorg/xml/sax/ContentHandler;Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/parser/ParseContext;)Lorg/xml/sax/ContentHandler;*
+""*'
+%
+handlerorg.xml.sax.ContentHandler*/
+-
+metadata!org.apache.tika.metadata.Metadata*0
+.
+context#org.apache.tika.parser.ParseContext‰
+†
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java./ .(G'
+%1!org.apache.tika.metadata.Property"__id*
+""»
+¸
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java. .(Q 
+%2org.xml.sax.ContentHandler"±org.apache.tika.parser.xml.DcXMLParser#getDublinCoreHandler(Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;Ljava/lang/String;)Lorg/xml/sax/ContentHandler;**"(
+&org.apache.tika.parser.xml.DcXMLParser*/
+-
+metadata!org.apache.tika.metadata.Metadata*)
+'
+%1!org.apache.tika.metadata.Property*	
+title‰
+†
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java// /(J'
+%3!org.apache.tika.metadata.Property"__id*
+""½
+º
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java/ /(V 
+%4org.xml.sax.ContentHandler"±org.apache.tika.parser.xml.DcXMLParser#getDublinCoreHandler(Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;Ljava/lang/String;)Lorg/xml/sax/ContentHandler;**"(
+&org.apache.tika.parser.xml.DcXMLParser*/
+-
+metadata!org.apache.tika.metadata.Metadata*)
+'
+%3!org.apache.tika.metadata.Property*	
+subject‰
+†
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java0/ 0(I'
+%5!org.apache.tika.metadata.Property"__id*
+""½
+º
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java0 0(U 
+%6org.xml.sax.ContentHandler"±org.apache.tika.parser.xml.DcXMLParser#getDublinCoreHandler(Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;Ljava/lang/String;)Lorg/xml/sax/ContentHandler;**"(
+&org.apache.tika.parser.xml.DcXMLParser*/
+-
+metadata!org.apache.tika.metadata.Metadata*)
+'
+%5!org.apache.tika.metadata.Property*	
+creator‰
+†
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java1/ 1(M'
+%7!org.apache.tika.metadata.Property"__id*
+""Á
+¾
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java1 1(] 
+%8org.xml.sax.ContentHandler"±org.apache.tika.parser.xml.DcXMLParser#getDublinCoreHandler(Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;Ljava/lang/String;)Lorg/xml/sax/ContentHandler;**"(
+&org.apache.tika.parser.xml.DcXMLParser*/
+-
+metadata!org.apache.tika.metadata.Metadata*)
+'
+%7!org.apache.tika.metadata.Property*
+description‰
+†
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java2/ 2(K'
+%9!org.apache.tika.metadata.Property"__id*
+""À
+½
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java2 2(Y!
+%10org.xml.sax.ContentHandler"±org.apache.tika.parser.xml.DcXMLParser#getDublinCoreHandler(Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;Ljava/lang/String;)Lorg/xml/sax/ContentHandler;**"(
+&org.apache.tika.parser.xml.DcXMLParser*/
+-
+metadata!org.apache.tika.metadata.Metadata*)
+'
+%9!org.apache.tika.metadata.Property*
+	publisherŠ
+‡
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java3/ 3(M(
+%11!org.apache.tika.metadata.Property"__id*
+""Ã
+À
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java3 3(]!
+%12org.xml.sax.ContentHandler"±org.apache.tika.parser.xml.DcXMLParser#getDublinCoreHandler(Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;Ljava/lang/String;)Lorg/xml/sax/ContentHandler;**"(
+&org.apache.tika.parser.xml.DcXMLParser*/
+-
+metadata!org.apache.tika.metadata.Metadata**
+(
+%11!org.apache.tika.metadata.Property*
+contributorŠ
+‡
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java4/ 4(I(
+%13!org.apache.tika.metadata.Property"__id*
+""¼
+¹
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java4 4(R!
+%14org.xml.sax.ContentHandler"±org.apache.tika.parser.xml.DcXMLParser#getDublinCoreHandler(Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;Ljava/lang/String;)Lorg/xml/sax/ContentHandler;**"(
+&org.apache.tika.parser.xml.DcXMLParser*/
+-
+metadata!org.apache.tika.metadata.Metadata**
+(
+%13!org.apache.tika.metadata.Property*
+dateŠ
+‡
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java5/ 5(F(
+%15!org.apache.tika.metadata.Property"__id*
+""¼
+¹
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java5 5(O!
+%16org.xml.sax.ContentHandler"±org.apache.tika.parser.xml.DcXMLParser#getDublinCoreHandler(Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;Ljava/lang/String;)Lorg/xml/sax/ContentHandler;**"(
+&org.apache.tika.parser.xml.DcXMLParser*/
+-
+metadata!org.apache.tika.metadata.Metadata**
+(
+%15!org.apache.tika.metadata.Property*
+typeŠ
+‡
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java6/ 6(H(
+%17!org.apache.tika.metadata.Property"__id*
+""¾
+»
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java6 6(S!
+%18org.xml.sax.ContentHandler"±org.apache.tika.parser.xml.DcXMLParser#getDublinCoreHandler(Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;Ljava/lang/String;)Lorg/xml/sax/ContentHandler;**"(
+&org.apache.tika.parser.xml.DcXMLParser*/
+-
+metadata!org.apache.tika.metadata.Metadata**
+(
+%17!org.apache.tika.metadata.Property*
+
+formatŠ
+‡
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java7/ 7(L(
+%19!org.apache.tika.metadata.Property"__id*
+""Â
+¿
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java7 7([!
+%20org.xml.sax.ContentHandler"±org.apache.tika.parser.xml.DcXMLParser#getDublinCoreHandler(Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;Ljava/lang/String;)Lorg/xml/sax/ContentHandler;**"(
+&org.apache.tika.parser.xml.DcXMLParser*/
+-
+metadata!org.apache.tika.metadata.Metadata**
+(
+%19!org.apache.tika.metadata.Property*
+
+identifierŠ
+‡
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java8/ 8(J(
+%21!org.apache.tika.metadata.Property"__id*
+""À
+½
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java8 8(W!
+%22org.xml.sax.ContentHandler"±org.apache.tika.parser.xml.DcXMLParser#getDublinCoreHandler(Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;Ljava/lang/String;)Lorg/xml/sax/ContentHandler;**"(
+&org.apache.tika.parser.xml.DcXMLParser*/
+-
+metadata!org.apache.tika.metadata.Metadata**
+(
+%21!org.apache.tika.metadata.Property*
+
+languageŠ
+‡
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java9/ 9(H(
+%23!org.apache.tika.metadata.Property"__id*
+""¾
+»
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java9 9(S!
+%24org.xml.sax.ContentHandler"±org.apache.tika.parser.xml.DcXMLParser#getDublinCoreHandler(Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;Ljava/lang/String;)Lorg/xml/sax/ContentHandler;**"(
+&org.apache.tika.parser.xml.DcXMLParser*/
+-
+metadata!org.apache.tika.metadata.Metadata**
+(
+%23!org.apache.tika.metadata.Property*
+
+rights§¤
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java, ,($,
+%25%org.apache.tika.sax.TeeContentHandler"%org.apache.tika.sax.TeeContentHandler³
+°
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java, 9(T
+%26"Lorg.apache.tika.sax.TeeContentHandler#<init>([Lorg/xml/sax/ContentHandler;)V*.
+,
+%25%org.apache.tika.sax.TeeContentHandler*"
+ 
+%0org.xml.sax.ContentHandler*"
+ 
+%2org.xml.sax.ContentHandler*"
+ 
+%4org.xml.sax.ContentHandler*"
+ 
+%6org.xml.sax.ContentHandler*"
+ 
+%8org.xml.sax.ContentHandler*#
+!
+%10org.xml.sax.ContentHandler*#
+!
+%12org.xml.sax.ContentHandler*#
+!
+%14org.xml.sax.ContentHandler*#
+!
+%16org.xml.sax.ContentHandler*#
+!
+%18org.xml.sax.ContentHandler*#
+!
+%20org.xml.sax.ContentHandler*#
+!
+%22org.xml.sax.ContentHandler*#
+!
+%24org.xml.sax.ContentHandler"
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java, 9(U.
+,
+%25%org.apache.tika.sax.TeeContentHandler:%
+handlerorg.xml.sax.ContentHandler:-
+metadata!org.apache.tika.metadata.Metadata:.
+context#org.apache.tika.parser.ParseContextB*(
+&org.apache.tika.parser.xml.DcXMLParser

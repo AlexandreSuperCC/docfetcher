@@ -1,0 +1,30 @@
+
+lorg.apache.tika.config.TikaConfig#getParser(Lorg/apache/tika/mime/MediaType;)Lorg/apache/tika/parser/Parser;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java ("1*¬
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaž ž(¶
+³
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaž ž(,
+%0&org.apache.tika.parser.CompositeParser"__id*1*/#
+!org.apache.tika.config.TikaConfig"
+parseræã
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaž ž("
+%1java.util.Map"Borg.apache.tika.parser.CompositeParser#getParsers()Ljava/util/Map;*.
+,
+%0&org.apache.tika.parser.CompositeParser2getParsers()Ã
+À
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaž ž(0#
+%2org.apache.tika.parser.Parser"__mapGet*
+
+%1java.util.Map*,
+*
+mimeTypeorg.apache.tika.mime.MediaType"s
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaž ž(1%
+#
+%2org.apache.tika.parser.Parser:*
+mimeTypeorg.apache.tika.mime.MediaTypeB%#
+!org.apache.tika.config.TikaConfig

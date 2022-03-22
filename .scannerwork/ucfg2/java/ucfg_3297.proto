@@ -1,0 +1,20 @@
+
+Jnet.sourceforge.docfetcher.model.search.HighlightedString#getRangeCount()I`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java< <("1*Ë
+1`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java=	 =(Ì
+É
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java=	 =(
+%0java.util.List"__id*I*G;
+9net.sourceforge.docfetcher.model.search.HighlightedString"
+ranges¨¥
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java=	 =(	
+%1int"java.util.List#size()I*
+
+%0java.util.List2size()"j
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/search/HighlightedString.java= =(
+""B=;
+9net.sourceforge.docfetcher.model.search.HighlightedString

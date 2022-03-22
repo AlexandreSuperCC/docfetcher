@@ -1,0 +1,29 @@
+
+Norg.apache.tika.io.TikaInputStream#get([B)Lorg/apache/tika/io/TikaInputStream;K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java¯" ¯(%"1*ð
+1K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java° °(œ™
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java° °(%'
+%0!org.apache.tika.metadata.Metadata"!org.apache.tika.metadata.Metadata®
+«
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java° °('
+%1"+org.apache.tika.metadata.Metadata#<init>()V*)
+'
+%0!org.apache.tika.metadata.MetadataÒ
+Ï
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java° °(((
+%2"org.apache.tika.io.TikaInputStream"qorg.apache.tika.io.TikaInputStream#get([BLorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/io/TikaInputStream;*&"$
+"org.apache.tika.io.TikaInputStream*
+
+databyte[]*)
+'
+%0!org.apache.tika.metadata.Metadata"y
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java° °()*
+(
+%2"org.apache.tika.io.TikaInputStream:
+databyte[]B&"$
+"org.apache.tika.io.TikaInputStream

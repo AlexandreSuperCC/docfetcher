@@ -1,0 +1,22 @@
+
+org.apache.tika.config.TikaConfig#getDefaultTranslator(Lorg/apache/tika/config/ServiceLoader;)Lorg/apache/tika/language/translate/Translator;H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaR R(2"1*Æ
+1H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaS% S(+¿¼
+H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaS S($:
+%04org.apache.tika.language.translate.DefaultTranslator"4org.apache.tika.language.translate.DefaultTranslator©
+¦
+H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaS S(,
+%1"dorg.apache.tika.language.translate.DefaultTranslator#<init>(Lorg/apache/tika/config/ServiceLoader;)V*<
+:
+%04org.apache.tika.language.translate.DefaultTranslator*0
+.
+loader$org.apache.tika.config.ServiceLoader"ˆ
+H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaS S(-<
+:
+%04org.apache.tika.language.translate.DefaultTranslator:.
+loader$org.apache.tika.config.ServiceLoaderB%"#
+!org.apache.tika.config.TikaConfig

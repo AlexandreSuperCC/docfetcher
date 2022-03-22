@@ -1,0 +1,20 @@
+
+=net.sourceforge.docfetcher.util.collect.MemoryList#isEmpty()ZY
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/MemoryList.javaa a("1*Ê
+1Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/MemoryList.javab	 b(Â
+¿
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/MemoryList.javab	 b(
+%0java.util.LinkedList"__id*@*>4
+2net.sourceforge.docfetcher.util.collect.MemoryList"
+list¿¼
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/MemoryList.javab	 b(
+%1boolean"'java.util.AbstractCollection#isEmpty()Z*
+
+%0java.util.LinkedList2	isEmpty()"c
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/MemoryList.javab b(
+""B64
+2net.sourceforge.docfetcher.util.collect.MemoryList

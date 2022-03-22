@@ -1,0 +1,242 @@
+
+vnet.sourceforge.docfetcher.model.parse.ChmParser#renderText(Ljava/io/InputStream;Ljava/lang/String;)Ljava/lang/String;W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaS S("startingBlock*Î
+14W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java_& _(/åâ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java_& _(@
+%11boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+	entryNamejava.lang.String*
+.htm2endsWith(Ljava/lang/String;)*
+2
+12*ß
+15W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java^ ^(œ™
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java^ ^(%
+%8java.lang.String"Uorg.apache.tika.parser.chm.accessor.DirectoryListingEntry#getName()Ljava/lang/String;*D
+B
+entry9org.apache.tika.parser.chm.accessor.DirectoryListingEntry2	getName()ÏÌ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java^ ^(3
+%9java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+%8java.lang.String2toLowerCase()›
+˜
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java^ ^(4
+	entryNamejava.lang.String"__id*
+
+%9java.lang.Stringæã
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java_ _("
+%10boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+	entryNamejava.lang.String*	
+.html2endsWith(Ljava/lang/String;)*
+14
+12*’
+16W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java]% ](1éæ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java]% ](A@
+%6:org.apache.tika.parser.chm.accessor.ChmDirectoryListingSet"xorg.apache.tika.parser.chm.core.ChmExtractor#getChmDirList()Lorg/apache/tika/parser/chm/accessor/ChmDirectoryListingSet;*>
+<
+chmExtractor,org.apache.tika.parser.chm.core.ChmExtractor2getChmDirList()Á¾
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java]% ](`
+%7java.util.List"iorg.apache.tika.parser.chm.accessor.ChmDirectoryListingSet#getDirectoryListingEntryList()Ljava/util/List;*B
+@
+%6:org.apache.tika.parser.chm.accessor.ChmDirectoryListingSet2getDirectoryListingEntryList()*
+2*Î
+17W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java\ \(.”‘
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java\ \(,
+%4java.lang.StringBuilder"java.lang.StringBuilder¦
+£
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java\ \(.
+%5"!java.lang.StringBuilder#<init>()V*
+
+%4java.lang.StringBuilder¨
+¥
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java\ \(/#
+contentsjava.lang.StringBuilder"__id*
+
+%4java.lang.StringBuilder*
+16*¼
+18W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaW W(&Ö
+Ó
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaW W(&<
+chmExtractor,org.apache.tika.parser.chm.core.ChmExtractor"__id*4
+2
+%0,org.apache.tika.parser.chm.core.ChmExtractor*
+17*³
+1W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javan	 n(ÞÛ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javan	 n(
+%18java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*%
+#
+contentsjava.lang.StringBuilder2
+toString()"t
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javan n(
+
+%18java.lang.String*å
+2W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java] ]("®
+«
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java] ]("B
+entry9org.apache.tika.parser.chm.accessor.DirectoryListingEntry"__id*
+""Ì
+É
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.java] ]("B
+entry9org.apache.tika.parser.chm.accessor.DirectoryListingEntry"
+__arrayGet*
+
+%7java.util.List*
+""*
+15
+1*ä
+startingBlockW
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaS S(=¤
+¡
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaR R(
+
+%19"
+__annotate*
+java.lang.Override*
+
+injava.io.InputStreamŽ
+‹
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaS) S(+
+injava.io.InputStream"__annotation*
+
+%19§
+¤
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaR R(
+
+%20"
+__annotate*
+java.lang.Override*
+
+filenamejava.lang.String‘
+Ž
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaS4 S(<
+filenamejava.lang.String"__annotation*
+
+%20*
+22*Œ
+4W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javag g(¨¥
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javag g(
+%17java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
+#
+contentsjava.lang.StringBuilder*
+
+textjava.lang.String2append(Ljava/lang/String;)*
+2*ú
+5W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javae e(–“
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javae e(
+%16java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
+#
+contentsjava.lang.StringBuilder*
+\n\n2append(Ljava/lang/String;)*
+4*«
+7W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javad
+ d(ÄÁ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javad
+ d(
+
+%15int")java.lang.AbstractStringBuilder#length()I*%
+#
+contentsjava.lang.StringBuilder2length()*
+4
+5*—
+9W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javac c(°­
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javac c((
+%14boolean"java.lang.String#isEmpty()Z*
+
+textjava.lang.String2	isEmpty()*
+2
+7*©
+21W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaW# W(%¾»
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaW W("2
+%0,org.apache.tika.parser.chm.core.ChmExtractor",org.apache.tika.parser.chm.core.ChmExtractor‚
+ÿ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaW W(&
+%1"Korg.apache.tika.parser.chm.core.ChmExtractor#<init>(Ljava/io/InputStream;)V*4
+2
+%0,org.apache.tika.parser.chm.core.ChmExtractor*
+
+injava.io.InputStream*
+18*ÿ
+10W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javab b()—
+”
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javab b()
+textjava.lang.String"__id*
+
+%13java.lang.String*
+2
+9*Ž
+22W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaU U("¨
+¥
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaU U(#<
+chmExtractor,org.apache.tika.parser.chm.core.ChmExtractor"__id*
+""*
+21*‚
+11W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaa a(7ƒ
+€
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaa a(7
+databyte[]"__id*
+
+%12byte[]–
+“
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javab b((
+%13java.lang.String"Qnet.sourceforge.docfetcher.model.parse.ChmParser#parsePage([BZ)Ljava/lang/String;*4"2
+0net.sourceforge.docfetcher.model.parse.ChmParser*
+
+databyte[]*2*
+10*¢
+12W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaa a(¼¹
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ChmParser.javaa a(6
+%12byte[]"{org.apache.tika.parser.chm.core.ChmExtractor#extractChmEntry(Lorg/apache/tika/parser/chm/accessor/DirectoryListingEntry;)[B*>
+<
+chmExtractor,org.apache.tika.parser.chm.core.ChmExtractor*D
+B
+entry9org.apache.tika.parser.chm.accessor.DirectoryListingEntry2LextractChmEntry(Lorg/apache/tika/parser/chm/accessor/DirectoryListingEntry;)*
+11:
+injava.io.InputStream:
+filenamejava.lang.StringB42
+0net.sourceforge.docfetcher.model.parse.ChmParser

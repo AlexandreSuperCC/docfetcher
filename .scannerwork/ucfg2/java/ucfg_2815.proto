@@ -1,0 +1,26 @@
+
+Oorg.apache.tika.parser.external.ExternalParsersFactory#create()Ljava/util/List;]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java+& +(,"1*·
+1]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java, ,(´±
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java, ,(%*
+%0$org.apache.tika.config.ServiceLoader"$org.apache.tika.config.ServiceLoaderÆ
+Ã
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java, ,('
+%1".org.apache.tika.config.ServiceLoader#<init>()V*,
+*
+%0$org.apache.tika.config.ServiceLoaderÙ
+Ö
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java, ,((
+%2java.util.List"uorg.apache.tika.parser.external.ExternalParsersFactory#create(Lorg/apache/tika/config/ServiceLoader;)Ljava/util/List;*:"8
+6org.apache.tika.parser.external.ExternalParsersFactory*,
+*
+%0$org.apache.tika.config.ServiceLoader"w
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java, ,()
+
+%2java.util.ListB:"8
+6org.apache.tika.parser.external.ExternalParsersFactory

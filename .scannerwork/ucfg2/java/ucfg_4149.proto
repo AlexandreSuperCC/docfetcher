@@ -1,0 +1,28 @@
+
+torg.apache.tika.parser.CompositeParser#getParser(Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/parser/Parser;O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaä ä("1*¥
+1O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaå å(¤¡
+O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaå' å(3)
+%0#org.apache.tika.parser.ParseContext"#org.apache.tika.parser.ParseContext¶
+³
+O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaå# å(5
+%1"-org.apache.tika.parser.ParseContext#<init>()V*+
+)
+%0#org.apache.tika.parser.ParseContextôñ
+O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaå å(6#
+%2org.apache.tika.parser.Parser"™org.apache.tika.parser.CompositeParser#getParser(Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/parser/ParseContext;)Lorg/apache/tika/parser/Parser;**(
+&org.apache.tika.parser.CompositeParser*/
+-
+metadata!org.apache.tika.metadata.Metadata*+
+)
+%0#org.apache.tika.parser.ParseContext2SgetParser(Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/parser/ParseContext;)"x
+O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaå å(7%
+#
+%2org.apache.tika.parser.Parser:-
+metadata!org.apache.tika.metadata.MetadataB*(
+&org.apache.tika.parser.CompositeParser

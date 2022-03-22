@@ -1,0 +1,39 @@
+
+0null#apply(Ljava/io/File;)Ljava/util/Properties;S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgMigrator.java4 4("5*Ï
+3S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgMigrator.java8 8("u
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgMigrator.java8 8(
+
+propjava.util.Properties*³
+4S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgMigrator.java6 6(8š
+—
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgMigrator.java6 6(8
+propjava.util.Properties"__id*
+
+%0java.util.Properties¶
+³
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgMigrator.java7 7("
+%1java.io.File"__mapSet*
+""*
+
+propjava.util.Properties*
+
+filejava.io.File*
+3*‰
+5S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgMigrator.java6 6(,©
+¦
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgMigrator.java6 6(7
+%0java.util.Properties"`net.sourceforge.docfetcher.util.CharsetDetectorHelper#load(Ljava/io/File;)Ljava/util/Properties;*9"7
+5net.sourceforge.docfetcher.util.CharsetDetectorHelper*
+
+filejava.io.File*
+4:
+filejava.io.FileB75
+3Lnet/sourceforge/docfetcher/enums/MsgMigrator$1813;

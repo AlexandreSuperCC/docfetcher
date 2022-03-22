@@ -1,0 +1,49 @@
+
+Xnet.sourceforge.docfetcher.model.search.ResultDocument#getLastModified()Ljava/util/Date;_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÅ Å("1*¼
+1_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÆ Æ(ñ
+î
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÆ Æ(
+
+%0void"Cnet.sourceforge.docfetcher.model.search.ResultDocument#onlyFiles()V*:8
+6net.sourceforge.docfetcher.model.search.ResultDocument¡
+ž
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÇ& Ç(:-
+%1'net.sourceforge.docfetcher.model.Fields"__id*
+""õò
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÇ& Ç(@
+%2java.lang.String"?net.sourceforge.docfetcher.model.Fields#key()Ljava/lang/String;*/
+-
+%1'net.sourceforge.docfetcher.model.Fields2key()”
+‘
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÇ Ç(B 
+lastModifiedjava.lang.String"__id*
+""î
+ë
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÈ È(,
+%3java.lang.Long":java.lang.Long#valueOf(Ljava/lang/String;)Ljava/lang/Long;*"
+java.lang.Long*"
+ 
+lastModifiedjava.lang.StringŠ‡
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÈ È(
+%4java.util.Date"java.util.Dateµ
+²
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÈ	 È(-
+%5"java.util.Date#<init>(J)V*
+
+%4java.util.Date*
+
+%3java.lang.Long"y
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÈ È(.
+
+%4java.util.DateB:8
+6net.sourceforge.docfetcher.model.search.ResultDocument

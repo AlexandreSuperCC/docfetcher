@@ -1,0 +1,30 @@
+
+|net.sourceforge.docfetcher.util.collect.SafeKeyMap#createLinkedHashMap()Lnet/sourceforge/docfetcher/util/collect/SafeKeyMap;Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/SafeKeyMap.java' (:"1*œ
+1Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/SafeKeyMap.java (7–“
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/SafeKeyMap.java" (5
+%0java.util.LinkedHashMap"java.util.LinkedHashMap¨
+¥
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/SafeKeyMap.java (7
+%1"!java.util.LinkedHashMap#<init>()V*
+
+%0java.util.LinkedHashMapÌÉ
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/SafeKeyMap.java (8
+%22net.sourceforge.docfetcher.util.collect.SafeKeyMap"2net.sourceforge.docfetcher.util.collect.SafeKeyMapŽ
+‹
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/SafeKeyMap.java	 (8
+%3"Knet.sourceforge.docfetcher.util.collect.SafeKeyMap#<init>(Ljava/util/Map;)V*:
+8
+%22net.sourceforge.docfetcher.util.collect.SafeKeyMap*
+
+%0java.util.LinkedHashMap"—
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/SafeKeyMap.java (9:
+8
+%22net.sourceforge.docfetcher.util.collect.SafeKeyMapB6"4
+2net.sourceforge.docfetcher.util.collect.SafeKeyMap

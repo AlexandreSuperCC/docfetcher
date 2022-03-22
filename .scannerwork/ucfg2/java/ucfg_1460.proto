@@ -1,0 +1,122 @@
+
+Onet.sourceforge.docfetcher.gui.preview.PreviewPanel#createAndShowHtmlPreview()Z\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.java» »()"7"8*€
+2\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÎ Î(ë
+è
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÎ Î(8
+%72net.sourceforge.docfetcher.gui.preview.HtmlPreview"__id*H*F5
+3net.sourceforge.docfetcher.gui.preview.PreviewPanel"
+htmlPreviewå
+â
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÎ Î(+
+%8%net.sourceforge.docfetcher.util.Event"__id*O*M
+8
+%72net.sourceforge.docfetcher.gui.preview.HtmlPreview"
+evtHtmlToTextBtßÜ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÎ' Î(;@
+%9:Lnet/sourceforge/docfetcher/gui/preview/PreviewPanel$6935;":Lnet/sourceforge/docfetcher/gui/preview/PreviewPanel$6935;æ
+ã
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÎ# Õ(
+%10"8net.sourceforge.docfetcher.util.Event$Listener#<init>()V*B
+@
+%9:Lnet/sourceforge/docfetcher/gui/preview/PreviewPanel$6935;öó
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÎ Õ(
+%11void"\net.sourceforge.docfetcher.util.Event#add(Lnet/sourceforge/docfetcher/util/Event$Listener;)V*-
++
+%8%net.sourceforge.docfetcher.util.Event*B
+@
+%9:Lnet/sourceforge/docfetcher/gui/preview/PreviewPanel$6935;25add(Lnet/sourceforge/docfetcher/util/Event$Listener;)*
+1*™
+4\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÀ Å(ó
+ð
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÀ Å(F5
+3net.sourceforge.docfetcher.gui.preview.PreviewPanel"
+htmlPreview"__id*B
+@
+%1:Lnet/sourceforge/docfetcher/gui/preview/PreviewPanel$6586;ë
+è
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÇ Ç(8
+%32net.sourceforge.docfetcher.gui.preview.HtmlPreview"__id*H*F5
+3net.sourceforge.docfetcher.gui.preview.PreviewPanel"
+htmlPreviewé
+æ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÇ Ç($+
+%4%net.sourceforge.docfetcher.util.Event"__id*S*Q
+8
+%32net.sourceforge.docfetcher.gui.preview.HtmlPreview"
+evtHideInSystemTrayæ
+ã
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÈ È(+
+%5%net.sourceforge.docfetcher.util.Event"__id*P*N5
+3net.sourceforge.docfetcher.gui.preview.PreviewPanel"
+evtHideInSystemTray÷
+ô
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÆ È(
+
+%6void"net.sourceforge.docfetcher.util.Event#redirect(Lnet/sourceforge/docfetcher/util/Event;Lnet/sourceforge/docfetcher/util/Event;)V*)"'
+%net.sourceforge.docfetcher.util.Event*-
++
+%4%net.sourceforge.docfetcher.util.Event*-
++
+%5%net.sourceforge.docfetcher.util.Event*
+2*ß
+5\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÀ" À(+ßÜ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÀ À(!@
+%1:Lnet/sourceforge/docfetcher/gui/preview/PreviewPanel$6586;":Lnet/sourceforge/docfetcher/gui/preview/PreviewPanel$6586;”
+‘
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÀ Å(
+%2"_net.sourceforge.docfetcher.gui.preview.HtmlPreview#<init>(Lorg/eclipse/swt/widgets/Composite;)V*B
+@
+%1:Lnet/sourceforge/docfetcher/gui/preview/PreviewPanel$6586;*
+""*
+4*×
+7\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.java¾ ¾(ë
+è
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.java¾ ¾(8
+%02net.sourceforge.docfetcher.gui.preview.HtmlPreview"__id*H*F5
+3net.sourceforge.docfetcher.gui.preview.PreviewPanel"
+htmlPreview*
+5
+1*É
+8\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.java½
+ ½("f
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.java½ ½(
+""*ä
+1\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.java× ×(ì
+é
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.java× ×(9
+%122net.sourceforge.docfetcher.gui.preview.HtmlPreview"__id*H*F5
+3net.sourceforge.docfetcher.gui.preview.PreviewPanel"
+htmlPreview©
+¦
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.java× ×(
+%13"Inet.sourceforge.docfetcher.gui.preview.PreviewPanel#moveToTop(LControl;)V*75
+3net.sourceforge.docfetcher.gui.preview.PreviewPanel*;
+9
+%122net.sourceforge.docfetcher.gui.preview.HtmlPreview"f
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaØ Ø(
+""B75
+3net.sourceforge.docfetcher.gui.preview.PreviewPanel

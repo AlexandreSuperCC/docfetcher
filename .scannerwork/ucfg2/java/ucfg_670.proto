@@ -1,0 +1,23 @@
+
+[org.apache.tika.detect.NNTrainedModelBuilder#build()Lorg/apache/tika/detect/NNTrainedModel;S
+ID:/git_project/code/src/org/apache/tika/detect/NNTrainedModelBuilder.javaH H("1*ô
+1S
+ID:/git_project/code/src/org/apache/tika/detect/NNTrainedModelBuilder.javaI I('¬©
+S
+ID:/git_project/code/src/org/apache/tika/detect/NNTrainedModelBuilder.javaI I(+
+%0%org.apache.tika.detect.NNTrainedModel"%org.apache.tika.detect.NNTrainedModelã
+à
+S
+ID:/git_project/code/src/org/apache/tika/detect/NNTrainedModelBuilder.javaI	 J(
+%1"4org.apache.tika.detect.NNTrainedModel#<init>(III[F)V*-
++
+%0%org.apache.tika.detect.NNTrainedModel*
+""*
+""*
+""*
+"""„
+S
+ID:/git_project/code/src/org/apache/tika/detect/NNTrainedModelBuilder.javaI J(-
++
+%0%org.apache.tika.detect.NNTrainedModelB0.
+,org.apache.tika.detect.NNTrainedModelBuilder

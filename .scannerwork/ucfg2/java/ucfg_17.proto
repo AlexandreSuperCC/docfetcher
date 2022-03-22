@@ -1,0 +1,67 @@
+
+Ÿorg.apache.tika.parser.odf.OpenDocumentContentParser$OpenDocumentElementMappingContentHandler#getXHTMLHeaderTagName(Lorg/xml/sax/Attributes;)Ljava/lang/String;[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javap p(,"7*Ç
+2[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javaz z("e
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javaz z(
+h1*Ç
+4[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javax x("e
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javax x(
+h6*Á
+5[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javav v(Ó
+Ð
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javav v(2	
+%2int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+depthStrjava.lang.String*	
+2
+4
+1*Ç
+6[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javas s("e
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javas s(
+h1*å
+7[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javaq q("†
+ƒ
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javaq, q(3
+%0java.lang.String"__id*
+""ÐÍ
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javaq q(E
+%1java.lang.String"Worg.xml.sax.Attributes#getValue(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;* 
+
+attsorg.xml.sax.Attributes*
+
+%0java.lang.String*
+outline-level2.getValue(Ljava/lang/String;Ljava/lang/String;)ž
+›
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javaq q(F
+depthStrjava.lang.String"__id*
+
+%1java.lang.String*
+5
+6*í
+1[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.java| |(‘
+Ž
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.java| |("
+%3java.lang.String"__concat*
+h*
+"""w
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.java| |(#
+
+%3java.lang.String:
+attsorg.xml.sax.AttributesBa_
+]org.apache.tika.parser.odf.OpenDocumentContentParser$OpenDocumentElementMappingContentHandler

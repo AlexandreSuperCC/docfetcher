@@ -1,0 +1,87 @@
+
+Inet.sourceforge.docfetcher.util.Util#isJunctionOrSymlink(Ljava/io/File;)ZM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÇ Ç(*"startingBlock*´
+2M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaá à(4"W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaá à(4
+""*õ
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÇ* Ç(>µ
+≤
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÇ+ Ç(3
+%6"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.File}
+{
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÇ9 Ç(=
+filejava.io.File"__annotation*
+
+%6*
+11*«
+4M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaà	 à(Ì
+Í
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaà à(-	
+%5int"Lnet.sourceforge.docfetcher.util.Util#getWin32FileAttributes(Ljava/io/File;)I*("&
+$net.sourceforge.docfetcher.util.Util*
+
+filejava.io.File*
+2*ˆ
+6M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaá
+ á(+ôñ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaá
+ á(+
+%4boolean"java.io.File#exists()Z*
+
+%2java.io.File2exists()*
+2
+4*Å
+7M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaá
+ á("sq
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaá á(
+%2java.io.File"java.io.File≤
+Ø
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaá
+ á("
+%3"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%2java.io.File*
+
+%1java.lang.String*
+6*ë
+8M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaá á(∑¥
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaá á(!
+%1java.lang.String"(java.io.File#getPath()Ljava/lang/String;*
+
+filejava.io.File2	getPath()*
+7*¨
+10M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÑ
+ Ñ("W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÑ Ñ(
+""*Ã
+11M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÉ É(n
+l
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÉ É(
+%0boolean"__id*
+""*
+8
+10:
+filejava.io.FileB("&
+$net.sourceforge.docfetcher.util.Util

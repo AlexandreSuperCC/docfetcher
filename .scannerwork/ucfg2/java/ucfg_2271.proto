@@ -1,0 +1,25 @@
+
+Knet.sourceforge.docfetcher.enums.SettingsConf$StrList#get()Ljava/util/List;V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.javaü ü("1*þ
+1V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.javaý
+ ý(½
+º
+V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.javaý' ý(,
+%0java.util.List"__id*D*B7
+5net.sourceforge.docfetcher.enums.SettingsConf$StrList"
+valueî
+ë
+V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.javaý
+ ý(-
+%1java.util.List"Hjava.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;*"
+java.util.Collections*
+
+%0java.util.List"p
+V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.javaý ý(.
+
+%1java.util.ListB97
+5net.sourceforge.docfetcher.enums.SettingsConf$StrList

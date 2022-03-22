@@ -1,0 +1,51 @@
+
+gnet.sourceforge.docfetcher.model.search.ResultDocument#getPath()Lnet/sourceforge/docfetcher/model/Path;_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaß ß("3*Í
+2_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java© ©(«
+ƒ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java©$ ©('
+%1java.lang.String"__id*C*A8
+6net.sourceforge.docfetcher.model.search.ResultDocument"
+uid‘
+—
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java© ©((+
+%2%net.sourceforge.docfetcher.model.Path"tnet.sourceforge.docfetcher.model.DocumentType#extractPath(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/Path;*1"/
+-net.sourceforge.docfetcher.model.DocumentType*
+
+%1java.lang.String›
+⁄
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java© ©((B8
+6net.sourceforge.docfetcher.model.search.ResultDocument"
+path"__id*-
++
+%2%net.sourceforge.docfetcher.model.Path*
+1*Ã
+3_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java® ®(
+›
+⁄
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java® ®(
++
+%0%net.sourceforge.docfetcher.model.Path"__id*D*B8
+6net.sourceforge.docfetcher.model.search.ResultDocument"
+path*
+2
+1*◊
+1_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java™	 ™(›
+⁄
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java™	 ™(+
+%3%net.sourceforge.docfetcher.model.Path"__id*D*B8
+6net.sourceforge.docfetcher.model.search.ResultDocument"
+path"ê
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java™ ™(-
++
+%3%net.sourceforge.docfetcher.model.PathB:8
+6net.sourceforge.docfetcher.model.search.ResultDocument

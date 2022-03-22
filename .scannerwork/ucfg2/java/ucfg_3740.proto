@@ -1,0 +1,83 @@
+
+gorg.apache.tika.parser.external.ExternalParsersConfigReader#read(Ljava/io/InputStream;)Ljava/util/List;b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.java7& 7(*"8*å
+3b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.java;
+ ;( "|
+b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.java;
+ ;( 
+
+%6java.util.List*ë
+4b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.java:
+ :(E­
+ª
+b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.java:
+ :(E 
+documentorg.w3c.dom.Document"__id*
+
+%5org.w3c.dom.DocumentÌ
+É
+b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.java; ;(
+%6java.util.List"horg.apache.tika.parser.external.ExternalParsersConfigReader#read(Lorg/w3c/dom/Document;)Ljava/util/List;*?"=
+;org.apache.tika.parser.external.ExternalParsersConfigReader*"
+ 
+documentorg.w3c.dom.Document*
+3*¿
+5b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.java: :(DÐÍ
+b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.java: :(D
+%5org.w3c.dom.Document"Xjavax.xml.parsers.DocumentBuilder#parse(Lorg/xml/sax/InputSource;)Lorg/w3c/dom/Document;*.
+,
+builder!javax.xml.parsers.DocumentBuilder*
+
+%3org.xml.sax.InputSource2 parse(Lorg/xml/sax/InputSource;)*
+4*Á
+6b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.java9
+ 9(LÆ
+Ã
+b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.java9
+ 9(L,
+builder!javax.xml.parsers.DocumentBuilder"__id*)
+'
+%2!javax.xml.parsers.DocumentBuilderŸœ
+b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.java:0 :(;
+%3org.xml.sax.InputSource"org.xml.sax.InputSourceç
+ä
+b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.java:, :(C
+%4"6org.xml.sax.InputSource#<init>(Ljava/io/InputStream;)V*
+
+%3org.xml.sax.InputSource*
+
+streamjava.io.InputStream*
+5*Ÿ
+7b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.java9$ 9(K°­
+b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.java9$ 9(K'
+%2!javax.xml.parsers.DocumentBuilder"[org.apache.tika.parser.ParseContext#getDocumentBuilder()Ljavax/xml/parsers/DocumentBuilder;*+
+)
+%0#org.apache.tika.parser.ParseContext2getDocumentBuilder()*
+6*ò
+8b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.java9$ 9(6·´
+b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.java9( 9(4)
+%0#org.apache.tika.parser.ParseContext"#org.apache.tika.parser.ParseContextÉ
+Æ
+b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.java9$ 9(6
+%1"-org.apache.tika.parser.ParseContext#<init>()V*+
+)
+%0#org.apache.tika.parser.ParseContext*
+7:
+streamjava.io.InputStreamB?"=
+;org.apache.tika.parser.external.ExternalParsersConfigReader

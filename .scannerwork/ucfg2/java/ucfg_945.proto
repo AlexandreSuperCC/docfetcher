@@ -1,0 +1,427 @@
+
+<net.sourceforge.docfetcher.model.FolderWatcher#threadLoop()VW
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java© ©("43*ì
+24W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java‰	 ‰(™ß
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java‰	 ‰(
+%27boolean"java.io.File#exists()Z*
+
+rootFilejava.io.File2exists()*
+22
+1*∂
+26W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java‚ ‚(º
+π
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java‚ ‚(
+%25java.util.Map"__id*B*@0
+.net.sourceforge.docfetcher.model.FolderWatcher"
+
+watchIdMapéã
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java‚ ‚(%
+%26boolean".java.util.Map#containsKey(Ljava/lang/Object;)Z*
+
+%25java.util.Map*7
+5
+index,net.sourceforge.docfetcher.model.LuceneIndex2containsKey(Ljava/lang/Object;)*
+24
+1*Û
+27W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÀ À(ïí
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÀ À(/
+%23java.io.File"Qnet.sourceforge.docfetcher.model.LuceneIndex#getCanonicalRootFile()Ljava/io/File;*7
+5
+index,net.sourceforge.docfetcher.model.LuceneIndex2getCanonicalRootFile()ì
+ê
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÀ À(0
+rootFilejava.io.File"__id*
+
+%23java.io.File‹
+Ÿ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java· ·( 
+%24java.lang.Boolean"__mapGet*!
+
+watchQueueCopyjava.util.Map*7
+5
+index,net.sourceforge.docfetcher.model.LuceneIndex*
+26
+8*´
+28W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java   ()∆√
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java   (2
+%22java.util.Set"%java.util.Map#keySet()Ljava/util/Set;*!
+
+watchQueueCopyjava.util.Map2keySet()*
+1*Ö
+29W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java≈ ≈(º
+π
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java≈ ≈(
+%15java.util.Map"__id*B*@0
+.net.sourceforge.docfetcher.model.FolderWatcher"
+
+watchIdMapç
+ä
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java≈ ≈(
+%16void"
+__mapClear*
+
+%15java.util.Mapò
+ï
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java∆ ∆(%,
+%17%net.sourceforge.docfetcher.util.Event"__id*
+""Á
+‰
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java∆- ∆(A5
+%18.net.sourceforge.docfetcher.util.Event$Listener"__id*L*J0
+.net.sourceforge.docfetcher.model.FolderWatcher"
+watchChangedListenerÌÍ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java∆ ∆(B
+%19void"_net.sourceforge.docfetcher.util.Event#remove(Lnet/sourceforge/docfetcher/util/Event$Listener;)V*.
+,
+%17%net.sourceforge.docfetcher.util.Event*7
+5
+%18.net.sourceforge.docfetcher.util.Event$Listener28remove(Lnet/sourceforge/docfetcher/util/Event$Listener;)£†
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java« «(!%
+%20java.lang.InterruptedException"java.lang.InterruptedException∂
+≥
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java«	 «(#
+%21"(java.lang.InterruptedException#<init>()V*'
+%
+%20java.lang.InterruptedException*
+0*ò
+30W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaΩ Ω(É
+Ä
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaΩ Ω(
+idjava.lang.Integer"__id*
+""®
+•
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaΩ Ω(
+idjava.lang.Integer"
+__arrayGet*
+
+%12java.util.Collection*
+""*
+29
+32*…
+32W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaø ø(„
+‡
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaø ø(
+%13boolean"2net.contentobjects.jnotify.JNotify#removeWatch(I)Z*&"$
+"net.contentobjects.jnotify.JNotify*
+
+idjava.lang.Integer*
+30*Ó
+34W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaΩ Ω(º
+π
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaΩ Ω(
+%11java.util.Map"__id*B*@0
+.net.sourceforge.docfetcher.model.FolderWatcher"
+
+watchIdMap…∆
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaΩ Ω((
+%12java.util.Collection",java.util.Map#values()Ljava/util/Collection;*
+
+%11java.util.Map2values()*
+30*É
+36W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java≥ ≥(Ã
+…
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java≥ ≥(%
+%9java.util.concurrent.locks.Lock"__id*A*?0
+.net.sourceforge.docfetcher.model.FolderWatcher"
+	writeLock«ƒ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java≥ ≥(
+%10void")java.util.concurrent.locks.Lock#unlock()V*'
+%
+%9java.util.concurrent.locks.Lock2unlock()*
+28
+0
+34*Ω
+37W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaØ Ø(3ã
+à
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaØ Ø(3
+watchQueueCopyjava.util.Map"__id*
+""ª
+∏
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java∞ ∞(
+%7java.util.Map"__id*B*@0
+.net.sourceforge.docfetcher.model.FolderWatcher"
+
+watchQueueã
+à
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java∞ ∞(
+
+%8void"
+__mapClear*
+
+%7java.util.Map*
+36*°
+38W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaØ Ø( ª
+∏
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaØ( Ø(2
+%6java.util.Map"__id*B*@0
+.net.sourceforge.docfetcher.model.FolderWatcher"
+
+watchQueue*
+37*˝
+16W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÛ Û(-º
+π
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÙ Ù(
+%35java.util.Map"__id*B*@0
+.net.sourceforge.docfetcher.model.FolderWatcher"
+
+watchIdMapŸ
+÷
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÙ Ù(
+%36java.lang.Integer"__mapSet*
+
+%35java.util.Map*7
+5
+index,net.sourceforge.docfetcher.model.LuceneIndex*
+""*
+1*ä
+39W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÆ Æ(”
+–
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÆ Æ(*
+%4$java.util.concurrent.locks.Condition"__id*C*A0
+.net.sourceforge.docfetcher.model.FolderWatcher"
+needsUpdateŒÀ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÆ Æ(
+
+%5void"-java.util.concurrent.locks.Condition#await()V*,
+*
+%4$java.util.concurrent.locks.Condition2await()*
+42*´
+17W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÛ Û(≈¬
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÛ Û(,
+
+%34int"Pnet.sourceforge.docfetcher.model.SimpleJNotifyListener#addWatch(Ljava/io/File;)I*P
+N
+listenerBnet.sourceforge.docfetcher.model.FolderWatcher$JNotifyListenerImpl*
+
+fileToWatchjava.io.File2addWatch(Ljava/io/File;)*
+16*Ö	
+18W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÌ Ô(ñ
+ì
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÌ Ô(
+fileToWatchjava.io.File"__id*
+
+%30java.io.FileÎË
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÒ' Ò(:I
+%32Bnet.sourceforge.docfetcher.model.FolderWatcher$JNotifyListenerImpl"Bnet.sourceforge.docfetcher.model.FolderWatcher$JNotifyListenerImplñ
+ì
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÒ# Ò(A
+%33"™net.sourceforge.docfetcher.model.FolderWatcher$JNotifyListenerImpl#<init>(Lnet/sourceforge/docfetcher/model/FolderWatcher;Lnet/sourceforge/docfetcher/model/LuceneIndex;)V*K
+I
+%32Bnet.sourceforge.docfetcher.model.FolderWatcher$JNotifyListenerImpl*7
+5
+index,net.sourceforge.docfetcher.model.LuceneIndexˇ
+¸
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÒ Ò(BN
+listenerBnet.sourceforge.docfetcher.model.FolderWatcher$JNotifyListenerImpl"__id*K
+I
+%32Bnet.sourceforge.docfetcher.model.FolderWatcher$JNotifyListenerImpl*
+17*˘
+19W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÔ Ô(ì
+ê
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÔ Ô(
+%30java.io.File"__id*
+
+rootFilejava.io.File*
+18*u
+0 "n
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaë ë(
+implicit return*À
+1W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java   (°
+û
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java   (5
+index,net.sourceforge.docfetcher.model.LuceneIndex"__id*
+""ø
+º
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java   (5
+index,net.sourceforge.docfetcher.model.LuceneIndex"
+__arrayGet*
+
+%22java.util.Set*
+""*
+27
+0*«
+3W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaä ä(„
+‡
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaä ä(
+%47boolean"2net.contentobjects.jnotify.JNotify#removeWatch(I)Z*&"$
+"net.contentobjects.jnotify.JNotify*
+
+idjava.lang.Integer*
+1*ß
+6W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÖ	 Ö(ì
+ê
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÖ	 Ö(
+%30java.io.File"__id*
+
+rootFilejava.io.File™ß
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÖ	 Ö(
+%46boolean"java.io.File#exists()Z*
+
+rootFilejava.io.File2exists()*
+3
+1*î
+8W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÇ Ç(º
+π
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÇ Ç(
+%44java.util.Map"__id*B*@0
+.net.sourceforge.docfetcher.model.FolderWatcher"
+
+watchIdMap‘
+—
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÇ Ç()
+%45java.lang.Integer"__mapRemove*
+
+%44java.util.Map*7
+5
+index,net.sourceforge.docfetcher.model.LuceneIndexó
+î
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÇ Ç(*
+idjava.lang.Integer"__id*
+
+%45java.lang.Integer*
+6
+1*œ
+42W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java≠
+ ≠(ª
+∏
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java≠
+ ≠(
+%2java.util.Map"__id*B*@0
+.net.sourceforge.docfetcher.model.FolderWatcher"
+
+watchQueueß§
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java≠
+ ≠(
+%3boolean"java.util.Map#isEmpty()Z*
+
+%2java.util.Map2	isEmpty()*
+38
+39*ñ
+20W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÓ Ó(ì
+ê
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÓ Ó("
+%30java.io.File"__id*
+
+rootFilejava.io.Fileâ
+Ü
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÓ Ó(#
+%31java.io.File"Pnet.sourceforge.docfetcher.util.Util#getParentFile(Ljava/io/File;)Ljava/io/File;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+rootFilejava.io.Fileé
+ã
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÓ Ó(#
+%30java.io.File"__id*
+
+%31java.io.File*
+18*Ö
+43W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java™ ™(+ã
+à
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java™ ™(+
+watchQueueCopyjava.util.Map"__id*
+""Ã
+…
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java´ ´(%
+%0java.util.concurrent.locks.Lock"__id*A*?0
+.net.sourceforge.docfetcher.model.FolderWatcher"
+	writeLock¬ø
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.java´ ´(
+
+%1void"'java.util.concurrent.locks.Lock#lock()V*'
+%
+%0java.util.concurrent.locks.Lock2lock()*
+42*‚
+21W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÌ- Ì(1y
+w
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÌ- Ì(:
+%29boolean"__id*
+""*
+19
+20*î
+22W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÌ Ì(™ß
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderWatcher.javaÌ Ì((
+%28boolean"java.io.File#isFile()Z*
+
+rootFilejava.io.File2isFile()*
+19
+21B20
+.net.sourceforge.docfetcher.model.FolderWatcher

@@ -1,0 +1,477 @@
+
+üorg.apache.tika.parser.mp3.Mp3Parser#getAllTagHandlers(Ljava/io/InputStream;Lorg/xml/sax/ContentHandler;)Lorg/apache/tika/parser/mp3/Mp3Parser$ID3TagsAndAudio;M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java•% •(6"27*Æ
+13M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java”" ”(,∆√
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java”" ”(6
+%18byte[]")org.apache.tika.io.TailStream#getTail()[B*-
++
+
+tailStreamorg.apache.tika.io.TailStream2	getTail()≠™
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java” ”(!/
+%19(org.apache.tika.parser.mp3.LyricsHandler"(org.apache.tika.parser.mp3.LyricsHandler”
+–
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java” ”(7
+%20"4org.apache.tika.parser.mp3.LyricsHandler#<init>([B)V*1
+/
+%19(org.apache.tika.parser.mp3.LyricsHandler*
+
+%18byte[]ø
+º
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java” ”(72
+lyrics(org.apache.tika.parser.mp3.LyricsHandler"__id*1
+/
+%19(org.apache.tika.parser.mp3.LyricsHandler…
+∆
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java‘ ‘(.
+%21'org.apache.tika.parser.mp3.ID3v1Handler"__id*?*=
+2
+lyrics(org.apache.tika.parser.mp3.LyricsHandler"
+id3v1π
+∂
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java‘ ‘(-
+v1'org.apache.tika.parser.mp3.ID3v1Handler"__id*0
+.
+%21'org.apache.tika.parser.mp3.ID3v1HandlerÉÄ
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÿ  ÿ(2
+%22java.util.ArrayList"java.util.ArrayListñ
+ì
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÿ ÿ(4
+%23"java.util.ArrayList#<init>()V*
+
+%22java.util.ArrayListé
+ã
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÿ ÿ(5
+tagsjava.util.List"__id*
+
+%22java.util.ArrayList*
+3
+6
+9
+12
+1*Ò
+24M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java∑- ∑(.≥
+∞
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java∑ ∑(/-
+id3F%org.apache.tika.parser.mp3.ID3v2Frame"__id**
+(
+f#org.apache.tika.parser.mp3.MP3Frame€ÿ
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java∏ ∏()	
+%5int"8org.apache.tika.parser.mp3.ID3v2Frame#getMajorVersion()I*/
+-
+id3F%org.apache.tika.parser.mp3.ID3v2Frame2getMajorVersion()*
+22
+23*ñ
+14M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÃ Ã(⁄◊
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÃ Ã("
+%16boolean"2org.apache.tika.parser.mp3.MpegStream#skipFrame()Z*5
+3
+
+mpegStream%org.apache.tika.parser.mp3.MpegStream2skipFrame()ûõ
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÕ Õ(*,
+%17%org.apache.tika.parser.mp3.AudioFrame"Xorg.apache.tika.parser.mp3.MpegStream#nextFrame()Lorg/apache/tika/parser/mp3/AudioFrame;*5
+3
+
+mpegStream%org.apache.tika.parser.mp3.MpegStream2nextFrame()∏
+µ
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÕ Õ(*.
+frame%org.apache.tika.parser.mp3.AudioFrame"__id*.
+,
+%17%org.apache.tika.parser.mp3.AudioFrame*
+13
+16*õ
+15M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java   ("ø
+º
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java   ("3
+
+firstAudio%org.apache.tika.parser.mp3.AudioFrame"__id*0
+.
+frame%org.apache.tika.parser.mp3.AudioFrame*
+14*Ì
+26M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaµ µ(◊
+‘
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaµ µ(>)
+%4#org.apache.tika.parser.mp3.MP3Frame"vorg.apache.tika.parser.mp3.ID3v2Frame#createFrameIfPresent(Ljava/io/InputStream;)Lorg/apache/tika/parser/mp3/MP3Frame;*)"'
+%org.apache.tika.parser.mp3.ID3v2Frame*5
+3
+
+mpegStream%org.apache.tika.parser.mp3.MpegStreamØ
+¨
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaµ µ(>(
+f#org.apache.tika.parser.mp3.MP3Frame"__id*+
+)
+%4#org.apache.tika.parser.mp3.MP3Frame*
+24
+26
+18*∑
+16M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java« «(◊‘
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java« «(+
+%15float"4org.apache.tika.parser.mp3.AudioFrame#getDuration()F*0
+.
+frame%org.apache.tika.parser.mp3.AudioFrame2getDuration()*
+14
+15*¸
+27M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaß ß(ë
+é
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaß ß( /
+v24(org.apache.tika.parser.mp3.ID3v24Handler"__id*
+""ë
+é
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java® ®( /
+v23(org.apache.tika.parser.mp3.ID3v23Handler"__id*
+""ë
+é
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java© ©( /
+v22(org.apache.tika.parser.mp3.ID3v22Handler"__id*
+""è
+å
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java™ ™(-
+v1'org.apache.tika.parser.mp3.ID3v1Handler"__id*
+""î
+ë
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java´ ´(#2
+lyrics(org.apache.tika.parser.mp3.LyricsHandler"__id*
+""ï
+í
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java¨ ¨($3
+
+firstAudio%org.apache.tika.parser.mp3.AudioFrame"__id*
+""ñì
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÆ# Æ(-#
+%0org.apache.tika.io.TailStream"org.apache.tika.io.TailStreamÁ
+‰
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÆ Æ(@
+%1"=org.apache.tika.io.TailStream#<init>(Ljava/io/InputStream;I)V*%
+#
+%0org.apache.tika.io.TailStream*
+
+streamjava.io.InputStream*
+""¨
+©
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÆ Æ(A+
+
+tailStreamorg.apache.tika.io.TailStream"__id*%
+#
+%0org.apache.tika.io.TailStream¶£
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaØ# Ø(-+
+%2%org.apache.tika.parser.mp3.MpegStream"%org.apache.tika.parser.mp3.MpegStream¸
+˘
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaØ Ø(9
+%3"Dorg.apache.tika.parser.mp3.MpegStream#<init>(Ljava/io/InputStream;)V*-
++
+%2%org.apache.tika.parser.mp3.MpegStream*-
++
+
+tailStreamorg.apache.tika.io.TailStreamº
+π
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaØ Ø(:3
+
+mpegStream%org.apache.tika.parser.mp3.MpegStream"__id*-
++
+%2%org.apache.tika.parser.mp3.MpegStreamä
+á
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java¥ ¥((
+f#org.apache.tika.parser.mp3.MP3Frame"__id*
+""*
+26*π
+18M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java√ √(%ûõ
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java√ √(1,
+%14%org.apache.tika.parser.mp3.AudioFrame"Xorg.apache.tika.parser.mp3.MpegStream#nextFrame()Lorg/apache/tika/parser/mp3/AudioFrame;*5
+3
+
+mpegStream%org.apache.tika.parser.mp3.MpegStream2nextFrame()∏
+µ
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java√ √(2.
+frame%org.apache.tika.parser.mp3.AudioFrame"__id*.
+,
+%14%org.apache.tika.parser.mp3.AudioFrame*
+13
+16*„
+19M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaΩ+ Ω(/≠™
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaΩ Ω(*/
+%12(org.apache.tika.parser.mp3.ID3v22Handler"(org.apache.tika.parser.mp3.ID3v22Handlerò
+ï
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaΩ Ω(0
+%13"Yorg.apache.tika.parser.mp3.ID3v22Handler#<init>(Lorg/apache/tika/parser/mp3/ID3v2Frame;)V*1
+/
+%12(org.apache.tika.parser.mp3.ID3v22Handler*/
+-
+id3F%org.apache.tika.parser.mp3.ID3v2Frameº
+π
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaΩ Ω(0/
+v22(org.apache.tika.parser.mp3.ID3v22Handler"__id*1
+/
+%12(org.apache.tika.parser.mp3.ID3v22Handler*
+26*Œ
+1M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÁ Á(2≈¬
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÁ! Á(0;
+%324org.apache.tika.parser.mp3.Mp3Parser$ID3TagsAndAudio"4org.apache.tika.parser.mp3.Mp3Parser$ID3TagsAndAudioÿ
+’
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÁ Á(2
+%33">org.apache.tika.parser.mp3.Mp3Parser$ID3TagsAndAudio#<init>()V*=
+;
+%324org.apache.tika.parser.mp3.Mp3Parser$ID3TagsAndAudio‘
+—
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÁ Á(3;
+ret4org.apache.tika.parser.mp3.Mp3Parser$ID3TagsAndAudio"__id*=
+;
+%324org.apache.tika.parser.mp3.Mp3Parser$ID3TagsAndAudio◊
+‘
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaË Ë(F
+;
+ret4org.apache.tika.parser.mp3.Mp3Parser$ID3TagsAndAudio"
+audio"__id*5
+3
+
+firstAudio%org.apache.tika.parser.mp3.AudioFrame◊
+‘
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÈ È(G
+;
+ret4org.apache.tika.parser.mp3.Mp3Parser$ID3TagsAndAudio"
+lyrics"__id*4
+2
+lyrics(org.apache.tika.parser.mp3.LyricsHandleròï
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÍ+ Í(6
+
+%34int"java.util.List#size()I*
+
+tagsjava.util.List2size()•¢
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÍ Í(7+
+%35$org.apache.tika.parser.mp3.ID3Tags[]"$org.apache.tika.parser.mp3.ID3Tags[]¶£
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÍ Í(8+
+%36$org.apache.tika.parser.mp3.ID3Tags[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
+
+tagsjava.util.List*-
++
+%35$org.apache.tika.parser.mp3.ID3Tags[]2toArray([Ljava/lang/Object;)Œ
+À
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÍ Í(8E
+;
+ret4org.apache.tika.parser.mp3.Mp3Parser$ID3TagsAndAudio"
+tags"__id*-
++
+%36$org.apache.tika.parser.mp3.ID3Tags[]"é
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaÏ Ï(=
+;
+ret4org.apache.tika.parser.mp3.Mp3Parser$ID3TagsAndAudio*ó
+2M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java‰
+ ‰(Ω
+∫
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java‰
+ ‰(
+%31boolean"
+__arrayAdd*
+
+tagsjava.util.List*: */
+-
+v1'org.apache.tika.parser.mp3.ID3v1Handler*
+1*Ω
+3M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java„ „(‡›
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java„ „(+
+%30boolean"9org.apache.tika.parser.mp3.ID3v1Handler#getTagsPresent()Z*/
+-
+v1'org.apache.tika.parser.mp3.ID3v1Handler2getTagsPresent()*
+2
+1*ú
+5M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java·
+ ·(ø
+º
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java·
+ ·(
+%29boolean"
+__arrayAdd*
+
+tagsjava.util.List*: *1
+/
+v22(org.apache.tika.parser.mp3.ID3v22Handler*
+3
+1*√
+6M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java‡ ‡(„‡
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java‡ ‡(-
+%28boolean":org.apache.tika.parser.mp3.ID3v22Handler#getTagsPresent()Z*1
+/
+v22(org.apache.tika.parser.mp3.ID3v22Handler2getTagsPresent()*	
+3
+5
+1*ü
+8M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaﬁ
+ ﬁ(ø
+º
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaﬁ
+ ﬁ(
+%27boolean"
+__arrayAdd*
+
+tagsjava.util.List*: *1
+/
+v23(org.apache.tika.parser.mp3.ID3v23Handler*	
+3
+6
+1*∆
+9M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java› ›(„‡
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java› ›(-
+%26boolean":org.apache.tika.parser.mp3.ID3v23Handler#getTagsPresent()Z*1
+/
+v23(org.apache.tika.parser.mp3.ID3v23Handler2getTagsPresent()*
+3
+6
+8
+1*º
+20M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaº º(‹Ÿ
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaº º(/
+
+%11int"8org.apache.tika.parser.mp3.ID3v2Frame#getMajorVersion()I*/
+-
+id3F%org.apache.tika.parser.mp3.ID3v2Frame2getMajorVersion()*
+26
+19*‡
+21M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaª+ ª(/¨©
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaª ª(*.
+%9(org.apache.tika.parser.mp3.ID3v23Handler"(org.apache.tika.parser.mp3.ID3v23Handleró
+î
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaª ª(0
+%10"Yorg.apache.tika.parser.mp3.ID3v23Handler#<init>(Lorg/apache/tika/parser/mp3/ID3v2Frame;)V*0
+.
+%9(org.apache.tika.parser.mp3.ID3v23Handler*/
+-
+id3F%org.apache.tika.parser.mp3.ID3v2Frameª
+∏
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaª ª(0/
+v23(org.apache.tika.parser.mp3.ID3v23Handler"__id*0
+.
+%9(org.apache.tika.parser.mp3.ID3v23Handler*
+26*ª
+22M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java∫ ∫(€ÿ
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java∫ ∫(/	
+%8int"8org.apache.tika.parser.mp3.ID3v2Frame#getMajorVersion()I*/
+-
+id3F%org.apache.tika.parser.mp3.ID3v2Frame2getMajorVersion()*
+20
+21*£
+11M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java€
+ €(ø
+º
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java€
+ €(
+%25boolean"
+__arrayAdd*
+
+tagsjava.util.List*: *1
+/
+v24(org.apache.tika.parser.mp3.ID3v24Handler*
+3
+6
+9
+1*À
+12M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java⁄ ⁄(„‡
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.java⁄ ⁄(-
+%24boolean":org.apache.tika.parser.mp3.ID3v24Handler#getTagsPresent()Z*1
+/
+v24(org.apache.tika.parser.mp3.ID3v24Handler2getTagsPresent()*
+3
+6
+9
+11
+1*ﬂ
+23M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaπ+ π(/¨©
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaπ π(*.
+%6(org.apache.tika.parser.mp3.ID3v24Handler"(org.apache.tika.parser.mp3.ID3v24Handlerñ
+ì
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaπ π(0
+%7"Yorg.apache.tika.parser.mp3.ID3v24Handler#<init>(Lorg/apache/tika/parser/mp3/ID3v2Frame;)V*0
+.
+%6(org.apache.tika.parser.mp3.ID3v24Handler*/
+-
+id3F%org.apache.tika.parser.mp3.ID3v2Frameª
+∏
+M
+AD:/git_project/code/src/org/apache/tika/parser/mp3/Mp3Parser.javaπ π(0/
+v24(org.apache.tika.parser.mp3.ID3v24Handler"__id*0
+.
+%6(org.apache.tika.parser.mp3.ID3v24Handler*
+26:
+streamjava.io.InputStream:%
+handlerorg.xml.sax.ContentHandlerB("&
+$org.apache.tika.parser.mp3.Mp3Parser

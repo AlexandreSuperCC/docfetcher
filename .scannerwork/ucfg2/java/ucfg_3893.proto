@@ -1,0 +1,187 @@
+
+Norg.apache.tika.parser.chm.accessor.ChmPmglHeader#toString()Ljava/lang/String;X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javai i("1*ò/
+1X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javaj j(.ïí
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javaj j(,
+%0java.lang.StringBuilder"java.lang.StringBuilderß
+§
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javaj j(.
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder£
+†
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javaj j(/
+sbjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilderˆÛ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javak- k(;
+%2byte[]"Borg.apache.tika.parser.chm.accessor.ChmPmglHeader#getSignature()[B*53
+1org.apache.tika.parser.chm.accessor.ChmPmglHeader2getSignature()ã
+à
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javak= k(B
+%3java.nio.charset.Charset"__id*
+""áÑ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javak& k(,
+%4java.lang.String"java.lang.StringÁ
+‰
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javak" k(C
+%5"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
+
+%4java.lang.String*
+
+%2byte[]* 
+
+%3java.nio.charset.Charset™
+ß
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javak k(C
+%6java.lang.String"__concat*
+signatute:=*
+
+%4java.lang.String°
+û
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javak k(J
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+, †ù
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javak k(K
+%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%7java.lang.String2append(Ljava/lang/String;)Û
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javal# l(1
+
+%9long"Aorg.apache.tika.parser.chm.accessor.ChmPmglHeader#getFreeSpace()J*53
+1org.apache.tika.parser.chm.accessor.ChmPmglHeader2getFreeSpace()†
+ù
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javal l(1
+%10java.lang.String"__concat*
+free space:=*
+
+
+%9long£
+†
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javal l(8
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+, ¢ü
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javal l(9
+%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%11java.lang.String2append(Ljava/lang/String;)¯ı
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javam$ m(4
+%13long"Corg.apache.tika.parser.chm.accessor.ChmPmglHeader#getUnknown0008()J*53
+1org.apache.tika.parser.chm.accessor.ChmPmglHeader2getUnknown0008()¢
+ü
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javam m(4
+%14java.lang.String"__concat*
+unknown0008:=*
+
+%13long£
+†
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javam m(;
+%15java.lang.String"__concat*
+
+%14java.lang.String*
+, ¢ü
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javam m(<
+%16java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%15java.lang.String2append(Ljava/lang/String;)Û
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javan# n(1
+
+%17int"Aorg.apache.tika.parser.chm.accessor.ChmPmglHeader#getBlockPrev()I*53
+1org.apache.tika.parser.chm.accessor.ChmPmglHeader2getBlockPrev()†
+ù
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javan n(1
+%18java.lang.String"__concat*
+prev block:=*
+
+
+%17int£
+†
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javan n(8
+%19java.lang.String"__concat*
+
+%18java.lang.String*
+, ¢ü
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javan n(9
+%20java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%19java.lang.String2append(Ljava/lang/String;)Û
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javao# o(1
+
+%21int"Aorg.apache.tika.parser.chm.accessor.ChmPmglHeader#getBlockNext()I*53
+1org.apache.tika.parser.chm.accessor.ChmPmglHeader2getBlockNext()†
+ù
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javao o(1
+%22java.lang.String"__concat*
+next block:=*
+
+
+%21int‰
+·
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javap p(6
+%23java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator∂
+≥
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javao p(6
+%24java.lang.String"__concat*
+
+%22java.lang.String*
+
+%23java.lang.String¢ü
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javao p(7
+%25java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%24java.lang.String2append(Ljava/lang/String;)Ÿ÷
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javaq q(
+%26java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()"u
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmglHeader.javaq q(
+
+%26java.lang.StringB53
+1org.apache.tika.parser.chm.accessor.ChmPmglHeader

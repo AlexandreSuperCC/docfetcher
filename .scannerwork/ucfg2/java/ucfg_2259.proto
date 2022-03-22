@@ -1,0 +1,37 @@
+
+Gnet.sourceforge.docfetcher.enums.SettingsConf$Int#getDefaultAnalyzer()IV
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.javaž ž('"3*½
+2V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.java¢ ¢("`
+V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.java¢ ¢(
+""*Á
+3V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.java   (à
+Ý
+V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.java   (4
+%0java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+user.language•
+’
+V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.java   (5
+langjava.lang.String"__id*
+
+%0java.lang.StringàÝ
+V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.java¡ ¡(
+%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+langjava.lang.String*
+zh2startsWith(Ljava/lang/String;)*
+2
+1*½
+1V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.java¤
+ ¤("`
+V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.java¤ ¤(
+""B5"3
+1net.sourceforge.docfetcher.enums.SettingsConf$Int

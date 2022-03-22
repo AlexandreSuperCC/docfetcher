@@ -1,0 +1,42 @@
+
+Jnet.sourceforge.docfetcher.model.Folder#getDocumentsDeep()Ljava/util/List;P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javañ# ñ(3"1*í
+
+1P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaò ò(.…‚
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaò ò(+
+%0java.util.ArrayList"java.util.ArrayList—
+”
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaò ò(.
+%1"java.util.ArrayList#<init>()V*
+
+%0java.util.ArrayList”
+‘
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaò ò(/
+docsDeepjava.util.List"__id*
+
+%0java.util.ArrayListÍÊ
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaó ó($=
+%27Lnet/sourceforge/docfetcher/model/Folder<TD;TF;>$11409;"7Lnet/sourceforge/docfetcher/model/Folder<TD;TF;>$11409;¬
+©
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaó ÷(
+%3"anet.sourceforge.docfetcher.model.FolderVisitor#<init>(Lnet/sourceforge/docfetcher/model/Folder;)V*?
+=
+%27Lnet/sourceforge/docfetcher/model/Folder<TD;TF;>$11409;*+)
+'net.sourceforge.docfetcher.model.Folderëè
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaó ÷(
+
+%4void"8net.sourceforge.docfetcher.util.Stoppable#runSilently()V*?
+=
+%27Lnet/sourceforge/docfetcher/model/Folder<TD;TF;>$11409;2runSilently()"p
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaø ø(
+
+docsDeepjava.util.ListB+)
+'net.sourceforge.docfetcher.model.Folder

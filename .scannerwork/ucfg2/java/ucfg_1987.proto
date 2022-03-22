@@ -1,0 +1,148 @@
+
+Morg.apache.tika.language.LanguageProfilerBuilder#toString()Ljava/lang/String;Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaœ œ("4*í
+2Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¤ ¤( ñî
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¤ ¤('A
+%9;org.apache.tika.language.LanguageProfilerBuilder$NGramEntry"+java.util.Iterator#next()Ljava/lang/Object;*
+
+ijava.util.Iterator2next()ï
+ì
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¤ ¤((D
+entry;org.apache.tika.language.LanguageProfilerBuilder$NGramEntry"__id*C
+A
+%9;org.apache.tika.language.LanguageProfilerBuilder$NGramEntryŠ‡
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¥ ¥(
+%10java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+sjava.lang.StringBuffer*
+[2append(Ljava/lang/String;)Ô
+Ñ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¥! ¥(*
+%11java.lang.CharSequence"__id*O*M
+D
+entry;org.apache.tika.language.LanguageProfilerBuilder$NGramEntry"
+seq²¯
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¥ ¥(+
+%12java.lang.StringBuffer"Ojava.lang.StringBuffer#append(Ljava/lang/CharSequence;)Ljava/lang/StringBuffer;*
+
+%10java.lang.StringBuffer*
+
+%11java.lang.CharSequence2 append(Ljava/lang/CharSequence;)Œ‰
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¥ ¥(7
+%13java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+%12java.lang.StringBuffer*
+/2append(Ljava/lang/String;)ëè
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¥ ¥(K
+%14java.lang.StringBuffer"8java.lang.StringBuffer#append(I)Ljava/lang/StringBuffer;*
+
+%13java.lang.StringBuffer*
+""2	append(I)Œ‰
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¥ ¦(%
+%15java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+%14java.lang.StringBuffer*
+/2append(Ljava/lang/String;)ëè
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¥ ¦(=
+%16java.lang.StringBuffer"8java.lang.StringBuffer#append(F)Ljava/lang/StringBuffer;*
+
+%15java.lang.StringBuffer*
+""2	append(F)Ž‹
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¥ ¦(K
+%17java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+%16java.lang.StringBuffer*
+]\n2append(Ljava/lang/String;)*
+3*›
+3Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java£ £(²¯
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java£ £(
+%8boolean"java.util.Iterator#hasNext()Z*
+
+ijava.util.Iterator2	hasNext()*
+2
+1*À
+4Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaž ž(+”‘
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaž ž()
+%0java.lang.StringBuffer"java.lang.StringBuffer¦
+£
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaž ž(+
+%1" java.lang.StringBuffer#<init>()V*
+
+%0java.lang.StringBuffer—”
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaž ž(D
+%2java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+%0java.lang.StringBuffer*
+NGramProfile: 2append(Ljava/lang/String;)¼
+¹
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaŸ3 Ÿ(7
+%3java.lang.String"__id*>*<2
+0org.apache.tika.language.LanguageProfilerBuilder"
+nameš
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaž Ÿ(8
+%4java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+%2java.lang.StringBuffer*
+
+%3java.lang.String2append(Ljava/lang/String;)‹ˆ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaž Ÿ(E
+%5java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*
+
+%4java.lang.StringBuffer*
+\n2append(Ljava/lang/String;)¡
+ž
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaž Ÿ(F
+sjava.lang.StringBuffer"__id*
+
+%5java.lang.StringBuffer…‚
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¡! ¡(,
+%6java.util.List"Lorg.apache.tika.language.LanguageProfilerBuilder#getSorted()Ljava/util/List;*42
+0org.apache.tika.language.LanguageProfilerBuilder2getSorted()ËÈ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¡! ¡(7
+%7java.util.Iterator"-java.util.List#iterator()Ljava/util/Iterator;*
+
+%6java.util.List2
+iterator()™
+–
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¡ ¡(8
+ijava.util.Iterator"__id*
+
+%7java.util.Iterator*
+3*°
+1Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¨ ¨(×Ô
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¨ ¨(
+%18java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+sjava.lang.StringBuffer2
+toString()"v
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¨ ¨(
+
+%18java.lang.StringB42
+0org.apache.tika.language.LanguageProfilerBuilder

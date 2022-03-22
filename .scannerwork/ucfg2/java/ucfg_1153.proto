@@ -1,0 +1,26 @@
+
+Xorg.apache.tika.mime.MediaType#video(Ljava/lang/String;)Lorg/apache/tika/mime/MediaType;E
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javae e(!"1*Ý
+1E
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaf f(”
+‘
+E
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaf f(.
+%0java.lang.String"__concat*
+
+video/*
+
+typejava.lang.Stringˆ
+…
+E
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaf f(/$
+%1org.apache.tika.mime.MediaType"Xorg.apache.tika.mime.MediaType#parse(Ljava/lang/String;)Lorg/apache/tika/mime/MediaType;*"" 
+org.apache.tika.mime.MediaType*
+
+%0java.lang.String"o
+E
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaf f(0&
+$
+%1org.apache.tika.mime.MediaType:
+typejava.lang.StringB"" 
+org.apache.tika.mime.MediaType

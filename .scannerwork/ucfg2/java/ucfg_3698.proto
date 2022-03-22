@@ -1,0 +1,16 @@
+
+^net.sourceforge.docfetcher.model.IndexRegistry#getWriteLock()Ljava/util/concurrent/locks/Lock;W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÜ Ü("1*°
+1W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÝ	 Ý(Ì
+É
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÝ	 Ý(%
+%0java.util.concurrent.locks.Lock"__id*A*?0
+.net.sourceforge.docfetcher.model.IndexRegistry"
+	writeLock"‚
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÝ Ý('
+%
+%0java.util.concurrent.locks.LockB20
+.net.sourceforge.docfetcher.model.IndexRegistry

@@ -1,0 +1,35 @@
+
+]net.sourceforge.docfetcher.util.Util#ensureLinuxLineSep(Ljava/lang/String;)Ljava/lang/String;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaµ µ(("startingBlock*¦
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaµ( µ(?º
+·
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaµ) µ(1
+%1"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+inputjava.lang.Stringƒ
+€
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaµ9 µ(>
+inputjava.lang.String"__annotation*
+
+%1*
+1*á
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¶	 ¶(¡ž
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¶	 ¶((
+%0java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+inputjava.lang.String*	
+\r\n?*
+\n20replaceAll(Ljava/lang/String;Ljava/lang/String;)"i
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¶ ¶()
+
+%0java.lang.String:
+inputjava.lang.StringB("&
+$net.sourceforge.docfetcher.util.Util

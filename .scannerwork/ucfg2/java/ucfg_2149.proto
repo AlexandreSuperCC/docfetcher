@@ -1,0 +1,39 @@
+
+gnet.sourceforge.docfetcher.build.U#removePrefix(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;I
+?D:/git_project/code/src/net/sourceforge/docfetcher/build/U.java6 6("1*‡
+1I
+?D:/git_project/code/src/net/sourceforge/docfetcher/build/U.java7 7(ÍÁ
+I
+?D:/git_project/code/src/net/sourceforge/docfetcher/build/U.java7 7()
+%0boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+inputjava.lang.String*
+
+prefixjava.lang.String2startsWith(Ljava/lang/String;)…
+∆
+I
+?D:/git_project/code/src/net/sourceforge/docfetcher/build/U.java7 7(*
+
+%1void"2net.sourceforge.docfetcher.util.Util#checkThat(Z)V*("&
+$net.sourceforge.docfetcher.util.Util*
+
+%0booleanùö
+I
+?D:/git_project/code/src/net/sourceforge/docfetcher/build/U.java8 8((	
+%2int"java.lang.String#length()I*
+
+prefixjava.lang.String2length()œÃ
+I
+?D:/git_project/code/src/net/sourceforge/docfetcher/build/U.java8	 8()
+%3java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+inputjava.lang.String*
+	
+%2int2substring(I)"e
+I
+?D:/git_project/code/src/net/sourceforge/docfetcher/build/U.java8 8(*
+
+%3java.lang.String:
+inputjava.lang.String:
+prefixjava.lang.StringB&"$
+"net.sourceforge.docfetcher.build.U

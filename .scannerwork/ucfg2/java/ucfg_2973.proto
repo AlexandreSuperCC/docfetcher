@@ -1,0 +1,18 @@
+
+jnet.sourceforge.docfetcher.model.index.IndexingConfig#toMegabyteString(Ljava/lang/Long;)Ljava/lang/String;^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaÊ Ê('"1*×
+1^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaË Ë(#õ
+ò
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaÌ	 Ì()
+%0java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*
+%.1f*
+"""z
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaÌ Ì(*
+
+%0java.lang.String:
+bytesjava.lang.LongB9"7
+5net.sourceforge.docfetcher.model.index.IndexingConfig

@@ -1,0 +1,39 @@
+
+aorg.apache.tika.config.ServiceLoader#getResourceAsStream(Ljava/lang/String;)Ljava/io/InputStream;M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java° °(*"3*–
+2M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java² ²(«
+¨
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java² ²(
+%1java.lang.ClassLoader"__id*4*2&
+$org.apache.tika.config.ServiceLoader"
+loader¥¢
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java² ²(3
+%2java.io.InputStream"Rjava.lang.ClassLoader#getResourceAsStream(Ljava/lang/String;)Ljava/io/InputStream;*
+
+%1java.lang.ClassLoader*
+
+namejava.lang.String2'getResourceAsStream(Ljava/lang/String;)"l
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java² ²(4
+
+%2java.io.InputStream*ˆ
+3M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java± ±(«
+¨
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java± ±(
+%0java.lang.ClassLoader"__id*4*2&
+$org.apache.tika.config.ServiceLoader"
+loader*
+2
+1*«
+1M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java´ ´("W
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java´ ´(
+"":
+namejava.lang.StringB(&
+$org.apache.tika.config.ServiceLoader

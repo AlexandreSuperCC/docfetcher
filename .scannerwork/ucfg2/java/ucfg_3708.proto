@@ -1,0 +1,443 @@
+
+ônet.sourceforge.docfetcher.model.IndexRegistry#load(Lnet/sourceforge/docfetcher/model/Cancelable;)Lnet/sourceforge/docfetcher/model/IndexLoadingProblems;W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaﬂ ﬂ(!"startingBlock*
+25W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java˚ ˚(Ü
+É
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java˚ ˚(
+%15boolean"Inet.sourceforge.docfetcher.model.IndexRegistry#loadIndex(Ljava/io/File;)Z*20
+.net.sourceforge.docfetcher.model.IndexRegistry*
+
+serFilejava.io.File*
+14
+23*ñ
+27W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÚ Ú( É
+Ä
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÚ" Ú(.
+%11java.lang.String"__id*
+""~|
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÚ Ú(
+%12java.io.File"java.io.FileÂ
+‚
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÚ Ú(/
+%13"6java.io.File#<init>(Ljava/io/File;Ljava/lang/String;)V*
+
+%12java.io.File*
+
+filejava.io.File*
+
+%11java.lang.Stringí
+è
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÚ Ú(0
+serFilejava.io.File"__id*
+
+%12java.io.File©¶
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÛ Û(
+%14boolean"java.io.File#isFile()Z*
+
+serFilejava.io.File2isFile()*
+25
+20*ö
+28W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÒ Ò(∞≠
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÒ Ò(
+%10boolean"java.io.File#isDirectory()Z*
+
+filejava.io.File2isDirectory()*
+27
+17*€
+30W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÔ Ô(ÒÓ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÔ Ô(
+%9boolean"9net.sourceforge.docfetcher.model.Cancelable#isCanceled()Z*;
+9
+
+cancelable+net.sourceforge.docfetcher.model.Cancelable2isCanceled()*
+13
+28*®
+31W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÓ Ó(æ
+ª
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÓ" Ó(0
+%7java.io.File"__id*F*D0
+.net.sourceforge.docfetcher.model.IndexRegistry"
+indexParentDirÅ
+˛
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÓ Ó(1
+%8java.io.File[]"Mnet.sourceforge.docfetcher.util.Util#listFiles(Ljava/io/File;)[Ljava/io/File;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+%7java.io.File*
+14*µ
+32W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÈ È(Ê
+„
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÈ È(@
+%0:net.sourceforge.docfetcher.util.concurrent.BlockingWrapper"__id*@*>0
+.net.sourceforge.docfetcher.model.IndexRegistry"
+
+searcherˇ¸
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÈ È("
+%1boolean"Dnet.sourceforge.docfetcher.util.concurrent.BlockingWrapper#isNull()Z*B
+@
+%0:net.sourceforge.docfetcher.util.concurrent.BlockingWrapper2isNull()◊
+‘
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÈ È(#
+
+%2void"2net.sourceforge.docfetcher.util.Util#checkThat(Z)V*("&
+$net.sourceforge.docfetcher.util.Util*
+
+%1booleanæ
+ª
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÎ Î(
+%3java.io.File"__id*F*D0
+.net.sourceforge.docfetcher.model.IndexRegistry"
+indexParentDir£†
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÎ Î(
+%4boolean"java.io.File#mkdirs()Z*
+
+%3java.io.File2mkdirs()–Õ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÏ- Ï(A;
+%55net.sourceforge.docfetcher.model.IndexLoadingProblems"5net.sourceforge.docfetcher.model.IndexLoadingProblems‚
+ﬂ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÏ) Ï(C
+%6"?net.sourceforge.docfetcher.model.IndexLoadingProblems#<init>()V*=
+;
+%55net.sourceforge.docfetcher.model.IndexLoadingProblemsÎ
+Ë
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÏ Ï(DH
+loadingProblems5net.sourceforge.docfetcher.model.IndexLoadingProblems"__id*=
+;
+%55net.sourceforge.docfetcher.model.IndexLoadingProblems*
+31*¨
+10W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaõ õ(π
+∂
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaõ õ(M
+indexDnet.sourceforge.docfetcher.model.IndexLoadingProblems$CorruptedIndex"__id*
+""á
+Ñ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaõ õ(M
+indexDnet.sourceforge.docfetcher.model.IndexLoadingProblems$CorruptedIndex"
+__arrayGet*F
+D
+corruptedIndexes0net.sourceforge.docfetcher.util.collect.LazyList*
+""*
+8
+11*⁄
+11W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaú ú(ÙÒ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaú ú(+
+%36void"ênet.sourceforge.docfetcher.model.IndexLoadingProblems#addCorruptedIndex(Lnet/sourceforge/docfetcher/model/IndexLoadingProblems$CorruptedIndex;)V*J
+H
+loadingProblems5net.sourceforge.docfetcher.model.IndexLoadingProblems*O
+M
+indexDnet.sourceforge.docfetcher.model.IndexLoadingProblems$CorruptedIndex2YaddCorruptedIndex(Lnet/sourceforge/docfetcher/model/IndexLoadingProblems$CorruptedIndex;)*
+10*á
+13W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaó. ó(L«ƒ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaó2 ó(J7
+%280net.sourceforge.docfetcher.util.collect.LazyList"0net.sourceforge.docfetcher.util.collect.LazyList⁄
+◊
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaó. ó(L
+%29":net.sourceforge.docfetcher.util.collect.LazyList#<init>()V*9
+7
+%280net.sourceforge.docfetcher.util.collect.LazyList„
+‡
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaó ó(MD
+corruptedIndexes0net.sourceforge.docfetcher.util.collect.LazyList"__id*9
+7
+%280net.sourceforge.docfetcher.util.collect.LazyListÁ
+‰
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaò ò(
+A
+%30:net.sourceforge.docfetcher.util.concurrent.BlockingWrapper"__id*@*>0
+.net.sourceforge.docfetcher.model.IndexRegistry"
+
+searcherÁ
+‰
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaô	 ô(>
+%317net.sourceforge.docfetcher.model.index.file.FileFactory"__id*C*A0
+.net.sourceforge.docfetcher.model.IndexRegistry"
+fileFactory¯
+ı
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaô ô((H
+%32Anet.sourceforge.docfetcher.model.index.outlook.OutlookMailFactory"__id*J*H0
+.net.sourceforge.docfetcher.model.IndexRegistry"
+outlookMailFactory«ƒ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaò ò(7
+%330net.sourceforge.docfetcher.model.search.Searcher"0net.sourceforge.docfetcher.model.search.Searcher°
+û
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaò ô(;
+%34"ˆnet.sourceforge.docfetcher.model.search.Searcher#<init>(Lnet/sourceforge/docfetcher/model/IndexRegistry;Lnet/sourceforge/docfetcher/model/index/file/FileFactory;Lnet/sourceforge/docfetcher/model/index/outlook/OutlookMailFactory;Ljava/util/List;)V*9
+7
+%330net.sourceforge.docfetcher.model.search.Searcher*20
+.net.sourceforge.docfetcher.model.IndexRegistry*@
+>
+%317net.sourceforge.docfetcher.model.index.file.FileFactory*J
+H
+%32Anet.sourceforge.docfetcher.model.index.outlook.OutlookMailFactory*F
+D
+corruptedIndexes0net.sourceforge.docfetcher.util.collect.LazyList◊‘
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaò ô(<
+%35void"Snet.sourceforge.docfetcher.util.concurrent.BlockingWrapper#set(Ljava/lang/Object;)V*C
+A
+%30:net.sourceforge.docfetcher.util.concurrent.BlockingWrapper*9
+7
+%330net.sourceforge.docfetcher.model.search.Searcher2set(Ljava/lang/Object;)*
+10*â
+14W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÓ Ó(
+}
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÓ Ó(
+filejava.io.File"__id*
+""û
+õ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÓ Ó(
+filejava.io.File"
+__arrayGet*
+
+%8java.io.File[]*
+""*
+13
+30*¨
+15W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaì ì(∆√
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaì ì(*
+%27void"Vnet.sourceforge.docfetcher.model.IndexLoadingProblems#addObsoleteFile(Ljava/io/File;)V*J
+H
+loadingProblems5net.sourceforge.docfetcher.model.IndexLoadingProblems*
+
+filejava.io.File2addObsoleteFile(Ljava/io/File;)*
+14*ó
+16W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaí í(¬ø
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaí í(
+%25java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+filejava.io.File2	getName()ËÂ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaí í(2
+%26boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%25java.lang.String*
+ScopeRegistry.ser2equals(Ljava/lang/Object;)*
+14
+15*ê
+17W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaç ç(¶£
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaç ç(
+%24boolean"java.io.File#isFile()Z*
+
+filejava.io.File2isFile()*
+14
+16*¨
+18W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaâ â(∆√
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaâ â(+
+%23void"Vnet.sourceforge.docfetcher.model.IndexLoadingProblems#addObsoleteFile(Ljava/io/File;)V*J
+H
+loadingProblems5net.sourceforge.docfetcher.model.IndexLoadingProblems*
+
+filejava.io.File2addObsoleteFile(Ljava/io/File;)*
+14*ê
+19W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaà	 à(¬ø
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaà	 à(
+%21java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+filejava.io.File2	getName()·ﬁ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaà	 à(+
+%22boolean"-java.lang.String#matches(Ljava/lang/String;)Z*
+
+%21java.lang.String*
+
+.*?_\\d+2matches(Ljava/lang/String;)*
+14
+18*Ñ
+1W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaΩ	 Ω("•
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaΩ Ω(J
+H
+loadingProblems5net.sourceforge.docfetcher.model.IndexLoadingProblems*á
+3W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÆ ∑(£†
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÆ ∑(
+%46void"6java.lang.Runtime#addShutdownHook(Ljava/lang/Thread;)V*
+
+%43java.lang.Runtime*?
+=
+%446Lnet/sourceforge/docfetcher/model/IndexRegistry$14451;2#addShutdownHook(Ljava/lang/Thread;)*
+1*Ì
+startingBlockW
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaﬂ! ﬂ(AÊ
+„
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java› ›(
+
+%48"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.CallOnce*;
+9
+
+cancelable+net.sourceforge.docfetcher.model.CancelableË
+Â
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaﬁ ﬁ(
+%49"
+__annotate*:8
+6net.sourceforge.docfetcher.util.annotations.ThreadSafe*;
+9
+
+cancelable+net.sourceforge.docfetcher.model.CancelableÂ
+‚
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaﬂ" ﬂ(*
+%50"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*;
+9
+
+cancelable+net.sourceforge.docfetcher.model.Cancelable¿
+Ω
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaﬂ6 ﬂ(@9
+
+cancelable+net.sourceforge.docfetcher.model.Cancelable"__annotation*
+
+%48*
+
+%49*
+
+%50*
+32*˙
+4W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÆ( ∑(”–
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÆ, Æ(2=
+%446Lnet/sourceforge/docfetcher/model/IndexRegistry$14451;"6Lnet/sourceforge/docfetcher/model/IndexRegistry$14451;¿
+Ω
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÆ( ∑(
+%45"java.lang.Thread#<init>()V*?
+=
+%446Lnet/sourceforge/docfetcher/model/IndexRegistry$14451;*
+3*§
+5W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java¢ ¨(¿
+Ω
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÆ Æ(
+%43java.lang.Runtime"1java.lang.Runtime#getRuntime()Ljava/lang/Runtime;*"
+java.lang.Runtime*
+4*“
+6W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java¨ ¨(ø
+º
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java¨ ¨(
+%41java.io.File"__id*F*D0
+.net.sourceforge.docfetcher.model.IndexRegistry"
+indexParentDir¨©
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java¢ ¨(
+
+%42int"Pnet.sourceforge.docfetcher.model.SimpleJNotifyListener#addWatch(Ljava/io/File;)I*?
+=
+%396Lnet/sourceforge/docfetcher/model/IndexRegistry$14093;*
+
+%41java.io.File2addWatch(Ljava/io/File;)*
+5*í
+7W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java† †(>Ô
+Ï
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java† †(>F
+executor:net.sourceforge.docfetcher.util.concurrent.DelayedExecutor"__id*C
+A
+%37:net.sourceforge.docfetcher.util.concurrent.DelayedExecutor”–
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java¢ ¢(0=
+%396Lnet/sourceforge/docfetcher/model/IndexRegistry$14093;"6Lnet/sourceforge/docfetcher/model/IndexRegistry$14093;Ê
+„
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java¢ ¨(
+%40"@net.sourceforge.docfetcher.model.SimpleJNotifyListener#<init>()V*?
+=
+%396Lnet/sourceforge/docfetcher/model/IndexRegistry$14093;*
+6*∏
+8W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java†8 †(<€ÿ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java†( †(7A
+%37:net.sourceforge.docfetcher.util.concurrent.DelayedExecutor":net.sourceforge.docfetcher.util.concurrent.DelayedExecutorˆ
+Û
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java†$ †(=
+%38"Enet.sourceforge.docfetcher.util.concurrent.DelayedExecutor#<init>(J)V*C
+A
+%37:net.sourceforge.docfetcher.util.concurrent.DelayedExecutor*2Ë*
+7*ì
+20W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÇ Ç(©¶
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÇ Ç(
+%20boolean"java.io.File#exists()Z*
+
+serFilejava.io.File2exists()*
+14
+19*¨
+23W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java¸ ¸(∆√
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java¸ ¸(,
+%16void"Vnet.sourceforge.docfetcher.model.IndexLoadingProblems#addObsoleteFile(Ljava/io/File;)V*J
+H
+loadingProblems5net.sourceforge.docfetcher.model.IndexLoadingProblems*
+
+filejava.io.File2addObsoleteFile(Ljava/io/File;)*
+14:9
+
+cancelable+net.sourceforge.docfetcher.model.CancelableB20
+.net.sourceforge.docfetcher.model.IndexRegistry

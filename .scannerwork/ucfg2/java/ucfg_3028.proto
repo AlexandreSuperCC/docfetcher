@@ -1,0 +1,22 @@
+
+Worg.apache.tika.language.detect.LanguageDetector#getLanguageDetectors()Ljava/util/List;W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaF& F(:"1*À
+1W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaG	 G(–
+“
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaG G(4*
+%0$org.apache.tika.config.ServiceLoader"__id*
+""Õ
+Ò
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaG	 G(5
+%1java.util.List"}org.apache.tika.language.detect.LanguageDetector#getLanguageDetectors(Lorg/apache/tika/config/ServiceLoader;)Ljava/util/List;*4"2
+0org.apache.tika.language.detect.LanguageDetector*,
+*
+%0$org.apache.tika.config.ServiceLoader"q
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaG G(6
+
+%1java.util.ListB4"2
+0org.apache.tika.language.detect.LanguageDetector

@@ -1,0 +1,185 @@
+
+·net.sourceforge.docfetcher.model.parse.HtmlParser#parse(Ljava/io/InputStream;Lnet/sourceforge/docfetcher/model/parse/ParseContext;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java, ,("startingBlock*î
+2X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javaM M(‰
+†
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javaM N(
+contentsjava.lang.String"__id*
+""*
+1*î
+3X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javaE E(‰
+†
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javaE E(D
+contentsjava.lang.String"__id*
+""*
+1*­
+startingBlockX
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java, -(0¥
+¢
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java+ +(
+
+%15"
+__annotate*
+java.lang.Override*
+
+injava.io.InputStream
+Œ
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java,' ,()
+injava.io.InputStream"__annotation*
+
+%15Ê
+Ç
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java+ +(
+
+%16"
+__annotate*
+java.lang.Override*@
+>
+context3net.sourceforge.docfetcher.model.parse.ParseContext´
+±
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java-( -(/>
+context3net.sourceforge.docfetcher.model.parse.ParseContext"__annotation*
+
+%16*
+11*ƒ
+4X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java; <(P†
+ƒ
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java; <(P
+titlejava.lang.String"__id*
+
+%3œ
+™
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java= =(0
+%6"lnet.sourceforge.docfetcher.model.parse.HtmlParser#getMetaValue(LSource;Ljava/lang/String;)Ljava/lang/String;*53
+1net.sourceforge.docfetcher.model.parse.HtmlParser*
+""*
+
+author‡
+„
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java= =(1
+authorjava.lang.String"__id*
+
+%6¡
+ž
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java> >(:
+%7"lnet.sourceforge.docfetcher.model.parse.HtmlParser#getMetaValue(LSource;Ljava/lang/String;)Ljava/lang/String;*53
+1net.sourceforge.docfetcher.model.parse.HtmlParser*
+""*
+descriptionŒ
+‰
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java> >(;
+descriptionjava.lang.String"__id*
+
+%7ž
+›
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java? ?(4
+%8"lnet.sourceforge.docfetcher.model.parse.HtmlParser#getMetaValue(LSource;Ljava/lang/String;)Ljava/lang/String;*53
+1net.sourceforge.docfetcher.model.parse.HtmlParser*
+""*
+
+keywords‰
+†
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java? ?(5
+keywordsjava.lang.String"__id*
+
+%8‰
+†
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javaC C(
+contentsjava.lang.String"__id*
+""*
+2
+3*Ô
+5X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java<	 <(p
+n
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java<	 <(O
+%3"__id*
+
+%5*
+4*è
+6X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java< <(ƒ
+€
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java< <(
+%3"__id*
+
+%4java.lang.String*
+4*“
+11X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java0 0(ª
+§
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.java0 0($
+%0"qnet.sourceforge.docfetcher.model.parse.UtilParser#getSource(Ljava/io/InputStream;)Lnet/htmlparser/jericho/Source;*5"3
+1net.sourceforge.docfetcher.model.parse.UtilParser*
+
+injava.io.InputStream*
+5
+6*é
+1X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javaQ Q(!ËÈ
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javaQ Q(8
+%92net.sourceforge.docfetcher.model.parse.ParseResult"2net.sourceforge.docfetcher.model.parse.ParseResult–
+“
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javaQ	 Q("
+%10"Tnet.sourceforge.docfetcher.model.parse.ParseResult#<init>(Ljava/lang/CharSequence;)V*:
+8
+%92net.sourceforge.docfetcher.model.parse.ParseResult*
+
+contentsjava.lang.String•’
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javaQ	 R(9
+%112net.sourceforge.docfetcher.model.parse.ParseResult"ƒnet.sourceforge.docfetcher.model.parse.ParseResult#setTitle(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*:
+8
+%92net.sourceforge.docfetcher.model.parse.ParseResult*
+
+titlejava.lang.String2setTitle(Ljava/lang/String;)™–
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javaQ	 S(9
+%122net.sourceforge.docfetcher.model.parse.ParseResult"„net.sourceforge.docfetcher.model.parse.ParseResult#addAuthor(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*;
+9
+%112net.sourceforge.docfetcher.model.parse.ParseResult*
+
+authorjava.lang.String2addAuthor(Ljava/lang/String;)ª§
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javaQ	 T( 9
+%132net.sourceforge.docfetcher.model.parse.ParseResult"Šnet.sourceforge.docfetcher.model.parse.ParseResult#addMiscMetadata(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*;
+9
+%122net.sourceforge.docfetcher.model.parse.ParseResult*!
+
+descriptionjava.lang.String2#addMiscMetadata(Ljava/lang/String;)§¤
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javaQ	 U(9
+%142net.sourceforge.docfetcher.model.parse.ParseResult"Šnet.sourceforge.docfetcher.model.parse.ParseResult#addMiscMetadata(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*;
+9
+%132net.sourceforge.docfetcher.model.parse.ParseResult*
+
+keywordsjava.lang.String2#addMiscMetadata(Ljava/lang/String;)"—
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javaQ U(;
+9
+%142net.sourceforge.docfetcher.model.parse.ParseResult:
+injava.io.InputStream:>
+context3net.sourceforge.docfetcher.model.parse.ParseContextB53
+1net.sourceforge.docfetcher.model.parse.HtmlParser

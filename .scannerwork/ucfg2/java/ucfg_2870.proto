@@ -1,0 +1,363 @@
+
+Øorg.apache.tika.config.TikaConfig$ParserXmlLoader#createComposite(Ljava/lang/Class;Ljava/util/List;Ljava/util/Set;Lorg/apache/tika/mime/MimeTypes;Lorg/apache/tika/config/ServiceLoader;)Lorg/apache/tika/parser/Parser;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaô ô("startingBlock*ø
+13J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java•4 •(Bœ™
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java•4 •(I	
+%9int"java.util.Set#size()I*!
+
+excludeParsersjava.util.Set2size()*
+7
+11*Ó
+36J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaø ø( †
+ƒ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaø ø(!'
+parserorg.apache.tika.parser.Parser"__id*
+""€
+~
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaù ù(3"
+cjava.lang.reflect.Constructor"__id*
+""£ 
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaú) ú(I,
+%0&org.apache.tika.mime.MediaTypeRegistry"]org.apache.tika.mime.MimeTypes#getMediaTypeRegistry()Lorg/apache/tika/mime/MediaTypeRegistry;*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes2getMediaTypeRegistry()¹
+¶
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaú ú(J2
+registry&org.apache.tika.mime.MediaTypeRegistry"__id*.
+,
+%0&org.apache.tika.mime.MediaTypeRegistry*
+28
+17
+22
+34
+1*ñ
+25J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java‡ ‡(R‘
+Ž
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java‡ ‡(R'
+parserorg.apache.tika.parser.Parser"__id*
+
+%4	!capture!*
+17
+22
+1*†
+15J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java”) ”(-‹
+ˆ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java” ”(.,
+cp&org.apache.tika.parser.CompositeParser"__id*
+""œ™
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java• •(+	
+%8int"java.util.List#size()I* 
+
+childParsersjava.util.List2size()*
+13
+7*ñ
+27J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java† †(i 
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java† †(i"
+cjava.lang.reflect.Constructor"__id*%
+#
+%3java.lang.reflect.Constructorõò
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java‡ ‡(R
+%4	!capture!"Pjava.lang.reflect.Constructor#newInstance([Ljava/lang/Object;)Ljava/lang/Object;*$
+"
+cjava.lang.reflect.Constructor*4
+2
+registry&org.apache.tika.mime.MediaTypeRegistry* 
+
+childParsersjava.util.List*!
+
+excludeParsersjava.util.Set2 newInstance([Ljava/lang/Object;)*
+25*¿
+17J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java’" ’(7ãà
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java’" ’(U
+%7boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+""* 
+
+parserClassjava.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
+15
+1*þ
+28J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java† †(#¥¢
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java† †(i#
+%3java.lang.reflect.Constructor"Qjava.lang.Class#getConstructor([Ljava/lang/Class;)Ljava/lang/reflect/Constructor;* 
+
+parserClassjava.lang.Class*
+""*
+""*
+""2"getConstructor([Ljava/lang/Class;)*
+27*í
+19J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java (B‘
+Ž
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java (B'
+parserorg.apache.tika.parser.Parser"__id*
+
+%6	!capture!*
+17
+1*È
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaŸ Ÿ("w
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaŸ Ÿ()
+'
+parserorg.apache.tika.parser.Parser*é
+2J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaœ œ(.’
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaœ œ(.'
+parserorg.apache.tika.parser.Parser"__id*
+
+%15	!capture!*
+1*å
+startingBlockJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaô ö(:œ
+™
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaó ó(
+%16"
+__annotate*
+java.lang.Override* 
+
+parserClassjava.lang.Class†
+ƒ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaô7 ô(B
+parserClassjava.lang.Class"__annotation*
+
+%16œ
+™
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaó ó(
+%17"
+__annotate*
+java.lang.Override* 
+
+childParsersjava.util.List†
+ƒ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaõ õ()
+childParsersjava.util.List"__annotation*
+
+%17
+š
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaó ó(
+%18"
+__annotate*
+java.lang.Override*!
+
+excludeParsersjava.util.Set‡
+„
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaõH õ(V
+excludeParsersjava.util.Set"__annotation*
+
+%18©
+¦
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaó ó(
+%19"
+__annotate*
+java.lang.Override*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes“
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaö ö(#+
+	mimeTypesorg.apache.tika.mime.MimeTypes"__annotation*
+
+%19¬
+©
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaó ó(
+%20"
+__annotate*
+java.lang.Override*0
+.
+loader$org.apache.tika.config.ServiceLoader–
+“
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaö3 ö(9.
+loader$org.apache.tika.config.ServiceLoader"__annotation*
+
+%20*
+36*¦
+4J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java› ›(@¡
+ž
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java› ›(@"
+cjava.lang.reflect.Constructor"__id*&
+$
+%14java.lang.reflect.Constructor«¨
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaœ œ(.
+%15	!capture!"Pjava.lang.reflect.Constructor#newInstance([Ljava/lang/Object;)Ljava/lang/Object;*$
+"
+cjava.lang.reflect.Constructor*.
+,
+cp&org.apache.tika.parser.CompositeParser2 newInstance([Ljava/lang/Object;)*
+2*í
+5J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java› ›(#–“
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java› ›(@$
+%14java.lang.reflect.Constructor"Qjava.lang.Class#getConstructor([Ljava/lang/Class;)Ljava/lang/reflect/Constructor;* 
+
+parserClassjava.lang.Class*
+""2"getConstructor([Ljava/lang/Class;)*
+4*‹
+6J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java™ ™(X´
+±
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java™ ™(X,
+cp&org.apache.tika.parser.CompositeParser"__id*/
+-
+%12&org.apache.tika.parser.CompositeParser*
+5*‚
+7J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java™1 ™(9¦£
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java™! ™(0-
+%12&org.apache.tika.parser.CompositeParser"&org.apache.tika.parser.CompositeParser‚
+ÿ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java™ ™(X
+%13"~org.apache.tika.parser.CompositeParser#<init>(Lorg/apache/tika/mime/MediaTypeRegistry;Ljava/util/List;Ljava/util/Collection;)V*/
+-
+%12&org.apache.tika.parser.CompositeParser*4
+2
+registry&org.apache.tika.mime.MediaTypeRegistry* 
+
+childParsersjava.util.List*!
+
+excludeParsersjava.util.Set*
+6*‚
+8J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java— —(A«
+¨
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java— —(A,
+cp&org.apache.tika.parser.CompositeParser"__id*&
+$
+%11org.apache.tika.parser.Parser*
+5*þ
+9J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java—. —(:§
+¤
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java—. —(A$
+%11org.apache.tika.parser.Parser"
+__arrayGet* 
+
+childParsersjava.util.List*2 *
+8*õ
+31J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java€ €(L‘
+Ž
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java€ €(L'
+parserorg.apache.tika.parser.Parser"__id*
+
+%2	!capture!*
+28
+17
+22
+1*Î
+21J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaŒ Œ(W 
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaŒ Œ(W"
+cjava.lang.reflect.Constructor"__id*%
+#
+%5java.lang.reflect.ConstructorÒÏ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java (B
+%6	!capture!"Pjava.lang.reflect.Constructor#newInstance([Ljava/lang/Object;)Ljava/lang/Object;*$
+"
+cjava.lang.reflect.Constructor*4
+2
+registry&org.apache.tika.mime.MediaTypeRegistry* 
+
+childParsersjava.util.List2 newInstance([Ljava/lang/Object;)*
+19*ö
+22J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaŒ Œ(#š
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaŒ Œ(W#
+%5java.lang.reflect.Constructor"Qjava.lang.Class#getConstructor([Ljava/lang/Class;)Ljava/lang/reflect/Constructor;* 
+
+parserClassjava.lang.Class*
+""*
+""2"getConstructor([Ljava/lang/Class;)*
+21*
+33J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÿ ÿ(r 
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÿ ÿ(r"
+cjava.lang.reflect.Constructor"__id*%
+#
+%1java.lang.reflect.Constructor…‚
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java€ €(L
+%2	!capture!"Pjava.lang.reflect.Constructor#newInstance([Ljava/lang/Object;)Ljava/lang/Object;*$
+"
+cjava.lang.reflect.Constructor*4
+2
+registry&org.apache.tika.mime.MediaTypeRegistry*0
+.
+loader$org.apache.tika.config.ServiceLoader*!
+
+excludeParsersjava.util.Set2 newInstance([Ljava/lang/Object;)*
+31*‚
+11J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java– –((§
+¤
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java– –(/$
+%10org.apache.tika.parser.Parser"
+__arrayGet* 
+
+childParsersjava.util.List*2 *
+7
+9*þ
+34J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÿ ÿ(#¥¢
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÿ ÿ(r#
+%1java.lang.reflect.Constructor"Qjava.lang.Class#getConstructor([Ljava/lang/Class;)Ljava/lang/reflect/Constructor;* 
+
+parserClassjava.lang.Class*
+""*
+""*
+""2"getConstructor([Ljava/lang/Class;)*
+33:
+parserClassjava.lang.Class:
+childParsersjava.util.List:
+excludeParsersjava.util.Set:+
+	mimeTypesorg.apache.tika.mime.MimeTypes:.
+loader$org.apache.tika.config.ServiceLoaderB53
+1org.apache.tika.config.TikaConfig$ParserXmlLoader

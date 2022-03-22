@@ -1,0 +1,43 @@
+
+jnet.sourceforge.docfetcher.model.index.Task#is(Lnet/sourceforge/docfetcher/model/index/Task$IndexAction;)ZR
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javay y("startingBlock*Š
+startingBlockR
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javay y(5ï
+ì
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javax x(
+%1"
+__annotate*:8
+6net.sourceforge.docfetcher.util.annotations.ThreadSafe*H
+F
+indexAction7net.sourceforge.docfetcher.model.index.Task$IndexActioní
+ê
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javay y(
+%2"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*H
+F
+indexAction7net.sourceforge.docfetcher.model.index.Task$IndexAction½
+º
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javay) y(4F
+indexAction7net.sourceforge.docfetcher.model.index.Task$IndexAction"__annotation*
+
+%1*
+
+%2*
+1*–
+1R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java{	 {(Þ
+Û
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java{ {('=
+%07net.sourceforge.docfetcher.model.index.Task$IndexAction"__id*@*>-
++net.sourceforge.docfetcher.model.index.Task"
+indexAction"\
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java{ {(6
+"":F
+indexAction7net.sourceforge.docfetcher.model.index.Task$IndexActionB/-
++net.sourceforge.docfetcher.model.index.Task

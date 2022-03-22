@@ -1,0 +1,20 @@
+
+:org.apache.tika.sax.xpath.SubtreeMatcher#matchesElement()ZO
+ED:/git_project/code/src/org/apache/tika/sax/xpath/SubtreeMatcher.java* *(!"1*Å
+1O
+ED:/git_project/code/src/org/apache/tika/sax/xpath/SubtreeMatcher.java+ +(»
+¸
+O
+ED:/git_project/code/src/org/apache/tika/sax/xpath/SubtreeMatcher.java+ +('
+%0!org.apache.tika.sax.xpath.Matcher"__id*6*4*
+(org.apache.tika.sax.xpath.SubtreeMatcher"
+thenÕÒ
+O
+ED:/git_project/code/src/org/apache/tika/sax/xpath/SubtreeMatcher.java+ +($
+%1boolean"3org.apache.tika.sax.xpath.Matcher#matchesElement()Z*)
+'
+%0!org.apache.tika.sax.xpath.Matcher2matchesElement()"Y
+O
+ED:/git_project/code/src/org/apache/tika/sax/xpath/SubtreeMatcher.java+ +(%
+""B,*
+(org.apache.tika.sax.xpath.SubtreeMatcher

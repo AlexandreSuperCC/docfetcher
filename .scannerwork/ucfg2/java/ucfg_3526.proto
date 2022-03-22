@@ -1,0 +1,15 @@
+
+Qnull#getChildren(Lnet/sourceforge/docfetcher/model/ViewNode;)Ljava/lang/Iterable;Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java‚  ‚(+"1*Ò
+1Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java” ”(Œ‰
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java” ”(1
+%0java.lang.Iterable"Knet.sourceforge.docfetcher.model.ViewNode#getChildren()Ljava/lang/Iterable;*6
+4
+element)net.sourceforge.docfetcher.model.ViewNode2getChildren()"c
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java” ˜(
+"":4
+element)net.sourceforge.docfetcher.model.ViewNodeB;9
+7Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$5459;

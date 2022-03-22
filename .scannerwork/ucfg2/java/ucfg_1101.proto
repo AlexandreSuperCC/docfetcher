@@ -1,0 +1,197 @@
+
+±net.sourceforge.docfetcher.model.HotColdFileCache#putIfAbsent(Lnet/sourceforge/docfetcher/model/Path;Ljava/io/File;Ljava/io/File;)Lnet/sourceforge/docfetcher/model/FileResource;Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java¢" ¢(-"startingBlock*ï
+2Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.javaÆ' Æ(3˝˙
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.javaÆ Æ(&P
+%4Jnet.sourceforge.docfetcher.model.HotColdFileCache$DisposeOnceProxyResource"Jnet.sourceforge.docfetcher.model.HotColdFileCache$DisposeOnceProxyResourceÄ
+˝
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.javaÆ
+ Æ(4
+%5"Énet.sourceforge.docfetcher.model.HotColdFileCache$DisposeOnceProxyResource#<init>(Lnet/sourceforge/docfetcher/model/FileResource;)V*R
+P
+%4Jnet.sourceforge.docfetcher.model.HotColdFileCache$DisposeOnceProxyResource*?
+=
+fileResource-net.sourceforge.docfetcher.model.FileResource"∞
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.javaÆ Æ(5R
+P
+%4Jnet.sourceforge.docfetcher.model.HotColdFileCache$DisposeOnceProxyResource*≥
+startingBlockZ
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java¢- §(%€
+ÿ
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java° °(	
+%12"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*.
+,
+key%net.sourceforge.docfetcher.model.Path€
+ÿ
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java¢/ ¢(7
+%13"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*.
+,
+key%net.sourceforge.docfetcher.model.Path≠
+™
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java¢= ¢(@,
+key%net.sourceforge.docfetcher.model.Path"__annotation*
+
+%12*
+
+%13√
+¿
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java° °(	
+%14"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.File√
+¿
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java£ £(
+%15"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.Fileï
+í
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java£ £(
+filejava.io.File"__annotation*
+
+%14*
+
+%15»
+≈
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java° °(	
+%16"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+	deletablejava.io.File»
+≈
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java§ §(
+%17"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+	deletablejava.io.Fileö
+ó
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java§ §($
+	deletablejava.io.File"__annotation*
+
+%16*
+
+%17*
+6*‚
+4Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java© ©(˚
+¯
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java© ©(%
+
+%2void"Gnet.sourceforge.docfetcher.util.Util#deleteRecursively(Ljava/io/File;)V*("&
+$net.sourceforge.docfetcher.util.Util*
+
+	deletablejava.io.File*
+2*Í
+6Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java• •(Ê
+„
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java• •()
+
+%0void"jnet.sourceforge.docfetcher.util.Util#checkNotNull(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V*("&
+$net.sourceforge.docfetcher.util.Util*.
+,
+key%net.sourceforge.docfetcher.model.Path*
+
+filejava.io.File*
+
+	deletablejava.io.Fileπ∂
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java¶ ¶(&3
+%1-net.sourceforge.docfetcher.model.FileResource"çnet.sourceforge.docfetcher.model.HotColdFileCache#get(Lnet/sourceforge/docfetcher/model/Path;)Lnet/sourceforge/docfetcher/model/FileResource;*53
+1net.sourceforge.docfetcher.model.HotColdFileCache*.
+,
+key%net.sourceforge.docfetcher.model.Path2,get(Lnet/sourceforge/docfetcher/model/Path;)€
+ÿ
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java¶ ¶('=
+fileResource-net.sourceforge.docfetcher.model.FileResource"__id*5
+3
+%1-net.sourceforge.docfetcher.model.FileResource*
+4
+1*”
+1Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java∞ ∞(áÑ
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java∞ ∞((
+%6java.lang.String"Jnet.sourceforge.docfetcher.model.Path#getCanonicalPath()Ljava/lang/String;*.
+,
+key%net.sourceforge.docfetcher.model.Path2getCanonicalPath()õ
+ò
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java∞ ∞()
+absKeyjava.lang.String"__id*
+
+%6java.lang.String˜Ù
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java±. ±(CM
+%7Gnet.sourceforge.docfetcher.model.HotColdFileCache$TemporaryFileResource"Gnet.sourceforge.docfetcher.model.HotColdFileCache$TemporaryFileResource¸
+˘
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java±* ≤($
+%8"≥net.sourceforge.docfetcher.model.HotColdFileCache$TemporaryFileResource#<init>(Ljava/io/File;Lnet/sourceforge/docfetcher/model/HotColdFileCache;Ljava/lang/String;Ljava/io/File;I)V*O
+M
+%7Gnet.sourceforge.docfetcher.model.HotColdFileCache$TemporaryFileResource*
+
+filejava.io.File*53
+1net.sourceforge.docfetcher.model.HotColdFileCache*
+
+absKeyjava.lang.String*
+
+	deletablejava.io.File*2í
+è
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java± ≤(%Z
+newFileResourceGnet.sourceforge.docfetcher.model.HotColdFileCache$TemporaryFileResource"__id*O
+M
+%7Gnet.sourceforge.docfetcher.model.HotColdFileCache$TemporaryFileResource‰
+·
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java≥ ≥(
+8
+%92net.sourceforge.docfetcher.util.collect.SafeKeyMap"__id*C*A3
+1net.sourceforge.docfetcher.model.HotColdFileCache"
+
+hotCache˛˚
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java¥ ¥(%Q
+%10Jnet.sourceforge.docfetcher.model.HotColdFileCache$DisposeOnceProxyResource"Jnet.sourceforge.docfetcher.model.HotColdFileCache$DisposeOnceProxyResourceü
+ú
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java¥	 ¥(6
+%11"Énet.sourceforge.docfetcher.model.HotColdFileCache$DisposeOnceProxyResource#<init>(Lnet/sourceforge/docfetcher/model/FileResource;)V*S
+Q
+%10Jnet.sourceforge.docfetcher.model.HotColdFileCache$DisposeOnceProxyResource*\
+Z
+newFileResourceGnet.sourceforge.docfetcher.model.HotColdFileCache$TemporaryFileResource"±
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.java¥ ¥(7S
+Q
+%10Jnet.sourceforge.docfetcher.model.HotColdFileCache$DisposeOnceProxyResource:,
+key%net.sourceforge.docfetcher.model.Path:
+filejava.io.File:
+	deletablejava.io.FileB53
+1net.sourceforge.docfetcher.model.HotColdFileCache

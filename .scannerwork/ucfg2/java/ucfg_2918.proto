@@ -1,0 +1,87 @@
+
+anet.sourceforge.docfetcher.model.index.IndexingQueue#isOverlapping(Ljava/io/File;Ljava/io/File;)Z]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.java÷ ÷(%"startingBlock*ÿ
+2]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaø" ø(&•
+’
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaø" ø(7
+%1boolean"Lnet.sourceforge.docfetcher.util.Util#contains(Ljava/io/File;Ljava/io/File;)Z*("&
+$net.sourceforge.docfetcher.util.Util*
+
+f2java.io.File*
+
+f1java.io.File*
+1*‚
+3]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaø	 ø(•
+’
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaø	 ø(
+%0boolean"Lnet.sourceforge.docfetcher.util.Util#contains(Ljava/io/File;Ljava/io/File;)Z*("&
+$net.sourceforge.docfetcher.util.Util*
+
+f1java.io.File*
+
+f2java.io.File*
+2
+1*Å	
+startingBlock]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.java÷% ÷(IÉ
+Æ
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaö ö(
+%2"
+__annotate*=;
+9net.sourceforge.docfetcher.util.annotations.NotThreadSafe*
+
+f1java.io.FileÃ
+À
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.java÷& ÷(.
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+f1java.io.File”
+‘
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.java÷4 ÷(6
+f1java.io.File"__annotation*
+
+%2*
+
+%3É
+Æ
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaö ö(
+%4"
+__annotate*=;
+9net.sourceforge.docfetcher.util.annotations.NotThreadSafe*
+
+f2java.io.FileÃ
+À
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.java÷8 ÷(@
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+f2java.io.File”
+‘
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.java÷F ÷(H
+f2java.io.File"__annotation*
+
+%4*
+
+%5*
+3*Ë
+1]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaø ø(8"g
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaø ø(8
+"":
+f1java.io.File:
+f2java.io.FileB8"6
+4net.sourceforge.docfetcher.model.index.IndexingQueue

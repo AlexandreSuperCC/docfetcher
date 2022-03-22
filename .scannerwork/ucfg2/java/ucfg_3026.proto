@@ -1,0 +1,101 @@
+
+Bnet.sourceforge.docfetcher.util.AppUtil#getLangDir()Ljava/io/File;P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaê ê("6*Ì
+2P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaò ò(&vt
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaò ò(
+%9java.io.File"java.io.File≥
+∞
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaò
+ ò('
+%10"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%9java.io.File*
+../Resources/lang"h
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaò ò((
+
+%9java.io.File*˙
+3P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaì" ì(,õ
+ò
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaì" ì(16
+%60net.sourceforge.docfetcher.enums.SystemConf$Bool"__id*
+""õ
+ò
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaì" ì(<6
+%70net.sourceforge.docfetcher.enums.SystemConf$Bool"__id*
+""ﬁ€
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaì" ì(B
+%8boolean"7net.sourceforge.docfetcher.enums.SystemConf$Bool#get()Z*8
+6
+%70net.sourceforge.docfetcher.enums.SystemConf$Bool2get()*
+2
+1*–
+4P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaì ì(q
+o
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaì ì(
+%5boolean"__id*
+""*
+3
+1*‰
+5P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaí í(vt
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaí í(
+%3java.io.File"java.io.File™
+ß
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaí
+ í(
+%4"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%3java.io.File*
+	dist/lang"h
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaí í( 
+
+%3java.io.File*˙
+6P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaë ë(õ
+ò
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaë ë(6
+%00net.sourceforge.docfetcher.enums.SystemConf$Bool"__id*
+""õ
+ò
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaë ë(*6
+%10net.sourceforge.docfetcher.enums.SystemConf$Bool"__id*
+""ﬁ€
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaë ë(0
+%2boolean"7net.sourceforge.docfetcher.enums.SystemConf$Bool#get()Z*8
+6
+%10net.sourceforge.docfetcher.enums.SystemConf$Bool2get()*
+4
+5*„
+1P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaö ö(wu
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaö ö(
+%11java.io.File"java.io.Fileß
+§
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaö	 ö(
+%12"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%11java.io.File*
+lang"i
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaö ö(
+
+%11java.io.FileB+")
+'net.sourceforge.docfetcher.util.AppUtil

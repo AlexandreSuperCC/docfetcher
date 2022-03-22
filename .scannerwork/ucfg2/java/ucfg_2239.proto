@@ -1,0 +1,19 @@
+
+7org.apache.tika.detect.TextStatistics#countSafeAscii()IN
+BD:/git_project/code/src/org/apache/tika/detect/TextStatistics.java† †("1*¿
+1N
+BD:/git_project/code/src/org/apache/tika/detect/TextStatistics.java‡ ‡(È
+Å
+N
+BD:/git_project/code/src/org/apache/tika/detect/TextStatistics.java‡ ‡(	
+%0int"0org.apache.tika.detect.TextStatistics#count(II)I*)'
+%org.apache.tika.detect.TextStatistics*2 *2€Ä
+Á
+N
+BD:/git_project/code/src/org/apache/tika/detect/TextStatistics.java‡" ‡(4	
+%1int"9org.apache.tika.detect.TextStatistics#countSafeControl()I*)'
+%org.apache.tika.detect.TextStatistics"X
+N
+BD:/git_project/code/src/org/apache/tika/detect/TextStatistics.java‡ ‡(5
+""B)'
+%org.apache.tika.detect.TextStatistics

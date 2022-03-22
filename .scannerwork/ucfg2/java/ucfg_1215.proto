@@ -1,0 +1,41 @@
+
+Gorg.apache.tika.io.IOUtils#toString(Ljava/io/Reader;)Ljava/lang/String;C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaü ü(!"1*ñ
+1C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaý ý(,yw
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaý ý(*
+%0java.io.StringWriter"java.io.StringWriterŒ
+‰
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaý ý(,
+%1"java.io.StringWriter#<init>()V*
+
+%0java.io.StringWriterˆ
+…
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaý ý(-
+swjava.io.StringWriter"__id*
+
+%0java.io.StringWriterð
+í
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaþ þ(	
+%2int"Borg.apache.tika.io.IOUtils#copy(Ljava/io/Reader;Ljava/io/Writer;)I*"
+org.apache.tika.io.IOUtils*
+
+inputjava.io.Reader*
+
+swjava.io.StringWriter½º
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaÿ ÿ(
+%3java.lang.String"1java.io.StringWriter#toString()Ljava/lang/String;*
+
+swjava.io.StringWriter2
+toString()"_
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaÿ ÿ(
+
+%3java.lang.String:
+inputjava.io.ReaderB"
+org.apache.tika.io.IOUtils

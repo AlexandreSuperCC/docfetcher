@@ -1,0 +1,16 @@
+
+lorg.apache.tika.parser.rtf.RTFParser#getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Set;K
+AD:/git_project/code/src/org/apache/tika/parser/rtf/RTFParser.javaI I(+"1*ª
+1K
+AD:/git_project/code/src/org/apache/tika/parser/rtf/RTFParser.javaJ J(r
+p
+K
+AD:/git_project/code/src/org/apache/tika/parser/rtf/RTFParser.javaJ J(
+%0java.util.Set"__id*
+"""d
+K
+AD:/git_project/code/src/org/apache/tika/parser/rtf/RTFParser.javaJ J(
+
+%0java.util.Set:.
+context#org.apache.tika.parser.ParseContextB(&
+$org.apache.tika.parser.rtf.RTFParser

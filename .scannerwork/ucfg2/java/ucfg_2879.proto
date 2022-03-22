@@ -1,0 +1,52 @@
+
+³org.apache.tika.config.TikaConfig$DetectorXmlLoader#createDefault(Lorg/apache/tika/mime/MimeTypes;Lorg/apache/tika/config/ServiceLoader;)Lorg/apache/tika/detect/CompositeDetector;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÑ Ñ('"startingBlock*æ
+startingBlockJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÑ' Ñ(R¨
+¥
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÐ Ð(
+%1"
+__annotate*
+java.lang.Override*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes’
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÑ2 Ñ(;+
+	mimeTypesorg.apache.tika.mime.MimeTypes"__annotation*
+
+%1«
+¨
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÐ Ð(
+%2"
+__annotate*
+java.lang.Override*0
+.
+loader$org.apache.tika.config.ServiceLoader•
+’
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÑK Ñ(Q.
+loader$org.apache.tika.config.ServiceLoader"__annotation*
+
+%2*
+1*‚
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÒ Ò(%°
+­
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÒ Ò(8.
+%0(org.apache.tika.detect.CompositeDetector"¦org.apache.tika.config.TikaConfig#getDefaultDetector(Lorg/apache/tika/mime/MimeTypes;Lorg/apache/tika/config/ServiceLoader;)Lorg/apache/tika/detect/CompositeDetector;*%"#
+!org.apache.tika.config.TikaConfig*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes*0
+.
+loader$org.apache.tika.config.ServiceLoader"~
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÒ Ò(90
+.
+%0(org.apache.tika.detect.CompositeDetector:+
+	mimeTypesorg.apache.tika.mime.MimeTypes:.
+loader$org.apache.tika.config.ServiceLoaderB75
+3org.apache.tika.config.TikaConfig$DetectorXmlLoader

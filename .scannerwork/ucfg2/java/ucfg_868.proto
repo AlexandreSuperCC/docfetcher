@@ -1,0 +1,60 @@
+
++org.apache.tika.io.ProxyInputStream#read()IJ
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java8 8("9*¥
+3J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java= =("T
+J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java= =(
+""*©
+4J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java< <('ÒÏ
+J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java< <('
+
+%6void"1org.apache.tika.io.ProxyInputStream#afterRead(I)V*'%
+#org.apache.tika.io.ProxyInputStream*
+	
+%3int2afterRead(I)*
+3*Â
+5J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java<% <(&l
+j
+J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java<$ <(&	
+%3int"__id*
+	
+%5int*
+4*Â
+6J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java<  <(!l
+j
+J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java<  <(!	
+%3int"__id*
+	
+%4int*
+4*š
+8J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java; ;(¡
+ž
+J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java; ;(
+%1java.io.InputStream"__id*/*-%
+#org.apache.tika.io.ProxyInputStream"
+inœ™
+J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java; ;(	
+%2int"java.io.InputStream#read()I*
+
+%1java.io.InputStream2read()*
+5
+6*¤
+9J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java: :(ÍÊ
+J
+@D:/git_project/code/src/org/apache/tika/io/ProxyInputStream.java: :(
+
+%0void"2org.apache.tika.io.ProxyInputStream#beforeRead(I)V*'%
+#org.apache.tika.io.ProxyInputStream*22beforeRead(I)*
+8B'%
+#org.apache.tika.io.ProxyInputStream

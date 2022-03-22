@@ -1,0 +1,59 @@
+
+Äorg.apache.tika.language.detect.LanguageNames#makeName(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java! !("1*ÿ
+1T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java" "(&ìê
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java" "($
+%0java.util.Locale$Builder"java.util.Locale$Builder•
+¢
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java" "(&
+%1""java.util.Locale$Builder#<init>()V* 
+
+%0java.util.Locale$Builder∞≠
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java" "(<
+%2java.util.Locale$Builder"Rjava.util.Locale$Builder#setLanguage(Ljava/lang/String;)Ljava/util/Locale$Builder;* 
+
+%0java.util.Locale$Builder*
+
+languagejava.lang.String2setLanguage(Ljava/lang/String;)™ß
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java" "(N
+%3java.util.Locale$Builder"Pjava.util.Locale$Builder#setScript(Ljava/lang/String;)Ljava/util/Locale$Builder;* 
+
+%2java.util.Locale$Builder*
+
+scriptjava.lang.String2setScript(Ljava/lang/String;)™ß
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java" "(`
+%4java.util.Locale$Builder"Pjava.util.Locale$Builder#setRegion(Ljava/lang/String;)Ljava/util/Locale$Builder;* 
+
+%3java.util.Locale$Builder*
+
+regionjava.lang.String2setRegion(Ljava/lang/String;)–Õ
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java" "(h
+%5java.util.Locale"2java.util.Locale$Builder#build()Ljava/util/Locale;* 
+
+%4java.util.Locale$Builder2build()ï
+í
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java" "(i
+localejava.util.Locale"__id*
+
+%5java.util.Locale‘—
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java#	 #(
+%6java.lang.String"2java.util.Locale#toLanguageTag()Ljava/lang/String;*
+
+localejava.util.Locale2toLanguageTag()"p
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java# #( 
+
+%6java.lang.String:
+languagejava.lang.String:
+scriptjava.lang.String:
+regionjava.lang.StringB1"/
+-org.apache.tika.language.detect.LanguageNames

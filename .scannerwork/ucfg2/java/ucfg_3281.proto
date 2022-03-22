@@ -1,0 +1,228 @@
+
+?net.sourceforge.docfetcher.model.FolderTest#testFindDocument()VR
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java ("6"7"0*¸
+2R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java& &(0™
+–
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java& &(0
+wrongPrefixjava.lang.String"__id*
+
+%16java.lang.String°
+­
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java' '(3
+%19java.lang.String"__concat*!
+
+wrongPrefixjava.lang.String*
+one/two/three—
+”
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java' '(4
+	wrongPathjava.lang.String"__id*
+
+%19java.lang.String¬©
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java(" ((&,
+%20%net.sourceforge.docfetcher.model.Path"%net.sourceforge.docfetcher.model.Pathò
+ï
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java( ((1
+%21"Anet.sourceforge.docfetcher.model.Path#<init>(Ljava/lang/String;)V*.
+,
+%20%net.sourceforge.docfetcher.model.Path*
+
+	wrongPathjava.lang.String»¸
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java( ((20
+%22)net.sourceforge.docfetcher.model.TreeNode"ˆnet.sourceforge.docfetcher.model.Folder#findTreeNode(Lnet/sourceforge/docfetcher/model/Path;)Lnet/sourceforge/docfetcher/model/TreeNode;*>
+<
+f16net.sourceforge.docfetcher.model.index.file.FileFolder*.
+,
+%20%net.sourceforge.docfetcher.model.Path25findTreeNode(Lnet/sourceforge/docfetcher/model/Path;)¬
+©
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java*' *(@
+%23java.lang.String"__concat*
+
+prefixjava.lang.String*
+does/not/exist¬©
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java*" *(&,
+%24%net.sourceforge.docfetcher.model.Path"%net.sourceforge.docfetcher.model.Pathì
+é
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java* *(A
+%25"Anet.sourceforge.docfetcher.model.Path#<init>(Ljava/lang/String;)V*.
+,
+%24%net.sourceforge.docfetcher.model.Path*
+
+%23java.lang.String»¸
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java* *(B0
+%26)net.sourceforge.docfetcher.model.TreeNode"ˆnet.sourceforge.docfetcher.model.Folder#findTreeNode(Lnet/sourceforge/docfetcher/model/Path;)Lnet/sourceforge/docfetcher/model/TreeNode;*>
+<
+f16net.sourceforge.docfetcher.model.index.file.FileFolder*.
+,
+%24%net.sourceforge.docfetcher.model.Path25findTreeNode(Lnet/sourceforge/docfetcher/model/Path;)*	
+6
+7
+0*ð
+3R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java&, &(/‘
+Ž
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java&, &(/
+%16java.lang.String"__id*
+
+%18java.lang.String*
+2*ð
+4R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java&' &()‘
+Ž
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java&' &()
+%16java.lang.String"__id*
+
+%17java.lang.String*
+2*Ø"
+5R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java (+“
+
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java (+
+prefixjava.lang.String"__id*
+
+%0java.lang.String 
+
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java+ (9
+%3java.lang.String"__concat*
+
+prefixjava.lang.String*
+one«¨
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java& (*+
+%4%net.sourceforge.docfetcher.model.Path"%net.sourceforge.docfetcher.model.Pathé
+æ
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java" (:
+%5"Anet.sourceforge.docfetcher.model.Path#<init>(Ljava/lang/String;)V*-
++
+%4%net.sourceforge.docfetcher.model.Path*
+
+%3java.lang.StringÍÊ
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java (!<
+%66net.sourceforge.docfetcher.model.index.file.FileFolder"6net.sourceforge.docfetcher.model.index.file.FileFolderÍ
+Ê
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java (A
+%7"wnet.sourceforge.docfetcher.model.index.file.FileFolder#<init>(Lnet/sourceforge/docfetcher/model/Path;Ljava/lang/Long;)V*>
+<
+%66net.sourceforge.docfetcher.model.index.file.FileFolder*-
++
+%4%net.sourceforge.docfetcher.model.Path*
+""Û
+Ø
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java (B<
+f16net.sourceforge.docfetcher.model.index.file.FileFolder"__id*>
+<
+%66net.sourceforge.docfetcher.model.index.file.FileFolderÍÊ
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java   (!<
+%86net.sourceforge.docfetcher.model.index.file.FileFolder"6net.sourceforge.docfetcher.model.index.file.FileFolder‹
+ˆ
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java   (2
+%9"šnet.sourceforge.docfetcher.model.index.file.FileFolder#<init>(Lnet/sourceforge/docfetcher/model/index/file/FileFolder;Ljava/lang/String;Ljava/lang/Long;)V*>
+<
+%86net.sourceforge.docfetcher.model.index.file.FileFolder*>
+<
+f16net.sourceforge.docfetcher.model.index.file.FileFolder*
+two*
+""Û
+Ø
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java   (3<
+f26net.sourceforge.docfetcher.model.index.file.FileFolder"__id*>
+<
+%86net.sourceforge.docfetcher.model.index.file.FileFolderÒÏ
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java! !(&?
+%108net.sourceforge.docfetcher.model.index.file.FileDocument"8net.sourceforge.docfetcher.model.index.file.FileDocument„
+
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java! !(7
+%11"net.sourceforge.docfetcher.model.index.file.FileDocument#<init>(Lnet/sourceforge/docfetcher/model/index/file/FileFolder;Ljava/lang/String;J)V*A
+?
+%108net.sourceforge.docfetcher.model.index.file.FileDocument*>
+<
+f26net.sourceforge.docfetcher.model.index.file.FileFolder*	
+three*
+""á
+Þ
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java! !(8?
+doc8net.sourceforge.docfetcher.model.index.file.FileDocument"__id*A
+?
+%108net.sourceforge.docfetcher.model.index.file.FileDocument«
+¨
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java# #(/
+%12java.lang.String"__concat*
+
+prefixjava.lang.String*
+one/two/three˜
+•
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java# #(0
+
+targetPathjava.lang.String"__id*
+
+%12java.lang.String¬©
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java$) $(-,
+%13%net.sourceforge.docfetcher.model.Path"%net.sourceforge.docfetcher.model.Pathó
+ð
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java$% $(9
+%14"Anet.sourceforge.docfetcher.model.Path#<init>(Ljava/lang/String;)V*.
+,
+%13%net.sourceforge.docfetcher.model.Path* 
+
+
+targetPathjava.lang.String»¸
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java$ $(:0
+%15)net.sourceforge.docfetcher.model.TreeNode"ˆnet.sourceforge.docfetcher.model.Folder#findTreeNode(Lnet/sourceforge/docfetcher/model/Path;)Lnet/sourceforge/docfetcher/model/TreeNode;*>
+<
+f16net.sourceforge.docfetcher.model.index.file.FileFolder*.
+,
+%13%net.sourceforge.docfetcher.model.Path25findTreeNode(Lnet/sourceforge/docfetcher/model/Path;)*
+3
+4*î
+6R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java( (*
+Œ
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java( (*
+%0java.lang.String"__id*
+
+%2java.lang.String*
+5*î
+7R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java" (%
+Œ
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java" (%
+%0java.lang.String"__id*
+
+%1java.lang.String*
+5*p
+0 "i
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/FolderTest.java, ,(
+implicit returnB/-
++net.sourceforge.docfetcher.model.FolderTest

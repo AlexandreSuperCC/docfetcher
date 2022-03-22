@@ -1,0 +1,46 @@
+
+Zorg.apache.tika.io.TikaInputStream#get(Ljava/io/File;)Lorg/apache/tika/io/TikaInputStream;K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaô" ô(%"startingBlock*õ
+startingBlockK
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaô% ô(0”
+‘
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaó ó(
+%3"
+__annotate*
+java.lang.Deprecated*
+
+filejava.io.File{
+y
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaô+ ô(/
+filejava.io.File"__annotation*
+
+%3*
+1*‚
+1K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaõ õ(œ™
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaõ õ(%'
+%0!org.apache.tika.metadata.Metadata"!org.apache.tika.metadata.Metadata®
+«
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaõ õ('
+%1"+org.apache.tika.metadata.Metadata#<init>()V*)
+'
+%0!org.apache.tika.metadata.Metadataä
+á
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaõ õ(((
+%2"org.apache.tika.io.TikaInputStream"}org.apache.tika.io.TikaInputStream#get(Ljava/io/File;Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/io/TikaInputStream;*&"$
+"org.apache.tika.io.TikaInputStream*
+
+filejava.io.File*)
+'
+%0!org.apache.tika.metadata.Metadata"y
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaõ õ()*
+(
+%2"org.apache.tika.io.TikaInputStream:
+filejava.io.FileB&"$
+"org.apache.tika.io.TikaInputStream

@@ -1,0 +1,16 @@
+
+^net.sourceforge.docfetcher.model.index.IndexingException#getIOException()Ljava/io/IOException;_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingException.java+ +(""1*µ
+1_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingException.java,	 ,(Î
+Ë
+_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingException.java,	 ,(
+%0java.io.IOException"__id*G*E:
+8net.sourceforge.docfetcher.model.index.IndexingException"
+cause"~
+_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingException.java, ,(
+
+%0java.io.IOExceptionB<:
+8net.sourceforge.docfetcher.model.index.IndexingException

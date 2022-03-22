@@ -1,0 +1,138 @@
+
+‘net.sourceforge.docfetcher.model.TreeIndex#update(Lnet/sourceforge/docfetcher/model/index/IndexingReporter;Lnet/sourceforge/docfetcher/model/Cancelable;)Lnet/sourceforge/docfetcher/model/TreeIndex$IndexingResult;S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaå å(#"startingBlock*«
+2S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaì
+ ì(ß
+§
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaì
+ ì(?
+%39net.sourceforge.docfetcher.model.TreeIndex$IndexingResult"__id*
+""ß
+§
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaì
+ ì(*?
+%49net.sourceforge.docfetcher.model.TreeIndex$IndexingResult"__id*
+"""ò
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaì ì(+A
+?
+%49net.sourceforge.docfetcher.model.TreeIndex$IndexingResult*–
+3S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaí í(ÌÍ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaí í(
+%2boolean"9net.sourceforge.docfetcher.model.Cancelable#isCanceled()Z*;
+9
+
+cancelable+net.sourceforge.docfetcher.model.Cancelable2isCanceled()*
+2
+1*É
+startingBlockS
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaå# ç(*Í
+Á
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaã ã(	
+%6"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*E
+C
+reporter7net.sourceforge.docfetcher.model.index.IndexingReporterÎ
+Ë
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaå% å(.
+%7"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*E
+C
+reporter7net.sourceforge.docfetcher.model.index.IndexingReporterª
+∏
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaå@ å(HC
+reporter7net.sourceforge.docfetcher.model.index.IndexingReporter"__annotation*
+
+%6*
+
+%7‡
+›
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaã ã(	
+%8"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*;
+9
+
+cancelable+net.sourceforge.docfetcher.model.Cancelable·
+ﬁ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaç
+ ç(
+%9"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*;
+9
+
+cancelable+net.sourceforge.docfetcher.model.Cancelable±
+Æ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaç ç()9
+
+cancelable+net.sourceforge.docfetcher.model.Cancelable"__annotation*
+
+%8*
+
+%9*	
+3
+4
+6* 
+4S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaë ë(ô
+ñ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaë ë()1
+%1+net.sourceforge.docfetcher.model.Cancelable"__id*
+""Œ
+À
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaë ë()9
+
+cancelable+net.sourceforge.docfetcher.model.Cancelable"__id*3
+1
+%1+net.sourceforge.docfetcher.model.Cancelable*
+3*Ô
+6S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaè è(•
+¢
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaè è(+=
+%07net.sourceforge.docfetcher.model.index.IndexingReporter"__id*
+""‰
+·
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaè è(+C
+reporter7net.sourceforge.docfetcher.model.index.IndexingReporter"__id*?
+=
+%07net.sourceforge.docfetcher.model.index.IndexingReporter*
+3
+4*é
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaî	 î(òï
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaî	 î('?
+%59net.sourceforge.docfetcher.model.TreeIndex$IndexingResult"÷net.sourceforge.docfetcher.model.TreeIndex#doUpdate(Lnet/sourceforge/docfetcher/model/index/IndexingReporter;Lnet/sourceforge/docfetcher/model/Cancelable;)Lnet/sourceforge/docfetcher/model/TreeIndex$IndexingResult;*.,
+*net.sourceforge.docfetcher.model.TreeIndex*E
+C
+reporter7net.sourceforge.docfetcher.model.index.IndexingReporter*;
+9
+
+cancelable+net.sourceforge.docfetcher.model.Cancelable2pdoUpdate(Lnet/sourceforge/docfetcher/model/index/IndexingReporter;Lnet/sourceforge/docfetcher/model/Cancelable;)"ò
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaî î((A
+?
+%59net.sourceforge.docfetcher.model.TreeIndex$IndexingResult:C
+reporter7net.sourceforge.docfetcher.model.index.IndexingReporter:9
+
+cancelable+net.sourceforge.docfetcher.model.CancelableB.,
+*net.sourceforge.docfetcher.model.TreeIndex

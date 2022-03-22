@@ -1,0 +1,70 @@
+
+rnet.sourceforge.docfetcher.model.index.IndexingError$ErrorType#getMessage(Ljava/lang/Throwable;)Ljava/lang/String;[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.java: :("startingBlock*¯
+2[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.java< <(Ó
+Ð
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.java< <(
+%1java.lang.String"__id*S*Q@
+>net.sourceforge.docfetcher.model.index.IndexingError$ErrorType"
+overrideMsg"w
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.java< <(
+
+%1java.lang.String*¾
+3[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.java; ;(Ó
+Ð
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.java; ;(
+%0java.lang.String"__id*S*Q@
+>net.sourceforge.docfetcher.model.index.IndexingError$ErrorType"
+overrideMsg*
+2
+1*¡
+startingBlock[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.java: :(2Ç
+Ä
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.java9 9(
+
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+tjava.lang.ThrowableÈ
+Å
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.java: :(%
+%4"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+tjava.lang.Throwable˜
+•
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.java:0 :(1
+tjava.lang.Throwable"__annotation*
+
+%3*
+
+%4*
+3*ú
+1[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.java=
+ =(ž
+›
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.java=
+ =("
+%2java.lang.String"^net.sourceforge.docfetcher.util.Util#getLowestMessage(Ljava/lang/Throwable;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+tjava.lang.Throwable"w
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.java= =(#
+
+%2java.lang.String:
+tjava.lang.ThrowableBB@
+>net.sourceforge.docfetcher.model.index.IndexingError$ErrorType

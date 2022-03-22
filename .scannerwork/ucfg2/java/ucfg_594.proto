@@ -1,0 +1,394 @@
+
+¶net.sourceforge.docfetcher.model.parse.OpenOfficeParser#parse(Ljava/io/File;Lnet/sourceforge/docfetcher/model/parse/ParseContext;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javaW W(""startingBlock*ì
+24^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javaq q(›
+˜
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javaq" q(U(
+%23!org.apache.tika.metadata.Property"__id*
+""áÞ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javaq q(V
+%24java.lang.String"\org.apache.tika.metadata.Metadata#get(Lorg/apache/tika/metadata/Property;)Ljava/lang/String;*/
+-
+metadata!org.apache.tika.metadata.Metadata**
+(
+%23!org.apache.tika.metadata.Property2(get(Lorg/apache/tika/metadata/Property;)*
+23*•
+25^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javam p(B¨¥
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javam p(B9
+%222net.sourceforge.docfetcher.model.parse.ParseResult"Šnet.sourceforge.docfetcher.model.parse.ParseResult#addMiscMetadata(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*;
+9
+%192net.sourceforge.docfetcher.model.parse.ParseResult*
+
+%21java.lang.String2#addMiscMetadata(Ljava/lang/String;)*
+24*ì
+26^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javap p(›
+˜
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javap" p(@(
+%20!org.apache.tika.metadata.Property"__id*
+""áÞ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javap p(A
+%21java.lang.String"\org.apache.tika.metadata.Metadata#get(Lorg/apache/tika/metadata/Property;)Ljava/lang/String;*/
+-
+metadata!org.apache.tika.metadata.Metadata**
+(
+%20!org.apache.tika.metadata.Property2(get(Lorg/apache/tika/metadata/Property;)*
+25*‰
+27^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javam o(8œ™
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javam o(89
+%192net.sourceforge.docfetcher.model.parse.ParseResult"„net.sourceforge.docfetcher.model.parse.ParseResult#addAuthor(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*;
+9
+%162net.sourceforge.docfetcher.model.parse.ParseResult*
+
+%18java.lang.String2addAuthor(Ljava/lang/String;)*
+26*ì
+28^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javao o(›
+˜
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javao o(6(
+%17!org.apache.tika.metadata.Property"__id*
+""áÞ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javao o(7
+%18java.lang.String"\org.apache.tika.metadata.Metadata#get(Lorg/apache/tika/metadata/Property;)Ljava/lang/String;*/
+-
+metadata!org.apache.tika.metadata.Metadata**
+(
+%17!org.apache.tika.metadata.Property2(get(Lorg/apache/tika/metadata/Property;)*
+27*‡
+29^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javam n(5š—
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javam n(59
+%162net.sourceforge.docfetcher.model.parse.ParseResult"ƒnet.sourceforge.docfetcher.model.parse.ParseResult#setTitle(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*;
+9
+%122net.sourceforge.docfetcher.model.parse.ParseResult*
+
+%15java.lang.String2setTitle(Ljava/lang/String;)*
+28*ì
+30^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javan n(›
+˜
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javan n(3(
+%14!org.apache.tika.metadata.Property"__id*
+""áÞ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javan n(4
+%15java.lang.String"\org.apache.tika.metadata.Metadata#get(Lorg/apache/tika/metadata/Property;)Ljava/lang/String;*/
+-
+metadata!org.apache.tika.metadata.Metadata**
+(
+%14!org.apache.tika.metadata.Property2(get(Lorg/apache/tika/metadata/Property;)*
+29*Ú
+31^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javam m(BÒÏ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javam m('9
+%122net.sourceforge.docfetcher.model.parse.ParseResult"2net.sourceforge.docfetcher.model.parse.ParseResult˜
+•
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javam m(B
+%13"Tnet.sourceforge.docfetcher.model.parse.ParseResult#<init>(Ljava/lang/CharSequence;)V*;
+9
+%122net.sourceforge.docfetcher.model.parse.ParseResult*
+
+%11java.lang.String*
+30*û
+32^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javam( m(6Ž‹
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javam( m(A
+%11java.lang.String"Horg.apache.tika.sax.ContentHandlerDecorator#toString()Ljava/lang/String;*:
+8
+contentHandler&org.apache.tika.sax.BodyContentHandler2
+toString()*
+31*—
+33^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javal l(Mª§
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javal l(M
+%10void"¯org.apache.tika.parser.odf.OpenDocumentParser#parse(Ljava/io/InputStream;Lorg/xml/sax/ContentHandler;Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/parser/ParseContext;)V*=
+;
+
+tikaParser-org.apache.tika.parser.odf.OpenDocumentParser**
+(
+in"org.apache.tika.io.TikaInputStream*:
+8
+contentHandler&org.apache.tika.sax.BodyContentHandler*/
+-
+metadata!org.apache.tika.metadata.Metadata*+
+)
+%9#org.apache.tika.parser.ParseContext2€parse(Ljava/io/InputStream;Lorg/xml/sax/ContentHandler;Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/parser/ParseContext;)*
+32*Þ
+34^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javak k(6¿
+¼
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javak k(6(
+in"org.apache.tika.io.TikaInputStream"__id**
+(
+%8"org.apache.tika.io.TikaInputStream¯
+¬
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javal2 l(L)
+%9#org.apache.tika.parser.ParseContext"fnet.sourceforge.docfetcher.model.parse.ParseService#tikaContext()Lorg/apache/tika/parser/ParseContext;*7"5
+3net.sourceforge.docfetcher.model.parse.ParseService*
+33* 
+35^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javak k(6³
+°
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javak k(6(
+%8"org.apache.tika.io.TikaInputStream"`org.apache.tika.io.TikaInputStream#get(Ljava/nio/file/Path;)Lorg/apache/tika/io/TikaInputStream;*&"$
+"org.apache.tika.io.TikaInputStream*
+
+%7java.nio.file.Path*
+34*‡
+13^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javax
+ x(" 
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javax x(>
+<
+result2net.sourceforge.docfetcher.model.parse.ParseResult*ñ
+36^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javak k(5„
+
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javak k(5
+%7java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*"
+java.nio.file.Paths*
+
+%6java.lang.String*
+35*­
+14^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javas s(‹
+ˆ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javas s(
+namejava.lang.String"__id*
+""®
+«
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javas s(
+namejava.lang.String"
+__arrayGet*
+
+%29java.lang.String[]*
+""*
+13
+18*µ
+37^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javak k(ÈÅ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javak& k(4
+%6java.lang.String"(java.io.File#getPath()Ljava/lang/String;*
+
+filejava.io.File2	getPath()*
+36*˜
+15^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javau u(/«¨
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javau u(/9
+%322net.sourceforge.docfetcher.model.parse.ParseResult"Šnet.sourceforge.docfetcher.model.parse.ParseResult#addMiscMetadata(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*>
+<
+result2net.sourceforge.docfetcher.model.parse.ParseResult*
+
+%31java.lang.String2#addMiscMetadata(Ljava/lang/String;)*
+14*³
+38^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javaZ" Z(:ÇÄ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javaZ& Z(83
+%0-org.apache.tika.parser.odf.OpenDocumentParser"-org.apache.tika.parser.odf.OpenDocumentParserÙ
+Ö
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javaZ" Z(:
+%1"7org.apache.tika.parser.odf.OpenDocumentParser#<init>()V*5
+3
+%0-org.apache.tika.parser.odf.OpenDocumentParserÝ
+Ú
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javaZ Z(;;
+
+tikaParser-org.apache.tika.parser.odf.OpenDocumentParser"__id*5
+3
+%0-org.apache.tika.parser.odf.OpenDocumentParser¹¶
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.java[* [(<,
+%2&org.apache.tika.sax.BodyContentHandler"&org.apache.tika.sax.BodyContentHandlerÔ
+Ñ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.java[& [(@
+%3"1org.apache.tika.sax.BodyContentHandler#<init>(I)V*.
+,
+%2&org.apache.tika.sax.BodyContentHandler*
+""Ó
+Ð
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.java[ [(A8
+contentHandler&org.apache.tika.sax.BodyContentHandler"__id*.
+,
+%2&org.apache.tika.sax.BodyContentHandler¯¬
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.java\ \("'
+%4!org.apache.tika.metadata.Metadata"!org.apache.tika.metadata.MetadataÁ
+¾
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.java\ \($
+%5"+org.apache.tika.metadata.Metadata#<init>()V*)
+'
+%4!org.apache.tika.metadata.MetadataÃ
+À
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.java\ \(%-
+metadata!org.apache.tika.metadata.Metadata"__id*)
+'
+%4!org.apache.tika.metadata.Metadata›
+˜
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.java] ]((
+in"org.apache.tika.io.TikaInputStream"__id*
+""*
+37*œ
+16^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javau u(¯¬
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javau u(.
+%31java.lang.String"Korg.apache.tika.metadata.Metadata#get(Ljava/lang/String;)Ljava/lang/String;*/
+-
+metadata!org.apache.tika.metadata.Metadata*
+
+namejava.lang.String2get(Ljava/lang/String;)*
+15*ß
+18^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javat t(îë
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javat t("
+%30boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+namejava.lang.String*	
+custom:2startsWith(Ljava/lang/String;)*
+14
+16*ã
+19^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javas s(öó
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javas s(&
+%29java.lang.String[]"<org.apache.tika.metadata.Metadata#names()[Ljava/lang/String;*/
+-
+metadata!org.apache.tika.metadata.Metadata2names()*
+14*‘
+
+startingBlock^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javaW" X((¦
+£
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javaV V(
+
+%44"
+__annotate*
+java.lang.Override*
+
+filejava.io.FileÇ
+Ä
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javaW$ W(,
+%45"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.File™
+–
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javaW2 W(6
+filejava.io.File"__annotation*
+
+%44*
+
+%45Ð
+Í
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javaV V(
+
+%46"
+__annotate*
+java.lang.Override*@
+>
+context3net.sourceforge.docfetcher.model.parse.ParseContextñ
+î
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javaX
+ X(
+%47"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*@
+>
+context3net.sourceforge.docfetcher.model.parse.ParseContextÃ
+À
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javaX  X('>
+context3net.sourceforge.docfetcher.model.parse.ParseContext"__annotation*
+
+%46*
+
+%47*
+38*Ñ
+20^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javam r(@ä
+á
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javam r(@<
+result2net.sourceforge.docfetcher.model.parse.ParseResult"__id*;
+9
+%282net.sourceforge.docfetcher.model.parse.ParseResult*
+19*•
+21^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javam r(?¨¥
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javam r(?9
+%282net.sourceforge.docfetcher.model.parse.ParseResult"Šnet.sourceforge.docfetcher.model.parse.ParseResult#addMiscMetadata(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*;
+9
+%252net.sourceforge.docfetcher.model.parse.ParseResult*
+
+%27java.lang.String2#addMiscMetadata(Ljava/lang/String;)*
+20*ì
+22^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javar r(›
+˜
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javar" r(=(
+%26!org.apache.tika.metadata.Property"__id*
+""áÞ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javar r(>
+%27java.lang.String"\org.apache.tika.metadata.Metadata#get(Lorg/apache/tika/metadata/Property;)Ljava/lang/String;*/
+-
+metadata!org.apache.tika.metadata.Metadata**
+(
+%26!org.apache.tika.metadata.Property2(get(Lorg/apache/tika/metadata/Property;)*
+21*•
+23^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javam q(W¨¥
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/OpenOfficeParser.javam q(W9
+%252net.sourceforge.docfetcher.model.parse.ParseResult"Šnet.sourceforge.docfetcher.model.parse.ParseResult#addMiscMetadata(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*;
+9
+%222net.sourceforge.docfetcher.model.parse.ParseResult*
+
+%24java.lang.String2#addMiscMetadata(Ljava/lang/String;)*
+22:
+filejava.io.File:>
+context3net.sourceforge.docfetcher.model.parse.ParseContextB;9
+7net.sourceforge.docfetcher.model.parse.OpenOfficeParser

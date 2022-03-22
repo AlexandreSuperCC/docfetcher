@@ -1,0 +1,46 @@
+
+Porg.apache.tika.detect.AutoDetectReader#asInputSource()Lorg/xml/sax/InputSource;N
+DD:/git_project/code/src/org/apache/tika/detect/AutoDetectReader.java{ {($"1*“
+
+1N
+DD:/git_project/code/src/org/apache/tika/detect/AutoDetectReader.java|- |(1ãà
+N
+DD:/git_project/code/src/org/apache/tika/detect/AutoDetectReader.java|! |(,
+%0org.xml.sax.InputSource"org.xml.sax.InputSource⁄
+◊
+N
+DD:/git_project/code/src/org/apache/tika/detect/AutoDetectReader.java| |(2
+%1"1org.xml.sax.InputSource#<init>(Ljava/io/Reader;)V*
+
+%0org.xml.sax.InputSource*+)
+'org.apache.tika.detect.AutoDetectReaderù
+ö
+N
+DD:/git_project/code/src/org/apache/tika/detect/AutoDetectReader.java| |(3!
+sourceorg.xml.sax.InputSource"__id*
+
+%0org.xml.sax.InputSource≥
+∞
+N
+DD:/git_project/code/src/org/apache/tika/detect/AutoDetectReader.java} }("
+%2java.nio.charset.Charset"__id*8*6)
+'org.apache.tika.detect.AutoDetectReader"	
+charset»≈
+N
+DD:/git_project/code/src/org/apache/tika/detect/AutoDetectReader.java} }()
+%3java.lang.String"1java.nio.charset.Charset#name()Ljava/lang/String;* 
+
+%2java.nio.charset.Charset2name()˘ˆ
+N
+DD:/git_project/code/src/org/apache/tika/detect/AutoDetectReader.java} }(*
+
+%4void"8org.xml.sax.InputSource#setEncoding(Ljava/lang/String;)V*#
+!
+sourceorg.xml.sax.InputSource*
+
+%3java.lang.String2setEncoding(Ljava/lang/String;)"u
+N
+DD:/git_project/code/src/org/apache/tika/detect/AutoDetectReader.java~ ~(#
+!
+sourceorg.xml.sax.InputSourceB+)
+'org.apache.tika.detect.AutoDetectReader

@@ -1,0 +1,33 @@
+
+Sorg.apache.tika.config.TikaConfig$DetectorXmlLoader#isComposite(Ljava/lang/Class;)ZJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÍ Í("startingBlock*†
+startingBlockJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÍ Í(B›
+˜
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÌ Ì(
+%1"
+__annotate*
+java.lang.Override* 
+
+loadedClassjava.lang.Class…
+‚
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÍ6 Í(A
+loadedClassjava.lang.Class"__annotation*
+
+%1*
+1*‹
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÎ Î(*ãà
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÎ Î(H
+%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+""* 
+
+loadedClassjava.lang.Class2#isAssignableFrom(Ljava/lang/Class;)"T
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÎ Î(I
+"":
+loadedClassjava.lang.ClassB75
+3org.apache.tika.config.TikaConfig$DetectorXmlLoader

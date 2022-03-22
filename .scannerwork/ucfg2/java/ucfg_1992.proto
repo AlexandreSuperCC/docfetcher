@@ -1,0 +1,847 @@
+
+Korg.apache.tika.language.LanguageProfilerBuilder#main([Ljava/lang/String;)VY
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¡ ¡("44*∏
+
+25Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˛ ˛(à
+Ö
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˛ ˛(
+%35java.io.PrintStream"__id*
+""∂
+≥
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˛# ˛(?
+%36java.lang.String"__concat*
+new profile *!
+
+profilenamejava.lang.String£
+†
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˛# ˛(E
+%37java.lang.String"__concat*
+
+%36java.lang.String*
+.Ö
+Ç
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaˇ ˇ((
+%38java.lang.String"__id*
+""∑
+¥
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˛# ˇ((
+%39java.lang.String"__concat*
+
+%37java.lang.String*
+
+%38java.lang.StringØ
+¨
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˛# ˇ(:
+%40java.lang.String"__concat*
+
+%39java.lang.String*
+ was created.Û
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˛ ˇ(;
+%41void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%35java.io.PrintStream*
+
+%40java.lang.String2println(Ljava/lang/String;)*
+0*—
+26Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¸ ¸(?®
+•
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¸ ¸(?
+fosjava.io.FileOutputStream"__id*!
+
+%32java.io.FileOutputStreamæª
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˝ ˝($
+%34void"Norg.apache.tika.language.LanguageProfilerBuilder#save(Ljava/io/OutputStream;)V*@
+>
+
+newProfile0org.apache.tika.language.LanguageProfilerBuilder*!
+
+fosjava.io.FileOutputStream2save(Ljava/io/OutputStream;)*
+25*‰
+27Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˚ ˚(@é
+ã
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˚ ˚(@
+fjava.io.File"__id*
+
+%30java.io.Fileôñ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¸+ ¸(;
+%32java.io.FileOutputStream"java.io.FileOutputStreamœ
+Ã
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¸' ¸(>
+%33"0java.io.FileOutputStream#<init>(Ljava/io/File;)V*!
+
+%32java.io.FileOutputStream*
+
+fjava.io.File*
+26*ú
+28Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˚ ˚((´
+®
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˚ ˚(.
+%27java.lang.String"__concat*!
+
+profilenamejava.lang.String*
+.Ö
+Ç
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˚1 ˚(?
+%28java.lang.String"__id*
+""∑
+¥
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˚ ˚(?
+%29java.lang.String"__concat*
+
+%27java.lang.String*
+
+%28java.lang.StringÄ~
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˚ ˚(
+%30java.io.File"java.io.File¡
+æ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˚ ˚(@
+%31"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%30java.io.File*
+
+%29java.lang.String*
+27*Ç
+29Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¯ ˘(<ﬂ
+‹
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¯ ˘(<>
+
+newProfile0org.apache.tika.language.LanguageProfilerBuilder"__id*9
+7
+%250org.apache.tika.language.LanguageProfilerBuilder∏µ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˙ ˙(
+%26void" java.io.FileInputStream#close()V* 
+
+fisjava.io.FileInputStream2close()*
+28*Í
+30Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˜ ˜(=¶
+£
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˜ ˜(=
+fisjava.io.FileInputStream"__id* 
+
+%23java.io.FileInputStreamŸ
+÷
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¯5 ˘(;7
+%250org.apache.tika.language.LanguageProfilerBuilder"§org.apache.tika.language.LanguageProfilerBuilder#create(Ljava/lang/String;Ljava/io/InputStream;Ljava/lang/String;)Lorg/apache/tika/language/LanguageProfilerBuilder;*4"2
+0org.apache.tika.language.LanguageProfilerBuilder*!
+
+profilenamejava.lang.String* 
+
+fisjava.io.FileInputStream*
+
+encodingjava.lang.String*
+29*‡
+31Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaˆ ˆ(,é
+ã
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaˆ ˆ(,
+fjava.io.File"__id*
+
+%21java.io.Fileóî
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˜* ˜(9
+%23java.io.FileInputStream"java.io.FileInputStreamÕ
+ 
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˜& ˜(<
+%24"/java.io.FileInputStream#<init>(Ljava/io/File;)V* 
+
+%23java.io.FileInputStream*
+
+fjava.io.File*
+30*±
+32Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÙ Ä(Ä~
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaˆ ˆ(!
+%21java.io.File"java.io.File∆
+√
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaˆ ˆ(+
+%22"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%21java.io.File*
+
+filenamejava.lang.String*
+31*Ê
+10Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaï ï(,¶
+£
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaï ï(,
+fisjava.io.FileInputStream"__id* 
+
+%60java.io.FileInputStream÷
+”
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javañ ó(!7
+%620org.apache.tika.language.LanguageProfilerBuilder"§org.apache.tika.language.LanguageProfilerBuilder#create(Ljava/lang/String;Ljava/io/InputStream;Ljava/lang/String;)Lorg/apache/tika/language/LanguageProfilerBuilder;*4"2
+0org.apache.tika.language.LanguageProfilerBuilder*
+
+filenamejava.lang.String* 
+
+fisjava.io.FileInputStream*
+
+encodingjava.lang.String*
+9*‡
+11Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaî î(&é
+ã
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaî î(&
+fjava.io.File"__id*
+
+%58java.io.Fileóî
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaï ï()
+%60java.io.FileInputStream"java.io.FileInputStreamÕ
+ 
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaï ï(,
+%61"/java.io.FileInputStream#<init>(Ljava/io/File;)V* 
+
+%60java.io.FileInputStream*
+
+fjava.io.File*
+10*±
+12Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaì °(Ä~
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaî î(
+%58java.io.File"java.io.File∆
+√
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaî î(&
+%59"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%58java.io.File*
+
+filenamejava.lang.String*
+11*€
+35Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÈ È(©
+¶
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÍ Í('
+%18java.lang.String"
+__arrayGet*
+
+argsjava.lang.String[]*
+""†
+ù
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÍ Í('
+profilenamejava.lang.String"__id*
+
+%18java.lang.String©
+¶
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÎ Î($
+%19java.lang.String"
+__arrayGet*
+
+argsjava.lang.String[]*
+""ù
+ö
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÎ Î($
+filenamejava.lang.String"__id*
+
+%19java.lang.String©
+¶
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÏ Ï($
+%20java.lang.String"
+__arrayGet*
+
+argsjava.lang.String[]*
+""ù
+ö
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÏ Ï($
+encodingjava.lang.String"__id*
+
+%20java.lang.String*
+40
+32
+0
+12
+23*Ü
+36Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaË Ë(©
+¶
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaË Ë(
+%16java.lang.String"
+__arrayGet*
+
+argsjava.lang.String[]*
+""ﬂ‹
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaË Ë((
+%17boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%16java.lang.String*
+
+-score2equals(Ljava/lang/Object;)*
+35
+40
+32
+0
+12
+23*Ç
+14Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaè# ê(?•
+¢
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaè# ê(?
+%56java.lang.String"__concat*
+Similarity is *
+
+%55floatÛ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaè ê(@
+%57void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%54java.io.PrintStream*
+
+%56java.lang.String2println(Ljava/lang/String;)*
+0* 
+37Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java‚ ‚($©
+¶
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java„ „($
+%13java.lang.String"
+__arrayGet*
+
+argsjava.lang.String[]*
+""ù
+ö
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java„ „($
+filenamejava.lang.String"__id*
+
+%13java.lang.String©
+¶
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java‰ ‰(%
+%14java.lang.String"
+__arrayGet*
+
+argsjava.lang.String[]*
+""û
+õ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java‰ ‰(%
+	filename2java.lang.String"__id*
+
+%14java.lang.String©
+¶
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÂ Â($
+%15java.lang.String"
+__arrayGet*
+
+argsjava.lang.String[]*
+""ù
+ö
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÂ Â($
+encodingjava.lang.String"__id*
+
+%15java.lang.String*
+36*ú
+15Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaè è(à
+Ö
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaè è(
+%54java.io.PrintStream"__id*
+""©¶
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaê ê(?
+%55float"sorg.apache.tika.language.LanguageProfilerBuilder#getSimilarity(Lorg/apache/tika/language/LanguageProfilerBuilder;)F*@
+>
+
+newProfile0org.apache.tika.language.LanguageProfilerBuilder*A
+?
+newProfile20org.apache.tika.language.LanguageProfilerBuilder2AgetSimilarity(Lorg/apache/tika/language/LanguageProfilerBuilder;)*
+14*¸
+38Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java· ·(©
+¶
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java· ·(
+%11java.lang.String"
+__arrayGet*
+
+argsjava.lang.String[]*
+""‰·
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java· ·(-
+%12boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%11java.lang.String*
+-similarity2equals(Ljava/lang/Object;)*
+36
+37*≈
+16Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaå ç(:‡
+›
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaå ç(:?
+newProfile20org.apache.tika.language.LanguageProfilerBuilder"__id*9
+7
+%520org.apache.tika.language.LanguageProfilerBuilder˙˜
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaé é('
+%53void"=org.apache.tika.language.LanguageProfilerBuilder#normalize()V*A
+?
+newProfile20org.apache.tika.language.LanguageProfilerBuilder2normalize()*
+15*»
+39Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java€ €( ®
+•
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java‹ ‹('
+%8java.lang.String"
+__arrayGet*
+
+argsjava.lang.String[]*
+""ü
+ú
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java‹ ‹('
+profilenamejava.lang.String"__id*
+
+%8java.lang.String®
+•
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java› ›($
+%9java.lang.String"
+__arrayGet*
+
+argsjava.lang.String[]*
+""ú
+ô
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java› ›($
+filenamejava.lang.String"__id*
+
+%9java.lang.String©
+¶
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaﬁ ﬁ($
+%10java.lang.String"
+__arrayGet*
+
+argsjava.lang.String[]*
+""ù
+ö
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaﬁ ﬁ($
+encodingjava.lang.String"__id*
+
+%10java.lang.String*
+38*Ë
+17Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaã ã(,¶
+£
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaã ã(,
+fisjava.io.FileInputStream"__id* 
+
+%50java.io.FileInputStream◊
+‘
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaå6 ç(97
+%520org.apache.tika.language.LanguageProfilerBuilder"§org.apache.tika.language.LanguageProfilerBuilder#create(Ljava/lang/String;Ljava/io/InputStream;Ljava/lang/String;)Lorg/apache/tika/language/LanguageProfilerBuilder;*4"2
+0org.apache.tika.language.LanguageProfilerBuilder*
+
+	filename2java.lang.String* 
+
+fisjava.io.FileInputStream*
+
+encodingjava.lang.String*
+16*‡
+18Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaä ä('é
+ã
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaä ä('
+fjava.io.File"__id*
+
+%48java.io.Fileóî
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaã ã()
+%50java.io.FileInputStream"java.io.FileInputStreamÕ
+ 
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaã ã(,
+%51"/java.io.FileInputStream#<init>(Ljava/io/File;)V* 
+
+%50java.io.FileInputStream*
+
+fjava.io.File*
+17*≤
+19Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaä ä(&Ä~
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaä ä(
+%48java.io.File"java.io.File«
+ƒ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaä ä('
+%49"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%48java.io.File*
+
+	filename2java.lang.String*
+18*w
+0 "p
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java© ©(
+implicit return*¸
+4Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaü# †(;†
+ù
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaü# †(;
+%77java.lang.String"__concat*
+	Score is *
+
+%76floatÛ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaü †(<
+%78void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%75java.io.PrintStream*
+
+%77java.lang.String2println(Ljava/lang/String;)*
+0*ñ
+5Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaü ü(à
+Ö
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaü ü(
+%75java.io.PrintStream"__id*
+""•¢
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java† †(;
+%76float"sorg.apache.tika.language.LanguageProfilerBuilder#getSimilarity(Lorg/apache/tika/language/LanguageProfilerBuilder;)F*=
+;
+compare0org.apache.tika.language.LanguageProfilerBuilder*@
+>
+
+newProfile0org.apache.tika.language.LanguageProfilerBuilder2AgetSimilarity(Lorg/apache/tika/language/LanguageProfilerBuilder;)*
+4*˝
+6Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaõ ù(2‹
+Ÿ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaõ ù(2;
+compare0org.apache.tika.language.LanguageProfilerBuilder"__id*9
+7
+%720org.apache.tika.language.LanguageProfilerBuilder∏µ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaû û(!
+%74void"Morg.apache.tika.language.LanguageProfilerBuilder#load(Ljava/io/InputStream;)V*=
+;
+compare0org.apache.tika.language.LanguageProfilerBuilder* 
+
+fisjava.io.FileInputStream2load(Ljava/io/InputStream;)*
+5*¸
+7Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaö ö(,¶
+£
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaö ö(,
+fisjava.io.FileInputStream"__id* 
+
+%68java.io.FileInputStreamw
+u
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaú% ú(=
+
+%70int"__id*
+""w
+u
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaù ù(0
+
+%71int"__id*
+""…∆
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaõ6 õ(M7
+%720org.apache.tika.language.LanguageProfilerBuilder"0org.apache.tika.language.LanguageProfilerBuilderØ
+¨
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaõ2 ù(1
+%73"Norg.apache.tika.language.LanguageProfilerBuilder#<init>(Ljava/lang/String;II)V*9
+7
+%720org.apache.tika.language.LanguageProfilerBuilder*!
+
+profilenamejava.lang.String*
+
+
+%70int*
+
+
+%71int*
+6*ﬁ
+8Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaô ô(@é
+ã
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaô ô(@
+fjava.io.File"__id*
+
+%66java.io.Fileóî
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaö ö()
+%68java.io.FileInputStream"java.io.FileInputStreamÕ
+ 
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaö ö(,
+%69"/java.io.FileInputStream#<init>(Ljava/io/File;)V* 
+
+%68java.io.FileInputStream*
+
+fjava.io.File*
+7*¸
+9Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javañ ó(!ﬂ
+‹
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javañ ó(!>
+
+newProfile0org.apache.tika.language.LanguageProfilerBuilder"__id*9
+7
+%620org.apache.tika.language.LanguageProfilerBuilder´
+®
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaô ô(.
+%63java.lang.String"__concat*!
+
+profilenamejava.lang.String*
+.Ö
+Ç
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaô1 ô(?
+%64java.lang.String"__id*
+""∑
+¥
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaô ô(?
+%65java.lang.String"__concat*
+
+%63java.lang.String*
+
+%64java.lang.StringÄ~
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaô ô(
+%66java.io.File"java.io.File¡
+æ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaô ô(@
+%67"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%66java.io.File*
+
+%65java.lang.String*
+8*ı
+40Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java⁄ ⁄(®
+•
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java⁄ ⁄(
+%6java.lang.String"
+__arrayGet*
+
+argsjava.lang.String[]*
+""ﬁ€
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java⁄ ⁄()
+%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%6java.lang.String*	
+-create2equals(Ljava/lang/Object;)*
+38
+39*√
+20Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÜ á(!ﬂ
+‹
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÜ á(!>
+
+newProfile0org.apache.tika.language.LanguageProfilerBuilder"__id*9
+7
+%460org.apache.tika.language.LanguageProfilerBuilder˘ˆ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaà à(&
+%47void"=org.apache.tika.language.LanguageProfilerBuilder#normalize()V*@
+>
+
+newProfile0org.apache.tika.language.LanguageProfilerBuilder2normalize()*
+19*ö
+43Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java’ ’(á
+Ñ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java’ ’(
+%3java.io.PrintStream"__id*
+""Û
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java’ ’(%
+
+%4void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%3java.io.PrintStream*
+
+usagejava.lang.String2println(Ljava/lang/String;)£
+†
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java÷ ÷(
+
+%5void"java.lang.System#exit(I)V*"
+java.lang.System*
+""*
+40
+32
+0
+12
+23*Á
+21Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÖ Ö(,¶
+£
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÖ Ö(,
+fisjava.io.FileInputStream"__id* 
+
+%44java.io.FileInputStream÷
+”
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÜ á(!7
+%460org.apache.tika.language.LanguageProfilerBuilder"§org.apache.tika.language.LanguageProfilerBuilder#create(Ljava/lang/String;Ljava/io/InputStream;Ljava/lang/String;)Lorg/apache/tika/language/LanguageProfilerBuilder;*4"2
+0org.apache.tika.language.LanguageProfilerBuilder*
+
+filenamejava.lang.String* 
+
+fisjava.io.FileInputStream*
+
+encodingjava.lang.String*
+20*é
+44Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java≈ ≈(-»
+≈
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java≈ ∆(<
+%0java.lang.String"__concat*
+Usage: NGramProfile *,*
+([-create profilename filename encoding] ∫
+∑
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java≈ «(.
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+[-similarity file1 file2] «
+ƒ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java≈ »(;
+%2java.lang.String"__concat*
+
+%1java.lang.String*+)
+'[-score profile-name filename encoding]ô
+ñ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java≈ »(<
+usagejava.lang.String"__id*
+
+%2java.lang.Stringâ
+Ü
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaœ œ( 
+profilenamejava.lang.String"__id* Ü
+É
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java– –(
+filenamejava.lang.String"__id* á
+Ñ
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java— —(
+	filename2java.lang.String"__id* Ü
+É
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java“ “(
+encodingjava.lang.String"__id* *
+40
+43
+32
+0
+12
+23*‡
+22Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÑ Ñ(&é
+ã
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÑ Ñ(&
+fjava.io.File"__id*
+
+%42java.io.Fileóî
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÖ Ö()
+%44java.io.FileInputStream"java.io.FileInputStreamÕ
+ 
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÖ Ö(,
+%45"/java.io.FileInputStream#<init>(Ljava/io/File;)V* 
+
+%44java.io.FileInputStream*
+
+fjava.io.File*
+21*±
+23Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÇ ë(Ä~
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÑ Ñ(
+%42java.io.File"java.io.File∆
+√
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÑ Ñ(&
+%43"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%42java.io.File*
+
+filenamejava.lang.String*
+22:
+argsjava.lang.String[]B4"2
+0org.apache.tika.language.LanguageProfilerBuilder

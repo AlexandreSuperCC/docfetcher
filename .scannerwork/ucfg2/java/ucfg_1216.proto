@@ -1,0 +1,46 @@
+
+9org.apache.tika.io.IOUtils#toString([B)Ljava/lang/String;C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaç ç(!"startingBlock*”
+startingBlockC
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaç! ç(/á
+Ñ
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaå å(
+%3"
+__annotate*
+java.lang.Deprecated*
+
+inputbyte[]n
+l
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaç) ç(.
+inputbyte[]"__annotation*
+
+%3*
+1*Î
+1C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaé é(u
+s
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaé! é(&
+%0java.nio.charset.Charset"__id*
+""qo
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaé é(
+%1java.lang.String"java.lang.String’
+“
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaé é('
+%2"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
+
+%1java.lang.String*
+
+inputbyte[]* 
+
+%0java.nio.charset.Charset"_
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaé é((
+
+%1java.lang.String:
+inputbyte[]B"
+org.apache.tika.io.IOUtils

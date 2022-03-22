@@ -1,0 +1,65 @@
+
+dorg.apache.tika.Tika#parse(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)Ljava/io/Reader;=
+1D:/git_project/code/src/org/apache/tika/Tika.javaó ó("1*‘
+1=
+1D:/git_project/code/src/org/apache/tika/Tika.javaô ô(1íè
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaô# ô(/)
+%0#org.apache.tika.parser.ParseContext"#org.apache.tika.parser.ParseContext§
+°
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaô ô(1
+%1"-org.apache.tika.parser.ParseContext#<init>()V*+
+)
+%0#org.apache.tika.parser.ParseContext•
+¢
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaô ô(2.
+context#org.apache.tika.parser.ParseContext"__id*+
+)
+%0#org.apache.tika.parser.ParseContextì
+ê
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaö" ö((#
+%2org.apache.tika.parser.Parser"__id*$*"
+org.apache.tika.Tika"
+parser®•
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaö ö()
+
+%3void"Morg.apache.tika.parser.ParseContext#set(Ljava/lang/Class;Ljava/lang/Object;)V*0
+.
+context#org.apache.tika.parser.ParseContext*
+""*%
+#
+%2org.apache.tika.parser.Parser2(set(Ljava/lang/Class;Ljava/lang/Object;)ì
+ê
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaõ! õ('#
+%4org.apache.tika.parser.Parser"__id*$*"
+org.apache.tika.Tika"
+parserîë
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaõ õ( *
+%5$org.apache.tika.parser.ParsingReader"$org.apache.tika.parser.ParsingReaderŒ
+À
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaõ õ(C
+%6"™org.apache.tika.parser.ParsingReader#<init>(Lorg/apache/tika/parser/Parser;Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/parser/ParseContext;)V*,
+*
+%5$org.apache.tika.parser.ParsingReader*%
+#
+%4org.apache.tika.parser.Parser*
+
+streamjava.io.InputStream*/
+-
+metadata!org.apache.tika.metadata.Metadata*0
+.
+context#org.apache.tika.parser.ParseContext"m
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaõ õ(D,
+*
+%5$org.apache.tika.parser.ParsingReader:
+streamjava.io.InputStream:-
+metadata!org.apache.tika.metadata.MetadataB
+org.apache.tika.Tika

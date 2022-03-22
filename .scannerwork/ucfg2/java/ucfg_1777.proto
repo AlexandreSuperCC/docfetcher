@@ -1,0 +1,60 @@
+
+|net.sourceforge.docfetcher.man.Manual$PageProperties#getPair(Ljava/lang/String;)Lnet/sourceforge/docfetcher/man/Manual$Pair;N
+BD:/git_project/code/src/net/sourceforge/docfetcher/man/Manual.javaá á("startingBlock*é
+startingBlockN
+BD:/git_project/code/src/net/sourceforge/docfetcher/man/Manual.javaá á(+¹
+¶
+N
+BD:/git_project/code/src/net/sourceforge/docfetcher/man/Manual.javaà à(
+
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+keyjava.lang.String¹
+¶
+N
+BD:/git_project/code/src/net/sourceforge/docfetcher/man/Manual.javaá á(
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+keyjava.lang.StringŠ
+‡
+N
+BD:/git_project/code/src/net/sourceforge/docfetcher/man/Manual.javaá' á(*
+keyjava.lang.String"__annotation*
+
+%3*
+
+%4*
+1*Õ
+1N
+BD:/git_project/code/src/net/sourceforge/docfetcher/man/Manual.javaâ â(¥
+¢
+N
+BD:/git_project/code/src/net/sourceforge/docfetcher/man/Manual.javaâ â(%
+%0java.lang.String"cnet.sourceforge.docfetcher.man.Manual$PageProperties#getValue(Ljava/lang/String;)Ljava/lang/String;*86
+4net.sourceforge.docfetcher.man.Manual$PageProperties*
+
+keyjava.lang.String±®
+N
+BD:/git_project/code/src/net/sourceforge/docfetcher/man/Manual.javaâ â(0
+%1*net.sourceforge.docfetcher.man.Manual$Pair"*net.sourceforge.docfetcher.man.Manual$Pairœ
+™
+N
+BD:/git_project/code/src/net/sourceforge/docfetcher/man/Manual.javaâ
+ â(&
+%2"Xnet.sourceforge.docfetcher.man.Manual$Pair#<init>(Ljava/lang/String;Ljava/lang/String;)V*2
+0
+%1*net.sourceforge.docfetcher.man.Manual$Pair*
+
+keyjava.lang.String*
+
+%0java.lang.String"„
+N
+BD:/git_project/code/src/net/sourceforge/docfetcher/man/Manual.javaâ â('2
+0
+%1*net.sourceforge.docfetcher.man.Manual$Pair:
+keyjava.lang.StringB86
+4net.sourceforge.docfetcher.man.Manual$PageProperties

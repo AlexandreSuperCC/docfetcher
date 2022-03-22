@@ -1,0 +1,40 @@
+
+Onet.sourceforge.docfetcher.util.collect.LazyList#iterator()Ljava/util/Iterator;W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.javaC C("3*¿
+2W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.javaE
+ E("a
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.javaE E($
+""*Ÿ
+3W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.javaD D(
+¸
+µ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.javaD D(
+
+%0java.util.List"__id*>*<2
+0net.sourceforge.docfetcher.util.collect.LazyList"
+list*
+2
+1*Ú
+1W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.javaF	 F(¸
+µ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.javaF	 F(
+%1java.util.List"__id*>*<2
+0net.sourceforge.docfetcher.util.collect.LazyList"
+listÉÆ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.javaF	 F(
+%2java.util.Iterator"-java.util.List#iterator()Ljava/util/Iterator;*
+
+%1java.util.List2
+iterator()"u
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.javaF F(
+
+%2java.util.IteratorB42
+0net.sourceforge.docfetcher.util.collect.LazyList

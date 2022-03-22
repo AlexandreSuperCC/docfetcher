@@ -1,0 +1,66 @@
+
+]net.sourceforge.docfetcher.util.Util#createEmptyList([Ljava/util/Collection;)Ljava/util/List;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÆ	 Æ	(*"startingBlock*•
+3M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java±	 ±	(§
+°
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java±	 ±	(
+%0java.util.Collection"
+__arrayGet* 
+
+colsjava.util.Collection[]*
+""°û
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java±	 ±	(	
+%1int"java.util.Collection#size()I*
+
+%0java.util.Collection2size()*
+3
+1*˝
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÆ	* Æ	(Jø
+º
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java≠	 ≠	(	
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull* 
+
+colsjava.util.Collection[]ø
+º
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÆ	+ Æ	(3
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull* 
+
+colsjava.util.Collection[]ê
+ç
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÆ	E Æ	(I
+colsjava.util.Collection[]"__annotation*
+
+%4*
+
+%5*
+3
+1*‰
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java≤	 ≤	(Å
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java≤	 ≤	(
+%2java.util.ArrayList"java.util.ArrayListù
+ö
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java≤		 ≤	(
+%3"java.util.ArrayList#<init>(I)V*
+
+%2java.util.ArrayList*
+"""l
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java≤	 ≤	( 
+
+%2java.util.ArrayList:
+colsjava.util.Collection[]B("&
+$net.sourceforge.docfetcher.util.Util

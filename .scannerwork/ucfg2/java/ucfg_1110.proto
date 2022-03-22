@@ -1,0 +1,22 @@
+
+mnet.sourceforge.docfetcher.model.index.file.HtmlFileLister$1#getPath()Lnet/sourceforge/docfetcher/model/Path;c
+WD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlFileLister.javaÄ Ä("1*ù
+1c
+WD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlFileLister.javaÅ Å(ù
+ö
+c
+WD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlFileLister.javaÅ Å(;
+%05net.sourceforge.docfetcher.model.index.IndexingConfig"__id*L*J>
+<net.sourceforge.docfetcher.model.index.file.HtmlFileLister$1"
+configûø
+c
+WD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlFileLister.javaÅ Å('+
+%1%net.sourceforge.docfetcher.model.Path"|net.sourceforge.docfetcher.model.index.IndexingConfig#getStorablePath(Ljava/io/File;)Lnet/sourceforge/docfetcher/model/Path;*=
+;
+%05net.sourceforge.docfetcher.model.index.IndexingConfig*
+""2getStorablePath(Ljava/io/File;)"”
+c
+WD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlFileLister.javaÅ Å((-
++
+%1%net.sourceforge.docfetcher.model.PathB@>
+<net.sourceforge.docfetcher.model.index.file.HtmlFileLister$1

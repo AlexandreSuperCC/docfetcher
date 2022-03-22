@@ -1,0 +1,24 @@
+
+oorg.apache.tika.parser.DelegatingParser#getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Set;N
+DD:/git_project/code/src/org/apache/tika/parser/DelegatingParser.java6 6(+"1*∂
+1N
+DD:/git_project/code/src/org/apache/tika/parser/DelegatingParser.java7 7( íè
+N
+DD:/git_project/code/src/org/apache/tika/parser/DelegatingParser.java7 7()#
+%0org.apache.tika.parser.Parser"org.apache.tika.parser.DelegatingParser#getDelegateParser(Lorg/apache/tika/parser/ParseContext;)Lorg/apache/tika/parser/Parser;*+)
+'org.apache.tika.parser.DelegatingParser*0
+.
+context#org.apache.tika.parser.ParseContext28getDelegateParser(Lorg/apache/tika/parser/ParseContext;)‚ﬂ
+N
+DD:/git_project/code/src/org/apache/tika/parser/DelegatingParser.java7 7(D
+%1java.util.Set"eorg.apache.tika.parser.Parser#getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Set;*%
+#
+%0org.apache.tika.parser.Parser*0
+.
+context#org.apache.tika.parser.ParseContext28getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)"g
+N
+DD:/git_project/code/src/org/apache/tika/parser/DelegatingParser.java7 7(E
+
+%1java.util.Set:.
+context#org.apache.tika.parser.ParseContextB+)
+'org.apache.tika.parser.DelegatingParser

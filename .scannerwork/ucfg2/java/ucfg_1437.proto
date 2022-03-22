@@ -1,0 +1,67 @@
+
+Pnet.sourceforge.docfetcher.util.Util#getLast(Ljava/util/List;)Ljava/lang/Object;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java÷ ÷("startingBlock*«
+2M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaú ú("W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaú ú(
+""*ô
+3M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaù ù(—”
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaù ù(	
+%0int"java.util.List#size()I*
+
+listjava.util.List2size()*
+2
+1*ç
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java÷ ÷(4¸
+µ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaö ö(
+
+%2"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+listjava.util.List¸
+µ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java÷ ÷(&
+%3"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+listjava.util.Listˆ
+…
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java÷/ ÷(3
+listjava.util.List"__annotation*
+
+%2*
+
+%3*
+3
+4*«
+4M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaø ø("W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaø ø( 
+""*º
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaû	 û(‰
+†
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaû	 û(
+%1T"
+__arrayGet*
+
+listjava.util.List*
+"""Z
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaû û(	
+
+%1T:
+listjava.util.ListB("&
+$net.sourceforge.docfetcher.util.Util

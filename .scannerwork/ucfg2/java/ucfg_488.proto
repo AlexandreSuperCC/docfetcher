@@ -1,0 +1,171 @@
+
+Horg.apache.tika.parser.chm.lzx.ChmBlockInfo#toString()Ljava/lang/String;R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javah h("1*ò)
+1R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javai i(.èå
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javai i(,
+%0java.lang.StringBuilder"java.lang.StringBuilder°
+û
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javai i(.
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderù
+ö
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javai i(/
+sbjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilderﬁ€
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaj! j(.	
+%2int":org.apache.tika.parser.chm.lzx.ChmBlockInfo#getIniBlock()I*/-
++org.apache.tika.parser.chm.lzx.ChmBlockInfo2getIniBlock()ñ
+ì
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaj j(.
+%3java.lang.String"__concat*
+
+iniBlock:=*
+	
+%2intõ
+ò
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaj j(5
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+, öó
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaj j(6
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%4java.lang.String2append(Ljava/lang/String;)‚ﬂ
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javak# k(2	
+%6int"<org.apache.tika.parser.chm.lzx.ChmBlockInfo#getStartBlock()I*/-
++org.apache.tika.parser.chm.lzx.ChmBlockInfo2getStartBlock()ò
+ï
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javak k(2
+%7java.lang.String"__concat*
+startBlock:=*
+	
+%6intõ
+ò
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javak k(9
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+, öó
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javak k(:
+%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%8java.lang.String2append(Ljava/lang/String;)ﬂ‹
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javal! l(.
+
+%10int":org.apache.tika.parser.chm.lzx.ChmBlockInfo#getEndBlock()I*/-
++org.apache.tika.parser.chm.lzx.ChmBlockInfo2getEndBlock()ò
+ï
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javal l(.
+%11java.lang.String"__concat*
+
+endBlock:=*
+
+
+%10intù
+ö
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javal l(5
+%12java.lang.String"__concat*
+
+%11java.lang.String*
+, úô
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javal l(6
+%13java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%12java.lang.String2append(Ljava/lang/String;)Â‚
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javam$ m(4
+
+%14int"=org.apache.tika.parser.chm.lzx.ChmBlockInfo#getStartOffset()I*/-
++org.apache.tika.parser.chm.lzx.ChmBlockInfo2getStartOffset()õ
+ò
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javam m(4
+%15java.lang.String"__concat*
+startOffset:=*
+
+
+%14intù
+ö
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javam m(;
+%16java.lang.String"__concat*
+
+%15java.lang.String*
+, úô
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javam m(<
+%17java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%16java.lang.String2append(Ljava/lang/String;)·ﬁ
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javan" n(0
+
+%18int";org.apache.tika.parser.chm.lzx.ChmBlockInfo#getEndOffset()I*/-
++org.apache.tika.parser.chm.lzx.ChmBlockInfo2getEndOffset()ô
+ñ
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javan n(0
+%19java.lang.String"__concat*
+endOffset:=*
+
+
+%18intﬁ
+€
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javao o(6
+%20java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator∞
+≠
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javan o(6
+%21java.lang.String"__concat*
+
+%19java.lang.String*
+
+%20java.lang.Stringúô
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javan o(7
+%22java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%21java.lang.String2append(Ljava/lang/String;)”–
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javap p(
+%23java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()"o
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javap p(
+
+%23java.lang.StringB/-
++org.apache.tika.parser.chm.lzx.ChmBlockInfo

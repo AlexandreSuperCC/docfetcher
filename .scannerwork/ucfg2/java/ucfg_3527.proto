@@ -1,0 +1,16 @@
+
+Lnull#getLabel(Lnet/sourceforge/docfetcher/model/ViewNode;)Ljava/lang/String;Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java› ›("1*æ
+1Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaœ œ(Ž‹
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaœ œ(#
+%0java.lang.String"Lnet.sourceforge.docfetcher.model.ViewNode#getDisplayName()Ljava/lang/String;*6
+4
+element)net.sourceforge.docfetcher.model.ViewNode2getDisplayName()"u
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaœ œ($
+
+%0java.lang.String:4
+element)net.sourceforge.docfetcher.model.ViewNodeB;9
+7Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$5459;

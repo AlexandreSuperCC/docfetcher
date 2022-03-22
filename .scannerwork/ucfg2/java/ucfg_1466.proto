@@ -1,0 +1,57 @@
+
+Çnet.sourceforge.docfetcher.gui.preview.PreviewPanel#setTextSafely(Lnet/sourceforge/docfetcher/model/search/HighlightedString;ZJZ)Z\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaØ Ø("startingBlock*®
+startingBlock\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaØ ≤(ˆ
+Û
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÆ Æ(
+%2"
+__annotate*:8
+6net.sourceforge.docfetcher.util.annotations.ThreadSafe*E
+C
+string9net.sourceforge.docfetcher.model.search.HighlightedStringÛ
+
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaØ  Ø((
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*E
+C
+string9net.sourceforge.docfetcher.model.search.HighlightedStringƒ
+¡
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaØ; Ø(AC
+string9net.sourceforge.docfetcher.model.search.HighlightedString"__annotation*
+
+%2*
+
+%3*
+1*ì
+1\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.java≥	 ≥(í
+è
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.java¥ ¥(
+%0java.util.List"<java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;*"
+java.util.Arrays*E
+C
+string9net.sourceforge.docfetcher.model.search.HighlightedString≤
+Ø
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.java≥	 ¥(@
+%1boolean"Wnet.sourceforge.docfetcher.gui.preview.PreviewPanel#setTextSafely(Ljava/util/List;ZJZ)Z*75
+3net.sourceforge.docfetcher.gui.preview.PreviewPanel*
+
+%0java.util.List*
+""*
+""*
+"""f
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.java≥ ¥(A
+"":C
+string9net.sourceforge.docfetcher.model.search.HighlightedString:
+"":
+"":
+""B75
+3net.sourceforge.docfetcher.gui.preview.PreviewPanel

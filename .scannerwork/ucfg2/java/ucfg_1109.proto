@@ -1,0 +1,47 @@
+
+Vnet.sourceforge.docfetcher.model.index.file.HtmlFileLister#isHtmlFile(Ljava/io/File;)Zc
+WD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlFileLister.java° °("startingBlock*Þ
+startingBlockc
+WD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlFileLister.java° °(/Ë
+È
+c
+WD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlFileLister.java° °($
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.File”
+‘
+c
+WD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlFileLister.java°* °(.
+filejava.io.File"__annotation*
+
+%3*
+1*Â
+1c
+WD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlFileLister.java±	 ±(ÍÊ
+c
+WD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlFileLister.java± ±()
+%0java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+filejava.io.File2	getName()Þ
+Û
+c
+WD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlFileLister.java±+ ±(9
+%1java.util.Collection"__id*R*P<
+:net.sourceforge.docfetcher.model.index.file.HtmlFileLister"
+htmlExtensions·
+´
+c
+WD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlFileLister.java±	 ±(:
+%2boolean"\net.sourceforge.docfetcher.util.Util#hasExtension(Ljava/lang/String;Ljava/util/Collection;)Z*("&
+$net.sourceforge.docfetcher.util.Util*
+
+%0java.lang.String*
+
+%1java.util.Collection"m
+c
+WD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlFileLister.java± ±(;
+"":
+filejava.io.FileB><
+:net.sourceforge.docfetcher.model.index.file.HtmlFileLister

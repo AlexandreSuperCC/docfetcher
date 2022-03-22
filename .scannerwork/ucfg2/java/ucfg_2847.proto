@@ -1,0 +1,17 @@
+
+`org.apache.tika.config.TikaConfig#getTranslator()Lorg/apache/tika/language/translate/Translator;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¸ ¸(#"1*™
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¹ ¹(Á
+¾
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¹ ¹(3
+%0-org.apache.tika.language.translate.Translator"__id*5*3#
+!org.apache.tika.config.TikaConfig"
+
+translator"ƒ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¹ ¹(5
+3
+%0-org.apache.tika.language.translate.TranslatorB%#
+!org.apache.tika.config.TikaConfig

@@ -1,0 +1,19 @@
+
+fnet.sourceforge.docfetcher.model.parse.ParseService#tikaContext()Lorg/apache/tika/parser/ParseContext;\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaÎ, Î(7"1*é
+1\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaÏ	 Ï(2±®
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaÏ Ï(0)
+%0#org.apache.tika.parser.ParseContext"#org.apache.tika.parser.ParseContextÃ
+À
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaÏ	 Ï(2
+%1"-org.apache.tika.parser.ParseContext#<init>()V*+
+)
+%0#org.apache.tika.parser.ParseContext"‹
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaÏ Ï(3+
+)
+%0#org.apache.tika.parser.ParseContextB7"5
+3net.sourceforge.docfetcher.model.parse.ParseService

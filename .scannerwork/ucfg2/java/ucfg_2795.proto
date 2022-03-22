@@ -1,0 +1,51 @@
+
+dorg.apache.tika.mime.MimeTypesFactory#create(Lorg/w3c/dom/Document;)Lorg/apache/tika/mime/MimeTypes;L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java. .(""1*≈
+1L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java/ /(-óî
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java/" /(+$
+%0org.apache.tika.mime.MimeTypes"org.apache.tika.mime.MimeTypes©
+¶
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java/ /(-
+%1"(org.apache.tika.mime.MimeTypes#<init>()V*&
+$
+%0org.apache.tika.mime.MimeTypes¨
+©
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java/ /(.+
+	mimeTypesorg.apache.tika.mime.MimeTypes"__id*&
+$
+%0org.apache.tika.mime.MimeTypes£†
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java0 0(*
+%2$org.apache.tika.mime.MimeTypesReader"$org.apache.tika.mime.MimeTypesReaderÑ
+Å
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java0 0(&
+%3"Norg.apache.tika.mime.MimeTypesReader#<init>(Lorg/apache/tika/mime/MimeTypes;)V*,
+*
+%2$org.apache.tika.mime.MimeTypesReader*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypesëé
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java0 0(5
+
+%4void"Borg.apache.tika.mime.MimeTypesReader#read(Lorg/w3c/dom/Document;)V*,
+*
+%2$org.apache.tika.mime.MimeTypesReader*"
+ 
+documentorg.w3c.dom.Document2read(Lorg/w3c/dom/Document;)ºπ
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java1 1(
+
+%5void"&org.apache.tika.mime.MimeTypes#init()V*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes2init()"}
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java2 2(-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes: 
+documentorg.w3c.dom.DocumentB)"'
+%org.apache.tika.mime.MimeTypesFactory

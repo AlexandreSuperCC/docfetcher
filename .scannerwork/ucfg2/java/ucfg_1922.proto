@@ -1,0 +1,15 @@
+
+vorg.apache.tika.parser.external.ExternalParser#getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Set;U
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javaV V(+"1*Ø
+1U
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javaW W( ‹ˆ
+U
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javaW W("
+%0java.util.Set"Qorg.apache.tika.parser.external.ExternalParser#getSupportedTypes()Ljava/util/Set;*20
+.org.apache.tika.parser.external.ExternalParser2getSupportedTypes()"n
+U
+KD:/git_project/code/src/org/apache/tika/parser/external/ExternalParser.javaW W(#
+
+%0java.util.Set:.
+context#org.apache.tika.parser.ParseContextB20
+.org.apache.tika.parser.external.ExternalParser

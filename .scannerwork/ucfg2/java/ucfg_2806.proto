@@ -1,0 +1,23 @@
+
+:org.apache.tika.mime.OrClause#toString()Ljava/lang/String;D
+:D:/git_project/code/src/org/apache/tika/mime/OrClause.java. .("1*Ñ
+1D
+:D:/git_project/code/src/org/apache/tika/mime/OrClause.java/ /(•
+’
+D
+:D:/git_project/code/src/org/apache/tika/mime/OrClause.java/ /(
+%0java.util.List"__id*.*,
+org.apache.tika.mime.OrClause"	
+clauses‹
+ˆ
+D
+:D:/git_project/code/src/org/apache/tika/mime/OrClause.java/ /(
+%1java.lang.String"__concat*
+or*
+
+%0java.util.List"`
+D
+:D:/git_project/code/src/org/apache/tika/mime/OrClause.java/ /(
+
+%1java.lang.StringB!
+org.apache.tika.mime.OrClause

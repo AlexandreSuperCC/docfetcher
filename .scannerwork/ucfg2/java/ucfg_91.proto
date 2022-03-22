@@ -1,0 +1,86 @@
+
+Cnet.sourceforge.docfetcher.util.UtilGui#launch(Ljava/lang/String;)ZP
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java® ®("startingBlock*±
+2P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java∑
+ ∑("Z
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java∑ ∑(
+""*–
+3P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java∂ ∂(q
+o
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java∂ ∂(
+%3boolean"__id*
+""*
+2
+1*µ
+startingBlockP
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java® ®(7¿
+Ω
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java® ®(&
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filenamejava.lang.Stringâ
+Ü
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java®. ®(6
+filenamejava.lang.String"__annotation*
+
+%5*
+7*±
+4P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java¥
+ ¥("Z
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java¥ ¥(
+""*±
+6P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java±
+ ±(˝
+˙
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java±
+ ±(!
+%2boolean"Jnet.sourceforge.docfetcher.util.UtilGui#launchXdgOpen(Ljava/lang/String;)Z*+")
+'net.sourceforge.docfetcher.util.UtilGui*
+
+filenamejava.lang.String"Z
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java± ±("
+""*Ê
+7P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java© ©(ê
+ç
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java© ©(
+%0java.lang.String"Wnet.sourceforge.docfetcher.util.Util#checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+filenamejava.lang.Stringq
+o
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java∞ ∞(
+%1boolean"__id*
+""*	
+3
+4
+6*±
+1P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.javaπ	 π(˝
+˙
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.javaπ	 π( 
+%4boolean"Jnet.sourceforge.docfetcher.util.UtilGui#launchXdgOpen(Ljava/lang/String;)Z*+")
+'net.sourceforge.docfetcher.util.UtilGui*
+
+filenamejava.lang.String"Z
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.javaπ π(!
+"":
+filenamejava.lang.StringB+")
+'net.sourceforge.docfetcher.util.UtilGui

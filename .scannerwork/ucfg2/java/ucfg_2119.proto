@@ -1,0 +1,24 @@
+
+Hnet.sourceforge.docfetcher.gui.StatusBar#getRightParts()Ljava/util/List;Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/StatusBar.javaË" Ë(/"1*â
+1Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/StatusBar.javaÌ	 Ì(°
+­
+Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/StatusBar.javaÌ& Ì(0
+%0java.util.List"__id*<*:*
+(net.sourceforge.docfetcher.gui.StatusBar"
+
+rightPartsé
+æ
+Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/StatusBar.javaÌ	 Ì(1
+%1java.util.List"Hjava.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;*"
+java.util.Collections*
+
+%0java.util.List"k
+Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/StatusBar.javaÌ Ì(2
+
+%1java.util.ListB,*
+(net.sourceforge.docfetcher.gui.StatusBar

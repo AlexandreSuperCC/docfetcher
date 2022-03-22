@@ -1,0 +1,25 @@
+
+Borg.apache.tika.parser.CompositeParser#getParsers()Ljava/util/Map;O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java´" ´(,"1*ÿ
+1O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaµ µ(¤¡
+O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaµ µ(*)
+%0#org.apache.tika.parser.ParseContext"#org.apache.tika.parser.ParseContext¶
+³
+O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaµ µ(,
+%1"-org.apache.tika.parser.ParseContext#<init>()V*+
+)
+%0#org.apache.tika.parser.ParseContextÞÛ
+O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaµ µ(-
+%2java.util.Map"gorg.apache.tika.parser.CompositeParser#getParsers(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Map;**(
+&org.apache.tika.parser.CompositeParser*+
+)
+%0#org.apache.tika.parser.ParseContext21getParsers(Lorg/apache/tika/parser/ParseContext;)"h
+O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaµ µ(.
+
+%2java.util.MapB*(
+&org.apache.tika.parser.CompositeParser

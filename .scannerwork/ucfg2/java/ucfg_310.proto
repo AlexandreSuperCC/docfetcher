@@ -1,0 +1,39 @@
+
+net.sourceforge.docfetcher.build.Paths#addFileSet(Ljava/lang/String;Ljava/lang/String;)Lnet/sourceforge/docfetcher/build/Paths;M
+CD:/git_project/code/src/net/sourceforge/docfetcher/build/Paths.java ("1*ö
+1M
+CD:/git_project/code/src/net/sourceforge/docfetcher/build/Paths.java (®«
+M
+CD:/git_project/code/src/net/sourceforge/docfetcher/build/Paths.java (/
+%0)net.sourceforge.docfetcher.build.FileSets")net.sourceforge.docfetcher.build.FileSetsÀ
+½
+M
+CD:/git_project/code/src/net/sourceforge/docfetcher/build/Paths.java ( 
+%1"3net.sourceforge.docfetcher.build.FileSets#<init>()V*1
+/
+%0)net.sourceforge.docfetcher.build.FileSetsÞÛ
+M
+CD:/git_project/code/src/net/sourceforge/docfetcher/build/Paths.java (,/
+%2)net.sourceforge.docfetcher.build.FileSets"onet.sourceforge.docfetcher.build.FileSets#setDir(Ljava/lang/String;)Lnet/sourceforge/docfetcher/build/FileSets;*1
+/
+%0)net.sourceforge.docfetcher.build.FileSets*
+
+dirjava.lang.String2setDir(Ljava/lang/String;)åâ
+M
+CD:/git_project/code/src/net/sourceforge/docfetcher/build/Paths.java (>/
+%3)net.sourceforge.docfetcher.build.FileSets"pnet.sourceforge.docfetcher.build.FileSets#include(Ljava/lang/String;)Lnet/sourceforge/docfetcher/build/FileSets;*1
+/
+%2)net.sourceforge.docfetcher.build.FileSets*
+
+includesjava.lang.String2include(Ljava/lang/String;)çä
+M
+CD:/git_project/code/src/net/sourceforge/docfetcher/build/Paths.java (D
+%4"Snet.sourceforge.docfetcher.build.FileSets#get()Lorg/apache/tools/ant/types/FileSet;*1
+/
+%3)net.sourceforge.docfetcher.build.FileSets2get()"{
+M
+CD:/git_project/code/src/net/sourceforge/docfetcher/build/Paths.java (*(
+&net.sourceforge.docfetcher.build.Paths:
+dirjava.lang.String:
+includesjava.lang.StringB*(
+&net.sourceforge.docfetcher.build.Paths

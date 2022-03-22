@@ -1,0 +1,16 @@
+
+lorg.apache.tika.parser.xml.XMLParser#getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Set;K
+AD:/git_project/code/src/org/apache/tika/parser/xml/XMLParser.java5 5(+"1*ª
+1K
+AD:/git_project/code/src/org/apache/tika/parser/xml/XMLParser.java6 6(r
+p
+K
+AD:/git_project/code/src/org/apache/tika/parser/xml/XMLParser.java6 6(
+%0java.util.Set"__id*
+"""d
+K
+AD:/git_project/code/src/org/apache/tika/parser/xml/XMLParser.java6 6(
+
+%0java.util.Set:.
+context#org.apache.tika.parser.ParseContextB(&
+$org.apache.tika.parser.xml.XMLParser

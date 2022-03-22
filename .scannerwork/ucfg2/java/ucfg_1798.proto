@@ -1,0 +1,44 @@
+
+vnet.sourceforge.docfetcher.model.parse.SvgParser#renderText(Ljava/io/InputStream;Ljava/lang/String;)Ljava/lang/String;W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java0 0("startingBlock*ø
+3W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java5 5(/"a
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java5 5(/
+""*ﬂ
+startingBlockW
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java0 0(=£
+†
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java/ /(
+
+%2"
+__annotate*
+java.lang.Override*
+
+injava.io.InputStreamç
+ä
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java0) 0(+
+injava.io.InputStream"__annotation*
+
+%2¶
+£
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java/ /(
+
+%3"
+__annotate*
+java.lang.Override*
+
+filenamejava.lang.Stringê
+ç
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java04 0(<
+filenamejava.lang.String"__annotation*
+
+%3*
+3:
+injava.io.InputStream:
+filenamejava.lang.StringB42
+0net.sourceforge.docfetcher.model.parse.SvgParser

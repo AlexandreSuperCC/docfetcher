@@ -1,0 +1,29 @@
+
+Sorg.apache.tika.config.ServiceLoader$RankedService#isInstanceOf(Ljava/lang/Class;)ZK
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java9 9(#"1*ç
+1K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java: :(≥
+∞
+K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java:* :(1
+%0java.lang.Object"__id*C*A4
+2org.apache.tika.config.ServiceLoader$RankedService"	
+serviceª∏
+K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java:* :(<
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+%0java.lang.Object2
+getClass()ÔÏ
+K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java: :(=
+%2boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+
+ifacejava.lang.Class*
+
+%1java.lang.Class2#isAssignableFrom(Ljava/lang/Class;)"U
+K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java: :(>
+"":
+ifacejava.lang.ClassB64
+2org.apache.tika.config.ServiceLoader$RankedService

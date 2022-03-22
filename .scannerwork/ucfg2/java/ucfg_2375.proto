@@ -1,0 +1,63 @@
+
+xnet.sourceforge.docfetcher.model.parse.MSOffice2007Parser#renderText(Ljava/io/File;Ljava/lang/String;)Ljava/lang/String;b
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.java± ±(""startingBlock*å
+startingBlockb
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.java±" ±(>©
+¶
+b
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.java∞ ∞(
+
+%4"
+__annotate*
+java.lang.Override*
+
+filejava.io.Fileì
+ê
+b
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.java±( ±(,
+filejava.io.File"__annotation*
+
+%4±
+Æ
+b
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.java∞ ∞(
+
+%5"
+__annotate*
+java.lang.Override*
+
+filenamejava.lang.Stringõ
+ò
+b
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.java±5 ±(=
+filenamejava.lang.String"__annotation*
+
+%5*
+7*’
+4b
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.java∂ ∂("l
+b
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.java∂ ∂(
+
+%1*ä
+5b
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaµ µ(<õ
+ò
+b
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.java∂
+ ∂(
+%1"enet.sourceforge.docfetcher.model.parse.MSOffice2007Parser#extractText(LOPCPackage;)Ljava/lang/String;*=";
+9net.sourceforge.docfetcher.model.parse.MSOffice2007Parser*
+""*
+4*ª
+7b
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaµ	 µ(Ã…
+b
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaµ µ('
+%0java.lang.String"(java.io.File#getPath()Ljava/lang/String;*
+
+filejava.io.File2	getPath()*
+5:
+filejava.io.File:
+filenamejava.lang.StringB=;
+9net.sourceforge.docfetcher.model.parse.MSOffice2007Parser

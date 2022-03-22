@@ -1,0 +1,16 @@
+
+lorg.apache.tika.sax.ElementMappingContentHandler$TargetElement#getMappedTagName()Ljavax/xml/namespace/QName;W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javau u(%"1*·
+1W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javav v( Ú
+×
+W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javav v( 
+%0javax.xml.namespace.QName"__id*U*S@
+>org.apache.tika.sax.ElementMappingContentHandler$TargetElement"
+mappedTagName"|
+W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javav v(!!
+
+%0javax.xml.namespace.QNameBB@
+>org.apache.tika.sax.ElementMappingContentHandler$TargetElement

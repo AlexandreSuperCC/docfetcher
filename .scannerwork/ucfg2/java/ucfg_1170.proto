@@ -1,0 +1,21 @@
+
+/org.apache.tika.mime.MediaType#hasParameters()ZG
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaú ú( "1*◊
+1G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaù ù(õ
+ò
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaù ù(
+%0java.util.Map"__id*2*0 
+org.apache.tika.mime.MediaType"
+
+parametersóî
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaù ù($
+%1boolean"java.util.Map#isEmpty()Z*
+
+%0java.util.Map2	isEmpty()"Q
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaù ù(%
+""B" 
+org.apache.tika.mime.MediaType

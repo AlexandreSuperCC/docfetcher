@@ -1,0 +1,21 @@
+
+Jnet.sourceforge.docfetcher.model.index.outlook.OutlookContext#isStopped()Zd
+ZD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookContext.java: :("1*Ê
+1d
+ZD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookContext.java;	 ;(õ
+ò
+d
+ZD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookContext.java;	 ;(1
+%0+net.sourceforge.docfetcher.model.Cancelable"__id*Q*O?
+=net.sourceforge.docfetcher.model.index.outlook.OutlookContext"
+
+cancelableöó
+d
+ZD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookContext.java;	 ;( 
+%1boolean"9net.sourceforge.docfetcher.model.Cancelable#isCanceled()Z*3
+1
+%0+net.sourceforge.docfetcher.model.Cancelable2isCanceled()"n
+d
+ZD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookContext.java; ;(!
+""BA?
+=net.sourceforge.docfetcher.model.index.outlook.OutlookContext

@@ -1,0 +1,93 @@
+
+∂net.sourceforge.docfetcher.model.parse.SvgParser#parse(Ljava/io/InputStream;Lnet/sourceforge/docfetcher/model/parse/ParseContext;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java! !("startingBlock*ø
+3W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java& ((8"a
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java& ((8
+""*£
+startingBlockW
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java! !(B£
+†
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java   (
+
+%7"
+__annotate*
+java.lang.Override*
+
+injava.io.InputStreamç
+ä
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java!) !(+
+injava.io.InputStream"__annotation*
+
+%7»
+≈
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java   (
+
+%8"
+__annotate*
+java.lang.Override*@
+>
+context3net.sourceforge.docfetcher.model.parse.ParseContext≤
+Ø
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java!: !(A>
+context3net.sourceforge.docfetcher.model.parse.ParseContext"__annotation*
+
+%8*
+8*Ü
+5W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java( (( ¢
+ü
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java( ((6
+%4"pnet.sourceforge.docfetcher.model.parse.SvgParser#getElementContent(LSource;Ljava/lang/String;)Ljava/lang/String;*42
+0net.sourceforge.docfetcher.model.parse.SvgParser*
+""*
+
+dc:creator*
+3*Æ
+6W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java&
+ '(4 «
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java&
+ '(4
+%3"Énet.sourceforge.docfetcher.model.parse.ParseResult#setTitle(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*:
+8
+%02net.sourceforge.docfetcher.model.parse.ParseResult*
+
+%22setTitle(Ljava/lang/String;)*
+5*Ñ
+7W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java' '(†
+ù
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java' '(3
+%2"pnet.sourceforge.docfetcher.model.parse.SvgParser#getElementContent(LSource;Ljava/lang/String;)Ljava/lang/String;*42
+0net.sourceforge.docfetcher.model.parse.SvgParser*
+""*
+
+dc:title*
+6*≠
+8W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java&
+ &(? «
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java& &(8
+%02net.sourceforge.docfetcher.model.parse.ParseResult"2net.sourceforge.docfetcher.model.parse.ParseResult¸
+˘
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/SvgParser.java&
+ &(?
+%1"Tnet.sourceforge.docfetcher.model.parse.ParseResult#<init>(Ljava/lang/CharSequence;)V*:
+8
+%02net.sourceforge.docfetcher.model.parse.ParseResult*
+""*
+7:
+injava.io.InputStream:>
+context3net.sourceforge.docfetcher.model.parse.ParseContextB42
+0net.sourceforge.docfetcher.model.parse.SvgParser

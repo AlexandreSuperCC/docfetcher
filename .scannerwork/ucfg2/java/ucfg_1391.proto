@@ -1,0 +1,208 @@
+
+xnet.sourceforge.docfetcher.util.Util#joinPath(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/String;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÏ Ï("startingBlock*≥
+3M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java˙ ˙(‡›
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java˙ ˙(
+%9java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+/2	append(C)f
+d
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java˚ ˚(
+%10"__id*
+""ù
+ö
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java˚% ˚(,
+%11java.lang.String"
+__arrayGet*
+
+morejava.lang.String[]*
+""ÎË
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java˚ ˚(.
+%12"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*
+3
+1*ê
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÏ Ó(!ª
+∏
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÎ Î(	
+%15"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+firstjava.lang.Stringª
+∏
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÏ  Ï((
+%16"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+firstjava.lang.Stringç
+ä
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÏ0 Ï(5
+firstjava.lang.String"__annotation*
+
+%15*
+
+%16º
+π
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÎ Î(	
+%17"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+secondjava.lang.Stringº
+π
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÌ	 Ì(
+%18"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+secondjava.lang.Stringé
+ã
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÌ Ì(
+secondjava.lang.String"__annotation*
+
+%17*
+
+%18º
+π
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÎ Î(	
+%19"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+morejava.lang.String[]º
+π
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÓ	 Ó(
+%20"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+morejava.lang.String[]é
+ã
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÓ Ó( 
+morejava.lang.String[]"__annotation*
+
+%19*
+
+%20*
+5
+9*¨
+5M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaı ı((äá
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaı ı(&
+%2java.lang.StringBuilder"java.lang.StringBuilderú
+ô
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaı ı((
+%3"!java.lang.StringBuilder#<init>()V*
+
+%2java.lang.StringBuilderò
+ï
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaı ı()
+sbjava.lang.StringBuilder"__id*
+
+%2java.lang.StringBuildere
+c
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaˆ ˆ(
+%4"__id*
+""ÍÁ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaˆ ˆ(3
+%5"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)‡›
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java˜ ˜(
+%6java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+/2	append(C)e
+c
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¯ ¯(
+%7"__id*
+""ÍÁ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¯ ¯(,
+%8"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*
+3
+1*¿
+6M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÛ Û("l
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÛ Û(
+
+firstjava.lang.String*Ñ
+7M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÚ Ú(ß§
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÚ Ú(
+%1boolean"java.lang.String#isEmpty()Z*
+
+secondjava.lang.String2	isEmpty()*
+5
+6*¡
+8M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÒ Ò("m
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÒ Ò(
+
+secondjava.lang.String*É
+9M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java (¶£
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java (
+%0boolean"java.lang.String#isEmpty()Z*
+
+firstjava.lang.String2	isEmpty()*
+7
+8*ü
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java˝	 ˝(ŒÀ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java˝ ˝('
+%13java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()ç
+ä
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java˝	 ˝((
+%14java.lang.String"[net.sourceforge.docfetcher.util.Util#toForwardSlashes(Ljava/lang/String;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+%13java.lang.String"j
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java˝ ˝()
+
+%14java.lang.String:
+firstjava.lang.String:
+secondjava.lang.String:
+morejava.lang.String[]B("&
+$net.sourceforge.docfetcher.util.Util

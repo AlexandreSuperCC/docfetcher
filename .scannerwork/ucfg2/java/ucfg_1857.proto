@@ -1,0 +1,17 @@
+
+Norg.apache.tika.mime.MimeTypesReader$ClauseRecord#getClauses()Ljava/util/List;M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¡ ¡(&"1*ó
+1M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¢ ¢(µ
+²
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¢ ¢(
+%0java.util.List"__id*E*C3
+1org.apache.tika.mime.MimeTypesReader$ClauseRecord"
+
+subclauses"g
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¢ ¢(
+
+%0java.util.ListB53
+1org.apache.tika.mime.MimeTypesReader$ClauseRecord

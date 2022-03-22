@@ -1,0 +1,42 @@
+
+]org.apache.tika.sax.xpath.NodeMatcher#matchesAttribute(Ljava/lang/String;Ljava/lang/String;)ZL
+BD:/git_project/code/src/org/apache/tika/sax/xpath/NodeMatcher.java! !(#"startingBlock*§
+startingBlockL
+BD:/git_project/code/src/org/apache/tika/sax/xpath/NodeMatcher.java!# !(Bœ
+™
+L
+BD:/git_project/code/src/org/apache/tika/sax/xpath/NodeMatcher.java   (
+%0"
+__annotate*
+java.lang.Override*
+
+	namespacejava.lang.String†
+ƒ
+L
+BD:/git_project/code/src/org/apache/tika/sax/xpath/NodeMatcher.java!+ !(4
+	namespacejava.lang.String"__annotation*
+
+%0—
+”
+L
+BD:/git_project/code/src/org/apache/tika/sax/xpath/NodeMatcher.java   (
+%1"
+__annotate*
+java.lang.Override*
+
+namejava.lang.String€
+~
+L
+BD:/git_project/code/src/org/apache/tika/sax/xpath/NodeMatcher.java!= !(A
+namejava.lang.String"__annotation*
+
+%1*
+1*©
+1L
+BD:/git_project/code/src/org/apache/tika/sax/xpath/NodeMatcher.java" "("V
+L
+BD:/git_project/code/src/org/apache/tika/sax/xpath/NodeMatcher.java" "(
+"":
+	namespacejava.lang.String:
+namejava.lang.StringB)'
+%org.apache.tika.sax.xpath.NodeMatcher

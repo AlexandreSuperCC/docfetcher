@@ -1,0 +1,59 @@
+
+korg.apache.tika.language.LanguageProfile$Interleaved$1#compare(Ljava/util/Map$Entry;Ljava/util/Map$Entry;)IQ
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.javaã ã(""startingBlock*ª
+startingBlockQ
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.javaã" ã(`ù
+ö
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.javaä ä(
+%3"
+__annotate*
+java.lang.Override*
+
+o1java.util.Map$Entryá
+Ñ
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.javaã> ã(@
+o1java.util.Map$Entry"__annotation*
+
+%3ù
+ö
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.javaä ä(
+%4"
+__annotate*
+java.lang.Override*
+
+o2java.util.Map$Entryá
+Ñ
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.javaã] ã(_
+o2java.util.Map$Entry"__annotation*
+
+%4*
+1*´
+1Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.javaå å(≈¬
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.javaå å(&
+%0java.lang.String".java.util.Map$Entry#getKey()Ljava/lang/Object;*
+
+o1java.util.Map$Entry2getKey()≈¬
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.javaå1 å(<
+%1java.lang.String".java.util.Map$Entry#getKey()Ljava/lang/Object;*
+
+o2java.util.Map$Entry2getKey()Â‚
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.javaå å(=	
+%2int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+%0java.lang.String*
+
+%1java.lang.String2compareTo(Ljava/lang/String;)"[
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.javaå å(>
+"":
+o1java.util.Map$Entry:
+o2java.util.Map$EntryB:8
+6org.apache.tika.language.LanguageProfile$Interleaved$1

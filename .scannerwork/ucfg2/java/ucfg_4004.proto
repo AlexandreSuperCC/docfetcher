@@ -1,0 +1,82 @@
+
+Unet.sourceforge.docfetcher.model.search.ResultDocument#getAuthors()Ljava/lang/String;_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaº º("6*å
+2_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java¡ ¡(%†
+ù
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java¡ ¡(%
+%5java.lang.String"__id*
+
+senderjava.lang.String*
+1*à
+3_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java¡ ¡(ú
+ô
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java¡ ¡(
+%5java.lang.String"__id*
+
+%6java.lang.String*
+1*ô
+4_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java¿ ¿(°
+û
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java¿  ¿(--
+%3'net.sourceforge.docfetcher.model.Fields"__id*
+""ıÚ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java¿  ¿(3
+%4java.lang.String"?net.sourceforge.docfetcher.model.Fields#key()Ljava/lang/String;*/
+-
+%3'net.sourceforge.docfetcher.model.Fields2key()é
+ã
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java¿ ¿(5
+senderjava.lang.String"__id*
+""*
+2
+3*ó
+5_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaø
+ ø(≥
+∞
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaø
+ ø(-
+%2java.lang.String"bnet.sourceforge.docfetcher.util.Util#join(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+, *
+
+authorsjava.lang.String[]"{
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaø ø(.
+
+%2java.lang.String*ú
+6_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaΩ Ω(°
+û
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaΩ) Ω(6-
+%0'net.sourceforge.docfetcher.model.Fields"__id*
+""ıÚ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaΩ) Ω(<
+%1java.lang.String"?net.sourceforge.docfetcher.model.Fields#key()Ljava/lang/String;*/
+-
+%0'net.sourceforge.docfetcher.model.Fields2key()ë
+é
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaΩ Ω(>
+authorsjava.lang.String[]"__id*
+""*
+4
+5*·
+1_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java¡ ¡(&"{
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java¡ ¡(&
+
+%5java.lang.StringB:8
+6net.sourceforge.docfetcher.model.search.ResultDocument

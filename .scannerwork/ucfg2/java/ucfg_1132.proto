@@ -1,0 +1,111 @@
+
+iorg.apache.tika.mime.MimeTypes#applyHint(Ljava/util/List;Lorg/apache/tika/mime/MimeType;)Ljava/util/List;G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaì ì($"8"9*°
+3G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaú ú(&Ô
+Ï
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaú ú(:
+%9java.util.List"Gjava.util.Collections#singletonList(Ljava/lang/Object;)Ljava/util/List;*"
+java.util.Collections*'
+%
+hintorg.apache.tika.mime.MimeType"a
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaú ú(;
+
+%9java.util.List*ü	
+4G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaö ö(≤
+Ø
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaö ö(,
+%5&org.apache.tika.mime.MediaTypeRegistry"__id*0*. 
+org.apache.tika.mime.MimeTypes"
+
+registryÔÏ
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaö0 ö(>$
+%6org.apache.tika.mime.MediaType"Gorg.apache.tika.mime.MimeType#getType()Lorg/apache/tika/mime/MediaType;*'
+%
+hintorg.apache.tika.mime.MimeType2	getType()ÔÏ
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaö@ ö(N$
+%7org.apache.tika.mime.MediaType"Gorg.apache.tika.mime.MimeType#getType()Lorg/apache/tika/mime/MediaType;*'
+%
+typeorg.apache.tika.mime.MimeType2	getType()Ø¨
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaö ö(O
+%8boolean"|org.apache.tika.mime.MediaTypeRegistry#isSpecializationOf(Lorg/apache/tika/mime/MediaType;Lorg/apache/tika/mime/MediaType;)Z*.
+,
+%5&org.apache.tika.mime.MediaTypeRegistry*&
+$
+%6org.apache.tika.mime.MediaType*&
+$
+%7org.apache.tika.mime.MediaType2TisSpecializationOf(Lorg/apache/tika/mime/MediaType;Lorg/apache/tika/mime/MediaType;)*
+3
+6*©
+5G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaò& ò(3®
+•
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaò& ò(:#
+%3org.apache.tika.mime.MimeType"
+__arrayGet*!
+
+possibleTypesjava.util.List*
+""†
+ù
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaò ò(;%
+typeorg.apache.tika.mime.MimeType"__id*%
+#
+%3org.apache.tika.mime.MimeTypeÑÅ
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaô ô(%
+%4boolean"9org.apache.tika.mime.MimeType#equals(Ljava/lang/Object;)Z*'
+%
+hintorg.apache.tika.mime.MimeType*'
+%
+typeorg.apache.tika.mime.MimeType2equals(Ljava/lang/Object;)*
+3
+4*Ò
+6G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaó ó(öó
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaó ó(0	
+%2int"java.util.List#size()I*!
+
+possibleTypesjava.util.List2size()*
+5
+1*°
+8G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaï ï(Ô
+Ï
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaï ï(2
+%1java.util.List"Gjava.util.Collections#singletonList(Ljava/lang/Object;)Ljava/util/List;*"
+java.util.Collections*'
+%
+hintorg.apache.tika.mime.MimeType"a
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaï ï(3
+
+%1java.util.List*˚
+9G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaî% î(2§°
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaî% î(<
+%0boolean"java.util.List#isEmpty()Z*!
+
+possibleTypesjava.util.List2	isEmpty()*
+6
+8*∫
+1G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.java¢ ¢("l
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.java¢ ¢(!
+
+possibleTypesjava.util.List:
+possibleTypesjava.util.List:%
+hintorg.apache.tika.mime.MimeTypeB" 
+org.apache.tika.mime.MimeTypes

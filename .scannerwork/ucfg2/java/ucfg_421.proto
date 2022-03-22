@@ -1,0 +1,57 @@
+
+Znet.sourceforge.docfetcher.util.gui.viewer.PagedTableViewer#getElements(I)Ljava/util/List;d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/PagedTableViewer.javaŸ Ÿ(!"1*©
+1d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/PagedTableViewer.java   (Û
+Ø
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/PagedTableViewer.java   ( 
+
+%0void"2net.sourceforge.docfetcher.util.Util#checkThat(Z)V*("&
+$net.sourceforge.docfetcher.util.Util*
+""Ñ
+Î
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/PagedTableViewer.java¡ ¡("
+%1java.util.List"__id*J*H=
+;net.sourceforge.docfetcher.util.gui.viewer.PagedTableViewer"
+pages¬©
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/PagedTableViewer.java¡ ¡()	
+%2int"java.util.List#size()I*
+
+%1java.util.List2size()Û
+Ø
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/PagedTableViewer.java¡ ¡(*
+
+%3void"2net.sourceforge.docfetcher.util.Util#checkThat(Z)V*("&
+$net.sourceforge.docfetcher.util.Util*
+""Ñ
+Î
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/PagedTableViewer.java¢& ¢(+
+%4java.util.List"__id*J*H=
+;net.sourceforge.docfetcher.util.gui.viewer.PagedTableViewer"
+pages«
+¨
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/PagedTableViewer.java¢& ¢(:
+%5java.util.List"
+__arrayGet*
+
+%4java.util.List*
+""ü
+ù
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/PagedTableViewer.java¢	 ¢(;
+%6java.util.List"Hjava.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;*"
+java.util.Collections*
+
+%5java.util.List"~
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/PagedTableViewer.java¢ ¢(<
+
+%6java.util.List:
+""B?=
+;net.sourceforge.docfetcher.util.gui.viewer.PagedTableViewer

@@ -1,0 +1,18 @@
+
+Rnet.sourceforge.docfetcher.enums.ProgramConf$Int#valueToString()Ljava/lang/String;S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/ProgramConf.javaw w("1*Œ
+1S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/ProgramConf.javax
+ x(À
+½
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/ProgramConf.javax
+ x(!
+%0java.lang.String"/java.lang.Integer#toString(I)Ljava/lang/String;*"
+java.lang.Integer*
+"""o
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/ProgramConf.javax x("
+
+%0java.lang.StringB42
+0net.sourceforge.docfetcher.enums.ProgramConf$Int

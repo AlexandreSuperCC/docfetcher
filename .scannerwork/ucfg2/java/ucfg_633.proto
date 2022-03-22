@@ -1,0 +1,98 @@
+
+Dorg.apache.tika.sax.LinkBuilder#getLink(Z)Lorg/apache/tika/sax/Link;F
+<D:/git_project/code/src/org/apache/tika/sax/LinkBuilder.javaG G("3*©
+2F
+<D:/git_project/code/src/org/apache/tika/sax/LinkBuilder.javaK K(™–
+F
+<D:/git_project/code/src/org/apache/tika/sax/LinkBuilder.javaK K(3
+%2java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+anchorjava.lang.String*
+\\s+*
+ 20replaceAll(Ljava/lang/String;Ljava/lang/String;)°­
+F
+<D:/git_project/code/src/org/apache/tika/sax/LinkBuilder.javaK K(:
+%3java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+%2java.lang.String2trim()‡
+„
+F
+<D:/git_project/code/src/org/apache/tika/sax/LinkBuilder.javaK K(:
+anchorjava.lang.String"__id*
+
+%3java.lang.String*
+1*È
+3F
+<D:/git_project/code/src/org/apache/tika/sax/LinkBuilder.javaH H(Ÿ
+œ
+F
+<D:/git_project/code/src/org/apache/tika/sax/LinkBuilder.javaH H(
+%0java.lang.StringBuilder"__id*-*+!
+org.apache.tika.sax.LinkBuilder"
+textÆÃ
+F
+<D:/git_project/code/src/org/apache/tika/sax/LinkBuilder.javaH H('
+%1java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+%0java.lang.StringBuilder2
+toString()‡
+„
+F
+<D:/git_project/code/src/org/apache/tika/sax/LinkBuilder.javaH H((
+anchorjava.lang.String"__id*
+
+%1java.lang.String*
+2
+1*¤
+
+1F
+<D:/git_project/code/src/org/apache/tika/sax/LinkBuilder.javaN N(˜
+•
+F
+<D:/git_project/code/src/org/apache/tika/sax/LinkBuilder.javaN N(
+%4java.lang.String"__id*-*+!
+org.apache.tika.sax.LinkBuilder"
+type—
+”
+F
+<D:/git_project/code/src/org/apache/tika/sax/LinkBuilder.javaN N(!
+%5java.lang.String"__id*,**!
+org.apache.tika.sax.LinkBuilder"
+uri™
+–
+F
+<D:/git_project/code/src/org/apache/tika/sax/LinkBuilder.javaN# N((
+%6java.lang.String"__id*.*,!
+org.apache.tika.sax.LinkBuilder"
+title—
+”
+F
+<D:/git_project/code/src/org/apache/tika/sax/LinkBuilder.javaN2 N(5
+%7java.lang.String"__id*,**!
+org.apache.tika.sax.LinkBuilder"
+rel…‚
+F
+<D:/git_project/code/src/org/apache/tika/sax/LinkBuilder.javaN N(
+%8org.apache.tika.sax.Link"org.apache.tika.sax.Link÷
+ô
+F
+<D:/git_project/code/src/org/apache/tika/sax/LinkBuilder.javaN N(6
+%9"|org.apache.tika.sax.Link#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V* 
+
+%8org.apache.tika.sax.Link*
+
+%4java.lang.String*
+
+%5java.lang.String*
+
+%6java.lang.String*
+
+anchorjava.lang.String*
+
+%7java.lang.String"j
+F
+<D:/git_project/code/src/org/apache/tika/sax/LinkBuilder.javaN N(7 
+
+%8org.apache.tika.sax.Link:
+""B#!
+org.apache.tika.sax.LinkBuilder

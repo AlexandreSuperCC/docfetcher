@@ -1,0 +1,17 @@
+
+Sorg.apache.tika.parser.CompositeParser#getFallback()Lorg/apache/tika/parser/Parser;O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaÊ Ê("1*Š
+1O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaË Ë(¹
+¶
+O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaË Ë(#
+%0org.apache.tika.parser.Parser"__id*8*6(
+&org.apache.tika.parser.CompositeParser"
+
+fallback"x
+O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.javaË Ë(%
+#
+%0org.apache.tika.parser.ParserB*(
+&org.apache.tika.parser.CompositeParser

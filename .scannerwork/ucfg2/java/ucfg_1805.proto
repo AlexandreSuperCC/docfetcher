@@ -1,0 +1,47 @@
+
+Lorg.apache.tika.parser.ParseContext#get(Ljava/lang/Class;)Ljava/lang/Object;J
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java_ _("startingBlock*¸
+startingBlockJ
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java_ _("õ
+ò
+J
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java^ ^("
+%3"
+__annotate*
+java.lang.SuppressWarnings*
+
+keyjava.lang.Class|
+z
+J
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java_ _(!
+keyjava.lang.Class"__annotation*
+
+%3*
+1*ª
+1J
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java` `(†
+ù
+J
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java` `(
+%0java.util.Map"__id*4*2%
+#org.apache.tika.parser.ParseContext"	
+contextπ∂
+J
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java` `(,
+%1java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+
+keyjava.lang.Class2	getName()¢
+ü
+J
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java` `(-
+%2java.lang.Object"__mapGet*
+
+%0java.util.Map*
+
+%1java.lang.String"f
+J
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.java` `(.
+
+%2java.lang.Object:
+keyjava.lang.ClassB'%
+#org.apache.tika.parser.ParseContext

@@ -1,0 +1,35 @@
+
+Borg.apache.tika.io.IOUtils#copy(Ljava/io/Reader;Ljava/io/Writer;)IC
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java÷ ÷("3*—
+2C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaú ú("M
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaú ú(
+""*©
+3C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaø ø(ô
+ñ
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaø ø(-
+
+%0long"Gorg.apache.tika.io.IOUtils#copyLarge(Ljava/io/Reader;Ljava/io/Writer;)J*"
+org.apache.tika.io.IOUtils*
+
+inputjava.io.Reader*
+
+outputjava.io.Writer`
+^
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaù ù(%	
+%1int"__id*
+""*
+2
+1*—
+1C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaü ü("M
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaü ü(
+"":
+inputjava.io.Reader:
+outputjava.io.WriterB"
+org.apache.tika.io.IOUtils

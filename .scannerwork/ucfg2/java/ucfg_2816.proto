@@ -1,0 +1,19 @@
+
+uorg.apache.tika.parser.external.ExternalParsersFactory#create(Lorg/apache/tika/config/ServiceLoader;)Ljava/util/List;]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java/& /(,"1*Ì
+1]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java1 1(è
+å
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java1 1(8
+%0java.util.List"áorg.apache.tika.parser.external.ExternalParsersFactory#create(Ljava/lang/String;Lorg/apache/tika/config/ServiceLoader;)Ljava/util/List;*:"8
+6org.apache.tika.parser.external.ExternalParsersFactory*
+tika-external-parsers.xml*0
+.
+loader$org.apache.tika.config.ServiceLoader"w
+]
+SD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersFactory.java1 1(9
+
+%0java.util.List:.
+loader$org.apache.tika.config.ServiceLoaderB:"8
+6org.apache.tika.parser.external.ExternalParsersFactory

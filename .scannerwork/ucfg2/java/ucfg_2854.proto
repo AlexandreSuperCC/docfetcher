@@ -1,0 +1,77 @@
+
+horg.apache.tika.config.TikaConfig#getChild(Lorg/w3c/dom/Element;Ljava/lang/String;)Lorg/w3c/dom/Element;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaã ã(#"7*²
+2J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaê ê(ËÈ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaê ê(*
+%5org.w3c.dom.Node"3org.w3c.dom.Node#getNextSibling()Lorg/w3c/dom/Node;*
+
+childorg.w3c.dom.Node2getNextSibling()Š
+‡
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaê ê(*
+childorg.w3c.dom.Node"__id*
+
+%5org.w3c.dom.Node*
+5
+1*º
+3J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaè! è(&"i
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaè è('
+
+childorg.w3c.dom.Node*€
+4J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaç ç(ÅÂ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaç# ç(6
+%3java.lang.String"0org.w3c.dom.Node#getNodeName()Ljava/lang/String;*
+
+childorg.w3c.dom.Node2getNodeName()ÞÛ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaç ç(7
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+namejava.lang.String*
+
+%3java.lang.String2equals(Ljava/lang/Object;)*
+2
+3*î
+5J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaæ æ(©¦
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaæ æ(#
+%1short"org.w3c.dom.Node#getNodeType()S*
+
+childorg.w3c.dom.Node2getNodeType()i
+g
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaæ' æ(8
+%2short"__id*
+""*
+2
+4*µ
+7J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaä ä(ÎË
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaä ä(,
+%0org.w3c.dom.Node"2org.w3c.dom.Node#getFirstChild()Lorg/w3c/dom/Node;* 
+
+elementorg.w3c.dom.Element2getFirstChild()Š
+‡
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaä ä(-
+childorg.w3c.dom.Node"__id*
+
+%0org.w3c.dom.Node*
+5
+1*¥
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaì ì("T
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaì ì(
+"":
+elementorg.w3c.dom.Element:
+namejava.lang.StringB%"#
+!org.apache.tika.config.TikaConfig

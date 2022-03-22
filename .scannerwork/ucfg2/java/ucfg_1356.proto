@@ -1,0 +1,64 @@
+
+oorg.apache.tika.parser.mp3.MpegStream#createHeaderField()Lorg/apache/tika/parser/mp3/MpegStream$HeaderBitField;N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.java¿ ¿(,"1*
+1N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÁ Á(3ÅÂ
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÁ# Á(1:
+%04org.apache.tika.parser.mp3.MpegStream$HeaderBitField"4org.apache.tika.parser.mp3.MpegStream$HeaderBitField×
+Ô
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÁ Á(3
+%1">org.apache.tika.parser.mp3.MpegStream$HeaderBitField#<init>()V*<
+:
+%04org.apache.tika.parser.mp3.MpegStream$HeaderBitFieldÖ
+Ó
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÁ Á(4=
+field4org.apache.tika.parser.mp3.MpegStream$HeaderBitField"__id*<
+:
+%04org.apache.tika.parser.mp3.MpegStream$HeaderBitField¼
+¹
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÂ Â(	
+%2int"1org.apache.tika.parser.mp3.MpegStream#nextByte()I*)'
+%org.apache.tika.parser.mp3.MpegStreamóð
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÂ Â(
+
+%3void"<org.apache.tika.parser.mp3.MpegStream$HeaderBitField#add(I)V*?
+=
+field4org.apache.tika.parser.mp3.MpegStream$HeaderBitField*
+	
+%2int2add(I)¼
+¹
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÃ Ã(	
+%4int"1org.apache.tika.parser.mp3.MpegStream#nextByte()I*)'
+%org.apache.tika.parser.mp3.MpegStreamóð
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÃ Ã(
+
+%5void"<org.apache.tika.parser.mp3.MpegStream$HeaderBitField#add(I)V*?
+=
+field4org.apache.tika.parser.mp3.MpegStream$HeaderBitField*
+	
+%4int2add(I)¼
+¹
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÄ Ä(	
+%6int"1org.apache.tika.parser.mp3.MpegStream#nextByte()I*)'
+%org.apache.tika.parser.mp3.MpegStreamóð
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÄ Ä(
+
+%7void"<org.apache.tika.parser.mp3.MpegStream$HeaderBitField#add(I)V*?
+=
+field4org.apache.tika.parser.mp3.MpegStream$HeaderBitField*
+	
+%6int2add(I)"‘
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaÅ Å(?
+=
+field4org.apache.tika.parser.mp3.MpegStream$HeaderBitFieldB)'
+%org.apache.tika.parser.mp3.MpegStream

@@ -1,0 +1,24 @@
+
+∏org.apache.tika.parser.xml.XMLParser#getContentHandler(Lorg/xml/sax/ContentHandler;Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/parser/ParseContext;)Lorg/xml/sax/ContentHandler;K
+AD:/git_project/code/src/org/apache/tika/parser/xml/XMLParser.javaU U(."1*ˇ
+1K
+AD:/git_project/code/src/org/apache/tika/parser/xml/XMLParser.javaW& W(-¶£
+K
+AD:/git_project/code/src/org/apache/tika/parser/xml/XMLParser.javaW W(%,
+%0&org.apache.tika.sax.TextContentHandler"&org.apache.tika.sax.TextContentHandlerÑ
+Å
+K
+AD:/git_project/code/src/org/apache/tika/parser/xml/XMLParser.javaW W(4
+%1"Morg.apache.tika.sax.TextContentHandler#<init>(Lorg/xml/sax/ContentHandler;Z)V*.
+,
+%0&org.apache.tika.sax.TextContentHandler*'
+%
+handlerorg.xml.sax.ContentHandler*2"}
+K
+AD:/git_project/code/src/org/apache/tika/parser/xml/XMLParser.javaW W(5.
+,
+%0&org.apache.tika.sax.TextContentHandler:%
+handlerorg.xml.sax.ContentHandler:-
+metadata!org.apache.tika.metadata.Metadata:.
+context#org.apache.tika.parser.ParseContextB(&
+$org.apache.tika.parser.xml.XMLParser

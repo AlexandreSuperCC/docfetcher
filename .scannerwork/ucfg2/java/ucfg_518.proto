@@ -1,0 +1,49 @@
+
+Jnet.sourceforge.docfetcher.util.collect.LazyList#getList()Ljava/util/List;W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.java< <("3*Ñ
+2W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.java>
+ >(Œ‰
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.java> >(
+%1java.util.ArrayList"java.util.ArrayListž
+›
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.java>
+ >(
+%2"java.util.ArrayList#<init>()V*
+
+%1java.util.ArrayList½
+º
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.java> >(<2
+0net.sourceforge.docfetcher.util.collect.LazyList"
+list"__id*
+
+%1java.util.ArrayList*
+1*Ÿ
+3W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.java= =(
+¸
+µ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.java= =(
+
+%0java.util.List"__id*>*<2
+0net.sourceforge.docfetcher.util.collect.LazyList"
+list*
+2
+1*Š
+1W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.java?	 ?(¸
+µ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.java?	 ?(
+%3java.util.List"__id*>*<2
+0net.sourceforge.docfetcher.util.collect.LazyList"
+list"q
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/LazyList.java? ?(
+
+%3java.util.ListB42
+0net.sourceforge.docfetcher.util.collect.LazyList

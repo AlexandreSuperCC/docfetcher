@@ -1,0 +1,29 @@
+
+4net.sourceforge.docfetcher.util.Util#getTimestamp()JM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÉ! É(-"4*ø
+2M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÐ Ð(›
+˜
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÐ Ð(,
+
+%1long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+2
+1*ø
+4M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÎ Î(›
+˜
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÎ Î(0
+
+%0long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+2
+1*«
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÑ Ñ("W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÒ Ò(
+""B("&
+$net.sourceforge.docfetcher.util.Util

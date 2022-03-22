@@ -1,0 +1,57 @@
+
+´org.apache.tika.config.TikaConfig$TranslatorXmlLoader#preLoadOne(Ljava/lang/Class;Ljava/lang/String;Lorg/apache/tika/mime/MimeTypes;)Lorg/apache/tika/language/translate/Translator;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java ("startingBlock*ê
+startingBlockJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java ‘(2›
+˜
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java (
+%0"
+__annotate*
+java.lang.Override* 
+
+loadedClassjava.lang.Class…
+‚
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java: (E
+loadedClassjava.lang.Class"__annotation*
+
+%0š
+—
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java (
+%1"
+__annotate*
+java.lang.Override*
+
+	classnamejava.lang.String„
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaN (W
+	classnamejava.lang.String"__annotation*
+
+%1¨
+¥
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java (
+%2"
+__annotate*
+java.lang.Override*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes’
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java‘( ‘(1+
+	mimeTypesorg.apache.tika.mime.MimeTypes"__annotation*
+
+%2*
+1*¥
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java“ “("T
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java“ “(
+"":
+loadedClassjava.lang.Class:
+	classnamejava.lang.String:+
+	mimeTypesorg.apache.tika.mime.MimeTypesB97
+5org.apache.tika.config.TikaConfig$TranslatorXmlLoader

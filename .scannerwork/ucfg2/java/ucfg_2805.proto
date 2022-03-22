@@ -1,0 +1,51 @@
+
+%org.apache.tika.mime.OrClause#size()ID
+:D:/git_project/code/src/org/apache/tika/mime/OrClause.java& &("4*ï
+2D
+:D:/git_project/code/src/org/apache/tika/mime/OrClause.java( ((}
+{
+D
+:D:/git_project/code/src/org/apache/tika/mime/OrClause.java( ((%
+clauseorg.apache.tika.mime.Clause"__id*
+""œ
+™
+D
+:D:/git_project/code/src/org/apache/tika/mime/OrClause.java( ((%
+clauseorg.apache.tika.mime.Clause"
+__arrayGet*
+
+%0java.util.List*
+""*
+3
+1*”
+3D
+:D:/git_project/code/src/org/apache/tika/mime/OrClause.java) )(ª§
+D
+:D:/git_project/code/src/org/apache/tika/mime/OrClause.java)" )(/	
+%1int"#org.apache.tika.mime.Clause#size()I*'
+%
+clauseorg.apache.tika.mime.Clause2size()–
+“
+D
+:D:/git_project/code/src/org/apache/tika/mime/OrClause.java) )(0	
+%2int"java.lang.Math#max(II)I*"
+java.lang.Math*
+""*
+	
+%1int*
+2*æ
+4D
+:D:/git_project/code/src/org/apache/tika/mime/OrClause.java( (($•
+’
+D
+:D:/git_project/code/src/org/apache/tika/mime/OrClause.java( (($
+%0java.util.List"__id*.*,
+org.apache.tika.mime.OrClause"	
+clauses*
+2*™
+1D
+:D:/git_project/code/src/org/apache/tika/mime/OrClause.java+ +("N
+D
+:D:/git_project/code/src/org/apache/tika/mime/OrClause.java+ +(
+""B!
+org.apache.tika.mime.OrClause

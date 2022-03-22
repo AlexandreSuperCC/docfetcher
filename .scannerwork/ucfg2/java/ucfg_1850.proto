@@ -1,0 +1,767 @@
+
+Çorg.apache.tika.mime.MimeTypesReader#startElement(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lorg/xml/sax/Attributes;)VM
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaí í("startingBlock*ò
+24M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¢ ¢(&x
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¢0 ¢(C
+%18java.lang.String"__id*
+""ìê
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¢ ¢(D
+%19java.lang.String"Eorg.xml.sax.Attributes#getValue(Ljava/lang/String;)Ljava/lang/String;*&
+$
+
+attributesorg.xml.sax.Attributes*
+
+%18java.lang.String2getValue(Ljava/lang/String;)è
+å
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¢ ¢(E
+parentjava.lang.String"__id*
+
+%19java.lang.String¥
+±
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java£ £(%
+%20org.apache.tika.mime.MimeTypes"__id*3*1&
+$org.apache.tika.mime.MimeTypesReader"
+types≤
+Ø
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java£ £(#$
+%21org.apache.tika.mime.MimeType"__id*2*0&
+$org.apache.tika.mime.MimeTypesReader"
+typeï
+í
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java£% £(<%
+%22org.apache.tika.mime.MediaType"Xorg.apache.tika.mime.MediaType#parse(Ljava/lang/String;)Lorg/apache/tika/mime/MediaType;*"" 
+org.apache.tika.mime.MediaType*
+
+parentjava.lang.Stringóî
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java£ £(=
+%23void"morg.apache.tika.mime.MimeTypes#setSuperType(Lorg/apache/tika/mime/MimeType;Lorg/apache/tika/mime/MediaType;)V*'
+%
+%20org.apache.tika.mime.MimeTypes*&
+$
+%21org.apache.tika.mime.MimeType*'
+%
+%22org.apache.tika.mime.MediaType2MsetSuperType(Lorg/apache/tika/mime/MimeType;Lorg/apache/tika/mime/MediaType;)*
+0*æ
+25M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java° °(#x
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java° °(#
+%16java.lang.String"__id*
+""‰·
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java° °(1
+%17boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%16java.lang.String*
+
+qNamejava.lang.String2equals(Ljava/lang/Object;)*
+24
+23*é
+26M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaü ü(%x
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaü/ ü(>
+%10java.lang.String"__id*
+""ìê
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaü ü(?
+%11java.lang.String"Eorg.xml.sax.Attributes#getValue(Ljava/lang/String;)Ljava/lang/String;*&
+$
+
+attributesorg.xml.sax.Attributes*
+
+%10java.lang.String2getValue(Ljava/lang/String;)é
+ã
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaü ü(@
+aliasjava.lang.String"__id*
+
+%11java.lang.String¥
+±
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java† †(%
+%12org.apache.tika.mime.MimeTypes"__id*3*1&
+$org.apache.tika.mime.MimeTypesReader"
+types≤
+Ø
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java† †($
+%13org.apache.tika.mime.MimeType"__id*2*0&
+$org.apache.tika.mime.MimeTypesReader"
+typeî
+ë
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java†! †(7%
+%14org.apache.tika.mime.MediaType"Xorg.apache.tika.mime.MediaType#parse(Ljava/lang/String;)Lorg/apache/tika/mime/MediaType;*"" 
+org.apache.tika.mime.MediaType*
+
+aliasjava.lang.Stringèå
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java† †(8
+%15void"iorg.apache.tika.mime.MimeTypes#addAlias(Lorg/apache/tika/mime/MimeType;Lorg/apache/tika/mime/MediaType;)V*'
+%
+%12org.apache.tika.mime.MimeTypes*&
+$
+%13org.apache.tika.mime.MimeType*'
+%
+%14org.apache.tika.mime.MediaType2IaddAlias(Lorg/apache/tika/mime/MimeType;Lorg/apache/tika/mime/MediaType;)*
+0*ª
+27M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaû û(w
+u
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaû û(
+%8java.lang.String"__id*
+""‚ﬂ
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaû û(*
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%8java.lang.String*
+
+qNamejava.lang.String2equals(Ljava/lang/Object;)*
+25
+26*å
+28M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaô ô(.±
+Æ
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaô ô(.0&
+$org.apache.tika.mime.MimeTypesReader"
+type"__id*%
+#
+%6org.apache.tika.mime.MimeType*
+0*≈
+30M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaô ô( ≥
+∞
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaô ô( $
+%5org.apache.tika.mime.MimeTypes"__id*3*1&
+$org.apache.tika.mime.MimeTypesReader"
+types≥∞
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaô ô(.#
+%6org.apache.tika.mime.MimeType"Yorg.apache.tika.mime.MimeTypes#forName(Ljava/lang/String;)Lorg/apache/tika/mime/MimeType;*&
+$
+%5org.apache.tika.mime.MimeTypes*
+
+namejava.lang.String2forName(Ljava/lang/String;)*
+28*ı
+31M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaó ó((w
+u
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaó2 ó(E
+%3java.lang.String"__id*
+""ëé
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaó ó(F
+%4java.lang.String"Eorg.xml.sax.Attributes#getValue(Ljava/lang/String;)Ljava/lang/String;*&
+$
+
+attributesorg.xml.sax.Attributes*
+
+%3java.lang.String2getValue(Ljava/lang/String;)å
+â
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaó ó(G
+namejava.lang.String"__id*
+
+%4java.lang.String*
+30*∫
+32M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javañ ñ(w
+u
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javañ ñ(
+%1java.lang.String"__id*
+""‚ﬂ
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javañ ñ(+
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%1java.lang.String*
+
+qNamejava.lang.String2equals(Ljava/lang/Object;)*
+31
+0*º
+10M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java∑ ∑(x
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java∑ ∑(
+%54java.lang.String"__id*
+""‰·
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java∑ ∑(*
+%55boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%54java.lang.String*
+
+qNamejava.lang.String2equals(Ljava/lang/Object;)*
+6
+9*ë
+33M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaï ï(±
+Æ
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaï ï(#
+%0org.apache.tika.mime.MimeType"__id*2*0&
+$org.apache.tika.mime.MimeTypesReader"
+type*
+27
+32*ú
+11M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¥ ¥()x
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¥3 ¥(>
+%48java.lang.String"__id*
+""ìê
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¥ ¥(?
+%49java.lang.String"Eorg.xml.sax.Attributes#getValue(Ljava/lang/String;)Ljava/lang/String;*&
+$
+
+attributesorg.xml.sax.Attributes*
+
+%48java.lang.String2getValue(Ljava/lang/String;)í
+è
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¥ ¥(@
+	namespacejava.lang.String"__id*
+
+%49java.lang.Stringx
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaµ. µ(=
+%50java.lang.String"__id*
+""ìê
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaµ µ(>
+%51java.lang.String"Eorg.xml.sax.Attributes#getValue(Ljava/lang/String;)Ljava/lang/String;*&
+$
+
+attributesorg.xml.sax.Attributes*
+
+%50java.lang.String2getValue(Ljava/lang/String;)ç
+ä
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaµ µ(?
+namejava.lang.String"__id*
+
+%51java.lang.String≤
+Ø
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java∂ ∂($
+%52org.apache.tika.mime.MimeType"__id*2*0&
+$org.apache.tika.mime.MimeTypesReader"
+type«ƒ
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java∂ ∂(,
+%53void"Oorg.apache.tika.mime.MimeType#addRootXML(Ljava/lang/String;Ljava/lang/String;)V*&
+$
+%52org.apache.tika.mime.MimeType*
+
+	namespacejava.lang.String*
+
+namejava.lang.String20addRootXML(Ljava/lang/String;Ljava/lang/String;)*
+0*æ
+12M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java≥ ≥(x
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java≥ ≥(
+%46java.lang.String"__id*
+""‰·
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java≥ ≥(-
+%47boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%46java.lang.String*
+
+qNamejava.lang.String2equals(Ljava/lang/Object;)*
+10
+11*Ê
+14M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaÆ Æ(Mãà
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaÆ Æ(M
+%43void"^org.apache.tika.mime.MimeTypes#addPattern(Lorg/apache/tika/mime/MimeType;Ljava/lang/String;Z)V*'
+%
+%40org.apache.tika.mime.MimeTypes*&
+$
+%41org.apache.tika.mime.MimeType*
+
+patternjava.lang.String*
+
+%42java.lang.Boolean2>addPattern(Lorg/apache/tika/mime/MimeType;Ljava/lang/String;Z)*
+0*¨
+15M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaÆ Æ(¥
+±
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaÆ Æ(%
+%40org.apache.tika.mime.MimeTypes"__id*3*1&
+$org.apache.tika.mime.MimeTypesReader"
+types≤
+Ø
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaÆ% Æ()$
+%41org.apache.tika.mime.MimeType"__id*2*0&
+$org.apache.tika.mime.MimeTypesReader"
+type‰
+·
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaÆ4 Æ(L
+%42java.lang.Boolean"@java.lang.Boolean#valueOf(Ljava/lang/String;)Ljava/lang/Boolean;*"
+java.lang.Boolean*
+
+isRegexjava.lang.String*
+14*¢	
+17M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java™ ™('x
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java™1 ™(=
+%36java.lang.String"__id*
+""ìê
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java™ ™(>
+%37java.lang.String"Eorg.xml.sax.Attributes#getValue(Ljava/lang/String;)Ljava/lang/String;*&
+$
+
+attributesorg.xml.sax.Attributes*
+
+%36java.lang.String2getValue(Ljava/lang/String;)ê
+ç
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java™ ™(?
+patternjava.lang.String"__id*
+
+%37java.lang.Stringx
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java´1 ´(=
+%38java.lang.String"__id*
+""ìê
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java´ ´(>
+%39java.lang.String"Eorg.xml.sax.Attributes#getValue(Ljava/lang/String;)Ljava/lang/String;*&
+$
+
+attributesorg.xml.sax.Attributes*
+
+%38java.lang.String2getValue(Ljava/lang/String;)ê
+ç
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java´ ´(?
+isRegexjava.lang.String"__id*
+
+%39java.lang.String*
+15
+0*æ
+18M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java© ©(x
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java© ©(
+%34java.lang.String"__id*
+""‰·
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java© ©()
+%35boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%34java.lang.String*
+
+qNamejava.lang.String2equals(Ljava/lang/Object;)*
+17
+12*º
+19M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java® ®(,ãà
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java® ®(*
+%32java.lang.StringBuilder"java.lang.StringBuilderû
+õ
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java® ®(,
+%33"!java.lang.StringBuilder#<init>()V* 
+
+%32java.lang.StringBuilder≤
+Ø
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java® ®(,6&
+$org.apache.tika.mime.MimeTypesReader"
+
+characters"__id* 
+
+%32java.lang.StringBuilder*
+0*k
+0 "d
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java   (
+implicit return*Ö
+1M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java»' »(+øº
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java» »(&8
+%761org.apache.tika.mime.MimeTypesReader$ClauseRecord"1org.apache.tika.mime.MimeTypesReader$ClauseRecordù
+ö
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java» »(,
+%77"~org.apache.tika.mime.MimeTypesReader$ClauseRecord#<init>(Lorg/apache/tika/mime/MimeTypesReader;Lorg/apache/tika/mime/Clause;)V*:
+8
+%761org.apache.tika.mime.MimeTypesReader$ClauseRecord*
+""…
+∆
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java» »(,3&
+$org.apache.tika.mime.MimeTypesReader"	
+current"__id*:
+8
+%761org.apache.tika.mime.MimeTypesReader$ClauseRecord*
+0*ù
+3M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaƒ ƒ("√
+¿
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaƒ ƒ(2
+
+%75int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+valuejava.lang.String*
+1*ç
+
+startingBlockM
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaí î("ò
+ï
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaë ë(
+%78"
+__annotate*
+java.lang.Override*
+
+urijava.lang.StringÅ
+
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaì ì(
+urijava.lang.String"__annotation*
+
+%78û
+õ
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaë ë(
+%79"
+__annotate*
+java.lang.Override*
+
+	localNamejava.lang.Stringà
+Ö
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaì ì((
+	localNamejava.lang.String"__annotation*
+
+%79ö
+ó
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaë ë(
+%80"
+__annotate*
+java.lang.Override*
+
+qNamejava.lang.StringÑ
+Å
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaì1 ì(6
+qNamejava.lang.String"__annotation*
+
+%80•
+¢
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaë ë(
+%81"
+__annotate*
+java.lang.Override*&
+$
+
+attributesorg.xml.sax.Attributesè
+å
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaî î(!$
+
+attributesorg.xml.sax.Attributes"__annotation*
+
+%81*
+33*˛
+4M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java√! √(&°û
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java√! √(/
+
+%74int"java.lang.String#length()I*
+
+valuejava.lang.String2length()*
+3
+1*˚
+5M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¬ ¬(%x
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¬/ ¬(B
+%72java.lang.String"__id*
+""ìê
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¬ ¬(C
+%73java.lang.String"Eorg.xml.sax.Attributes#getValue(Ljava/lang/String;)Ljava/lang/String;*&
+$
+
+attributesorg.xml.sax.Attributes*
+
+%72java.lang.String2getValue(Ljava/lang/String;)é
+ã
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¬ ¬(D
+valuejava.lang.String"__id*
+
+%73java.lang.String*
+4
+1*ª
+6M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¡ ¡(x
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¡ ¡(
+%70java.lang.String"__id*
+""‰·
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¡ ¡(*
+%71boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%70java.lang.String*
+
+qNamejava.lang.String2equals(Ljava/lang/Object;)*
+5
+0*®
+7M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¿# ¿('≤
+Ø
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¿# ¿('$
+%64org.apache.tika.mime.MimeType"__id*2*0&
+$org.apache.tika.mime.MimeTypesReader"
+typeıÚ
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¿# ¿(1%
+%65org.apache.tika.mime.MediaType"Gorg.apache.tika.mime.MimeType#getType()Lorg/apache/tika/mime/MediaType;*&
+$
+%64org.apache.tika.mime.MimeType2	getType()õò
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¿ ¿("&
+%66org.apache.tika.mime.MagicMatch"org.apache.tika.mime.MagicMatch≥
+∞
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¿ ¿(M
+%67"ëorg.apache.tika.mime.MagicMatch#<init>(Lorg/apache/tika/mime/MediaType;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*(
+&
+%66org.apache.tika.mime.MagicMatch*'
+%
+%65org.apache.tika.mime.MediaType*
+
+kindjava.lang.String*
+
+offsetjava.lang.String*
+
+valuejava.lang.String*
+
+maskjava.lang.Stringøº
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaø ø(&8
+%681org.apache.tika.mime.MimeTypesReader$ClauseRecord"1org.apache.tika.mime.MimeTypesReader$ClauseRecordø
+º
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaø ¿(N
+%69"~org.apache.tika.mime.MimeTypesReader$ClauseRecord#<init>(Lorg/apache/tika/mime/MimeTypesReader;Lorg/apache/tika/mime/Clause;)V*:
+8
+%681org.apache.tika.mime.MimeTypesReader$ClauseRecord*(
+&
+%66org.apache.tika.mime.MagicMatch…
+∆
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaø ¿(N3&
+$org.apache.tika.mime.MimeTypesReader"	
+current"__id*:
+8
+%681org.apache.tika.mime.MimeTypesReader$ClauseRecord*
+0*÷
+8M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaΩ Ω(}
+{
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaΩ Ω(
+kindjava.lang.String"__id*
+
+string*
+7*›
+9M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java∏ ∏($x
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java∏. ∏(=
+%56java.lang.String"__id*
+""ìê
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java∏ ∏(>
+%57java.lang.String"Eorg.xml.sax.Attributes#getValue(Ljava/lang/String;)Ljava/lang/String;*&
+$
+
+attributesorg.xml.sax.Attributes*
+
+%56java.lang.String2getValue(Ljava/lang/String;)ç
+ä
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java∏ ∏(?
+kindjava.lang.String"__id*
+
+%57java.lang.Stringx
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaπ0 π(A
+%58java.lang.String"__id*
+""ìê
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaπ π(B
+%59java.lang.String"Eorg.xml.sax.Attributes#getValue(Ljava/lang/String;)Ljava/lang/String;*&
+$
+
+attributesorg.xml.sax.Attributes*
+
+%58java.lang.String2getValue(Ljava/lang/String;)è
+å
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaπ π(C
+offsetjava.lang.String"__id*
+
+%59java.lang.Stringx
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java∫/ ∫(?
+%60java.lang.String"__id*
+""ìê
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java∫ ∫(@
+%61java.lang.String"Eorg.xml.sax.Attributes#getValue(Ljava/lang/String;)Ljava/lang/String;*&
+$
+
+attributesorg.xml.sax.Attributes*
+
+%60java.lang.String2getValue(Ljava/lang/String;)é
+ã
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java∫ ∫(A
+valuejava.lang.String"__id*
+
+%61java.lang.Stringx
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaª. ª(=
+%62java.lang.String"__id*
+""ìê
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaª ª(>
+%63java.lang.String"Eorg.xml.sax.Attributes#getValue(Ljava/lang/String;)Ljava/lang/String;*&
+$
+
+attributesorg.xml.sax.Attributes*
+
+%62java.lang.String2getValue(Ljava/lang/String;)ç
+ä
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaª ª(?
+maskjava.lang.String"__id*
+
+%63java.lang.String*
+7
+8*æ
+20M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaß ß(x
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaß ß(
+%30java.lang.String"__id*
+""‰·
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaß ß(-
+%31boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%30java.lang.String*
+
+qNamejava.lang.String2equals(Ljava/lang/Object;)*
+18
+19*æ
+21M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¶ ¶( x
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¶ ¶( 
+%28java.lang.String"__id*
+""‰·
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java¶ ¶(.
+%29boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%28java.lang.String*
+
+qNamejava.lang.String2equals(Ljava/lang/Object;)*
+19
+20*æ
+22M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java• •(x
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java• •(
+%26java.lang.String"__id*
+""‰·
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java• •(,
+%27boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%26java.lang.String*
+
+qNamejava.lang.String2equals(Ljava/lang/Object;)*
+19
+21*æ
+23M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java§ §(x
+v
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java§ §(
+%24java.lang.String"__id*
+""‰·
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.java§ §(,
+%25boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%24java.lang.String*
+
+qNamejava.lang.String2equals(Ljava/lang/Object;)*
+19
+22:
+urijava.lang.String:
+	localNamejava.lang.String:
+qNamejava.lang.String:$
+
+attributesorg.xml.sax.AttributesB(&
+$org.apache.tika.mime.MimeTypesReader

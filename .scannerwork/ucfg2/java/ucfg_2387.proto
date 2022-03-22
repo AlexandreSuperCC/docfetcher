@@ -1,0 +1,50 @@
+
+<org.apache.tika.metadata.Metadata#names()[Ljava/lang/String;J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java¸ ¸("1*è
+
+1J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java¹ ¹(Ÿ
+œ
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java¹ ¹(
+%0java.util.Map"__id*3*1#
+!org.apache.tika.metadata.Metadata"
+
+metadata¬©
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java¹ ¹( 
+%1java.util.Set"%java.util.Map#keySet()Ljava/util/Set;*
+
+%0java.util.Map2keySet()Ÿ
+œ
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java¹4 ¹(<
+%2java.util.Map"__id*3*1#
+!org.apache.tika.metadata.Metadata"
+
+metadata¬©
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java¹4 ¹(E
+%3java.util.Set"%java.util.Map#keySet()Ljava/util/Set;*
+
+%2java.util.Map2keySet()
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java¹4 ¹(L	
+%4int"java.util.Set#size()I*
+
+%3java.util.Set2size()|z
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java¹) ¹(M
+%5java.lang.String[]"java.lang.String[]ùö
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java¹ ¹(N
+%6java.lang.String[]"=java.util.Set#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
+
+%1java.util.Set*
+
+%5java.lang.String[]2toArray([Ljava/lang/Object;)"h
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java¹ ¹(O
+
+%6java.lang.String[]B%#
+!org.apache.tika.metadata.Metadata

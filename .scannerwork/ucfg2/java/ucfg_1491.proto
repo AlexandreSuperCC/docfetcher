@@ -1,0 +1,184 @@
+
+Anet.sourceforge.docfetcher.gui.indexing.RegexTestPanel#matches()Z]
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.java ("13*ˆ
+13_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaÄ Ä(–
+Õ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaÄ Ä(
+%0java.util.List"__id*N*L8
+6net.sourceforge.docfetcher.gui.indexing.RegexTestPanel"
+patternActions±Æ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaÄ Ä(
+%1boolean"java.util.List#isEmpty()Z*
+
+%0java.util.List2	isEmpty()*
+11
+12*œ
+1_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaê	 ê("i
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaê ê(
+""*Ç
+2_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaà à("π
+∂
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaà à("E
+patternAction4net.sourceforge.docfetcher.model.index.PatternAction"__id*
+""◊
+‘
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaà à("E
+patternAction4net.sourceforge.docfetcher.model.index.PatternAction"
+__arrayGet*
+
+%6java.util.List*
+""*
+7
+1*œ
+3_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaé é("i
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaé é(
+""*ö
+4_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaä å(°
+û
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaä å(
+targetjava.lang.String"__id*
+
+%12java.lang.Stringøº
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaç ç(
+%13java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*$
+"
+patternjava.util.regex.Pattern*
+
+targetjava.lang.String2!matcher(Ljava/lang/CharSequence;)≈¬
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaç ç((
+%14boolean""java.util.regex.Matcher#matches()Z* 
+
+%13java.util.regex.Matcher2	matches()*
+2
+3*è
+5_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaå å(£
+†
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaå å(
+%12java.lang.String"__id*
+
+filepathjava.lang.String*
+4*è
+6_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaã ã(£
+†
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaã ã(
+%12java.lang.String"__id*
+
+filenamejava.lang.String*
+4*÷
+7_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaâ â(§°
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaâ% â(=
+%7java.lang.String"Qnet.sourceforge.docfetcher.model.index.PatternAction#getRegex()Ljava/lang/String;*G
+E
+patternAction4net.sourceforge.docfetcher.model.index.PatternAction2
+getRegex()à
+Ö
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaâ â(>
+%8java.util.regex.Pattern"Ljava.util.regex.Pattern#compile(Ljava/lang/String;)Ljava/util/regex/Pattern;*"
+java.util.regex.Pattern*
+
+%7java.lang.StringØ
+¨
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaâ â(?"
+patternjava.util.regex.Pattern"__id*
+
+%8java.util.regex.PatternáÑ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaä ä(,F
+%9@net.sourceforge.docfetcher.model.index.PatternAction$MatchTarget"Çnet.sourceforge.docfetcher.model.index.PatternAction#getTarget()Lnet/sourceforge/docfetcher/model/index/PatternAction$MatchTarget;*G
+E
+patternAction4net.sourceforge.docfetcher.model.index.PatternAction2getTarget()ª
+∏
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaä0 ä(;G
+%10@net.sourceforge.docfetcher.model.index.PatternAction$MatchTarget"__id*
+""ª
+∏
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaä0 ä(DG
+%11@net.sourceforge.docfetcher.model.index.PatternAction$MatchTarget"__id*
+""*
+5
+6*º
+8_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaà% à(3–
+Õ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaà% à(3
+%6java.util.List"__id*N*L8
+6net.sourceforge.docfetcher.gui.indexing.RegexTestPanel"
+patternActions*
+2*Æ
+9_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaÜ Ü(%ÜÉ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaÜ Ü(
+%3java.io.File"java.io.File 
+«
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaÜ Ü(&
+%4"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%3java.io.File*
+
+filepathjava.lang.String«ƒ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaÜ Ü(0
+%5java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+%3java.io.File2	getName()¢
+ü
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaÜ Ü(1
+filenamejava.lang.String"__id*
+
+%5java.lang.String*
+8*–
+10_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaÖ
+ Ö("i
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaÖ Ö(
+""*π
+11_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaÉ É(ê
+ç
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaÉ É(-
+filepathjava.lang.String"__id*
+""µ≤
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaÑ Ñ(	
+%2int"java.lang.String#length()I*
+
+filepathjava.lang.String2length()*
+9
+10*–
+12_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaÅ
+ Å("i
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/RegexTestPanel.javaÅ Å(
+""B:8
+6net.sourceforge.docfetcher.gui.indexing.RegexTestPanel

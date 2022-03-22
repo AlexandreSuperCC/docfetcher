@@ -1,0 +1,33 @@
+
+Gorg.apache.tika.parser.mp3.ID3v2Frame#getString([BII)Ljava/lang/String;N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaÏ Ï(%"1*´
+1N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaÐ Ð(€
+~
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaÐ0 Ð(:
+%0java.nio.charset.Charset"__id*
+""|z
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaÐ Ð(
+%1java.lang.String"java.lang.Stringñ
+î
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaÐ Ð(;
+%2"8java.lang.String#<init>([BIILjava/nio/charset/Charset;)V*
+
+%1java.lang.String*
+
+databyte[]*
+""*
+""* 
+
+%0java.nio.charset.Charset"j
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaÐ Ð(<
+
+%1java.lang.String:
+databyte[]:
+"":
+""B)"'
+%org.apache.tika.parser.mp3.ID3v2Frame

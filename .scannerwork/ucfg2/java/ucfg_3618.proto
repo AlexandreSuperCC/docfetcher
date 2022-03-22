@@ -1,0 +1,23 @@
+
+Gorg.apache.tika.detect.CompositeDetector#getDetectors()Ljava/util/List;O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaX X(&"1*Ù
+1O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaY Y(­
+ª
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaY+ Y(4
+%0java.util.List"__id*;*9*
+(org.apache.tika.detect.CompositeDetector"
+	detectorsç
+ä
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaY Y(5
+%1java.util.List"Hjava.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;*"
+java.util.Collections*
+
+%0java.util.List"i
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaY Y(6
+
+%1java.util.ListB,*
+(org.apache.tika.detect.CompositeDetector

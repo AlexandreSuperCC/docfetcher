@@ -1,0 +1,23 @@
+
+tnet.sourceforge.docfetcher.model.parse.MSOfficeParser#renderText(Ljava/io/File;Ljava/lang/String;)Ljava/lang/String;^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.java³ ³("8*ß
+7^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.java¶ ¶("z
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.java¶ ¶(
+
+%0java.lang.String*»
+8^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.java¶
+ ¶(ÐÍ
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.java¶
+ ¶(
+%0java.lang.String"cnet.sourceforge.docfetcher.model.parse.MSOfficeParser#extractText(Ljava/io/File;)Ljava/lang/String;*97
+5net.sourceforge.docfetcher.model.parse.MSOfficeParser*
+
+filejava.io.File2extractText(Ljava/io/File;)*
+7:
+filejava.io.File:
+filenamejava.lang.StringB97
+5net.sourceforge.docfetcher.model.parse.MSOfficeParser

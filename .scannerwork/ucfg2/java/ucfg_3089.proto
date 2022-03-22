@@ -1,0 +1,20 @@
+
+Rorg.apache.tika.language.LanguageIdentifier#getSupportedLanguages()Ljava/util/Set;T
+HD:/git_project/code/src/org/apache/tika/language/LanguageIdentifier.javaè è(3"1*þ
+1T
+HD:/git_project/code/src/org/apache/tika/language/LanguageIdentifier.javaé é({
+y
+T
+HD:/git_project/code/src/org/apache/tika/language/LanguageIdentifier.javaé é(
+%0java.util.Map"__id*
+""¶³
+T
+HD:/git_project/code/src/org/apache/tika/language/LanguageIdentifier.javaé é( 
+%1java.util.Set"%java.util.Map#keySet()Ljava/util/Set;*
+
+%0java.util.Map2keySet()"m
+T
+HD:/git_project/code/src/org/apache/tika/language/LanguageIdentifier.javaé é(!
+
+%1java.util.SetB/"-
++org.apache.tika.language.LanguageIdentifier

@@ -1,0 +1,22 @@
+
+Nnet.sourceforge.docfetcher.util.collect.ListMap#iterator()Ljava/util/Iterator;X
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javaµ µ(&"1*Ý
+1X
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.java¶	 ¶(¸
+µ
+X
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.java¶	 ¶(
+%0java.util.List"__id*=*;1
+/net.sourceforge.docfetcher.util.collect.ListMap"
+listÊÇ
+X
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.java¶	 ¶(
+%1java.util.Iterator"-java.util.List#iterator()Ljava/util/Iterator;*
+
+%0java.util.List2
+iterator()"v
+X
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.java¶ ¶(
+
+%1java.util.IteratorB31
+/net.sourceforge.docfetcher.util.collect.ListMap

@@ -1,0 +1,21 @@
+
+dorg.apache.tika.language.ProfilingHandler#getLanguage()Lorg/apache/tika/language/LanguageIdentifier;P
+FD:/git_project/code/src/org/apache/tika/language/ProfilingHandler.java@ @()"1*Ù
+1P
+FD:/git_project/code/src/org/apache/tika/language/ProfilingHandler.javaA A(Æ
+Ã
+P
+FD:/git_project/code/src/org/apache/tika/language/ProfilingHandler.javaA A(.
+%0(org.apache.tika.language.ProfilingWriter"__id*9*7+
+)org.apache.tika.language.ProfilingHandler"
+writer®«
+P
+FD:/git_project/code/src/org/apache/tika/language/ProfilingHandler.javaA A(#1
+%1+org.apache.tika.language.LanguageIdentifier"corg.apache.tika.language.ProfilingWriter#getLanguage()Lorg/apache/tika/language/LanguageIdentifier;*0
+.
+%0(org.apache.tika.language.ProfilingWriter2getLanguage()"‡
+P
+FD:/git_project/code/src/org/apache/tika/language/ProfilingHandler.javaA A($3
+1
+%1+org.apache.tika.language.LanguageIdentifierB-+
+)org.apache.tika.language.ProfilingHandler

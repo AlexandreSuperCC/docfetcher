@@ -1,0 +1,124 @@
+
+lnet.sourceforge.docfetcher.model.parse.MediaType#get(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java7 7("startingBlock*»
+2W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java:( :(/‰·
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java:( :(@
+%3boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+subTypejava.lang.String*
+\\2startsWith(Ljava/lang/String;)*
+1*£
+3W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java8 8(ß
+§
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java8 8("
+
+%0void"Xnet.sourceforge.docfetcher.util.Util#checkNotNull(Ljava/lang/Object;Ljava/lang/Object;)V*("&
+$net.sourceforge.docfetcher.util.Util*
+
+typejava.lang.String*
+
+subTypejava.lang.String¨©
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java9	 9(	
+%1int"java.lang.String#length()I*
+
+subTypejava.lang.String2length()„‡
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java: :("
+%2boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+subTypejava.lang.String*
+/2startsWith(Ljava/lang/String;)*
+2
+1*¿	
+startingBlockW
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java7 7(I√
+¿
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java6 6(	
+%8"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+typejava.lang.String√
+¿
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java7 7(#
+%9"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+typejava.lang.Stringî
+ë
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java7+ 7(/
+typejava.lang.String"__annotation*
+
+%8*
+
+%9«
+ƒ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java6 6(	
+%10"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+subTypejava.lang.String«
+ƒ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java71 7(9
+%11"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+subTypejava.lang.Stringô
+ñ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java7A 7(H
+subTypejava.lang.String"__annotation*
+
+%10*
+
+%11*
+3*√
+1W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java: :(A°
+û
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java;	 ;(
+%4java.lang.String"__concat*
+
+typejava.lang.String*
+/Å
+
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java;* ;(8
+%5java.util.Locale"__id*
+""íè
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java; ;(9
+%6java.lang.String"Bjava.lang.String#toLowerCase(Ljava/util/Locale;)Ljava/lang/String;*
+
+subTypejava.lang.String*
+
+%5java.util.Locale2toLowerCase(Ljava/util/Locale;)≤
+Ø
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java;	 ;(9
+%7java.lang.String"__concat*
+
+%4java.lang.String*
+
+%6java.lang.String"s
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java; ;(:
+
+%7java.lang.String:
+typejava.lang.String:
+subTypejava.lang.StringB4"2
+0net.sourceforge.docfetcher.model.parse.MediaType

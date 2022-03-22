@@ -1,0 +1,28 @@
+
+^net.sourceforge.docfetcher.util.AppUtil$Messages#format([Ljava/lang/Object;)Ljava/lang/String;P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.java™ ™("1*˜
+1P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaš
+ š(´
+±
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaš š($
+%0java.lang.String"__id*?*=2
+0net.sourceforge.docfetcher.util.AppUtil$Messages"
+value›
+˜
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaš
+ š(+
+%1java.lang.String"Wjava.text.MessageFormat#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.text.MessageFormat*
+
+%0java.lang.String*
+
+argsjava.lang.Object[]"l
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaš š(,
+
+%1java.lang.String:
+argsjava.lang.Object[]B42
+0net.sourceforge.docfetcher.util.AppUtil$Messages

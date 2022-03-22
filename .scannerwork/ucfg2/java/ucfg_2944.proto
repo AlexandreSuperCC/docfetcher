@@ -1,0 +1,27 @@
+
+Onet.sourceforge.docfetcher.model.parse.ParseService#isZipEntry(Ljava/io/File;)Z\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaœ œ(""startingBlock*…
+startingBlock\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaœ" œ(6ƒ
+¡
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaœ# œ(+
+%0"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.Fileç
+ä
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaœ1 œ(5
+filejava.io.File"__annotation*
+
+%0*
+1*…
+1\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java– –(;"f
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java– –(;
+"":
+filejava.io.FileB7"5
+3net.sourceforge.docfetcher.model.parse.ParseService

@@ -1,0 +1,641 @@
+
+±net.sourceforge.docfetcher.model.parse.EpubParser#parse(Ljava/io/File;Lnet/sourceforge/docfetcher/model/parse/ParseContext;Z)Lnet/sourceforge/docfetcher/model/parse/ParseResult;X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java6 6("91*˘
+68X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java[ [(í
+è
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java[ [(+
+%17"mnet.sourceforge.docfetcher.model.parse.UtilParser#extract(Lnet/htmlparser/jericho/Element;)Ljava/lang/String;*5"3
+1net.sourceforge.docfetcher.model.parse.UtilParser*
+""*
+67*÷
+24Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaç ç(Í
+Á
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaç ç(;
+%40"Önet.sourceforge.docfetcher.model.parse.UtilParser#getSource(Ljava/util/zip/ZipFile;Ljava/lang/String;)Lnet/htmlparser/jericho/Source;*5"3
+1net.sourceforge.docfetcher.model.parse.UtilParser*"
+ 
+zipFilejava.util.zip.ZipFile*
+
+	spinePathjava.lang.String*
+18
+8*Û
+69X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaX X(@à
+Ö
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaY Y(
+creatorjava.lang.String"__id*
+""*
+68
+66*ì
+28Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaà à($´®
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaà à(+
+
+%39int"java.util.List#size()I*
+
+
+spinePathsjava.util.List2size()*
+8*Ó
+70X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaW W(Má
+Ñ
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaW W(M
+titlejava.lang.String"__id*
+
+%16*
+69*˘
+71X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaW W(Lí
+è
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaW W(L
+%16"mnet.sourceforge.docfetcher.model.parse.UtilParser#extract(Lnet/htmlparser/jericho/Element;)Ljava/lang/String;*5"3
+1net.sourceforge.docfetcher.model.parse.UtilParser*
+""*
+70*¢
+73X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaT T(ª
+∏
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaT T(6
+%15"tnet.sourceforge.docfetcher.model.parse.EpubParser#maybeThrow(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*5"3
+1net.sourceforge.docfetcher.model.parse.EpubParser*
+""* 
+No spine element in OPF file*
+71*•
+74X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaS S(æ
+ª
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaS S(<
+%14"tnet.sourceforge.docfetcher.model.parse.EpubParser#maybeThrow(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*5"3
+1net.sourceforge.docfetcher.model.parse.EpubParser*
+""*#!
+No manifest element in OPF file*
+73*Ë
+30Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaÉ É(.ˇ¸
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaÉ É(.
+%38"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*%
+#
+contentsjava.lang.StringBuilder*
+
+%372append(Ljava/lang/Object;)*
+28*•
+75X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaQ Q(<æ
+ª
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaR R(<
+%13"tnet.sourceforge.docfetcher.model.parse.EpubParser#maybeThrow(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*5"3
+1net.sourceforge.docfetcher.model.parse.EpubParser*
+""*#!
+No metadata element in OPF file*
+74*¸
+31Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaÉ É(ì
+ê
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaÉ É(-
+%37"lnet.sourceforge.docfetcher.model.parse.UtilParser#render(Lnet/htmlparser/jericho/Segment;)Ljava/lang/String;*5"3
+1net.sourceforge.docfetcher.model.parse.UtilParser*
+""*
+30*Å
+76X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaP P(Bö
+ó
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaQ Q(;
+%12"jnet.sourceforge.docfetcher.model.parse.EpubParser#getFirstOpfElement(LSegment;Ljava/lang/String;)LElement;*5"3
+1net.sourceforge.docfetcher.model.parse.EpubParser*
+""*	
+spine*
+75*Ñ
+77X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaO O(Bù
+ö
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaP P(A
+%11"jnet.sourceforge.docfetcher.model.parse.EpubParser#getFirstOpfElement(LSegment;Ljava/lang/String;)LElement;*5"3
+1net.sourceforge.docfetcher.model.parse.EpubParser*
+""*
+
+manifest*
+76*˜
+33Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaÄ Ä(Ré
+ã
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaÄ Ä(R
+descriptionjava.lang.String"__id*
+""*
+31*Ñ
+78X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaO O(*ù
+ö
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaO O(A
+%10"jnet.sourceforge.docfetcher.model.parse.EpubParser#getFirstOpfElement(LSegment;Ljava/lang/String;)LElement;*5"3
+1net.sourceforge.docfetcher.model.parse.EpubParser*
+""*
+
+metadata*
+77*£
+79X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaM M(@º
+π
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaN N(:
+%9"tnet.sourceforge.docfetcher.model.parse.EpubParser#maybeThrow(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*5"3
+1net.sourceforge.docfetcher.model.parse.EpubParser*
+""*" 
+No package element in OPF file*
+78*ï
+38X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaz z(0™
+ß
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaz z(0#
+contentsjava.lang.StringBuilder"__id* 
+
+%35java.lang.StringBuilder*
+28
+33*©
+39X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaz z(/ñì
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaz  z(-
+%35java.lang.StringBuilder"java.lang.StringBuilder©
+¶
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaz z(/
+%36"!java.lang.StringBuilder#<init>()V* 
+
+%35java.lang.StringBuilder*
+38*Ç
+80X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaJ J(=õ
+ò
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaM M(?
+%8"jnet.sourceforge.docfetcher.model.parse.EpubParser#getFirstOpfElement(LSegment;Ljava/lang/String;)LElement;*5"3
+1net.sourceforge.docfetcher.model.parse.EpubParser*
+""*	
+package*
+79*◊
+81X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaI I(>à
+Ö
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaI I(>
+opfPathjava.lang.String"__id*
+""Â
+‚
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaJ J(<
+%7"Önet.sourceforge.docfetcher.model.parse.UtilParser#getSource(Ljava/util/zip/ZipFile;Ljava/lang/String;)Lnet/htmlparser/jericho/Source;*5"3
+1net.sourceforge.docfetcher.model.parse.UtilParser*"
+ 
+zipFilejava.util.zip.ZipFile*
+
+opfPathjava.lang.String*
+80*≤
+83X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaG G(FÀ
+»
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaH H(J
+%6"tnet.sourceforge.docfetcher.model.parse.EpubParser#maybeThrow(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*5"3
+1net.sourceforge.docfetcher.model.parse.EpubParser*
+""*1/
+-No rootfile element in META-INF/container.xml*
+81*
+85X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaE E(§
+°
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaE E( 
+zipFilejava.util.zip.ZipFile"__id*
+
+%3java.util.zip.ZipFile‚
+ﬂ
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaF F(S
+%5"Önet.sourceforge.docfetcher.model.parse.UtilParser#getSource(Ljava/util/zip/ZipFile;Ljava/lang/String;)Lnet/htmlparser/jericho/Source;*5"3
+1net.sourceforge.docfetcher.model.parse.UtilParser*"
+ 
+zipFilejava.util.zip.ZipFile*
+META-INF/container.xml*
+83*ß
+41X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javav v(º
+π
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javav v(
+%34boolean"
+__arrayAdd*
+
+
+spinePathsjava.util.List*: *
+
+subPathjava.lang.String*
+39
+55*ƒ
+86X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaE E(ëé
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaE E(
+%3java.util.zip.ZipFile"java.util.zip.ZipFile…
+∆
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaE E(
+%4"-java.util.zip.ZipFile#<init>(Ljava/io/File;)V*
+
+%3java.util.zip.ZipFile*
+
+filejava.io.File*
+85*£
+42X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javat t(;∏
+µ
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javat t(;
+%33boolean"
+__arrayAdd*
+
+
+spinePathsjava.util.List*: *
+
+%32java.lang.String*
+39
+55*ˆ
+87X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaC C(#è
+å
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaC C(#
+filejava.io.File"__id*
+
+%1java.io.File*
+86*©
+43X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javat t(:¬ø
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javat t(:
+%32java.lang.String"(java.io.File#getPath()Ljava/lang/String;*
+
+%30java.io.File2	getPath()*
+42*§
+88X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaC C(#~|
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaC C(
+%1java.io.File"java.io.FileΩ
+∫
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaC C(#
+%2"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%1java.io.File*
+
+%0java.lang.String*
+87*◊
+44X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javat t(}
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javat t(
+%30java.io.File"java.io.FileÔ
+Ï
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javat t(0
+%31"6java.io.File#<init>(Ljava/io/File;Ljava/lang/String;)V*
+
+%30java.io.File*
+
+	opfParentjava.io.File*
+
+subPathjava.lang.String*
+43*©
+89X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaC C(¬ø
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaC C("
+%0java.lang.String"(java.io.File#getPath()Ljava/lang/String;*
+
+filejava.io.File2	getPath()*
+88*Ä
+45X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javar r(7ï
+í
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javar r(7
+	opfParentjava.io.File"__id*
+
+%29java.io.File*
+41
+44*≠
+46X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javar r(6∆√
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javar r(6
+%29java.io.File"*java.io.File#getParentFile()Ljava/io/File;*
+
+%27java.io.File2getParentFile()*
+45*¨
+47X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javar r(%}
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javar r(
+%27java.io.File"java.io.Fileƒ
+¡
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javar r(&
+%28"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%27java.io.File*
+
+opfPathjava.lang.String*
+46*Ç
+48X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javao o(2õ
+ò
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javao o(2
+subPathjava.lang.String"__id*
+
+%26java.lang.String*
+47*¯
+91X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java8 8(ç
+ä
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java8 8( 
+zipFilejava.util.zip.ZipFile"__id*
+""*
+86
+89*©
+50X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javao o(2¬ø
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javao o(2
+%26java.lang.String"(java.net.URI#getPath()Ljava/lang/String;*
+
+%24java.net.URI2	getPath()*
+48*¨
+51X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javao  o('}
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javao o(
+%24java.net.URI"java.net.URIƒ
+¡
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javao o((
+%25"(java.net.URI#<init>(Ljava/lang/String;)V*
+
+%24java.net.URI*
+
+subPathjava.lang.String*
+50*¯
+54X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javai i(Kâ
+Ü
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javai i(K
+subPathjava.lang.String"__id*
+
+%23*
+39
+51
+55*Á
+10Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaû û(0ˇ¸
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaû û(0
+%47"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*%
+#
+contentsjava.lang.StringBuilder*
+
+%462append(Ljava/lang/Object;)*
+8*˝
+55X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javai i(Jñ
+ì
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javai i(J
+%23"__mapGet*
+
+itemIdToRefjava.util.Map*
+""*
+54*˝
+11Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaû û(î
+ë
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaû û(/
+%46"mnet.sourceforge.docfetcher.model.parse.UtilParser#extract(Lnet/htmlparser/jericho/Element;)Ljava/lang/String;*5"3
+1net.sourceforge.docfetcher.model.parse.UtilParser*
+""*
+10*Á
+12Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaú ú(/ˇ¸
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaú ú(/
+%45"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*%
+#
+contentsjava.lang.StringBuilder*
+
+%442append(Ljava/lang/Object;)*
+8*¸
+13Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaú ú(ì
+ê
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaú ú(.
+%44"lnet.sourceforge.docfetcher.model.parse.UtilParser#render(Lnet/htmlparser/jericho/Segment;)Ljava/lang/String;*5"3
+1net.sourceforge.docfetcher.model.parse.UtilParser*
+""*
+12*ã
+58X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javag g(6†
+ù
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javag g(6
+
+spinePathsjava.util.List"__id*
+
+%21java.util.LinkedList*
+39
+55*ù
+59X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javag g(5êç
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javag! g(3
+%21java.util.LinkedList"java.util.LinkedList£
+†
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javag g(5
+%22"java.util.LinkedList#<init>()V*
+
+%21java.util.LinkedList*
+58*Ü
+15Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaô ô(ôñ
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaô ô(
+%43java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
+#
+contentsjava.lang.StringBuilder*
+\n\n2append(Ljava/lang/String;)*
+13
+11*Ç
+17Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaó" ó(#ëé
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaó ó(0
+%42void"Dnet.sourceforge.docfetcher.model.index.IndexingReporter#subInfo(II)V*@
+>
+%417net.sourceforge.docfetcher.model.index.IndexingReporter*
+""*
+""2subInfo(II)*
+13
+15
+11*’
+18Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaó ó(ÏÈ
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaó ó(>
+%417net.sourceforge.docfetcher.model.index.IndexingReporter"znet.sourceforge.docfetcher.model.parse.ParseContext#getReporter()Lnet/sourceforge/docfetcher/model/index/IndexingReporter;*@
+>
+context3net.sourceforge.docfetcher.model.parse.ParseContext2getReporter()*
+17*˚
+4Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java• ß("ô
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java• ß(;
+9
+%512net.sourceforge.docfetcher.model.parse.ParseResult*É
+5Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaß ß(úô
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java•
+ ß(9
+%512net.sourceforge.docfetcher.model.parse.ParseResult"Ñnet.sourceforge.docfetcher.model.parse.ParseResult#addAuthor(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*;
+9
+%502net.sourceforge.docfetcher.model.parse.ParseResult*
+
+creatorjava.lang.String2addAuthor(Ljava/lang/String;)*
+4*ˇ
+6Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java¶ ¶(òï
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java•
+ ¶(9
+%502net.sourceforge.docfetcher.model.parse.ParseResult"Énet.sourceforge.docfetcher.model.parse.ParseResult#setTitle(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*;
+9
+%482net.sourceforge.docfetcher.model.parse.ParseResult*
+
+titlejava.lang.String2setTitle(Ljava/lang/String;)*
+5*ÿ
+7Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java• •("ŒÀ
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java• •(9
+%482net.sourceforge.docfetcher.model.parse.ParseResult"2net.sourceforge.docfetcher.model.parse.ParseResult†
+ù
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java•
+ •(#
+%49"Tnet.sourceforge.docfetcher.model.parse.ParseResult#<init>(Ljava/lang/CharSequence;)V*;
+9
+%482net.sourceforge.docfetcher.model.parse.ParseResult*%
+#
+contentsjava.lang.StringBuilder*
+6*¨
+8Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaä ä(å
+â
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaä ä(
+	spinePathjava.lang.String"__id*
+""≤
+Ø
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaä ä(
+	spinePathjava.lang.String"
+__arrayGet*
+
+
+spinePathsjava.util.List*
+""*
+24
+7*…
+61X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javab b(3Ö
+Ç
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javab b(3
+hrefjava.lang.String"__id*
+""÷
+”
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javac c(
+%20java.lang.String"__mapSet*
+
+itemIdToRefjava.util.Map*
+
+idjava.lang.String*
+
+hrefjava.lang.String*
+59
+62*Í
+62X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaa a(/É
+Ä
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaa a(/
+idjava.lang.String"__id*
+""*
+61*à
+65X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java_ _(Cù
+ö
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java_ _(C
+itemIdToRefjava.util.Map"__id*
+
+%18java.util.HashMap*
+59
+62*ë
+66X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java_% _(Bäá
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java_) _(@
+%18java.util.HashMap"java.util.HashMapù
+ö
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java_% _(B
+%19"java.util.HashMap#<init>()V*
+
+%18java.util.HashMap*
+65*
+67X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java[ [(+â
+Ü
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java[ [(+
+creatorjava.lang.String"__id*
+
+%17*
+66:
+filejava.io.File:>
+context3net.sourceforge.docfetcher.model.parse.ParseContext:
+""B53
+1net.sourceforge.docfetcher.model.parse.EpubParser

@@ -1,0 +1,16 @@
+
+rorg.apache.tika.parser.chm.core.ChmExtractor#getChmItsfHeader()Lorg/apache/tika/parser/chm/accessor/ChmItsfHeader;U
+ID:/git_project/code/src/org/apache/tika/parser/chm/core/ChmExtractor.java… …(*"1*Ð
+1U
+ID:/git_project/code/src/org/apache/tika/parser/chm/core/ChmExtractor.java† †(Þ
+Û
+U
+ID:/git_project/code/src/org/apache/tika/parser/chm/core/ChmExtractor.java† †(7
+%01org.apache.tika.parser.chm.accessor.ChmItsfHeader"__id*C*A.
+,org.apache.tika.parser.chm.core.ChmExtractor"
+chmItsfHeader"’
+U
+ID:/git_project/code/src/org/apache/tika/parser/chm/core/ChmExtractor.java† †(9
+7
+%01org.apache.tika.parser.chm.accessor.ChmItsfHeaderB0.
+,org.apache.tika.parser.chm.core.ChmExtractor

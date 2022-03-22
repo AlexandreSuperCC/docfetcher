@@ -1,0 +1,545 @@
+
+Mnet.sourceforge.docfetcher.build.BuildMain#createMacOsXBuild(Ljava/io/File;)VS
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.java¼ ¼(&"5*ío
+2S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.java½ ½(L”
+‘
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.java½ ½(L
+suffixjava.lang.String"__id*
+
+%1java.lang.String¼
+¹
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.java¾ ¾(?
+%4java.lang.String"bnet.sourceforge.docfetcher.build.U#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*&"$
+"net.sourceforge.docfetcher.build.U* 
+Creating Mac OS X build%s...*
+
+suffixjava.lang.Stringì
+é
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.java¾ ¾(@
+
+%5void"Bnet.sourceforge.docfetcher.util.Util#println([Ljava/lang/Object;)V*("&
+$net.sourceforge.docfetcher.util.Util*
+
+%4java.lang.String}
+{
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÀ+ À(2
+%6java.lang.String"__id*
+""¨
+¥
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÀ À(3
+%7java.lang.String"bnet.sourceforge.docfetcher.build.U#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*&"$
+"net.sourceforge.docfetcher.build.U*
+build/%s.app*
+
+%6java.lang.String”
+‘
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÀ À(4
+appDirjava.lang.String"__id*
+
+%7java.lang.String§
+¤
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÁ Á(+
+%8java.lang.String"__concat*
+
+appDirjava.lang.String*
+	/Contents™
+–
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÁ Á(,
+contentsDirjava.lang.String"__id*
+
+%8java.lang.String­
+ª
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÂ Â(2
+%9java.lang.String"__concat*!
+
+contentsDirjava.lang.String*
+
+/Resourcesš
+—
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÂ Â(3 
+resourcesDirjava.lang.String"__id*
+
+%9java.lang.String©
+¦
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÄ Ä(-
+%10java.lang.String"__concat*"
+ 
+resourcesDirjava.lang.String*
+/img‰
+†
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÄ Ä(.
+%11void"Qnet.sourceforge.docfetcher.build.U#copyDir(Ljava/lang/String;Ljava/lang/String;)V*&"$
+"net.sourceforge.docfetcher.build.U*
+
+dist/img*
+
+%10java.lang.Stringª
+§
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÅ Å(/
+%12java.lang.String"__concat*"
+ 
+resourcesDirjava.lang.String*	
+/helpŠ
+‡
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÅ Å(0
+%13void"Qnet.sourceforge.docfetcher.build.U#copyDir(Ljava/lang/String;Ljava/lang/String;)V*&"$
+"net.sourceforge.docfetcher.build.U*
+	dist/help*
+
+%12java.lang.Stringª
+§
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÆ Æ(/
+%14java.lang.String"__concat*"
+ 
+resourcesDirjava.lang.String*	
+/langŠ
+‡
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÆ Æ(0
+%15void"Qnet.sourceforge.docfetcher.build.U#copyDir(Ljava/lang/String;Ljava/lang/String;)V*&"$
+"net.sourceforge.docfetcher.build.U*
+	dist/lang*
+
+%14java.lang.Stringzx
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÇ  Ç($
+%16java.io.File"java.io.Fileà
+Ý
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÇ Ç(:
+%17":java.io.File#<init>(Ljava/lang/String;Ljava/lang/String;)V*
+
+%16java.io.File*"
+ 
+resourcesDirjava.lang.String*
+helpƒ
+€
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÇ Ç(;
+%18void"Unet.sourceforge.docfetcher.build.BuildMain#updateManualVersionNumber(Ljava/io/File;)V*.",
+*net.sourceforge.docfetcher.build.BuildMain*
+
+%16java.io.File~
+|
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÊ( Ê(/
+%19java.lang.String"__id*
+""Ì
+É
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÊ Ê(0
+%20java.lang.String"bnet.sourceforge.docfetcher.build.U#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*&"$
+"net.sourceforge.docfetcher.build.U*
+
+%s/%s.icns*"
+ 
+resourcesDirjava.lang.String*
+
+%19java.lang.Stringœ
+™
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÈ Ê(1
+%21void"Xnet.sourceforge.docfetcher.build.U#copyBinaryFile(Ljava/lang/String;Ljava/lang/String;)V*&"$
+"net.sourceforge.docfetcher.build.U*
+dist/DocFetcher.icns*
+
+%20java.lang.Stringzx
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaË Ë(
+%22java.io.File"java.io.FileÃ
+À
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaË Ë('
+%23"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%22java.io.File*!
+
+contentsDirjava.lang.Stringù
+ö
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaË Ë((
+%24void"Knet.sourceforge.docfetcher.build.BuildMain#deployInfoPlist(Ljava/io/File;)V*.",
+*net.sourceforge.docfetcher.build.BuildMain*
+
+%22java.io.File“
+
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÍ Í(G
+%25java.lang.String"Unet.sourceforge.docfetcher.build.U#readPatterns(Ljava/lang/String;)Ljava/lang/String;*&"$
+"net.sourceforge.docfetcher.build.U*!
+lib/excluded_jar_patterns.txt›
+˜
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÍ Í(H 
+excludedLibsjava.lang.String"__id*
+
+%25java.lang.String©
+¦
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÎ Î(,
+%26java.lang.String"__concat*"
+ 
+resourcesDirjava.lang.String*
+/libÞ
+Û
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÎ Î(G
+%27void"ynet.sourceforge.docfetcher.build.U#copyFlatten(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*&"$
+"net.sourceforge.docfetcher.build.U*
+lib*
+
+%26java.lang.String*
+
+**/*.jar*"
+ 
+excludedLibsjava.lang.String­
+ª
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÏ Ï(0
+%28java.lang.String"__concat*"
+ 
+resourcesDirjava.lang.String*
+
+/lib/swtÉ
+Æ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÏ Ï(J
+%29void"ynet.sourceforge.docfetcher.build.U#copyFlatten(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*&"$
+"net.sourceforge.docfetcher.build.U*
+lib*
+
+%28java.lang.String*
+**/swt*mac*.jar*
+""©
+¦
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÐ Ð(,
+%30java.lang.String"__concat*"
+ 
+resourcesDirjava.lang.String*
+/libÄ
+Á
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÐ Ð(A
+%31void"ynet.sourceforge.docfetcher.build.U#copyFlatten(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*&"$
+"net.sourceforge.docfetcher.build.U*
+lib*
+
+%30java.lang.String*
+
+**/*.dylib*
+""ÄÁ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÒ" Ò(6
+%32java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+
+tmpMainJarjava.io.File2	getName()ª
+§
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÒ Ò(B
+%33java.lang.String"gnet.sourceforge.docfetcher.build.U#removePrefix(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*&"$
+"net.sourceforge.docfetcher.build.U*
+
+%32java.lang.String*	
+macosx_–
+“
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÒ Ò(C
+jarNamejava.lang.String"__id*
+
+%33java.lang.StringÏ
+Ì
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÓ Ó(B
+%34java.lang.String"bnet.sourceforge.docfetcher.build.U#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*&"$
+"net.sourceforge.docfetcher.build.U*
+	%s/lib/%s*"
+ 
+resourcesDirjava.lang.String*
+
+jarNamejava.lang.String™
+–
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÓ Ó(C
+
+dstMainJarjava.lang.String"__id*
+
+%34java.lang.StringÄÁ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÔ Ô('
+%35java.lang.String"(java.io.File#getPath()Ljava/lang/String;*
+
+
+tmpMainJarjava.io.File2	getPath()¤
+¡
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÔ Ô(4
+%36void"Xnet.sourceforge.docfetcher.build.U#copyBinaryFile(Ljava/lang/String;Ljava/lang/String;)V*&"$
+"net.sourceforge.docfetcher.build.U*
+
+%35java.lang.String* 
+
+
+dstMainJarjava.lang.String~
+|
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÖ9 Ö(@
+%37java.lang.String"__id*
+""Ì
+É
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÖ Ö(A
+%38java.lang.String"bnet.sourceforge.docfetcher.build.U#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*&"$
+"net.sourceforge.docfetcher.build.U*
+%s/MacOS/%s*!
+
+contentsDirjava.lang.String*
+
+%37java.lang.String—
+”
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÖ Ö(B
+launcherjava.lang.String"__id*
+
+%38java.lang.String™
+–
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaØ6 Ø(=1
+%39*net.sourceforge.docfetcher.build.U$LineSep"__id*
+""™
+–
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaØ6 Ø(B1
+%40*net.sourceforge.docfetcher.build.U$LineSep"__id*
+""~
+|
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÙ Ù(
+%41java.lang.String"__id*
+""±®
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÚ Ú((
+%42java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+""2	getName()ÿ
+ü
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.java× Û(
+%43void"•net.sourceforge.docfetcher.build.U#copyTextFile(Ljava/lang/String;Ljava/lang/String;Lnet/sourceforge/docfetcher/build/U$LineSep;[Ljava/lang/String;)V*&"$
+"net.sourceforge.docfetcher.build.U*)'
+%dist/launchers/launcher-macosx-app.sh*
+
+launcherjava.lang.String*3
+1
+%40*net.sourceforge.docfetcher.build.U$LineSep*
+${app_name}*
+
+%41java.lang.String*
+${main_class}*
+
+%42java.lang.StringØ
+Õ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÜ Þ(
+%44void"anet.sourceforge.docfetcher.build.BuildMain#makeExecutable(Ljava/lang/String;[Ljava/lang/String;)V*.",
+*net.sourceforge.docfetcher.build.BuildMain*><
+:Cannot make the Mac OS X launcher shell script executable.*
+
+launcherjava.lang.String´
+±
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaà# à(C
+%45java.lang.String"__concat*"
+ 
+resourcesDirjava.lang.String*
+/misc/paths.txt™
+–
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaàE à(L1
+%46*net.sourceforge.docfetcher.build.U$LineSep"__id*
+""™
+–
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaàE à(T1
+%47*net.sourceforge.docfetcher.build.U$LineSep"__id*
+""‰
+†
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaà à(U
+%48void"•net.sourceforge.docfetcher.build.U#copyTextFile(Ljava/lang/String;Ljava/lang/String;Lnet/sourceforge/docfetcher/build/U$LineSep;[Ljava/lang/String;)V*&"$
+"net.sourceforge.docfetcher.build.U*
+dist/paths.txt*
+
+%45java.lang.String*3
+1
+%47*net.sourceforge.docfetcher.build.U$LineSep·
+´
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaâ- ã(
+%49java.lang.String"__concat*"
+ 
+resourcesDirjava.lang.String*
+/misc/licenses.zipž
+›
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaâ ã(
+%50void"Xnet.sourceforge.docfetcher.build.U#copyBinaryFile(Ljava/lang/String;Ljava/lang/String;)V*&"$
+"net.sourceforge.docfetcher.build.U*
+build/tmp/licenses.zip*
+
+%49java.lang.Stringª
+§
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaæ æ(/
+%51java.lang.String"__concat*"
+ 
+resourcesDirjava.lang.String*	
+/py4jŠ
+‡
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaæ æ(0
+%52void"Qnet.sourceforge.docfetcher.build.U#copyDir(Ljava/lang/String;Ljava/lang/String;)V*&"$
+"net.sourceforge.docfetcher.build.U*
+	dist/py4j*
+
+%51java.lang.String¯
+¬
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaè è(0
+%53java.lang.String"__concat*"
+ 
+resourcesDirjava.lang.String*
+
+/search.py™
+–
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaè2 è(91
+%54*net.sourceforge.docfetcher.build.U$LineSep"__id*
+""™
+–
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaè2 è(A1
+%55*net.sourceforge.docfetcher.build.U$LineSep"__id*
+""‰
+†
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaç è(B
+%56void"•net.sourceforge.docfetcher.build.U#copyTextFile(Ljava/lang/String;Ljava/lang/String;Lnet/sourceforge/docfetcher/build/U$LineSep;[Ljava/lang/String;)V*&"$
+"net.sourceforge.docfetcher.build.U*
+dist/search.py*
+
+%53java.lang.String*3
+1
+%55*net.sourceforge.docfetcher.build.U$LineSep¯
+¬
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaé6 é(Q
+%57java.lang.String"__concat*"
+ 
+resourcesDirjava.lang.String*
+
+/search.pyº
+·
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaé é(R
+%58void"anet.sourceforge.docfetcher.build.BuildMain#makeExecutable(Ljava/lang/String;[Ljava/lang/String;)V*.",
+*net.sourceforge.docfetcher.build.BuildMain*%#
+!Cannot make search.py executable.*
+
+%57java.lang.Stringu
+s
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaë ë(
+%59boolean"__id*
+""*
+0
+1*ð
+3S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.java½* ½(K
+
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.java½* ½(K
+%1java.lang.String"__id*
+
+%3java.lang.String*
+2*ð
+4S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.java½% ½('
+
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.java½% ½('
+%1java.lang.String"__id*
+
+%2java.lang.String*
+2*Ö
+5S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.java½ ½(t
+r
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.java½ ½("
+%0boolean"__id*
+""*
+3
+4*q
+0 "j
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaï ï(
+implicit return*„	
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaì ì(~
+|
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaì0 ì(7
+%60java.lang.String"__id*
+""~
+|
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaì9 ì(@
+%61java.lang.String"__id*
+""È
+Å
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaì ì(A
+%62java.lang.String"bnet.sourceforge.docfetcher.build.U#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*&"$
+"net.sourceforge.docfetcher.build.U*
+build/%s-%s.dmg*
+
+%60java.lang.String*
+
+%61java.lang.String–
+“
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaì ì(B
+dmgPathjava.lang.String"__id*
+
+%62java.lang.StringÀ
+½
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaí í(=
+%63void"Onet.sourceforge.docfetcher.build.U#exec(Ljava/lang/String;[Ljava/lang/Object;)V*&"$
+"net.sourceforge.docfetcher.build.U*#!
+hdiutil create -srcfolder %s %s*
+
+appDirjava.lang.String*
+
+dmgPathjava.lang.String*
+0:
+
+tmpMainJarjava.io.FileB.",
+*net.sourceforge.docfetcher.build.BuildMain

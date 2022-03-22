@@ -1,0 +1,57 @@
+
+—net.sourceforge.docfetcher.util.gui.CocoaUIEnhancer#invoke(Ljava/lang/Object;Ljava/lang/String;[Ljava/lang/Class;[Ljava/lang/Object;)Ljava/lang/Object;\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java² ²("6*Û
+3\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaµ µ(."x
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaµ µ(.
+
+%2java.lang.Object*õ
+4\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java´ ´(R¨
+¥
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java´ ´(R
+mjava.lang.reflect.Method"__id* 
+
+%1java.lang.reflect.MethodáÞ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaµ µ(-
+%2java.lang.Object"Xjava.lang.reflect.Method#invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;*
+
+mjava.lang.reflect.Method*
+
+objjava.lang.Object*!
+
+	argumentsjava.lang.Object[]2-invoke(Ljava/lang/Object;[Ljava/lang/Object;)*
+3*ä
+5\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java´9 ´(Cûø
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java´ ´(Q
+%1java.lang.reflect.Method"ajava.lang.Class#getDeclaredMethod(Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method;*
+
+%0java.lang.Class* 
+
+
+methodNamejava.lang.String*!
+
+
+paramTypesjava.lang.Class[]27getDeclaredMethod(Ljava/lang/String;[Ljava/lang/Class;)*
+4*¶
+6\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java´ ´(ÍÊ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java´ ´(%
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+objjava.lang.Object2
+getClass()*
+5:
+objjava.lang.Object:
+
+methodNamejava.lang.String:
+
+paramTypesjava.lang.Class[]:
+	argumentsjava.lang.Object[]B75
+3net.sourceforge.docfetcher.util.gui.CocoaUIEnhancer

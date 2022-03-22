@@ -1,0 +1,20 @@
+
+9net.sourceforge.docfetcher.util.Event#getListenerCount()IN
+BD:/git_project/code/src/net/sourceforge/docfetcher/util/Event.java” ”("1*ò
+1N
+BD:/git_project/code/src/net/sourceforge/docfetcher/util/Event.java•	 •(©
+¦
+N
+BD:/git_project/code/src/net/sourceforge/docfetcher/util/Event.java•	 •(
+%0java.util.List"__id*8*6'
+%net.sourceforge.docfetcher.util.Event"
+	listeners–“
+N
+BD:/git_project/code/src/net/sourceforge/docfetcher/util/Event.java•	 •(	
+%1int"java.util.List#size()I*
+
+%0java.util.List2size()"X
+N
+BD:/git_project/code/src/net/sourceforge/docfetcher/util/Event.java• •(
+""B)'
+%net.sourceforge.docfetcher.util.Event

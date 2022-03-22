@@ -1,0 +1,57 @@
+
+–net.sourceforge.docfetcher.model.index.file.FileContext#indexAndDeleteFile(Lnet/sourceforge/docfetcher/model/index/file/FileDocument;Ljava/io/File;Z)Z`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.java¶ ¶(("startingBlock*Ñ
+2`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.java» »(""j
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.java» »("
+""*ß
+3`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.java»
+ »(òï
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.java»
+ »(!
+%0boolean"‰net.sourceforge.docfetcher.model.index.file.FileContext#index(Lnet/sourceforge/docfetcher/model/index/file/FileDocument;Ljava/io/File;Z)Z*;9
+7net.sourceforge.docfetcher.model.index.file.FileContext*A
+?
+doc8net.sourceforge.docfetcher.model.index.file.FileDocument*
+
+filejava.io.File*
+""2Pindex(Lnet/sourceforge/docfetcher/model/index/file/FileDocument;Ljava/io/File;Z)*
+2*Š
+startingBlock`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.java¶( ¸(ó
+ð
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.java¶) ¶(1
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*A
+?
+doc8net.sourceforge.docfetcher.model.index.file.FileDocument¼
+¹
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.java¶? ¶(B?
+doc8net.sourceforge.docfetcher.model.index.file.FileDocument"__annotation*
+
+%2È
+Å
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.java· ·(
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.File‘
+Ž
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.java· ·(
+filejava.io.File"__annotation*
+
+%3*
+3:?
+doc8net.sourceforge.docfetcher.model.index.file.FileDocument:
+filejava.io.File:
+""B;9
+7net.sourceforge.docfetcher.model.index.file.FileContext

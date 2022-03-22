@@ -1,0 +1,26 @@
+
+Oorg.apache.tika.sax.TaggedContentHandler#isCauseOf(Lorg/xml/sax/SAXException;)ZO
+ED:/git_project/code/src/org/apache/tika/sax/TaggedContentHandler.javaM M("2"1*×
+2O
+ED:/git_project/code/src/org/apache/tika/sax/TaggedContentHandler.javaO= O(Fµ
+²
+O
+ED:/git_project/code/src/org/apache/tika/sax/TaggedContentHandler.javaO O(G0
+tagged&org.apache.tika.sax.TaggedSAXException"__id*'
+%
+	exceptionorg.xml.sax.SAXExceptioníê
+O
+ED:/git_project/code/src/org/apache/tika/sax/TaggedContentHandler.javaP P(*
+%0java.lang.Object"Aorg.apache.tika.sax.TaggedSAXException#getTag()Ljava/lang/Object;*2
+0
+tagged&org.apache.tika.sax.TaggedSAXException2getTag()"Y
+O
+ED:/git_project/code/src/org/apache/tika/sax/TaggedContentHandler.javaP P(+
+""*¯
+1O
+ED:/git_project/code/src/org/apache/tika/sax/TaggedContentHandler.javaR R("Y
+O
+ED:/git_project/code/src/org/apache/tika/sax/TaggedContentHandler.javaR R(
+"":%
+	exceptionorg.xml.sax.SAXExceptionB,*
+(org.apache.tika.sax.TaggedContentHandler

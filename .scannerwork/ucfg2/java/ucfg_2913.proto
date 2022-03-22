@@ -1,0 +1,73 @@
+
+pnet.sourceforge.docfetcher.model.index.IndexingQueue#getReadyTask()Lnet/sourceforge/docfetcher/model/index/Task;]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.java¨ ¨("6*Þ
+2]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.java© ©(¥
+¢
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.java© ©(3
+task+net.sourceforge.docfetcher.model.index.Task"__id*
+""É
+Æ
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.java© ©(3
+task+net.sourceforge.docfetcher.model.index.Task"
+__arrayGet*
+
+%0java.util.LinkedList*
+""*
+5
+1*û
+3]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.java« «("–
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.java« «(5
+3
+task+net.sourceforge.docfetcher.model.index.Task*Þ
+4]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaª# ª('ñ
+î
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaª# ª(4>
+%48net.sourceforge.docfetcher.model.index.Task$CancelAction"__id*G*E
+3
+task+net.sourceforge.docfetcher.model.index.Task"
+cancelAction*
+2
+3*Û
+5]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaª ª(­
+ª
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaª ª(;
+%15net.sourceforge.docfetcher.model.index.Task$TaskState"__id*
+""­
+ª
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaª ª(;
+%25net.sourceforge.docfetcher.model.index.Task$TaskState"__id*
+""Ž‹
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaª ª(
+%3boolean"hnet.sourceforge.docfetcher.model.index.Task#is(Lnet/sourceforge/docfetcher/model/index/Task$TaskState;)Z*5
+3
+task+net.sourceforge.docfetcher.model.index.Task*=
+;
+%25net.sourceforge.docfetcher.model.index.Task$TaskState2;is(Lnet/sourceforge/docfetcher/model/index/Task$TaskState;)*
+2
+4*³
+6]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.java© ©(É
+Æ
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.java© ©(
+%0java.util.LinkedList"__id*C*A6
+4net.sourceforge.docfetcher.model.index.IndexingQueue"
+tasks*
+2*Ë
+1]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.java¬	 ¬("g
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.java¬ ¬(
+""B86
+4net.sourceforge.docfetcher.model.index.IndexingQueue

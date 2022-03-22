@@ -1,0 +1,19 @@
+
+Iorg.apache.tika.io.TemporaryResources#createTemporaryFile()Ljava/io/File;L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javab b(#"1*ç
+1L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javac c(ôñ
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javac c(
+%0java.nio.file.Path"Jorg.apache.tika.io.TemporaryResources#createTempFile()Ljava/nio/file/Path;*)'
+%org.apache.tika.io.TemporaryResources2createTempFile()¶³
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javac c((
+%1java.io.File")java.nio.file.Path#toFile()Ljava/io/File;*
+
+%0java.nio.file.Path2toFile()"d
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javac c()
+
+%1java.io.FileB)'
+%org.apache.tika.io.TemporaryResources

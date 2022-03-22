@@ -1,0 +1,39 @@
+
+Vnet.sourceforge.docfetcher.model.search.ResultDocument#wasParsedBy(Ljava/lang/Class;)Z_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaú ú("1*á	
+1_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaû û(¡
+
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaû$ û(1-
+%0'net.sourceforge.docfetcher.model.Fields"__id*
+""õò
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaû$ û(7
+%1java.lang.String"?net.sourceforge.docfetcher.model.Fields#key()Ljava/lang/String;*/
+-
+%0'net.sourceforge.docfetcher.model.Fields2key()’
+
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaû û(9
+
+parserNamejava.lang.String"__id*
+""âß
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaü ü(6
+%2java.lang.String"1java.lang.Class#getSimpleName()Ljava/lang/String;* 
+
+parserClassjava.lang.Class2getSimpleName()ùö
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaü	 ü(7
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z* 
+
+
+parserNamejava.lang.String*
+
+%2java.lang.String2equals(Ljava/lang/Object;)"i
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaü ü(8
+"":
+parserClassjava.lang.ClassB:8
+6net.sourceforge.docfetcher.model.search.ResultDocument

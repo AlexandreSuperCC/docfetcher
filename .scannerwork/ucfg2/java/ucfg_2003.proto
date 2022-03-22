@@ -1,0 +1,22 @@
+
+Xorg.apache.tika.language.LanguageProfilerBuilder$NGramEntry#toString()Ljava/lang/String;Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaš š("1*þ
+1Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java› ›(Ì
+É
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java› ›(
+%0java.lang.CharSequence"__id*H*F=
+;org.apache.tika.language.LanguageProfilerBuilder$NGramEntry"
+seq×Ô
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java› ›(!
+%1java.lang.String"3java.lang.CharSequence#toString()Ljava/lang/String;*
+
+%0java.lang.CharSequence2
+toString()"u
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java› ›("
+
+%1java.lang.StringB?=
+;org.apache.tika.language.LanguageProfilerBuilder$NGramEntry

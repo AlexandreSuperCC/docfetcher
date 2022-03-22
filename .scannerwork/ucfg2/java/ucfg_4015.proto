@@ -1,0 +1,99 @@
+
+Rnet.sourceforge.docfetcher.model.search.ResultDocument#getText()Ljava/lang/String;_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÇ Ç("8*·
+3_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaä ã(-"{
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaä ã(-
+
+%7java.lang.String*Ú
+4_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaã! ã(+Ü
+É
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaä
+ ã(,
+%7java.lang.String"ªnet.sourceforge.docfetcher.model.parse.ParseService#renderText(Lnet/sourceforge/docfetcher/model/index/IndexingConfig;Ljava/io/File;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*7"5
+3net.sourceforge.docfetcher.model.parse.ParseService*=
+;
+%55net.sourceforge.docfetcher.model.index.IndexingConfig*
+
+filejava.io.File*
+
+%6java.lang.String* 
+
+
+parserNamejava.lang.String*
+3*ñ
+5_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaâ â(&ñ
+ì
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaâ â(&
+filejava.io.File"__id*
+
+%4java.io.FileÔ
+Ï
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaã ã(
+;
+%55net.sourceforge.docfetcher.model.index.IndexingConfig"__id*F*D8
+6net.sourceforge.docfetcher.model.search.ResultDocument"
+configüú
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaã ã(
+%6java.lang.String"Vnet.sourceforge.docfetcher.model.search.ResultDocument#getFilename()Ljava/lang/String;*:8
+6net.sourceforge.docfetcher.model.search.ResultDocument2getFilename()*
+4*⁄
+6_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaà à(#‡
+›
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaà à(#=
+fileResource-net.sourceforge.docfetcher.model.FileResource"__id*5
+3
+%3-net.sourceforge.docfetcher.model.FileResourceãà
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaâ â(%
+%4java.io.File"Enet.sourceforge.docfetcher.model.FileResource#getFile()Ljava/io/File;*?
+=
+fileResource-net.sourceforge.docfetcher.model.FileResource2	getFile()*
+5*Õ
+7_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaà à(!·ﬁ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaà à(#3
+%3-net.sourceforge.docfetcher.model.FileResource"wnet.sourceforge.docfetcher.model.search.ResultDocument#getFileResource()Lnet/sourceforge/docfetcher/model/FileResource;*:8
+6net.sourceforge.docfetcher.model.search.ResultDocument2getFileResource()*
+6*¬
+8_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÑ Ñ(Ò
+Ó
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÑ Ñ(
+
+%0void"Cnet.sourceforge.docfetcher.model.search.ResultDocument#onlyFiles()V*:8
+6net.sourceforge.docfetcher.model.search.ResultDocument°
+û
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÖ$ Ö(1-
+%1'net.sourceforge.docfetcher.model.Fields"__id*
+""ıÚ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÖ$ Ö(7
+%2java.lang.String"?net.sourceforge.docfetcher.model.Fields#key()Ljava/lang/String;*/
+-
+%1'net.sourceforge.docfetcher.model.Fields2key()í
+è
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÖ Ö(9
+
+parserNamejava.lang.String"__id*
+""±
+Æ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÜ Ü(#=
+fileResource-net.sourceforge.docfetcher.model.FileResource"__id*
+""*
+7B:8
+6net.sourceforge.docfetcher.model.search.ResultDocument

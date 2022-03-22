@@ -1,0 +1,123 @@
+
+ènet.sourceforge.docfetcher.model.search.Searcher#createQuery(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/search/Searcher$QueryWrapper;Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÁ Á(("startingBlock*é
+startingBlockY
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÁ( Á(EÕ
+ 
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÂ Â(	
+%22"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*!
+
+queryStringjava.lang.String–
+Õ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÊ Ê(
+%23"
+__annotate*:8
+6net.sourceforge.docfetcher.util.annotations.ThreadSafe*!
+
+queryStringjava.lang.StringÕ
+ 
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÁ) Á(1
+%24"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*!
+
+queryStringjava.lang.String®
+•
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÁ9 Á(D
+queryStringjava.lang.String"__annotation*
+
+%22*
+
+%23*
+
+%24*
+15*É
+15Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÍ Í(	õ
+ò
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÍ Í(-
+%0'net.sourceforge.docfetcher.model.Fields"__id*
+""ÔÏ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÍ Í(
+%1java.lang.String"?net.sourceforge.docfetcher.model.Fields#key()Ljava/lang/String;*/
+-
+%0'net.sourceforge.docfetcher.model.Fields2key()˚
+¯
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÍ Í(4
+%2"anet.sourceforge.docfetcher.model.IndexRegistry#getAnalyzer()Lorg/apache/lucene/analysis/Analyzer;*2"0
+.net.sourceforge.docfetcher.model.IndexRegistryÏÈ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÈ/ È(IH
+%3Bnet.sourceforge.docfetcher.model.search.PhraseDetectingQueryParser"Bnet.sourceforge.docfetcher.model.search.PhraseDetectingQueryParserÿ
+’
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÈ+ Í(5
+%4"Énet.sourceforge.docfetcher.model.search.PhraseDetectingQueryParser#<init>(Ljava/lang/String;Lorg/apache/lucene/analysis/Analyzer;)V*J
+H
+%3Bnet.sourceforge.docfetcher.model.search.PhraseDetectingQueryParser*
+
+%1java.lang.String*
+
+%2É
+Ä
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÈ Í(6Q
+queryParserBnet.sourceforge.docfetcher.model.search.PhraseDetectingQueryParser"__id*J
+H
+%3Bnet.sourceforge.docfetcher.model.search.PhraseDetectingQueryParser¶
+£
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÓ Ó(8
+%52net.sourceforge.docfetcher.enums.SettingsConf$Bool"__id*
+""¶
+£
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÓ Ó(&8
+%62net.sourceforge.docfetcher.enums.SettingsConf$Bool"__id*
+""ÎË
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÓ Ó(,
+%7boolean"9net.sourceforge.docfetcher.enums.SettingsConf$Bool#get()Z*:
+8
+%62net.sourceforge.docfetcher.enums.SettingsConf$Bool2get()*
+11*É
+9Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÙ Ù(1"¢
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÙ Ù(1E
+C
+%9=net.sourceforge.docfetcher.model.search.Searcher$QueryWrapper*Ú
+10Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÛ Û(7‚ﬂ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÙ Ù(C
+%9=net.sourceforge.docfetcher.model.search.Searcher$QueryWrapper"=net.sourceforge.docfetcher.model.search.Searcher$QueryWrapper¶
+£
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÙ
+ Ù(0
+%10"hnet.sourceforge.docfetcher.model.search.Searcher$QueryWrapper#<init>(Lorg/apache/lucene/search/Query;Z)V*E
+C
+%9=net.sourceforge.docfetcher.model.search.Searcher$QueryWrapper*
+""*
+""*
+9*ê
+11Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÚ Ú(0®•
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/search/Searcher.javaÛ Û(6
+%8boolean"Snet.sourceforge.docfetcher.model.search.PhraseDetectingQueryParser#isPhraseQuery()Z*S
+Q
+queryParserBnet.sourceforge.docfetcher.model.search.PhraseDetectingQueryParser2isPhraseQuery()*
+10:
+queryStringjava.lang.StringB4"2
+0net.sourceforge.docfetcher.model.search.Searcher

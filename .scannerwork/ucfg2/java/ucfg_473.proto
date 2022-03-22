@@ -1,0 +1,38 @@
+
+Rnet.sourceforge.docfetcher.util.collect.BoundedList#iterator()Ljava/util/Iterator;Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javai i("1*è
+
+1Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaj j("ƒ
+¡
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaj j("
+%0java.util.LinkedList"__id*A*?5
+3net.sourceforge.docfetcher.util.collect.BoundedList"
+list‰·
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaj j(-
+%1java.util.Iterator"?java.util.AbstractSequentialList#iterator()Ljava/util/Iterator;*
+
+%0java.util.LinkedList2
+iterator()†
+ù
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaj j(.
+innerItjava.util.Iterator"__id*
+
+%1java.util.IteratorÁ‰
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javak k(E
+%2?Lnet/sourceforge/docfetcher/util/collect/BoundedList<TT;>$2673;"?Lnet/sourceforge/docfetcher/util/collect/BoundedList<TT;>$2673; 
+«
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javak	 w(
+%3"java.lang.Object#<init>()V*G
+E
+%2?Lnet/sourceforge/docfetcher/util/collect/BoundedList<TT;>$2673;"•
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javak w(G
+E
+%2?Lnet/sourceforge/docfetcher/util/collect/BoundedList<TT;>$2673;B75
+3net.sourceforge.docfetcher.util.collect.BoundedList

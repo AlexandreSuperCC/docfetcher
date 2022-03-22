@@ -1,0 +1,20 @@
+
+:net.sourceforge.docfetcher.gui.ResultPanel#getItemCount()IS
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÝ Ý("1*º
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÞ	 Þ(ß
+Ü
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÞ	 Þ(C
+%0=net.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer"__id*:*8,
+*net.sourceforge.docfetcher.gui.ResultPanel"
+viewerž›
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÞ	 Þ(
+%1"inet.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer#getControl()Lorg/eclipse/swt/widgets/Table;*E
+C
+%0=net.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer2getControl()"]
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÞ Þ(,
+""B.,
+*net.sourceforge.docfetcher.gui.ResultPanel

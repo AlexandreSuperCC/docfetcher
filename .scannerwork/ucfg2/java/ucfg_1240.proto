@@ -1,0 +1,35 @@
+
+Morg.apache.tika.io.IOUtils#copy(Ljava/io/InputStream;Ljava/io/OutputStream;)IC
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaé é("3*ó
+2C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaë ë("M
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaë ë(
+""*ø
+3C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaè è(ä
+á
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaè è(-
+
+%0long"Rorg.apache.tika.io.IOUtils#copyLarge(Ljava/io/InputStream;Ljava/io/OutputStream;)J*"
+org.apache.tika.io.IOUtils*
+
+inputjava.io.InputStream* 
+
+outputjava.io.OutputStream`
+^
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaê ê(%	
+%1int"__id*
+""*
+2
+1*ó
+1C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaì ì("M
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaì ì(
+"":
+inputjava.io.InputStream:
+outputjava.io.OutputStreamB"
+org.apache.tika.io.IOUtils

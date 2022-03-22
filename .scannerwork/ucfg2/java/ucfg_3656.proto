@@ -1,0 +1,16 @@
+
+=org.apache.tika.metadata.Property#getChoices()Ljava/util/Set;J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÀ À(!"1*Õ
+1J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÁ Á(ž
+›
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÁ Á(
+%0java.util.Set"__id*2*0#
+!org.apache.tika.metadata.Property"	
+choices"c
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÁ Á(
+
+%0java.util.SetB%#
+!org.apache.tika.metadata.Property

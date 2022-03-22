@@ -1,0 +1,115 @@
+
+]net.sourceforge.docfetcher.model.Path#normalizeUnicode(Ljava/lang/String;Z)Ljava/lang/String;L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaa a('"startingBlock*Ë
+2L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javad
+ d(™
+ß
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javad
+ d()
+%6java.lang.String"ejava.text.Normalizer#normalize(Ljava/lang/CharSequence;Ljava/text/Normalizer$Form;)Ljava/lang/String;*"
+java.text.Normalizer*
+
+strjava.lang.String*#
+!
+formjava.text.Normalizer$Form"h
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javad d(*
+
+%6java.lang.String*è
+3L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javab b(Qù
+ö
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javab b(Q!
+formjava.text.Normalizer$Form"__id*!
+
+%0java.text.Normalizer$Formì
+ê
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javac
+ c(,
+%5boolean"Wjava.text.Normalizer#isNormalized(Ljava/lang/CharSequence;Ljava/text/Normalizer$Form;)Z*"
+java.text.Normalizer*
+
+strjava.lang.String*#
+!
+formjava.text.Normalizer$Form*
+2
+1*‰
+startingBlockL
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaa' a(N∑
+¥
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java` `(	
+%7"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+strjava.lang.String∑
+¥
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaa( a(0
+%8"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+strjava.lang.Stringà
+Ö
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaa8 a(;
+strjava.lang.String"__annotation*
+
+%7*
+
+%8*
+4
+5*ˆ
+4L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javab= b(G
+}
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javab= b(L
+%4java.text.Normalizer$Form"__id*
+""
+}
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javab= b(P
+%2java.text.Normalizer$Form"__id*
+""õ
+ò
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javab= b(P
+%0java.text.Normalizer$Form"__id*!
+
+%2java.text.Normalizer$Form*
+3*ˆ
+5L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javab' b(1
+}
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javab' b(6
+%3java.text.Normalizer$Form"__id*
+""
+}
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javab' b(:
+%1java.text.Normalizer$Form"__id*
+""õ
+ò
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javab' b(:
+%0java.text.Normalizer$Form"__id*!
+
+%1java.text.Normalizer$Form*
+3*º
+1L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javae e("i
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javae e(
+
+strjava.lang.String:
+strjava.lang.String:
+""B)"'
+%net.sourceforge.docfetcher.model.Path

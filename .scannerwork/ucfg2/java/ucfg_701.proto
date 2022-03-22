@@ -1,0 +1,17 @@
+
+rorg.apache.tika.language.detect.LanguageResult#getConfidence()Lorg/apache/tika/language/detect/LanguageConfidence;U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.java5 5(("1*Ñ
+1U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.java6	 6(Þ
+Û
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.java6	 6(8
+%02org.apache.tika.language.detect.LanguageConfidence"__id*B*@0
+.org.apache.tika.language.detect.LanguageResult"
+
+confidence"“
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageResult.java6 6(:
+8
+%02org.apache.tika.language.detect.LanguageConfidenceB20
+.org.apache.tika.language.detect.LanguageResult

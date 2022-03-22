@@ -1,0 +1,23 @@
+
+horg.apache.tika.parser.external.ExternalParsersConfigReader#read(Lorg/w3c/dom/Document;)Ljava/util/List;b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.javaA& A(*"1*«
+1b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.javaB B(üù
+b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.javaB B(/
+%0org.w3c.dom.Element">org.w3c.dom.Document#getDocumentElement()Lorg/w3c/dom/Element;*"
+ 
+documentorg.w3c.dom.Document2getDocumentElement()Ä
+Á
+b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.javaB B(0
+%1java.util.List"gorg.apache.tika.parser.external.ExternalParsersConfigReader#read(Lorg/w3c/dom/Element;)Ljava/util/List;*?"=
+;org.apache.tika.parser.external.ExternalParsersConfigReader*
+
+%0org.w3c.dom.Element"|
+b
+XD:/git_project/code/src/org/apache/tika/parser/external/ExternalParsersConfigReader.javaB B(1
+
+%1java.util.List: 
+documentorg.w3c.dom.DocumentB?"=
+;org.apache.tika.parser.external.ExternalParsersConfigReader

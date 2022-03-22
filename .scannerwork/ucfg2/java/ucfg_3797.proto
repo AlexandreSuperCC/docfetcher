@@ -1,0 +1,95 @@
+
+fnet.sourceforge.docfetcher.gui.ManualLocator#getManualSubpageUrl(Ljava/lang/String;)Ljava/lang/String;S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaP P()"startingBlock*…
+2S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaV V(*"o
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaV V(*
+
+%3java.lang.String*ù
+3S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaV
+ V()Ω∫
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaV
+ V()
+%3java.lang.String")java.net.URL#toString()Ljava/lang/String;*
+
+%2java.net.URL2
+toString()*
+2*ô
+startingBlockS
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaP) P(G»
+≈
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaO O(
+
+%4"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*"
+ 
+htmlFilenamejava.lang.String«
+ƒ
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaP* P(2
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*"
+ 
+htmlFilenamejava.lang.Stringò
+ï
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaP: P(F 
+htmlFilenamejava.lang.String"__annotation*
+
+%4*
+
+%5*
+8*è
+4S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaV
+ V(Ø¨
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaV
+ V(
+%2java.net.URL""java.net.URI#toURL()Ljava/net/URL;*
+
+%1java.net.URI2toURL()*
+3*ë
+5S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaV
+ V(±Æ
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaV
+ V(
+%1java.net.URI""java.io.File#toURI()Ljava/net/URI;*
+
+filejava.io.File2toURI()*
+4*∑
+6S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaT T("]
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaT T(
+""*Ì
+7S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaR R(2ä
+á
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaR R(2
+filejava.io.File"__id*
+
+%0java.io.File*
+5
+6*á
+8S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaR R(#ß
+§
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/ManualLocator.javaR R(1
+%0java.io.File"cnet.sourceforge.docfetcher.gui.ManualLocator#getManualSubpageFile(Ljava/lang/String;)Ljava/io/File;*0".
+,net.sourceforge.docfetcher.gui.ManualLocator*"
+ 
+htmlFilenamejava.lang.String*
+7: 
+htmlFilenamejava.lang.StringB0".
+,net.sourceforge.docfetcher.gui.ManualLocator

@@ -1,0 +1,43 @@
+
+Wnet.sourceforge.docfetcher.util.Util#getSystemAbsPath(Ljava/io/File;)Ljava/lang/String;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaß ß(&"startingBlock*Ü
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaß& ß(:µ
+²
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÞ Þ(	
+%1"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.Fileµ
+²
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaß' ß(/
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.File†
+ƒ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaß5 ß(9
+filejava.io.File"__annotation*
+
+%1*
+
+%2*
+1*‡
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaà	 à(ÇÄ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaà	 à(
+%0java.lang.String"0java.io.File#getAbsolutePath()Ljava/lang/String;*
+
+filejava.io.File2getAbsolutePath()"i
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaà à( 
+
+%0java.lang.String:
+filejava.io.FileB("&
+$net.sourceforge.docfetcher.util.Util

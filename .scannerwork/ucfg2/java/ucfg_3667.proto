@@ -1,0 +1,34 @@
+
+eorg.apache.tika.metadata.Property#internalReal(Ljava/lang/String;)Lorg/apache/tika/metadata/Property;J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÄ Ä('"1*”
+1J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÅ Å( ê
+ç
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÅ( Å(11
+%0+org.apache.tika.metadata.Property$ValueType"__id*
+""ê
+ç
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÅ( Å(61
+%1+org.apache.tika.metadata.Property$ValueType"__id*
+""õò
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÅ Å('
+%2!org.apache.tika.metadata.Property"!org.apache.tika.metadata.Propertyƒ
+¡
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÅ Å(7
+%3"korg.apache.tika.metadata.Property#<init>(Ljava/lang/String;ZLorg/apache/tika/metadata/Property$ValueType;)V*)
+'
+%2!org.apache.tika.metadata.Property*
+
+namejava.lang.String*2*3
+1
+%1+org.apache.tika.metadata.Property$ValueType"w
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÅ Å(8)
+'
+%2!org.apache.tika.metadata.Property:
+namejava.lang.StringB%"#
+!org.apache.tika.metadata.Property

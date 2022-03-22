@@ -1,0 +1,403 @@
+
+Hnet.sourceforge.docfetcher.gui.indexing.FileConfigPanel#writeToConfig()Z`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.javaˆ ˆ( "17*ˆ
+13`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java“ “(•’
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java“ “(%
+%9boolean"Enet.sourceforge.docfetcher.model.index.PatternAction#validateRegex()Z*G
+E
+patternAction4net.sourceforge.docfetcher.model.index.PatternAction2validateRegex()*
+11
+12*¸
+15`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java‘' ‘(3ö
+ó
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java‘' ‘(3:
+%74net.sourceforge.docfetcher.gui.indexing.PatternTable"__id*M*K9
+7net.sourceforge.docfetcher.gui.indexing.FileConfigPanel"
+patternTable¨¥
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java‘' ‘(G
+%8java.util.List"Xnet.sourceforge.docfetcher.gui.indexing.PatternTable#getPatternActions()Ljava/util/List;*<
+:
+%74net.sourceforge.docfetcher.gui.indexing.PatternTable2getPatternActions()¥
+¢
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java‘ ‘(H 
+patternActionsjava.util.List"__id*
+
+%8java.util.List*
+11*š
+16`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java‹ ‹(Ÿ
+œ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java‹ ‹(*
+%4$net.sourceforge.docfetcher.enums.Msg"__id*
+""ðí
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java‹ ‹($
+%5java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*,
+*
+%4$net.sourceforge.docfetcher.enums.Msg2get()ž
+›
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java‹ ‹(%
+msgjava.lang.String"__id*
+
+%5java.lang.String
+Œ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.javaŒ Œ(&
+
+%6void"Hnet.sourceforge.docfetcher.util.AppUtil#showError(Ljava/lang/String;ZZ)V*+")
+'net.sourceforge.docfetcher.util.AppUtil*
+
+msgjava.lang.String*2*2"j
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java (
+""*Ø	
+17`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java‰ ‰(&„
+
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java‰ ‰(&C
+%0=net.sourceforge.docfetcher.gui.indexing.IndexNameGroupWrapper"__id*R*P9
+7net.sourceforge.docfetcher.gui.indexing.FileConfigPanel"
+indexGroupWrapperª§
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java‰ ‰(0
+%1java.lang.String"Ynet.sourceforge.docfetcher.gui.indexing.IndexNameGroupWrapper#getName()Ljava/lang/String;*E
+C
+%0=net.sourceforge.docfetcher.gui.indexing.IndexNameGroupWrapper2	getName()¤
+¡
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java‰ ‰(1
+	indexNamejava.lang.String"__id*
+
+%1java.lang.StringÑÎ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.javaŠ Š(
+%2java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+	indexNamejava.lang.String2trim()¶³
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.javaŠ Š( 
+%3boolean"java.lang.String#isEmpty()Z*
+
+%2java.lang.String2	isEmpty()*
+15
+16*Ò)
+1`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.javaª ª(è
+å
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.javaª ª(3
+%26,net.sourceforge.docfetcher.model.LuceneIndex"__id*F*D9
+7net.sourceforge.docfetcher.gui.indexing.FileConfigPanel"
+indexØÕ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.javaª ª(+<
+%275net.sourceforge.docfetcher.model.index.IndexingConfig"onet.sourceforge.docfetcher.model.LuceneIndex#getConfig()Lnet/sourceforge/docfetcher/model/index/IndexingConfig;*5
+3
+%26,net.sourceforge.docfetcher.model.LuceneIndex2getConfig()ì
+é
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.javaª ª(,?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig"__id*>
+<
+%275net.sourceforge.docfetcher.model.index.IndexingConfigè
+å
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java¬ ¬(3
+%28,net.sourceforge.docfetcher.model.LuceneIndex"__id*F*D9
+7net.sourceforge.docfetcher.gui.indexing.FileConfigPanel"
+indexÄÁ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java¬ ¬(.
+%29'net.sourceforge.docfetcher.model.Folder"enet.sourceforge.docfetcher.model.LuceneIndex#getRootFolder()Lnet/sourceforge/docfetcher/model/Folder;*5
+3
+%28,net.sourceforge.docfetcher.model.LuceneIndex2getRootFolder()¸µ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java¬ ¬(1
+%30void"Mnet.sourceforge.docfetcher.model.TreeNode#setDisplayName(Ljava/lang/String;)V*0
+.
+%29'net.sourceforge.docfetcher.model.Folder*
+
+	indexNamejava.lang.String2"setDisplayName(Ljava/lang/String;)ìé
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java­ ­(*
+%31void"`net.sourceforge.docfetcher.model.index.IndexingConfig#setTextExtensions(Ljava/util/Collection;)V*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*(
+&
+textExtensionsjava.util.Collection2)setTextExtensions(Ljava/util/Collection;)éæ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java® ®((
+%32void"_net.sourceforge.docfetcher.model.index.IndexingConfig#setZipExtensions(Ljava/util/Collection;)V*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*'
+%
+zipExtensionsjava.util.Collection2(setZipExtensions(Ljava/util/Collection;)Ú×
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java¯ ¯(*
+%33void"Znet.sourceforge.docfetcher.model.index.IndexingConfig#setPatternActions(Ljava/util/List;)V*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*"
+ 
+patternActionsjava.util.List2#setPatternActions(Ljava/util/List;)”‘
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java± ±(5
+%34"Hnet.sourceforge.docfetcher.model.index.IndexingConfig#setHtmlPairing(Z)V*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*
+""2setHtmlPairing(Z)®«
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java² ²(I
+%35"Unet.sourceforge.docfetcher.model.index.IndexingConfig#setDetectExecutableArchives(Z)V*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*
+""2setDetectExecutableArchives(Z)š—
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java³ ³(:
+%36"Knet.sourceforge.docfetcher.model.index.IndexingConfig#setIndexFilenames(Z)V*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*
+""2setIndexFilenames(Z)¢Ÿ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java´ ´(C
+%37"Onet.sourceforge.docfetcher.model.index.IndexingConfig#setStoreRelativePaths(Z)V*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*
+""2setStoreRelativePaths(Z)–“
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.javaµ µ(6
+%38"Inet.sourceforge.docfetcher.model.index.IndexingConfig#setWatchFolders(Z)V*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*
+""2setWatchFolders(Z)­
+ª
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java¶ ¶(,8
+%391net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""­
+ª
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java¶ ¶(<8
+%401net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""òï
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java¶ ¶(B
+%41boolean"8net.sourceforge.docfetcher.enums.ProgramConf$Bool#get()Z*:
+8
+%401net.sourceforge.docfetcher.enums.ProgramConf$Bool2get()¬©
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java¶ ¶(C
+%42void"Lnet.sourceforge.docfetcher.model.index.IndexingConfig#setSkipTarArchives(Z)V*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*
+
+%41boolean2setSkipTarArchives(Z)"j
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java¸ ¸(
+""*Ñ
+2`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java¨
+ ¨("j
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java¨ ¨(
+""*Ó
+3`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java§ §( 
+
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java§/ §(B+
+%24$net.sourceforge.docfetcher.enums.Msg"__id*
+""À
+½
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java§ §(P
+%25boolean"¢net.sourceforge.docfetcher.gui.indexing.FileConfigPanel#confirmExtensionOverride(Ljava/util/Collection;Lnet/sourceforge/docfetcher/enums/Msg;[Ljava/lang/String;)Z*;9
+7net.sourceforge.docfetcher.gui.indexing.FileConfigPanel*'
+%
+zipExtensionsjava.util.Collection*-
++
+%24$net.sourceforge.docfetcher.enums.Msg*
+7z*
+rar*
+2
+1*À
+4`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java   (
+Œ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java   (
+zipExtjava.lang.String"__id*
+""¾
+»
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java   (
+zipExtjava.lang.String"
+__arrayGet*'
+%
+zipExtensionsjava.util.Collection*
+""*
+3
+6*Æ
+5`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java¢ ¢( 
+
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java¢ ¢((+
+%21$net.sourceforge.docfetcher.enums.Msg"__id*
+""¼¹
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java¢ ¢(7
+%22java.lang.String"Rnet.sourceforge.docfetcher.enums.Msg#format([Ljava/lang/Object;)Ljava/lang/String;*-
++
+%21$net.sourceforge.docfetcher.enums.Msg*
+
+zipExtjava.lang.String2format([Ljava/lang/Object;)
+
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java¢ ¢(D
+%23void"Hnet.sourceforge.docfetcher.util.AppUtil#showError(Ljava/lang/String;ZZ)V*+")
+'net.sourceforge.docfetcher.util.AppUtil*
+
+%22java.lang.String*2*2"j
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java£ £(
+""*Ú
+6`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java¡ ¡(êç
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java¡ ¡(
+%20boolean"-java.lang.String#matches(Ljava/lang/String;)Z*
+
+zipExtjava.lang.String*	
+\\d.*2matches(Ljava/lang/String;)*
+4
+5*ù
+8`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.javaŸ% Ÿ(4‡
+„
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.javaŸ% Ÿ(4H
+%18Anet.sourceforge.docfetcher.gui.indexing.FileExtensionGroupWrapper"__id*P*N9
+7net.sourceforge.docfetcher.gui.indexing.FileConfigPanel"
+extGroupWrapperÎË
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.javaŸ% Ÿ(G
+%19java.util.Collection"jnet.sourceforge.docfetcher.gui.indexing.FileExtensionGroupWrapper#getZipExtensions()Ljava/util/Collection;*J
+H
+%18Anet.sourceforge.docfetcher.gui.indexing.FileExtensionGroupWrapper2getZipExtensions()±
+®
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.javaŸ Ÿ(H%
+zipExtensionsjava.util.Collection"__id*
+
+%19java.util.Collection*
+4*Ñ
+9`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java
+ ("j
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java (
+""*Ö
+10`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java›& ›(5‡
+„
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java›& ›(5H
+%14Anet.sourceforge.docfetcher.gui.indexing.FileExtensionGroupWrapper"__id*P*N9
+7net.sourceforge.docfetcher.gui.indexing.FileConfigPanel"
+extGroupWrapperÐÍ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java›& ›(I
+%15java.util.Collection"knet.sourceforge.docfetcher.gui.indexing.FileExtensionGroupWrapper#getTextExtensions()Ljava/util/Collection;*J
+H
+%14Anet.sourceforge.docfetcher.gui.indexing.FileExtensionGroupWrapper2getTextExtensions()²
+¯
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java› ›(J&
+textExtensionsjava.util.Collection"__id*
+
+%15java.util.Collection 
+
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.javaœ0 œ(D+
+%16$net.sourceforge.docfetcher.enums.Msg"__id*
+""°
+­
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.javaœ œ(E
+%17boolean"¢net.sourceforge.docfetcher.gui.indexing.FileConfigPanel#confirmExtensionOverride(Ljava/util/Collection;Lnet/sourceforge/docfetcher/enums/Msg;[Ljava/lang/String;)Z*;9
+7net.sourceforge.docfetcher.gui.indexing.FileConfigPanel*(
+&
+textExtensionsjava.util.Collection*-
++
+%16$net.sourceforge.docfetcher.enums.Msg*
+8
+9*”
+11`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java’ ’("º
+·
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java’ ’("E
+patternAction4net.sourceforge.docfetcher.model.index.PatternAction"__id*
+""ä
+á
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java’ ’("E
+patternAction4net.sourceforge.docfetcher.model.index.PatternAction"
+__arrayGet*"
+ 
+patternActionsjava.util.List*
+""*
+13
+10*µ
+12`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java” ”( ¦£
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java” ”(+
+%10java.lang.String"Qnet.sourceforge.docfetcher.model.index.PatternAction#getRegex()Ljava/lang/String;*G
+E
+patternAction4net.sourceforge.docfetcher.model.index.PatternAction2
+getRegex()¡
+ž
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java” ”(,
+regexjava.lang.String"__id*
+
+%10java.lang.String 
+
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java• •($+
+%11$net.sourceforge.docfetcher.enums.Msg"__id*
+""»¸
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java• •(2
+%12java.lang.String"Rnet.sourceforge.docfetcher.enums.Msg#format([Ljava/lang/Object;)Ljava/lang/String;*-
++
+%11$net.sourceforge.docfetcher.enums.Msg*
+
+regexjava.lang.String2format([Ljava/lang/Object;)Ÿ
+œ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java• •(3
+msgjava.lang.String"__id*
+
+%12java.lang.String
+
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java– –(&
+%13void"Hnet.sourceforge.docfetcher.util.AppUtil#showError(Ljava/lang/String;ZZ)V*+")
+'net.sourceforge.docfetcher.util.AppUtil*
+
+msgjava.lang.String*2*2"j
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileConfigPanel.java— —(
+""B;9
+7net.sourceforge.docfetcher.gui.indexing.FileConfigPanel

@@ -1,0 +1,43 @@
+
+unet.sourceforge.docfetcher.gui.StatusBar#createRightParts(Lnet/sourceforge/docfetcher/gui/StatusBar;)Ljava/util/List;Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/StatusBar.javaÔ Ô(/"startingBlock*Ï
+startingBlockQ
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/StatusBar.javaÔ/ Ô(MÚ
+×
+Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/StatusBar.javaÓ Ó(	
+%1"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*7
+5
+	statusBar(net.sourceforge.docfetcher.gui.StatusBarÚ
+×
+Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/StatusBar.javaÔ0 Ô(8
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*7
+5
+	statusBar(net.sourceforge.docfetcher.gui.StatusBar«
+¨
+Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/StatusBar.javaÔC Ô(L5
+	statusBar(net.sourceforge.docfetcher.gui.StatusBar"__annotation*
+
+%1*
+
+%2*
+1*€
+1Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/StatusBar.javaÕ	 Õ(º
+·
+Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/StatusBar.javaÕ	 Õ( 
+%0java.util.List"1java.util.Collections#emptyList()Ljava/util/List;*"
+java.util.Collections"k
+Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/StatusBar.javaÕ Õ(!
+
+%0java.util.List:5
+	statusBar(net.sourceforge.docfetcher.gui.StatusBarB,*
+(net.sourceforge.docfetcher.gui.StatusBar

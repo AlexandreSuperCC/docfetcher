@@ -1,0 +1,36 @@
+
+\org.apache.tika.parser.chm.accessor.ChmDirectoryListingSet#startsWith([BLjava/lang/String;)Zc
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.java¹  ¹(*"5*×
+3c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.java¼ ¼("m
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.java¼ ¼(
+""*µ
+4c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.java» »(Â¿
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.java» »()
+
+%1char"java.lang.String#charAt(I)C*
+
+prefixjava.lang.String*
+""2	charAt(I)*
+3
+5*ª
+5c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaº º(·´
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaº º('	
+%0int"java.lang.String#length()I*
+
+prefixjava.lang.String2length()*
+4
+1*×
+1c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÀ À("m
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÀ À(
+"":
+databyte[]:
+prefixjava.lang.StringB>"<
+:org.apache.tika.parser.chm.accessor.ChmDirectoryListingSet

@@ -1,0 +1,85 @@
+
+wnet.sourceforge.docfetcher.model.index.file.FileFactory#getRelativePath(Ljava/io/File;Ljava/io/File;)Ljava/lang/String;`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java» »(&"startingBlock*Ô	
+startingBlock`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java»& ¼(Ç
+Ä
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaº º(	
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+srcjava.io.FileÇ
+Ä
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java»( »(0
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+srcjava.io.File˜
+•
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java»6 »(9
+srcjava.io.File"__annotation*
+
+%2*
+
+%3Ç
+Ä
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaº º(	
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+dstjava.io.FileÇ
+Ä
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java¼ ¼(
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+dstjava.io.File˜
+•
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java¼ ¼(
+dstjava.io.File"__annotation*
+
+%4*
+
+%5*
+1*ÿ
+1`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java½ ½(Ç
+Ä
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java½ ½(3
+%0java.lang.String"jnet.sourceforge.docfetcher.model.UtilModel#getRelativePath(Ljava/io/File;Ljava/io/File;)Ljava/lang/String;*.",
+*net.sourceforge.docfetcher.model.UtilModel*
+
+srcjava.io.File*
+
+dstjava.io.FileŸ
+œ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java½ ½(4
+pathjava.lang.String"__id*
+
+%0java.lang.String«
+¨
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java¾	 ¾(
+%1boolean"\net.sourceforge.docfetcher.model.index.file.FileFactory#noTrailingSlash(Ljava/lang/String;)Z*;"9
+7net.sourceforge.docfetcher.model.index.file.FileFactory*
+
+pathjava.lang.String"~
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java¿ ¿(
+
+pathjava.lang.String:
+srcjava.io.File:
+dstjava.io.FileB;"9
+7net.sourceforge.docfetcher.model.index.file.FileFactory

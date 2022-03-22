@@ -1,0 +1,263 @@
+
+∏net.sourceforge.docfetcher.model.parse.MSOffice2007Parser#parse(Ljava/io/File;Lnet/sourceforge/docfetcher/model/parse/ParseContext;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaP P("startingBlock*Ä
+46`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaU U(&ë
+é
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaU U(&
+contentsjava.lang.String"__id*
+
+%1*
+45*Û
+24`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javap p(6é
+ã
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javap p(6
+titlejava.lang.String"__id*
+""”–
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javar r(8
+%52net.sourceforge.docfetcher.model.parse.ParseResult"2net.sourceforge.docfetcher.model.parse.ParseResultù
+ö
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javar
+ r(#
+%6"Tnet.sourceforge.docfetcher.model.parse.ParseResult#<init>(Ljava/lang/CharSequence;)V*:
+8
+%52net.sourceforge.docfetcher.model.parse.ParseResult*
+
+contentsjava.lang.String*
+23*¯
+36`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaf f(ÖÇ
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaf f((
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*#
+!
+defaultAuthorjava.lang.String* 
+
+
+lastAuthorjava.lang.String2equals(Ljava/lang/Object;)*
+33
+34*à
+47`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaT T(<ô
+ñ
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaU U(%
+%1"enet.sourceforge.docfetcher.model.parse.MSOffice2007Parser#extractText(LOPCPackage;)Ljava/lang/String;*=";
+9net.sourceforge.docfetcher.model.parse.MSOffice2007Parser*
+""*
+46*õ
+37`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javac c(¨
+©
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javac c(
+authorjava.lang.String"__id*#
+!
+defaultAuthorjava.lang.String*
+30*ˇ
+26`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javao o(:ê
+ç
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javao o(:
+subjectjava.lang.String"__id*
+""*
+24*π
+49`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaT	 T( «
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaT T('
+%0java.lang.String"(java.io.File#getPath()Ljava/lang/String;*
+
+filejava.io.File2	getPath()*
+47*ò
+39`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.java` `(©
+¶
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.java` `(
+authorjava.lang.String"__id* 
+
+
+lastAuthorjava.lang.String*
+30*Ä
+28`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javan n(<ë
+é
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javan n(<
+keywordsjava.lang.String"__id*
+""*
+26*à
+18`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javar w("ü
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javar w(;
+9
+%112net.sourceforge.docfetcher.model.parse.ParseResult*ù
+19`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaw w(Æ´
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javar
+ w(9
+%112net.sourceforge.docfetcher.model.parse.ParseResult"änet.sourceforge.docfetcher.model.parse.ParseResult#addMiscMetadata(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*;
+9
+%102net.sourceforge.docfetcher.model.parse.ParseResult*
+
+subjectjava.lang.String2#addMiscMetadata(Ljava/lang/String;)*
+18*À
+startingBlock`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaP P(=®
+•
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaO O(
+
+%22"
+__annotate*
+java.lang.Override*
+
+filejava.io.Fileí
+è
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaP" P(&
+filejava.io.File"__annotation*
+
+%22“
+œ
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaO O(
+
+%23"
+__annotate*
+java.lang.Override*@
+>
+context3net.sourceforge.docfetcher.model.parse.ParseContextº
+π
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaP5 P(<>
+context3net.sourceforge.docfetcher.model.parse.ParseContext"__annotation*
+
+%23*
+49*é
+41`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.java] ](Dì
+ê
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.java] ](D
+
+lastAuthorjava.lang.String"__id*
+""*
+36
+37
+39
+30*É
+30`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javam m(Bî
+ë
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javam m(B
+descriptionjava.lang.String"__id*
+""*
+28*ù
+20`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javav v(Æ´
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javar
+ v(9
+%102net.sourceforge.docfetcher.model.parse.ParseResult"änet.sourceforge.docfetcher.model.parse.ParseResult#addMiscMetadata(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*:
+8
+%92net.sourceforge.docfetcher.model.parse.ParseResult*
+
+keywordsjava.lang.String2#addMiscMetadata(Ljava/lang/String;)*
+19*Ö
+43`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.java\ \(@ñ
+ì
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.java\ \(@!
+defaultAuthorjava.lang.String"__id*
+""*
+41*ü
+21`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javau u( ∞≠
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javar
+ u(!8
+%92net.sourceforge.docfetcher.model.parse.ParseResult"änet.sourceforge.docfetcher.model.parse.ParseResult#addMiscMetadata(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*:
+8
+%82net.sourceforge.docfetcher.model.parse.ParseResult*!
+
+descriptionjava.lang.String2#addMiscMetadata(Ljava/lang/String;)*
+20*é
+22`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javat t(üú
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javar
+ t(8
+%82net.sourceforge.docfetcher.model.parse.ParseResult"Ñnet.sourceforge.docfetcher.model.parse.ParseResult#addAuthor(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*:
+8
+%72net.sourceforge.docfetcher.model.parse.ParseResult*
+
+authorjava.lang.String2addAuthor(Ljava/lang/String;)*
+21*ç
+33`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javai i(¥
+±
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javai i("
+%3java.lang.String"__concat*#
+!
+defaultAuthorjava.lang.String*
+, √
+¿
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javai i(/
+%4java.lang.String"__concat*
+
+%3java.lang.String* 
+
+
+lastAuthorjava.lang.String°
+û
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javai i(/
+authorjava.lang.String"__id*
+
+%4java.lang.String*
+30*õ
+34`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javag g(¨
+©
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javag g(
+authorjava.lang.String"__id*#
+!
+defaultAuthorjava.lang.String*
+30*˛
+45`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javaX X(8è
+å
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.java[ [(
+authorjava.lang.String"__id*
+""*
+43*ã
+23`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javas s(úô
+`
+VD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOffice2007Parser.javar
+ s(8
+%72net.sourceforge.docfetcher.model.parse.ParseResult"Énet.sourceforge.docfetcher.model.parse.ParseResult#setTitle(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*:
+8
+%52net.sourceforge.docfetcher.model.parse.ParseResult*
+
+titlejava.lang.String2setTitle(Ljava/lang/String;)*
+22:
+filejava.io.File:>
+context3net.sourceforge.docfetcher.model.parse.ParseContextB=;
+9net.sourceforge.docfetcher.model.parse.MSOffice2007Parser

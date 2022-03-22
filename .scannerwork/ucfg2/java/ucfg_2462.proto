@@ -1,0 +1,100 @@
+
+1org.apache.tika.Tika#toString()Ljava/lang/String;=
+1D:/git_project/code/src/org/apache/tika/Tika.java– –("11*µ
+2=
+1D:/git_project/code/src/org/apache/tika/Tika.javaﬁ ﬁ(!ï
+í
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaﬁ ﬁ(+
+%5java.lang.String"__concat*
+Apache Tika *
+
+versionjava.lang.String"Y
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaﬁ ﬁ(,
+
+%5java.lang.String* 
+5=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÿ ÿ(;~
+|
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÿ ÿ(;
+versionjava.lang.String"__id*
+
+%4java.lang.String*
+2
+1*¿
+6=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÿ ÿ($ˆÛ
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÿ ÿ(;
+%4java.lang.String"Fjava.util.Properties#getProperty(Ljava/lang/String;)Ljava/lang/String;*$
+"
+
+propertiesjava.util.Properties*	
+version2getProperty(Ljava/lang/String;)*
+5*º
+7=
+1D:/git_project/code/src/org/apache/tika/Tika.java÷ ÷(9ä
+á
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java÷ ÷(9"
+
+propertiesjava.util.Properties"__id*
+
+%1java.util.PropertiesÂ‚
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java◊ ◊('
+
+%3void"1java.util.Properties#load(Ljava/io/InputStream;)V*$
+"
+
+propertiesjava.util.Properties*
+
+streamjava.io.InputStream2load(Ljava/io/InputStream;)*
+6*≈
+8=
+1D:/git_project/code/src/org/apache/tika/Tika.java÷( ÷(8sq
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java÷, ÷(6
+%1java.util.Properties"java.util.PropertiesÜ
+É
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java÷( ÷(8
+%2"java.util.Properties#<init>()V*
+
+%1java.util.Properties*
+7*‘
+9=
+1D:/git_project/code/src/org/apache/tika/Tika.java” ‘(KÑ
+Å
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java” ‘(K
+streamjava.io.InputStream"__id*
+
+%0java.io.InputStream*	
+2
+8
+1*Â
+10=
+1D:/git_project/code/src/org/apache/tika/Tika.java”" ”(,öó
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java”" ‘(K
+%0java.io.InputStream"Ljava.lang.Class#getResourceAsStream(Ljava/lang/String;)Ljava/io/InputStream;*
+""*<:
+8/META-INF/maven/org.apache.tika/tika-core/pom.properties2'getResourceAsStream(Ljava/lang/String;)*
+9*∑
+11=
+1D:/git_project/code/src/org/apache/tika/Tika.java— —(l
+j
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java— —(
+versionjava.lang.String"__id*
+""*
+10*î
+1=
+1D:/git_project/code/src/org/apache/tika/Tika.java‡ ‡( "P
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java‡ ‡(!
+Apache TikaB
+org.apache.tika.Tika

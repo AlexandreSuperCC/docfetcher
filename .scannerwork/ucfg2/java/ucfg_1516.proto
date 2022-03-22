@@ -1,0 +1,531 @@
+
+∏org.apache.tika.mime.ProbabilisticMimeDetectionSelector#applyProbilities(Ljava/util/List;Lorg/apache/tika/mime/MimeType;Lorg/apache/tika/mime/MimeType;)Lorg/apache/tika/mime/MediaType;`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java¡ ¡(&"108"109*∆
+24`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaê ê(% 
+«
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaë ë(,.
+bestEstimateorg.apache.tika.mime.MediaType"__id*-
++
+	magictypeorg.apache.tika.mime.MediaType*
+2
+3
+15
+6
+94*®
+90`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÌ Ì(/µ≤
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÌ Ì(A
+%19boolean":org.apache.tika.mime.MediaType#equals(Ljava/lang/Object;)Z*7
+5
+extensionMediaType_org.apache.tika.mime.MediaType*-
++
+	magictypeorg.apache.tika.mime.MediaType2equals(Ljava/lang/Object;)*
+88
+89*Å
+93`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÁ) Á(2‚
+ﬂ
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÁ: Á(G%
+%17org.apache.tika.mime.MediaType"__id*N*L9
+7org.apache.tika.mime.ProbabilisticMimeDetectionSelector"
+rootMediaType•¢
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÁ) Á(H
+%18boolean":org.apache.tika.mime.MediaType#equals(Ljava/lang/Object;)Z*-
++
+	magictypeorg.apache.tika.mime.MediaType*'
+%
+%17org.apache.tika.mime.MediaType2equals(Ljava/lang/Object;)*
+79
+90
+84*˜
+94`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÂ& Â(3¬
+ø
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÂ& Â(:$
+%13org.apache.tika.mime.MimeType"
+__arrayGet*!
+
+possibleTypesjava.util.List*
+""àÖ
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÂ& Â(D%
+%14org.apache.tika.mime.MediaType"Gorg.apache.tika.mime.MimeType#getType()Lorg/apache/tika/mime/MediaType;*&
+$
+%13org.apache.tika.mime.MimeType2	getType()¡
+æ
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÂ Â(E+
+	magictypeorg.apache.tika.mime.MediaType"__id*'
+%
+%14org.apache.tika.mime.MediaTypeﬁ
+€
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÊ- Ê(6%
+%15org.apache.tika.mime.MimeTypes"__id*J*H9
+7org.apache.tika.mime.ProbabilisticMimeDetectionSelector"
+	mimeTypes¥±
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÊ- Ê(M-
+%16&org.apache.tika.mime.MediaTypeRegistry"]org.apache.tika.mime.MimeTypes#getMediaTypeRegistry()Lorg/apache/tika/mime/MediaTypeRegistry;*'
+%
+%15org.apache.tika.mime.MimeTypes2getMediaTypeRegistry()–
+Õ
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÊ Ê(N2
+registry&org.apache.tika.mime.MediaTypeRegistry"__id*/
+-
+%16&org.apache.tika.mime.MediaTypeRegistry*
+79
+90
+93
+84*ƒ
+73`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaû û(%∞≠
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaû û(<
+%29boolean":org.apache.tika.mime.MediaType#equals(Ljava/lang/Object;)Z*-
++
+	magictypeorg.apache.tika.mime.MediaType*2
+0
+metaMediaType_org.apache.tika.mime.MediaType2equals(Ljava/lang/Object;)*)
+24
+2
+58
+3
+37
+15
+6
+94
+52
+43
+67*¬
+52`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÃ Ã(*∫∑
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÃ Ã(F
+%32boolean":org.apache.tika.mime.MediaType#equals(Ljava/lang/Object;)Z*2
+0
+metaMediaType_org.apache.tika.mime.MediaType*7
+5
+extensionMediaType_org.apache.tika.mime.MediaType2equals(Ljava/lang/Object;)*
+24
+2
+3
+37
+15
+6
+94
+43*≥
+97`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java‚& ‚(3æª
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java‚& ‚(=
+%12boolean"java.util.List#isEmpty()Z*!
+
+possibleTypesjava.util.List2	isEmpty()*
+
+2
+3
+94*û
+98`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaﬂ ﬂ(‚
+ﬂ
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java‡! ‡(.%
+%11org.apache.tika.mime.MediaType"__id*N*L9
+7org.apache.tika.mime.ProbabilisticMimeDetectionSelector"
+rootMediaTypeƒ
+¡
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java‡ ‡(/.
+bestEstimateorg.apache.tika.mime.MediaType"__id*'
+%
+%11org.apache.tika.mime.MediaType*
+
+2
+3
+97*©
+79`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaà, à(-¬
+ø
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaã ã(0$
+%27org.apache.tika.mime.MimeType"
+__arrayGet*!
+
+possibleTypesjava.util.List*
+""àÖ
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaã ã(:%
+%28org.apache.tika.mime.MediaType"Gorg.apache.tika.mime.MimeType#getType()Lorg/apache/tika/mime/MediaType;*&
+$
+%27org.apache.tika.mime.MimeType2	getType()¡
+æ
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaã ã(:+
+	magictypeorg.apache.tika.mime.MediaType"__id*'
+%
+%28org.apache.tika.mime.MediaType*-
+24
+2
+58
+3
+37
+15
+6
+94
+73
+52
+43
+67*º
+58`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaø ø(*∞≠
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaø ø(<
+%31boolean":org.apache.tika.mime.MediaType#equals(Ljava/lang/Object;)Z*2
+0
+metaMediaType_org.apache.tika.mime.MediaType*-
++
+	magictypeorg.apache.tika.mime.MediaType2equals(Ljava/lang/Object;)*!
+24
+2
+3
+37
+15
+6
+94
+52
+43*«
+15`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java¢ ¢(%œ
+Ã
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java£ £(1.
+bestEstimateorg.apache.tika.mime.MediaType"__id*2
+0
+metaMediaType_org.apache.tika.mime.MediaType*
+2
+3
+6
+94*∫
+37`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÓ Ó(*∫∑
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÓ Ó(F
+%34boolean":org.apache.tika.mime.MediaType#equals(Ljava/lang/Object;)Z*2
+0
+metaMediaType_org.apache.tika.mime.MediaType*7
+5
+extensionMediaType_org.apache.tika.mime.MediaType2equals(Ljava/lang/Object;)*
+24
+2
+3
+15
+6
+94*õ
+100`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java⁄& ⁄(4·
+ﬁ
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java⁄? ⁄(L$
+%9org.apache.tika.mime.MediaType"__id*N*L9
+7org.apache.tika.mime.ProbabilisticMimeDetectionSelector"
+rootMediaType«ƒ
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java⁄& ⁄(M
+
+%10int"Korg.apache.tika.mime.MediaType#compareTo(Lorg/apache/tika/mime/MediaType;)I*2
+0
+metaMediaType_org.apache.tika.mime.MediaType*&
+$
+%9org.apache.tika.mime.MediaType2+compareTo(Lorg/apache/tika/mime/MediaType;)*
+98*Û
+1`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaø ø(G"ã
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaø ø(G'
+%
+%35org.apache.tika.mime.MediaType*±
+2`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaø: ø(Fƒ
+¡
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaø: ø(F%
+%35org.apache.tika.mime.MediaType"__id*0
+.
+bestEstimateorg.apache.tika.mime.MediaType*
+1*ç
+3`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaø% ø()‚
+ﬂ
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaø% ø(7%
+%36org.apache.tika.mime.MediaType"__id*N*L9
+7org.apache.tika.mime.ProbabilisticMimeDetectionSelector"
+rootMediaTypeª
+∏
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaø% ø(7%
+%35org.apache.tika.mime.MediaType"__id*'
+%
+%36org.apache.tika.mime.MediaType*
+1*§
+103`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java“+ “(>·
+ﬁ
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java“I “(V$
+%7org.apache.tika.mime.MediaType"__id*N*L9
+7org.apache.tika.mime.ProbabilisticMimeDetectionSelector"
+rootMediaTypeÀ»
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java“+ “(W	
+%8int"Korg.apache.tika.mime.MediaType#compareTo(Lorg/apache/tika/mime/MediaType;)I*7
+5
+extensionMediaType_org.apache.tika.mime.MediaType*&
+$
+%7org.apache.tika.mime.MediaType2+compareTo(Lorg/apache/tika/mime/MediaType;)*	
+98
+100*ı
+104`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java∆ ∆(`≈
+¬
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java∆ ∆(`0
+metaMediaType_org.apache.tika.mime.MediaType"__id*&
+$
+%3org.apache.tika.mime.MediaType≥∞
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java» »($	
+%6int"java.util.List#size()I*!
+
+possibleTypesjava.util.List2size()*
+103
+98
+100*¡
+105`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java∆E ∆(Uîë
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java∆E ∆(_$
+%5org.apache.tika.mime.MediaType"Gorg.apache.tika.mime.MimeType#getType()Lorg/apache/tika/mime/MediaType;*3
+1
+metadataMimeTypeorg.apache.tika.mime.MimeType2	getType()π
+∂
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java∆E ∆(_$
+%3org.apache.tika.mime.MediaType"__id*&
+$
+%5org.apache.tika.mime.MediaType*
+104*»
+6`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java≥ ≥(%‘
+—
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java¥ ¥(6.
+bestEstimateorg.apache.tika.mime.MediaType"__id*7
+5
+extensionMediaType_org.apache.tika.mime.MediaType*
+
+2
+3
+94*ñ
+106`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java∆> ∆(B•
+¢
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java∆> ∆(B$
+%3org.apache.tika.mime.MediaType"__id*
+
+%4
+<nulltype>*
+104*¿
+107`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java≈ ≈([ 
+«
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java≈ ≈([5
+extensionMediaType_org.apache.tika.mime.MediaType"__id*&
+$
+%0org.apache.tika.mime.MediaType*
+
+105
+106*ª
+80`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaˇ- ˇ(6Ã
+…
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaˇ ˇ(60
+metaMediaType_org.apache.tika.mime.MediaType"__id*-
++
+	magictypeorg.apache.tika.mime.MediaType*
+79*º
+108`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java≈E ≈(Pèå
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java≈E ≈(Z$
+%2org.apache.tika.mime.MediaType"Gorg.apache.tika.mime.MimeType#getType()Lorg/apache/tika/mime/MediaType;*.
+,
+extMimeTypeorg.apache.tika.mime.MimeType2	getType()π
+∂
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java≈E ≈(Z$
+%0org.apache.tika.mime.MediaType"__id*&
+$
+%2org.apache.tika.mime.MediaType*
+107*’
+81`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java˝# ˝(+‚ﬂ
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java˝# ˛(/
+%26boolean"|org.apache.tika.mime.MediaTypeRegistry#isSpecializationOf(Lorg/apache/tika/mime/MediaType;Lorg/apache/tika/mime/MediaType;)Z*4
+2
+registry&org.apache.tika.mime.MediaTypeRegistry*-
++
+	magictypeorg.apache.tika.mime.MediaType*2
+0
+metaMediaType_org.apache.tika.mime.MediaType2TisSpecializationOf(Lorg/apache/tika/mime/MediaType;Lorg/apache/tika/mime/MediaType;)*
+79
+80*ñ
+109`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java≈> ≈(B•
+¢
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java≈> ≈(B$
+%0org.apache.tika.mime.MediaType"__id*
+
+%1
+<nulltype>*
+107*Ê
+82`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java¸ ¸()˜
+Ù
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java¸ ¸(B$
+%25org.apache.tika.mime.MimeType"
+__arraySet*!
+
+possibleTypesjava.util.List*
+""*3
+1
+metadataMimeTypeorg.apache.tika.mime.MimeType*
+79*’
+83`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java˘# ˘(+‚ﬂ
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java˘# ˙(2
+%24boolean"|org.apache.tika.mime.MediaTypeRegistry#isSpecializationOf(Lorg/apache/tika/mime/MediaType;Lorg/apache/tika/mime/MediaType;)Z*4
+2
+registry&org.apache.tika.mime.MediaTypeRegistry*2
+0
+metaMediaType_org.apache.tika.mime.MediaType*-
++
+	magictypeorg.apache.tika.mime.MediaType2TisSpecializationOf(Lorg/apache/tika/mime/MediaType;Lorg/apache/tika/mime/MediaType;)*
+81
+82*£
+84`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java¯ ¯(*∞≠
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java¯ ¯(<
+%23boolean":org.apache.tika.mime.MediaType#equals(Ljava/lang/Object;)Z*2
+0
+metaMediaType_org.apache.tika.mime.MediaType*-
++
+	magictypeorg.apache.tika.mime.MediaType2equals(Ljava/lang/Object;)*
+82
+83*ƒ
+86`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÙ2 Ù(;—
+Œ
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÙ Ù(;5
+extensionMediaType_org.apache.tika.mime.MediaType"__id*-
++
+	magictypeorg.apache.tika.mime.MediaType*
+79
+84*ﬁ
+87`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÚ# Ú(+Á‰
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÚ# Û(4
+%22boolean"|org.apache.tika.mime.MediaTypeRegistry#isSpecializationOf(Lorg/apache/tika/mime/MediaType;Lorg/apache/tika/mime/MediaType;)Z*4
+2
+registry&org.apache.tika.mime.MediaTypeRegistry*-
++
+	magictypeorg.apache.tika.mime.MediaType*7
+5
+extensionMediaType_org.apache.tika.mime.MediaType2TisSpecializationOf(Lorg/apache/tika/mime/MediaType;Lorg/apache/tika/mime/MediaType;)*
+79
+84
+86*π
+43`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java· ·(%µ≤
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java· ·(A
+%33boolean":org.apache.tika.mime.MediaType#equals(Ljava/lang/Object;)Z*-
++
+	magictypeorg.apache.tika.mime.MediaType*7
+5
+extensionMediaType_org.apache.tika.mime.MediaType2equals(Ljava/lang/Object;)*
+24
+2
+3
+37
+15
+6
+94*Â
+88`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÒ Ò()Ú
+Ô
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÒ Ò(=$
+%21org.apache.tika.mime.MimeType"
+__arraySet*!
+
+possibleTypesjava.util.List*
+""*.
+,
+extMimeTypeorg.apache.tika.mime.MimeType*
+79
+84*⁄
+89`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÓ# Ó(+Á‰
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.javaÓ# Ô(G
+%20boolean"|org.apache.tika.mime.MediaTypeRegistry#isSpecializationOf(Lorg/apache/tika/mime/MediaType;Lorg/apache/tika/mime/MediaType;)Z*4
+2
+registry&org.apache.tika.mime.MediaTypeRegistry*7
+5
+extensionMediaType_org.apache.tika.mime.MediaType*-
++
+	magictypeorg.apache.tika.mime.MediaType2TisSpecializationOf(Lorg/apache/tika/mime/MediaType;Lorg/apache/tika/mime/MediaType;)*
+87
+88*≈
+67`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java™ ™(%µ≤
+`
+TD:/git_project/code/src/org/apache/tika/mime/ProbabilisticMimeDetectionSelector.java™ ™(A
+%30boolean":org.apache.tika.mime.MediaType#equals(Ljava/lang/Object;)Z*-
++
+	magictypeorg.apache.tika.mime.MediaType*7
+5
+extensionMediaType_org.apache.tika.mime.MediaType2equals(Ljava/lang/Object;)*%
+24
+2
+58
+3
+37
+15
+6
+94
+52
+43:
+possibleTypesjava.util.List:,
+extMimeTypeorg.apache.tika.mime.MimeType:1
+metadataMimeTypeorg.apache.tika.mime.MimeTypeB;9
+7org.apache.tika.mime.ProbabilisticMimeDetectionSelector

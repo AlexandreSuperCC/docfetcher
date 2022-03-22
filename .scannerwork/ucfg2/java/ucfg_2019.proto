@@ -1,0 +1,31 @@
+
+knet.sourceforge.docfetcher.build.Copies#addDir(Ljava/lang/String;)Lnet/sourceforge/docfetcher/build/Copies;N
+DD:/git_project/code/src/net/sourceforge/docfetcher/build/Copies.java" "("1*•	
+1N
+DD:/git_project/code/src/net/sourceforge/docfetcher/build/Copies.java# #(¯¬
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/build/Copies.java# #(/
+%0)net.sourceforge.docfetcher.build.FileSets")net.sourceforge.docfetcher.build.FileSetsÁ
+¾
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/build/Copies.java# #( 
+%1"3net.sourceforge.docfetcher.build.FileSets#<init>()V*1
+/
+%0)net.sourceforge.docfetcher.build.FileSetsßÜ
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/build/Copies.java# #(,/
+%2)net.sourceforge.docfetcher.build.FileSets"onet.sourceforge.docfetcher.build.FileSets#setDir(Ljava/lang/String;)Lnet/sourceforge/docfetcher/build/FileSets;*1
+/
+%0)net.sourceforge.docfetcher.build.FileSets*
+
+dirjava.lang.String2setDir(Ljava/lang/String;)èå
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/build/Copies.java# #(2
+%3"Snet.sourceforge.docfetcher.build.FileSets#get()Lorg/apache/tools/ant/types/FileSet;*1
+/
+%2)net.sourceforge.docfetcher.build.FileSets2get()"}
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/build/Copies.java$ $(+)
+'net.sourceforge.docfetcher.build.Copies:
+dirjava.lang.StringB+)
+'net.sourceforge.docfetcher.build.Copies

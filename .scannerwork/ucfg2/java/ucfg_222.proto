@@ -1,0 +1,27 @@
+
+Inet.sourceforge.docfetcher.model.Folder#getChildren()Ljava/lang/Iterable;P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaü. ü(9"1*‚
+1P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java† †(#ÚÔ
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java† †(%
+%0java.util.List"Gnet.sourceforge.docfetcher.model.Folder#getSubFolders()Ljava/util/List;*+)
+'net.sourceforge.docfetcher.model.Folder2getSubFolders()ê
+ç
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java† †(&
+coljava.util.Collection"__id*
+
+%0java.util.Listí
+è
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java°	 °(*
+%1java.lang.Iterable"Wnet.sourceforge.docfetcher.UtilGlobal#convert(Ljava/lang/Iterable;)Ljava/lang/Iterable;*)"'
+%net.sourceforge.docfetcher.UtilGlobal*
+
+coljava.util.Collection"n
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java° °(+
+
+%1java.lang.IterableB+)
+'net.sourceforge.docfetcher.model.Folder

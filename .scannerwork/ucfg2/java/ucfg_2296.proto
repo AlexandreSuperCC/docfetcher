@@ -1,0 +1,70 @@
+
+_net.sourceforge.docfetcher.model.UtilModel#nullSafeImmutableMap(Ljava/util/Map;)Ljava/util/Map;Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaU U(-"startingBlock*¸
+2Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaW
+ W(∑
+¥
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaW
+ W( 
+%1java.util.Map"/java.util.Collections#emptyMap()Ljava/util/Map;*"
+java.util.Collections"j
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaW W(!
+
+%1java.util.Map*É
+3Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaV V(¢ü
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaV V("
+%0boolean"java.util.Map#isEmpty()Z*
+
+mapjava.util.Map2	isEmpty()*
+2
+1*∫
+startingBlockQ
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaU- U(Fø
+º
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaS S(
+%2"
+__annotate*=;
+9net.sourceforge.docfetcher.util.annotations.ImmutableCopy*
+
+mapjava.util.Mapπ
+∂
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaT T(	
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+mapjava.util.Map∫
+∑
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaU. U(7
+%4"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+mapjava.util.Mapí
+è
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaUB U(E
+mapjava.util.Map"__annotation*
+
+%2*
+
+%3*
+
+%4*
+2
+3*≥
+1Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaX	 X("[
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaX X("
+"":
+mapjava.util.MapB.",
+*net.sourceforge.docfetcher.model.UtilModel

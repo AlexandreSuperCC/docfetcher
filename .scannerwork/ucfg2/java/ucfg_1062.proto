@@ -1,0 +1,21 @@
+
+Wnull#getLabel(Lnet/sourceforge/docfetcher/model/index/IndexingError;)Ljava/lang/String;Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ErrorTable.java? ?("1*´
+1Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ErrorTable.java@ @(ÐÍ
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ErrorTable.java@ @( /
+%0)net.sourceforge.docfetcher.model.TreeNode"mnet.sourceforge.docfetcher.model.index.IndexingError#getTreeNode()Lnet/sourceforge/docfetcher/model/TreeNode;*A
+?
+element4net.sourceforge.docfetcher.model.index.IndexingError2getTreeNode()‰†
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ErrorTable.java@ @(1
+%1java.lang.String"Lnet.sourceforge.docfetcher.model.TreeNode#getDisplayName()Ljava/lang/String;*1
+/
+%0)net.sourceforge.docfetcher.model.TreeNode2getDisplayName()"u
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ErrorTable.java@ @(2
+
+%1java.lang.String:?
+element4net.sourceforge.docfetcher.model.index.IndexingErrorB=;
+9Lnet/sourceforge/docfetcher/gui/indexing/ErrorTable$2452;

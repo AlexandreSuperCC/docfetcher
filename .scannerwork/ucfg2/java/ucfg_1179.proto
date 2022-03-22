@@ -1,0 +1,18 @@
+
+Snet.sourceforge.docfetcher.enums.ProgramConf$Bool#valueToString()Ljava/lang/String;S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/ProgramConf.javaP P("1*Œ
+1S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/ProgramConf.javaQ
+ Q(À
+½
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/ProgramConf.javaQ
+ Q(!
+%0java.lang.String"/java.lang.Boolean#toString(Z)Ljava/lang/String;*"
+java.lang.Boolean*
+"""o
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/ProgramConf.javaQ Q("
+
+%0java.lang.StringB53
+1net.sourceforge.docfetcher.enums.ProgramConf$Bool

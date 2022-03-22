@@ -1,0 +1,48 @@
+
+Worg.apache.tika.language.LanguageProfile$Interleaved$Entry#toString()Ljava/lang/String;Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java³ ³(""1*ú
+1Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java´" ´('µ
+²
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java´" ´('
+%0char[]"__id*I*G<
+:org.apache.tika.language.LanguageProfile$Interleaved$Entry"
+ngram}
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java´ ´(!
+%1java.lang.String"java.lang.String¤
+¡
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java´ ´((
+%2"java.lang.String#<init>([C)V*
+
+%1java.lang.String*
+
+%0char[]™
+–
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java´ ´(.
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+(š
+—
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java´ ´(6
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+""™
+–
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java´ ´(<
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+)"m
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java´ ´(=
+
+%5java.lang.StringB><
+:org.apache.tika.language.LanguageProfile$Interleaved$Entry

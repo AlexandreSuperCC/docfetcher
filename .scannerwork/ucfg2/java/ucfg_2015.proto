@@ -1,0 +1,36 @@
+
+êorg.apache.tika.language.LanguageProfilerBuilder$QuickStringBuffer#append(C)Lorg/apache/tika/language/LanguageProfilerBuilder$QuickStringBuffer;Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÚ Ú( "3*˜
+2Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaı ı(ë
+é
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaı ı((
+
+%1void"Uorg.apache.tika.language.LanguageProfilerBuilder$QuickStringBuffer#expandCapacity(I)V*FD
+Borg.apache.tika.language.LanguageProfilerBuilder$QuickStringBuffer*
+""*
+1*Æ
+3Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÛ Û( ≈
+¬
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaÙ Ù( 
+%0char[]"__id*Q*OD
+Borg.apache.tika.language.LanguageProfilerBuilder$QuickStringBuffer"
+value*
+2
+1*Ã
+1Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˜ ˜(≈
+¬
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java˜ ˜(
+%2char[]"__id*Q*OD
+Borg.apache.tika.language.LanguageProfilerBuilder$QuickStringBuffer"
+value"£
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java¯ ¯(FD
+Borg.apache.tika.language.LanguageProfilerBuilder$QuickStringBuffer:
+""BFD
+Borg.apache.tika.language.LanguageProfilerBuilder$QuickStringBuffer

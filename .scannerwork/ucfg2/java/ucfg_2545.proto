@@ -1,0 +1,97 @@
+
+~net.sourceforge.docfetcher.model.index.file.FileContext#getDirOrZipPath(Ljava/io/File;)Lnet/sourceforge/docfetcher/model/Path;`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaÞ Þ(""startingBlock*ø
+2`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaà
+ à(ñ
+î
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaà
+ à(;
+%15net.sourceforge.docfetcher.model.index.IndexingConfig"__id*G*E9
+7net.sourceforge.docfetcher.model.index.file.FileContext"
+configˆ…
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaà
+ à(&+
+%2%net.sourceforge.docfetcher.model.Path"|net.sourceforge.docfetcher.model.index.IndexingConfig#getStorablePath(Ljava/io/File;)Lnet/sourceforge/docfetcher/model/Path;*=
+;
+%15net.sourceforge.docfetcher.model.index.IndexingConfig*
+
+filejava.io.File2getStorablePath(Ljava/io/File;)"‘
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaà à('-
++
+%2%net.sourceforge.docfetcher.model.Path*×
+3`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaß ß(ç
+ä
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaß ß(+
+%0%net.sourceforge.docfetcher.model.Path"__id*M*K9
+7net.sourceforge.docfetcher.model.index.file.FileContext"
+originalPath*
+2
+1*¨
+startingBlock`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaÞ" Þ(6È
+Å
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaÝ Ý(	
+%6"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.FileÈ
+Å
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaÞ# Þ(+
+%7"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.File™
+–
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaÞ1 Þ(5
+filejava.io.File"__annotation*
+
+%6*
+
+%7*
+3*˜
+
+1`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaá á(Ÿ
+œ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaã ã(E
+%3"rnet.sourceforge.docfetcher.model.UtilModel#getRelativePath(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*.",
+*net.sourceforge.docfetcher.model.UtilModel*
+""*
+""•
+’
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaã ã(F 
+relativePathjava.lang.String"__id*
+
+%3ç
+ä
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaä	 ä(+
+%4%net.sourceforge.docfetcher.model.Path"__id*M*K9
+7net.sourceforge.docfetcher.model.index.file.FileContext"
+originalPathøõ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaä	 ä(1+
+%5%net.sourceforge.docfetcher.model.Path"nnet.sourceforge.docfetcher.model.Path#createSubPath(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/Path;*-
++
+%4%net.sourceforge.docfetcher.model.Path*"
+ 
+relativePathjava.lang.String2!createSubPath(Ljava/lang/String;)"‘
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileContext.javaä ä(2-
++
+%5%net.sourceforge.docfetcher.model.Path:
+filejava.io.FileB;9
+7net.sourceforge.docfetcher.model.index.file.FileContext

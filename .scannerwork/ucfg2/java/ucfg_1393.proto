@@ -1,0 +1,143 @@
+
+bnet.sourceforge.docfetcher.util.Util#join(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaì ì("startingBlock*¥
+3M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaö ö(úô
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaö ö(
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+	separatorjava.lang.String2append(Ljava/lang/String;)ù
+ö
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaõ õ(
+%6java.lang.Object"
+__arrayGet*
+
+partsjava.lang.Object[]*
+""ïí
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaõ õ(
+%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%6java.lang.Object2append(Ljava/lang/Object;)*	
+3
+4
+1*ã	
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaì ì(Oæ
+ª
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaí í(	
+%9"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+	separatorjava.lang.Stringø
+º
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaì ì(#
+%10"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+	separatorjava.lang.Stringê
+ç
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaì+ ì(4
+	separatorjava.lang.String"__annotation*
+
+%9*
+
+%10Ω
+∫
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaí í(	
+%11"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+partsjava.lang.Object[]Ω
+∫
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaì6 ì(>
+%12"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+partsjava.lang.Object[]è
+å
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaìI ì(N
+partsjava.lang.Object[]"__annotation*
+
+%11*
+
+%12*
+7*ï
+4M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaò ò(ù
+ö
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaò ò(
+%3java.lang.Object"
+__arrayGet*
+
+partsjava.lang.Object[]*
+""ïí
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaò ò(
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%3java.lang.Object2append(Ljava/lang/Object;)*	
+3
+4
+1*µ
+7M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaî î(é
+ã
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaî î(
+%0java.lang.String"Wnet.sourceforge.docfetcher.util.Util#checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+	separatorjava.lang.Stringäá
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaï ï(&
+%1java.lang.StringBuilder"java.lang.StringBuilderú
+ô
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaï ï((
+%2"!java.lang.StringBuilder#<init>()V*
+
+%1java.lang.StringBuilderò
+ï
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaï ï()
+sbjava.lang.StringBuilder"__id*
+
+%1java.lang.StringBuilder*	
+3
+4
+1*ç
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaû	 û(Õ 
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaû	 û(
+%8java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()"i
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaû û(
+
+%8java.lang.String:
+	separatorjava.lang.String:
+partsjava.lang.Object[]B("&
+$net.sourceforge.docfetcher.util.Util

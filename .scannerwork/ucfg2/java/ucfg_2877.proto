@@ -1,0 +1,27 @@
+
+corg.apache.tika.config.TikaConfig$DetectorXmlLoader#isComposite(Lorg/apache/tika/detect/Detector;)ZJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÉ É("startingBlock*œ
+startingBlockJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÉ É(,¦
+£
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÈ È(
+%0"
+__annotate*
+java.lang.Override*+
+)
+loadedorg.apache.tika.detect.Detector
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÉ% É(+)
+loadedorg.apache.tika.detect.Detector"__annotation*
+
+%0*
+1*¥
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÊ Ê("T
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÊ Ê(7
+"":)
+loadedorg.apache.tika.detect.DetectorB75
+3org.apache.tika.config.TikaConfig$DetectorXmlLoader

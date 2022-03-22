@@ -1,0 +1,54 @@
+
+:net.contentobjects.jnotify.linux.JNotify_linux#isJava64()ZU
+KD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotify_linux.java8 8( "3*¢
+2U
+KD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotify_linux.java;
+ ;(Ù
+Ö
+U
+KD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotify_linux.java;
+ ;('
+%1java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*	
+os.archÍÊ
+U
+KD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotify_linux.java;
+ ;(5
+%2java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+%1java.lang.String2toLowerCase()”
+‘
+U
+KD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotify_linux.java; ;(5
+archjava.lang.String"__id*
+
+%2java.lang.String*
+1*á
+3U
+KD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotify_linux.java9 9(å
+â
+U
+KD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotify_linux.java9 9(9
+%0java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+sun.arch.data.model”
+‘
+U
+KD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotify_linux.java9 9(:
+archjava.lang.String"__id*
+
+%0java.lang.String*
+2
+1*¥
+1U
+KD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotify_linux.java<	 <(çä
+U
+KD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotify_linux.java<	 <(
+%3boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+archjava.lang.String*
+642"contains(Ljava/lang/CharSequence;)"_
+U
+KD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotify_linux.java< <(
+""B2"0
+.net.contentobjects.jnotify.linux.JNotify_linux

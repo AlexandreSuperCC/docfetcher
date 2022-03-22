@@ -1,0 +1,33 @@
+
+&org.apache.tika.mime.Magic#hashCode()IA
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaT T("1*é
+1A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaU U(õ
+ò
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaU U(#
+%0org.apache.tika.mime.MimeType"__id*(*&
+org.apache.tika.mime.Magic"
+typeØ¨
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaU U(	
+%1int")org.apache.tika.mime.MimeType#hashCode()I*%
+#
+%0org.apache.tika.mime.MimeType2
+hashCode()ê
+ç
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaU! U('
+%2java.lang.String"__id***(
+org.apache.tika.mime.Magic"
+stringïí
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaU! U(2	
+%3int"java.lang.String#hashCode()I*
+
+%2java.lang.String2
+hashCode()"K
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaU U(3
+""B
+org.apache.tika.mime.Magic

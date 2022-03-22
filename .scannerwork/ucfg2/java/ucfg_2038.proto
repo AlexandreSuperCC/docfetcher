@@ -1,0 +1,17 @@
+
+9org.apache.tika.parser.chm.lzx.ChmSection#getSyncBits(I)IP
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java6 6("1*‘
+1P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java7 7(Ý
+Ú
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java7 7(&	
+%0int"<org.apache.tika.parser.chm.lzx.ChmSection#getDesyncBits(II)I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection*
+""*
+"""Z
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java7 7('
+"":
+""B-+
+)org.apache.tika.parser.chm.lzx.ChmSection

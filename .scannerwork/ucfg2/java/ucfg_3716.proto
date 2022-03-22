@@ -1,0 +1,105 @@
+
+_net.sourceforge.docfetcher.model.IndexRegistry#saveIndexName(Ljava/io/File;Ljava/lang/String;)ZW
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java¡ ¡(%"12*Ö
+4W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java… …(°û
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java… …(
+
+%9void"java.io.Writer#close()V*
+
+wjava.io.Writer2close()*
+1*‰
+5W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java« «(bó
+î
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java« «(b
+wjava.io.Writer"__id*
+
+%6java.io.BufferedWriterÊ„
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java» »(
+
+%8void")java.io.Writer#write(Ljava/lang/String;)V*
+
+wjava.io.Writer*
+
+	indexNamejava.lang.String2write(Ljava/lang/String;)*
+4*—
+6W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java« «(aíè
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java« «( 
+%6java.io.BufferedWriter"java.io.BufferedWriterÿ
+’
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java« «(a
+%7"0java.io.BufferedWriter#<init>(Ljava/io/Writer;)V*
+
+%6java.io.BufferedWriter*"
+ 
+%4java.io.OutputStreamWriter*
+5*Ç
+7W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java«X «(_öó
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java«% «(7 
+%4java.io.OutputStreamWriter"java.io.OutputStreamWriterÅ
+˛
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java«! «(`
+%5"Ljava.io.OutputStreamWriter#<init>(Ljava/io/OutputStream;Ljava/lang/String;)V*"
+ 
+%4java.io.OutputStreamWriter* 
+
+%2java.io.FileOutputStream*	
+utf-8*
+6*œ
+8W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java«M «(Uñì
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java«< «(L
+%2java.io.FileOutputStream"java.io.FileOutputStream“
+œ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java«8 «(V
+%3"0java.io.FileOutputStream#<init>(Ljava/io/File;)V* 
+
+%2java.io.FileOutputStream*
+
+nameFilejava.io.File*
+7*¿
+10W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaƒ
+ ƒ("a
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaƒ ƒ(
+""*ñ
+11W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java√ √($≠™
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java√ √(/
+%1boolean"java.io.File#canWrite()Z*
+
+nameFilejava.io.File2
+canWrite()*
+8
+10*í
+12W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java√ √(©¶
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java√ √(
+%0boolean"java.io.File#exists()Z*
+
+nameFilejava.io.File2exists()*
+8
+11*ø
+1W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java–	 –("a
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java– –(
+"":
+nameFilejava.io.File:
+	indexNamejava.lang.StringB2"0
+.net.sourceforge.docfetcher.model.IndexRegistry

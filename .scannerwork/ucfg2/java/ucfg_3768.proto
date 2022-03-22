@@ -1,0 +1,122 @@
+
+{org.apache.tika.sax.xpath.CompositeMatcher#descend(Ljava/lang/String;Ljava/lang/String;)Lorg/apache/tika/sax/xpath/Matcher;Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java" "("8*‹
+2Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java* *("É
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java* *(.,
+*org.apache.tika.sax.xpath.CompositeMatcher*ù
+3Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java)" )(&º
+π
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java)" )(('
+%7!org.apache.tika.sax.xpath.Matcher"__id*5*3,
+*org.apache.tika.sax.xpath.CompositeMatcher"
+b*
+2
+1*ù
+4Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java) )(º
+π
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java) )('
+%6!org.apache.tika.sax.xpath.Matcher"__id*5*3,
+*org.apache.tika.sax.xpath.CompositeMatcher"
+a*
+3
+1*’
+5Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java( (("}
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java( (((
+&
+a!org.apache.tika.sax.xpath.Matcher*Ó
+6Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java' '(ç
+ä
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java' '('
+%5!org.apache.tika.sax.xpath.Matcher"__id*
+""*
+4
+5*’
+7Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java& &("}
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java& &((
+&
+b!org.apache.tika.sax.xpath.Matcher*Í
+8Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java# #(º
+π
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java# #('
+%0!org.apache.tika.sax.xpath.Matcher"__id*5*3,
+*org.apache.tika.sax.xpath.CompositeMatcher"
+aäá
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java# #(3'
+%1!org.apache.tika.sax.xpath.Matcher"rorg.apache.tika.sax.xpath.Matcher#descend(Ljava/lang/String;Ljava/lang/String;)Lorg/apache/tika/sax/xpath/Matcher;*)
+'
+%0!org.apache.tika.sax.xpath.Matcher*
+
+	namespacejava.lang.String*
+
+namejava.lang.String2-descend(Ljava/lang/String;Ljava/lang/String;)Ø
+¨
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java# #(4&
+a!org.apache.tika.sax.xpath.Matcher"__id*)
+'
+%1!org.apache.tika.sax.xpath.Matcherº
+π
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java$ $('
+%2!org.apache.tika.sax.xpath.Matcher"__id*5*3,
+*org.apache.tika.sax.xpath.CompositeMatcher"
+bäá
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java$ $(3'
+%3!org.apache.tika.sax.xpath.Matcher"rorg.apache.tika.sax.xpath.Matcher#descend(Ljava/lang/String;Ljava/lang/String;)Lorg/apache/tika/sax/xpath/Matcher;*)
+'
+%2!org.apache.tika.sax.xpath.Matcher*
+
+	namespacejava.lang.String*
+
+namejava.lang.String2-descend(Ljava/lang/String;Ljava/lang/String;)Ø
+¨
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java$ $(4&
+b!org.apache.tika.sax.xpath.Matcher"__id*)
+'
+%3!org.apache.tika.sax.xpath.Matcherç
+ä
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java% %('
+%4!org.apache.tika.sax.xpath.Matcher"__id*
+""*
+6
+7*˙
+1Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java,( ,()¥±
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java, ,('0
+%8*org.apache.tika.sax.xpath.CompositeMatcher"*org.apache.tika.sax.xpath.CompositeMatcher‡
+›
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java, ,(-
+%9"zorg.apache.tika.sax.xpath.CompositeMatcher#<init>(Lorg/apache/tika/sax/xpath/Matcher;Lorg/apache/tika/sax/xpath/Matcher;)V*2
+0
+%8*org.apache.tika.sax.xpath.CompositeMatcher*(
+&
+a!org.apache.tika.sax.xpath.Matcher*(
+&
+b!org.apache.tika.sax.xpath.Matcher"á
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java, ,(.2
+0
+%8*org.apache.tika.sax.xpath.CompositeMatcher:
+	namespacejava.lang.String:
+namejava.lang.StringB.,
+*org.apache.tika.sax.xpath.CompositeMatcher

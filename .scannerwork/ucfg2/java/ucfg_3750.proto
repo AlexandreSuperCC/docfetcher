@@ -1,0 +1,442 @@
+
+•net.sourceforge.docfetcher.website.Website#convertPage(Lnet/sourceforge/docfetcher/website/Website$PageProperties;Ljava/io/File;Ljava/lang/String;)Ljava/lang/String;S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaÆ Æ(""startingBlock*Å
+2S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java«
+ «(~
+|
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java«5 «(<
+%34java.lang.String"__id*
+""ã
+à
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java«
+ «(=
+%35java.lang.String"xnet.sourceforge.docfetcher.UtilGlobal#replace(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/String;*)"'
+%net.sourceforge.docfetcher.UtilGlobal*
+
+pathjava.lang.String*
+
+htmljava.lang.String* 
+
+
+versionKeyjava.lang.String*
+
+%34java.lang.Stringì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java« «(=
+htmljava.lang.String"__id*
+
+%35java.lang.String*
+1*Ú
+3S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaø ø(¡
+æ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaø ø(5
+%27java.util.Calendar"4java.util.Calendar#getInstance()Ljava/util/Calendar;*"
+java.util.Calendarq
+o
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaø: ø(G
+
+%28int"__id*
+""≥∞
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaø ø(H
+
+%29int"java.util.Calendar#get(I)I*
+
+%27java.util.Calendar*
+
+
+%28int2get(I)ƒ
+¡
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaø ø(I
+%30java.lang.String"-java.lang.String#valueOf(I)Ljava/lang/String;*"
+java.lang.String*
+
+
+%29intì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaø ø(J
+yearjava.lang.String"__id*
+
+%30java.lang.String˚
+¯
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java¿ ¿(@
+%31java.lang.String"xnet.sourceforge.docfetcher.UtilGlobal#replace(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/String;*)"'
+%net.sourceforge.docfetcher.UtilGlobal*
+
+pathjava.lang.String*
+
+templatejava.lang.String*	
+${year}*
+
+yearjava.lang.Stringó
+î
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java¿ ¿(@
+templatejava.lang.String"__id*
+
+%31java.lang.StringÉ
+Ä
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java¬ ¬(K
+%32java.lang.String"xnet.sourceforge.docfetcher.UtilGlobal#replace(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/String;*)"'
+%net.sourceforge.docfetcher.UtilGlobal*
+
+pathjava.lang.String*
+
+templatejava.lang.String*
+${contents}*
+
+htmlBodyjava.lang.Stringì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java¬ ¬(L
+htmljava.lang.String"__id*
+
+%32java.lang.Stringé
+ã
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java≈ ≈(#
+
+versionKeyjava.lang.String"__id*
+
+${version}Ä˝
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∆ ∆(
+%33boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+htmljava.lang.String* 
+
+
+versionKeyjava.lang.String2"contains(Ljava/lang/CharSequence;)*
+2
+1*™	
+startingBlockS
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaÆ" ∞(#Í
+Á
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaÆ$ Æ(,
+%36"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*D
+B
+props9net.sourceforge.docfetcher.website.Website$PageProperties≥
+∞
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaÆ< Æ(AB
+props9net.sourceforge.docfetcher.website.Website$PageProperties"__annotation*
+
+%36º
+π
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaØ
+ Ø(
+%37"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.FileÖ
+Ç
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaØ Ø(
+filejava.io.File"__annotation*
+
+%37ƒ
+¡
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∞
+ ∞(
+%38"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+htmlBodyjava.lang.Stringç
+ä
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∞ ∞("
+htmlBodyjava.lang.String"__annotation*
+
+%38*
+7*Ë
+4S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∫ ∫(ü
+ú
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∫ ∫(7
+pair/net.sourceforge.docfetcher.website.Website$Pair"__id*
+""„
+‡
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∫ ∫(7
+pair/net.sourceforge.docfetcher.website.Website$Pair"
+__arrayGet*<
+:
+pairs1net.sourceforge.docfetcher.website.Website$Pair[]*
+""*
+3
+5*÷
+5S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaª ª(ª
+∏
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaª ª(
+%22java.lang.String"__id*B*@
+7
+pair/net.sourceforge.docfetcher.website.Website$Pair"
+keyû
+õ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaª ª(
+%23java.lang.String"__concat*
+${*
+
+%22java.lang.Stringù
+ö
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaª ª(%
+%24java.lang.String"__concat*
+
+%23java.lang.String*
+}í
+è
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaª ª(&
+keyjava.lang.String"__id*
+
+%24java.lang.StringΩ
+∫
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaº6 º(@
+%25java.lang.String"__id*D*B
+7
+pair/net.sourceforge.docfetcher.website.Website$Pair"
+valueà
+Ö
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaº º(A
+%26java.lang.String"xnet.sourceforge.docfetcher.UtilGlobal#replace(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/String;*)"'
+%net.sourceforge.docfetcher.UtilGlobal*
+
+pathjava.lang.String*
+
+templatejava.lang.String*
+
+keyjava.lang.String*
+
+%25java.lang.Stringó
+î
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaº º(A
+templatejava.lang.String"__id*
+
+%26java.lang.String*
+4*®,
+7S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java≤ ≤(Ω∫
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java≤ ≤(
+%0java.lang.String"(java.io.File#getPath()Ljava/lang/String;*
+
+filejava.io.File2	getPath()í
+è
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java≤ ≤(
+pathjava.lang.String"__id*
+
+%0java.lang.Stringy
+w
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java≥ ≥()
+%1java.io.File"__id*
+""yw
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java≥ ≥(
+%2java.io.File"java.io.File’
+“
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java≥ ≥(;
+%3"6java.io.File#<init>(Ljava/io/File;Ljava/lang/String;)V*
+
+%2java.io.File*
+
+%1java.io.File*
+template.htmlí
+è
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java≥ ≥(<
+templateFilejava.io.File"__id*
+
+%2java.io.File≠
+™
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java¥ ¥(@
+%4java.lang.String"`net.sourceforge.docfetcher.util.CharsetDetectorHelper#toString(Ljava/io/File;)Ljava/lang/String;*9"7
+5net.sourceforge.docfetcher.util.CharsetDetectorHelper*
+
+templateFilejava.io.Fileñ
+ì
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java¥ ¥(A
+templatejava.lang.String"__id*
+
+%4java.lang.StringÊ
+„
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∑ ∑(5
+%5/net.sourceforge.docfetcher.website.Website$Pair"__id*O*M
+B
+props9net.sourceforge.docfetcher.website.Website$PageProperties"
+titleÁ
+‰
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∑ ∑(5
+%6/net.sourceforge.docfetcher.website.Website$Pair"__id*P*N
+B
+props9net.sourceforge.docfetcher.website.Website$PageProperties"
+authorÈ
+Ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∑ ∑(,5
+%7/net.sourceforge.docfetcher.website.Website$Pair"__id*R*P
+B
+props9net.sourceforge.docfetcher.website.Website$PageProperties"
+
+keywordsÏ
+È
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∑. ∑(?5
+%8/net.sourceforge.docfetcher.website.Website$Pair"__id*U*S
+B
+props9net.sourceforge.docfetcher.website.Website$PageProperties"
+descriptionÈ
+Ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∏ ∏(5
+%9/net.sourceforge.docfetcher.website.Website$Pair"__id*R*P
+B
+props9net.sourceforge.docfetcher.website.Website$PageProperties"
+
+overviewÍ
+Á
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∏ ∏(!6
+%10/net.sourceforge.docfetcher.website.Website$Pair"__id*R*P
+B
+props9net.sourceforge.docfetcher.website.Website$PageProperties"
+
+downloadÌ
+Í
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∏# ∏(46
+%11/net.sourceforge.docfetcher.website.Website$Pair"__id*U*S
+B
+props9net.sourceforge.docfetcher.website.Website$PageProperties"
+screenshotsÊ
+„
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∏6 ∏(@6
+%12/net.sourceforge.docfetcher.website.Website$Pair"__id*N*L
+B
+props9net.sourceforge.docfetcher.website.Website$PageProperties"
+more≈¬
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∂ ∏(B8
+%131net.sourceforge.docfetcher.website.Website$Pair[]"1net.sourceforge.docfetcher.website.Website$Pair[]‰
+·
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∂ ∏(B
+%14"
+__arraySet*:
+8
+%131net.sourceforge.docfetcher.website.Website$Pair[]*2 *7
+5
+%5/net.sourceforge.docfetcher.website.Website$PairÊ
+„
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∂ ∏(B
+%15"
+__arraySet*:
+8
+%131net.sourceforge.docfetcher.website.Website$Pair[]*2*7
+5
+%6/net.sourceforge.docfetcher.website.Website$PairÊ
+„
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∂ ∏(B
+%16"
+__arraySet*:
+8
+%131net.sourceforge.docfetcher.website.Website$Pair[]*2*7
+5
+%7/net.sourceforge.docfetcher.website.Website$PairÊ
+„
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∂ ∏(B
+%17"
+__arraySet*:
+8
+%131net.sourceforge.docfetcher.website.Website$Pair[]*2*7
+5
+%8/net.sourceforge.docfetcher.website.Website$PairÊ
+„
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∂ ∏(B
+%18"
+__arraySet*:
+8
+%131net.sourceforge.docfetcher.website.Website$Pair[]*2*7
+5
+%9/net.sourceforge.docfetcher.website.Website$PairÁ
+‰
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∂ ∏(B
+%19"
+__arraySet*:
+8
+%131net.sourceforge.docfetcher.website.Website$Pair[]*2*8
+6
+%10/net.sourceforge.docfetcher.website.Website$PairÁ
+‰
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∂ ∏(B
+%20"
+__arraySet*:
+8
+%131net.sourceforge.docfetcher.website.Website$Pair[]*2*8
+6
+%11/net.sourceforge.docfetcher.website.Website$PairÁ
+‰
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∂ ∏(B
+%21"
+__arraySet*:
+8
+%131net.sourceforge.docfetcher.website.Website$Pair[]*2*8
+6
+%12/net.sourceforge.docfetcher.website.Website$Pair÷
+”
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java∂ ∏(C:
+pairs1net.sourceforge.docfetcher.website.Website$Pair[]"__id*:
+8
+%131net.sourceforge.docfetcher.website.Website$Pair[]*
+4*À
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java…	 …("q
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.java… …(
+
+htmljava.lang.String:B
+props9net.sourceforge.docfetcher.website.Website$PageProperties:
+filejava.io.File:
+htmlBodyjava.lang.StringB.",
+*net.sourceforge.docfetcher.website.Website

@@ -1,0 +1,63 @@
+
+Wnet.sourceforge.docfetcher.gui.filter.FilesizeUnit#valuesAsStrings()[Ljava/lang/String;Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.java@ @('"5*û
+3Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.javaD D(
+î
+ë
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.javaD D(8
+%22net.sourceforge.docfetcher.gui.filter.FilesizeUnit"
+__arrayGet*@
+>
+values4net.sourceforge.docfetcher.gui.filter.FilesizeUnit[]*
+""ëè
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.javaD D($
+%3java.lang.String"+java.lang.Enum#toString()Ljava/lang/String;*:
+8
+%22net.sourceforge.docfetcher.gui.filter.FilesizeUnit2
+toString()³
+°
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.javaD D($
+%4"
+__arraySet*
+
+stringsjava.lang.String[]*
+""*
+
+%3java.lang.String*
+3
+1*Ã
+5Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.javaA A( Ä
+Á
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.javaA A(":
+%04net.sourceforge.docfetcher.gui.filter.FilesizeUnit[]"pnet.sourceforge.docfetcher.gui.filter.FilesizeUnit#values()[Lnet/sourceforge/docfetcher/gui/filter/FilesizeUnit;*6"4
+2net.sourceforge.docfetcher.gui.filter.FilesizeUnitâ
+ß
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.javaA A(#>
+values4net.sourceforge.docfetcher.gui.filter.FilesizeUnit[]"__id*<
+:
+%04net.sourceforge.docfetcher.gui.filter.FilesizeUnit[]Œ‰
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.javaB B(.
+%1java.lang.String[]"java.lang.String[]Ÿ
+œ
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.javaB B(/
+stringsjava.lang.String[]"__id*
+
+%1java.lang.String[]*
+3
+1*Ü
+1Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.javaE	 E("|
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FilesizeUnit.javaE E(
+
+stringsjava.lang.String[]B6"4
+2net.sourceforge.docfetcher.gui.filter.FilesizeUnit

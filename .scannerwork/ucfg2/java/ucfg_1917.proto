@@ -1,0 +1,139 @@
+
+Xorg.apache.tika.detect.TrainedModelDetector#readByteFrequencies(Ljava/io/InputStream;)[FR
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java[ [()"26*
+24R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java` `(5√
+¿
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java` `(55
+inputChannel%java.nio.channels.ReadableByteChannel"__id*-
++
+%0%java.nio.channels.ReadableByteChannel…
+∆
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaf f(:
+%1java.nio.ByteBuffer"4java.nio.ByteBuffer#allocate(I)Ljava/nio/ByteBuffer;*"
+java.nio.ByteBuffer*
+""*
+23*ä
+25R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java` `(#©
+¶
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java` `(5+
+%0%java.nio.channels.ReadableByteChannel"cjava.nio.channels.Channels#newChannel(Ljava/io/InputStream;)Ljava/nio/channels/ReadableByteChannel;*"
+java.nio.channels.Channels*
+
+inputjava.io.InputStream*
+24*˝
+26R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java] ]()ú
+ô
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java] ]()5
+inputChannel%java.nio.channels.ReadableByteChannel"__id*
+""*
+25*â
+17R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javao o("§°
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javao o((
+
+%5byte"java.nio.ByteBuffer#get()B*
+
+bufjava.nio.ByteBuffer2get()*
+11
+12*ô
+19R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javan n(µ≤
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javan n()
+%4boolean"java.nio.Buffer#hasRemaining()Z*
+
+bufjava.nio.ByteBuffer2hasRemaining()*
+17
+9*π
+1T
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaÖ Ö("^
+T
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaÖ Ö(
+""*Å
+4T
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaÅ Å(ù
+ö
+T
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaÇ' Ç(>
+%11double"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+""*
+4
+1*Å
+8R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java| |((õò
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java| |(2
+
+%10int"Bjava.nio.channels.ReadableByteChannel#read(Ljava/nio/ByteBuffer;)I*7
+5
+inputChannel%java.nio.channels.ReadableByteChannel*
+
+bufjava.nio.ByteBuffer2read(Ljava/nio/ByteBuffer;)*
+
+4
+20
+1*™
+9R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java{ {(À»
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java{ {(
+%9java.nio.ByteBuffer"0java.nio.ByteBuffer#clear()Ljava/nio/ByteBuffer;*
+
+bufjava.nio.ByteBuffer2clear()*
+8*™
+20R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javal l(…∆
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javal l(
+%3java.nio.ByteBuffer"/java.nio.ByteBuffer#flip()Ljava/nio/ByteBuffer;*
+
+bufjava.nio.ByteBuffer2flip()*
+19*ÿ
+11R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaxB x(Ex
+v
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaxB x(E
+%6float"__id*
+
+%8float*
+19*ÿ
+12R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javax1 x(:x
+v
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javax1 x(?
+%6float"__id*
+
+%7float*
+19*ö
+23R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaf f(;ñ
+ì
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaf f(;
+bufjava.nio.ByteBuffer"__id*
+
+%1java.nio.ByteBufferöó
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javag g(2	
+%2int"Bjava.nio.channels.ReadableByteChannel#read(Ljava/nio/ByteBuffer;)I*7
+5
+inputChannel%java.nio.channels.ReadableByteChannel*
+
+bufjava.nio.ByteBuffer2read(Ljava/nio/ByteBuffer;)*
+
+4
+20
+1:
+inputjava.io.InputStreamB/-
++org.apache.tika.detect.TrainedModelDetector

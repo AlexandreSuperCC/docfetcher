@@ -1,0 +1,33 @@
+
+Ynet.sourceforge.docfetcher.model.index.IndexingConfig#isSolidArchive(Ljava/lang/String;)Z^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaó ó($"startingBlock*ß
+startingBlock^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaó$ ó(>Î
+Ë
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaó% ó(-
+%1"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filenamejava.lang.String—
+”
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaó5 ó(=
+filenamejava.lang.String"__annotation*
+
+%1*
+1*¥
+1^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaô	 ô(ÕÒ
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaô	 ô()E
+%0?net.sourceforge.docfetcher.model.index.file.SolidArchiveFactory"¡net.sourceforge.docfetcher.model.index.IndexingConfig#getSolidArchiveFactory(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/index/file/SolidArchiveFactory;*97
+5net.sourceforge.docfetcher.model.index.IndexingConfig*
+
+filenamejava.lang.String2*getSolidArchiveFactory(Ljava/lang/String;)"h
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaô ô(2
+"":
+filenamejava.lang.StringB97
+5net.sourceforge.docfetcher.model.index.IndexingConfig

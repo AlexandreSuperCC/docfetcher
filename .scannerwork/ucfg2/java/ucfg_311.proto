@@ -1,0 +1,21 @@
+
+lnet.sourceforge.docfetcher.build.Paths#addDirSet(Ljava/lang/String;)Lnet/sourceforge/docfetcher/build/Paths;M
+CD:/git_project/code/src/net/sourceforge/docfetcher/build/Paths.java   ("1*ý
+1M
+CD:/git_project/code/src/net/sourceforge/docfetcher/build/Paths.java! !(sq
+M
+CD:/git_project/code/src/net/sourceforge/docfetcher/build/Paths.java" "(
+%0java.io.File"java.io.File¶
+³
+M
+CD:/git_project/code/src/net/sourceforge/docfetcher/build/Paths.java" "("
+%1"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%0java.io.File*
+
+dirSetjava.lang.String"{
+M
+CD:/git_project/code/src/net/sourceforge/docfetcher/build/Paths.java$ $(*(
+&net.sourceforge.docfetcher.build.Paths:
+dirSetjava.lang.StringB*(
+&net.sourceforge.docfetcher.build.Paths

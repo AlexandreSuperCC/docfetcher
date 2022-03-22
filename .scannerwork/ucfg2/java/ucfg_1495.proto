@@ -1,0 +1,70 @@
+
+eorg.apache.tika.extractor.ParserContainerExtractor#isSupported(Lorg/apache/tika/io/TikaInputStream;)ZY
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javaF F("1*´
+1Y
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javaG G(!Ñ
+Î
+Y
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javaG G(!%
+%0org.apache.tika.detect.Detector"__id*D*B4
+2org.apache.tika.extractor.ParserContainerExtractor"
+
+detectorª§
+Y
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javaG4 G(<'
+%1!org.apache.tika.metadata.Metadata"!org.apache.tika.metadata.Metadata¼
+¹
+Y
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javaG0 G(>
+%2"+org.apache.tika.metadata.Metadata#<init>()V*)
+'
+%1!org.apache.tika.metadata.MetadataÌÉ
+Y
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javaG G(?$
+%3org.apache.tika.mime.MediaType"€org.apache.tika.detect.Detector#detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/mime/MediaType;*'
+%
+%0org.apache.tika.detect.Detector*-
++
+input"org.apache.tika.io.TikaInputStream*)
+'
+%1!org.apache.tika.metadata.Metadata2@detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)´
+±
+Y
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javaG G(@&
+typeorg.apache.tika.mime.MediaType"__id*&
+$
+%3org.apache.tika.mime.MediaTypeÍ
+Ê
+Y
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javaH H(#
+%4org.apache.tika.parser.Parser"__id*B*@4
+2org.apache.tika.extractor.ParserContainerExtractor"
+parser®«
+Y
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javaH, H(8)
+%5#org.apache.tika.parser.ParseContext"#org.apache.tika.parser.ParseContextÀ
+½
+Y
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javaH( H(:
+%6"-org.apache.tika.parser.ParseContext#<init>()V*+
+)
+%5#org.apache.tika.parser.ParseContextèå
+Y
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javaH H(;
+%7java.util.Set"eorg.apache.tika.parser.Parser#getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Set;*%
+#
+%4org.apache.tika.parser.Parser*+
+)
+%5#org.apache.tika.parser.ParseContext28getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)ùö
+Y
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javaH H(J
+%8boolean"+java.util.Set#contains(Ljava/lang/Object;)Z*
+
+%7java.util.Set*(
+&
+typeorg.apache.tika.mime.MediaType2contains(Ljava/lang/Object;)"c
+Y
+OD:/git_project/code/src/org/apache/tika/extractor/ParserContainerExtractor.javaH H(K
+"":+
+input"org.apache.tika.io.TikaInputStreamB64
+2org.apache.tika.extractor.ParserContainerExtractor

@@ -1,0 +1,161 @@
+
+Ynet.sourceforge.docfetcher.model.parse.ParseResult#getMetadata()Ljava/lang/StringBuilder;Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java` `(!"11*°
+2Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javah h(ã
+à
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javah h(
+	metadata0java.lang.String"__id*
+""™
+ß
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javah h(
+	metadata0java.lang.String"
+__arrayGet*
+
+%11java.util.List*
+""*
+3
+1*®
+3Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javai i(Ø¨
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javai i(
+%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
+#
+metadatajava.lang.StringBuilder*
+
+	metadata0java.lang.String2append(Ljava/lang/String;)êç
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javai i(*
+%13java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+%12java.lang.StringBuilder*
+ 2append(Ljava/lang/String;)*
+2*´
+4Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javah h('≈
+¬
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javah h('
+%11java.util.List"__id*H*F4
+2net.sourceforge.docfetcher.model.parse.ParseResult"
+miscMetadata*
+2*Æ
+5Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javag g(≈
+¬
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javag g(
+%10java.util.List"__id*H*F4
+2net.sourceforge.docfetcher.model.parse.ParseResult"
+miscMetadata*
+4
+1*ö
+6Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javae e(à
+Ö
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javae e(
+authorjava.lang.String"__id*
+""¶
+£
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javae e(
+authorjava.lang.String"
+__arrayGet*
+
+%7java.util.List*
+""*
+5
+7*¢
+7Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javaf f(´®
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javaf f(
+%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
+#
+metadatajava.lang.StringBuilder*
+
+authorjava.lang.String2append(Ljava/lang/String;)éã
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javaf f('
+%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+%8java.lang.StringBuilder*
+ 2append(Ljava/lang/String;)*
+6*•
+8Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javae e(ø
+º
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javae e(
+%7java.util.List"__id*C*A4
+2net.sourceforge.docfetcher.model.parse.ParseResult"	
+authors*
+6*®
+9Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javad d(ø
+º
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javad d(
+%6java.util.List"__id*C*A4
+2net.sourceforge.docfetcher.model.parse.ParseResult"	
+authors*
+5
+8*·
+10Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javac c(ø
+º
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javac c(
+%3java.lang.String"__id*A*?4
+2net.sourceforge.docfetcher.model.parse.ParseResult"
+titleß§
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javac c(
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
+#
+metadatajava.lang.StringBuilder*
+
+%3java.lang.String2append(Ljava/lang/String;)éã
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javac c(%
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+%4java.lang.StringBuilder*
+ 2append(Ljava/lang/String;)*
+9*õ
+11Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javaa a(.ñì
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javaa a(,
+%0java.lang.StringBuilder"java.lang.StringBuilder®
+•
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javaa a(.
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder™
+ß
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javaa a(/#
+metadatajava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilderø
+º
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javab b(
+%2java.lang.String"__id*A*?4
+2net.sourceforge.docfetcher.model.parse.ParseResult"
+title*
+9
+10*„
+1Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javaj	 j("Ç
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javaj j(%
+#
+metadatajava.lang.StringBuilderB64
+2net.sourceforge.docfetcher.model.parse.ParseResult

@@ -1,0 +1,49 @@
+
+Dorg.apache.tika.Tika#parseToString(Ljava/io/File;)Ljava/lang/String;=
+1D:/git_project/code/src/org/apache/tika/Tika.javaş ş("1*í
+1=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÿ ÿ(*‹
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÿ  ÿ(('
+%0!org.apache.tika.metadata.Metadata"!org.apache.tika.metadata.Metadata 
+
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÿ ÿ(*
+%1"+org.apache.tika.metadata.Metadata#<init>()V*)
+'
+%0!org.apache.tika.metadata.Metadata¢
+Ÿ
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÿ ÿ(+-
+metadata!org.apache.tika.metadata.Metadata"__id*)
+'
+%0!org.apache.tika.metadata.MetadataÜ
+Ù
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java (@(
+%2"org.apache.tika.io.TikaInputStream"}org.apache.tika.io.TikaInputStream#get(Ljava/io/File;Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/io/TikaInputStream;*&"$
+"org.apache.tika.io.TikaInputStream*
+
+filejava.io.File*/
+-
+metadata!org.apache.tika.metadata.Metadata“
+
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java€ (A
+streamjava.io.InputStream"__id**
+(
+%2"org.apache.tika.io.TikaInputStreamÿü
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java‚ ‚(.
+%3java.lang.String"norg.apache.tika.Tika#parseToString(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)Ljava/lang/String;*
+org.apache.tika.Tika*
+
+streamjava.io.InputStream*/
+-
+metadata!org.apache.tika.metadata.Metadata2GparseToString(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)"Y
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java‚ ‚(/
+
+%3java.lang.String:
+filejava.io.FileB
+org.apache.tika.Tika

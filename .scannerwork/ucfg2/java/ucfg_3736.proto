@@ -1,0 +1,16 @@
+
+cnull#getChildren(Lnet/sourceforge/docfetcher/model/index/outlook/MailFolder;)Ljava/util/Collection;b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javax% x(0"1*„
+1b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javay y(œ™
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javay y( 
+%0java.util.List"Gnet.sourceforge.docfetcher.model.Folder#getSubFolders()Ljava/util/List;*C
+A
+node9net.sourceforge.docfetcher.model.index.outlook.MailFolder2getSubFolders()"|
+b
+XD:/git_project/code/src/net/sourceforge/docfetcher/model/index/outlook/OutlookIndex.javay y(!
+
+%0java.util.List:A
+node9net.sourceforge.docfetcher.model.index.outlook.MailFolderBFD
+BLnet/sourceforge/docfetcher/model/index/outlook/OutlookIndex$4028;

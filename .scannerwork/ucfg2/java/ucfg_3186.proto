@@ -1,0 +1,23 @@
+
+sorg.apache.tika.language.translate.DefaultTranslator#getTranslator()Lorg/apache/tika/language/translate/Translator;[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javap p(#"1*Ú
+1[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaq q( ÿ
+’
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaq! q('*
+%0$org.apache.tika.config.ServiceLoader"__id*D*B6
+4org.apache.tika.language.translate.DefaultTranslator"
+loaderù
+ö
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaq q((3
+%1-org.apache.tika.language.translate.Translator"ùorg.apache.tika.language.translate.DefaultTranslator#getFirstAvailable(Lorg/apache/tika/config/ServiceLoader;)Lorg/apache/tika/language/translate/Translator;*8"6
+4org.apache.tika.language.translate.DefaultTranslator*,
+*
+%0$org.apache.tika.config.ServiceLoader"î
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaq q()5
+3
+%1-org.apache.tika.language.translate.TranslatorB86
+4org.apache.tika.language.translate.DefaultTranslator

@@ -1,0 +1,29 @@
+
+`org.apache.tika.io.TikaInputStream#get(Ljava/nio/file/Path;)Lorg/apache/tika/io/TikaInputStream;K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java–" –(%"1*è
+1K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java— —(úô
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java— —(%'
+%0!org.apache.tika.metadata.Metadata"!org.apache.tika.metadata.MetadataÆ
+´
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java— —('
+%1"+org.apache.tika.metadata.Metadata#<init>()V*)
+'
+%0!org.apache.tika.metadata.MetadataÒ
+Ó
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java— —(((
+%2"org.apache.tika.io.TikaInputStream"Éorg.apache.tika.io.TikaInputStream#get(Ljava/nio/file/Path;Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/io/TikaInputStream;*&"$
+"org.apache.tika.io.TikaInputStream*
+
+pathjava.nio.file.Path*)
+'
+%0!org.apache.tika.metadata.Metadata"y
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java— —()*
+(
+%2"org.apache.tika.io.TikaInputStream:
+pathjava.nio.file.PathB&"$
+"org.apache.tika.io.TikaInputStream

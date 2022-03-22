@@ -1,0 +1,27 @@
+
+pnet.sourceforge.docfetcher.build.FileSets#exclude(Ljava/lang/String;)Lnet/sourceforge/docfetcher/build/FileSets;P
+FD:/git_project/code/src/net/sourceforge/docfetcher/build/FileSets.java0 0("startingBlock*∂
+startingBlockP
+FD:/git_project/code/src/net/sourceforge/docfetcher/build/FileSets.java0 0(3¡
+æ
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/build/FileSets.java0 0("
+%0"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+excludesjava.lang.Stringâ
+Ü
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/build/FileSets.java0* 0(2
+excludesjava.lang.String"__annotation*
+
+%0*
+1*Ÿ
+1P
+FD:/git_project/code/src/net/sourceforge/docfetcher/build/FileSets.java3	 3("Å
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/build/FileSets.java3 3(-+
+)net.sourceforge.docfetcher.build.FileSets:
+excludesjava.lang.StringB-+
+)net.sourceforge.docfetcher.build.FileSets

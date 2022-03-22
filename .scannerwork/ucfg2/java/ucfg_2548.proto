@@ -1,0 +1,124 @@
+
+Rnet.sourceforge.docfetcher.model.parse.TextDetector#isText(Ljava/io/InputStream;)ZZ
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.java] ]("startingBlock*Å
+2Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.java~ ~("d
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.java~ ~(
+""*Å
+3Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.java| |("d
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.java| |(
+""*Ö
+startingBlockZ
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.java] ](9Ë
+È
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.java] ](&
+%10"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+inputjava.io.InputStream”
+‘
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.java]3 ](8
+inputjava.io.InputStream"__annotation*
+
+%10*
+21*å
+15Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.javaf3 f(B}
+{
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.javaf3 f(B
+%7	boolean[]"__id*
+""*
+11*é
+16Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.javaf f(}
+{
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.javaf f((
+%6	boolean[]"__id*
+""*
+15
+11*ë
+17Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.javae e($w
+u
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.javae' e(>	
+%5int"__id*
+""*
+2
+3
+16
+6
+8*Å
+6Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.javav v("d
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.javav v(
+""*Å
+8Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.javar r("d
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.javar r(
+""*¤
+20Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.javaa a(¯¬
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.javad d(!	
+%4int"java.io.InputStream#read()I*
+
+inputjava.io.InputStream2read()*
+2
+3
+17
+6
+8*Æ
+21Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.java^ ^(	ÅÂ
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.java^ ^()
+%0boolean"$java.io.InputStream#markSupported()Z*
+
+inputjava.io.InputStream2markSupported()Ú
+×
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.java^ ^(*
+
+%1void"2net.sourceforge.docfetcher.util.Util#checkThat(Z)V*("&
+$net.sourceforge.docfetcher.util.Util*
+
+%0booleanw
+u
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.java_ _(*	
+%2int"__id*
+""¿¼
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.java_ _(+
+
+%3void"java.io.InputStream#mark(I)V*
+
+inputjava.io.InputStream*
+	
+%2int2mark(I)*
+20*¤
+11Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.javal l(¯¬
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextDetector.javal l(!	
+%8int"java.io.InputStream#read()I*
+
+inputjava.io.InputStream2read()*
+2
+3
+17
+6
+8:
+inputjava.io.InputStreamB7"5
+3net.sourceforge.docfetcher.model.parse.TextDetector

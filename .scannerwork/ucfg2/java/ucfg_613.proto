@@ -1,0 +1,41 @@
+
+torg.apache.tika.parser.xml.FictionBookParser#getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Set;S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java( ((+"startingBlock*Á
+startingBlockS
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java(+ ((A´
+±
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java' '(
+%2"
+__annotate*
+java.lang.Override*0
+.
+context#org.apache.tika.parser.ParseContextž
+›
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java(9 ((@.
+context#org.apache.tika.parser.ParseContext"__annotation*
+
+%2*
+1*Ù
+1S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java) )(™
+–
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java)% )(O$
+%0org.apache.tika.mime.MediaType"^org.apache.tika.mime.MediaType#application(Ljava/lang/String;)Lorg/apache/tika/mime/MediaType;*"" 
+org.apache.tika.mime.MediaType*
+x-fictionbook+xmlô
+ñ
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java) )(P
+%1java.util.Set"Bjava.util.Collections#singleton(Ljava/lang/Object;)Ljava/util/Set;*"
+java.util.Collections*&
+$
+%0org.apache.tika.mime.MediaType"l
+S
+ID:/git_project/code/src/org/apache/tika/parser/xml/FictionBookParser.java) )(Q
+
+%1java.util.Set:.
+context#org.apache.tika.parser.ParseContextB0.
+,org.apache.tika.parser.xml.FictionBookParser

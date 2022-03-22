@@ -1,0 +1,57 @@
+
+ˆnet.sourceforge.docfetcher.model.parse.ParseResult#setParserName(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javau u(!"startingBlock*ª
+startingBlockY
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javau! u(=Ë
+È
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javat t(	
+%1"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull* 
+
+
+parserNamejava.lang.StringË
+È
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javau" u(*
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull* 
+
+
+parserNamejava.lang.Stringœ
+™
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javau2 u(<
+
+parserNamejava.lang.String"__annotation*
+
+%1*
+
+%2*
+1*Ù
+1Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javav v(›
+˜
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javav v(1
+%0java.lang.String"Wnet.sourceforge.docfetcher.util.Util#checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;*("&
+$net.sourceforge.docfetcher.util.Util* 
+
+
+parserNamejava.lang.StringÄ
+Á
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javav v(1D4
+2net.sourceforge.docfetcher.model.parse.ParseResult"
+
+parserName"__id*
+
+%0java.lang.String"“
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.javaw w(64
+2net.sourceforge.docfetcher.model.parse.ParseResult:
+
+parserNamejava.lang.StringB64
+2net.sourceforge.docfetcher.model.parse.ParseResult

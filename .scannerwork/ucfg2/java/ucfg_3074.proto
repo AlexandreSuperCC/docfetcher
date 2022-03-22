@@ -1,0 +1,109 @@
+
+·net.sourceforge.docfetcher.model.parse.TextParser#parse(Ljava/io/InputStream;Lnet/sourceforge/docfetcher/model/parse/ParseContext;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java! !("startingBlock*ö
+3X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java& &($"–
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java& &($:
+8
+%52net.sourceforge.docfetcher.model.parse.ParseResult*ª
+startingBlockX
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java! "(2¤
+¡
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java   (
+
+%9"
+__annotate*
+java.lang.Override*
+
+injava.io.InputStreamŽ
+‹
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java!) !(+
+injava.io.InputStream"__annotation*
+
+%9Ê
+Ç
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java   (
+
+%10"
+__annotate*
+java.lang.Override*@
+>
+context3net.sourceforge.docfetcher.model.parse.ParseContext´
+±
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java"* "(1>
+context3net.sourceforge.docfetcher.model.parse.ParseContext"__annotation*
+
+%10*
+7*æ
+4X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java% %(8›
+˜
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java% %(8
+contentsjava.lang.String"__id*
+
+%4java.lang.StringËÈ
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java& &(8
+%52net.sourceforge.docfetcher.model.parse.ParseResult"2net.sourceforge.docfetcher.model.parse.ParseResult•
+’
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java&
+ &(#
+%6"Tnet.sourceforge.docfetcher.model.parse.ParseResult#<init>(Ljava/lang/CharSequence;)V*:
+8
+%52net.sourceforge.docfetcher.model.parse.ParseResult*
+
+contentsjava.lang.String*
+3*é
+5X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java$ $(\Ë
+È
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java$ $(\L7
+5net.sourceforge.docfetcher.util.CharsetDetectorHelper"
+charsetOverride"__id*
+
+%3java.lang.String¶
+³
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java% %(7
+%4java.lang.String"gnet.sourceforge.docfetcher.util.CharsetDetectorHelper#toString(Ljava/io/InputStream;)Ljava/lang/String;*9"7
+5net.sourceforge.docfetcher.util.CharsetDetectorHelper*
+
+injava.io.InputStream*
+4*§
+6X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java$+ $(\Â¿
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java$+ $(\
+%3java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+%2java.lang.String2trim()*
+5*±
+7X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java$ $(£
+ 
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java$+ $(:6
+%00net.sourceforge.docfetcher.enums.ProgramConf$Str"__id*
+""£
+ 
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java$+ $(O6
+%10net.sourceforge.docfetcher.enums.ProgramConf$Str"__id*
+""€ý
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/TextParser.java$+ $(U
+%2java.lang.String"Hnet.sourceforge.docfetcher.enums.ProgramConf$Str#get()Ljava/lang/String;*8
+6
+%10net.sourceforge.docfetcher.enums.ProgramConf$Str2get()*
+6:
+injava.io.InputStream:>
+context3net.sourceforge.docfetcher.model.parse.ParseContextB53
+1net.sourceforge.docfetcher.model.parse.TextParser

@@ -1,0 +1,71 @@
+
+jnet.sourceforge.docfetcher.gui.indexing.FileExtensionChooser#listExtensions(Ljava/io/File;)Ljava/util/Set;e
+YD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileExtensionChooser.javaí í(*"startingBlock*Å
+startingBlocke
+YD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileExtensionChooser.javaí* í(AÐ
+Í
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileExtensionChooser.javaì ì(	
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+rootDirjava.io.FileÐ
+Í
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileExtensionChooser.javaí+ í(3
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+rootDirjava.io.File¡
+ž
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileExtensionChooser.javaí9 í(@
+rootDirjava.io.File"__annotation*
+
+%4*
+
+%5*
+1*É
+
+1e
+YD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileExtensionChooser.javaî) î(;º
+·
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileExtensionChooser.javaî) î(N@
+%0:net.sourceforge.docfetcher.util.collect.AlphanumComparator"__id*
+""–“
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileExtensionChooser.javaî î((
+%1java.util.TreeSet"java.util.TreeSet‚
+ÿ
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileExtensionChooser.javaî î(O
+%2"1java.util.TreeSet#<init>(Ljava/util/Comparator;)V*
+
+%1java.util.TreeSet*B
+@
+%0:net.sourceforge.docfetcher.util.collect.AlphanumComparator¢
+Ÿ
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileExtensionChooser.javaî î(P
+extsjava.util.Set"__id*
+
+%1java.util.TreeSetÙ
+Ö
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileExtensionChooser.javaï ï(
+
+%3void"knet.sourceforge.docfetcher.gui.indexing.FileExtensionChooser#listExtensions(Ljava/util/Set;Ljava/io/File;)V*@">
+<net.sourceforge.docfetcher.gui.indexing.FileExtensionChooser*
+
+extsjava.util.Set*
+
+rootDirjava.io.File"€
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/FileExtensionChooser.javað ð(
+
+extsjava.util.Set:
+rootDirjava.io.FileB@">
+<net.sourceforge.docfetcher.gui.indexing.FileExtensionChooser

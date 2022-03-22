@@ -1,0 +1,160 @@
+
+=org.apache.tika.metadata.Metadata#equals(Ljava/lang/Object;)ZJ
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java† †("17"18*Ï
+13J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java“ “(»¸
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java“ “(	
+%0int")org.apache.tika.metadata.Metadata#size()I*,
+*
+other!org.apache.tika.metadata.Metadata2size()´±
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java“ “("	
+%1int")org.apache.tika.metadata.Metadata#size()I*%#
+!org.apache.tika.metadata.Metadata2size()*
+11
+12*ó
+14J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.javaŽ Ž( š
+—
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.javaŽ Ž( *
+other!org.apache.tika.metadata.Metadata"__id*
+
+ojava.lang.Object*
+13*¦
+15J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java ('"T
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java (
+""*¥
+4J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java   ( "T
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java   (!
+""*
+5J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.javaŸ Ÿ(  
+
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.javaŸ Ÿ(#
+%7java.lang.String"
+__arrayGet*#
+!
+otherValuesjava.lang.String[]*
+""Ÿ
+œ
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.javaŸ+ Ÿ(8
+%8java.lang.String"
+__arrayGet*"
+ 
+
+thisValuesjava.lang.String[]*
+""ÜÙ
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.javaŸ Ÿ(9
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%7java.lang.String*
+
+%8java.lang.String2equals(Ljava/lang/Object;)*
+4
+5
+9
+1*æ
+17J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.javaŒ Œ(‰
+†
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.javaŒ Œ(*
+other!org.apache.tika.metadata.Metadata"__id*
+""*
+14
+15*¦
+18J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java‰ ‰("T
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java‰ ‰(
+""*¥
+8J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.javaœ œ("T
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.javaœ œ(
+""*Ï	
+9J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java™# ™((š
+—
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java™4 ™(<
+%3java.lang.String"
+__arrayGet*
+
+namesjava.lang.String[]*
+""†
+ƒ
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java™# ™(=
+%4java.lang.String[]"Sorg.apache.tika.metadata.Metadata#_getValues(Ljava/lang/String;)[Ljava/lang/String;*,
+*
+other!org.apache.tika.metadata.Metadata*
+
+%3java.lang.String”
+‘
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java™ ™(>!
+otherValuesjava.lang.String[]"__id*
+
+%4java.lang.String[]š
+—
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.javaš- š(5
+%5java.lang.String"
+__arrayGet*
+
+namesjava.lang.String[]*
+""ÿ
+ü
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.javaš" š(6
+%6java.lang.String[]"Sorg.apache.tika.metadata.Metadata#_getValues(Ljava/lang/String;)[Ljava/lang/String;*%#
+!org.apache.tika.metadata.Metadata*
+
+%5java.lang.String“
+
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.javaš š(7 
+
+thisValuesjava.lang.String[]"__id*
+
+%6java.lang.String[]*
+5
+8
+9
+1*Ã
+11J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java— —(×Ô
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java— —( 
+%2java.lang.String[]"<org.apache.tika.metadata.Metadata#names()[Ljava/lang/String;*%#
+!org.apache.tika.metadata.Metadata2names()Ž
+‹
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java— —(!
+namesjava.lang.String[]"__id*
+
+%2java.lang.String[]*
+9
+1*¦
+12J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java” ”("T
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java” ”(
+""*¥
+1J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java¤ ¤("T
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Metadata.java¤ ¤(
+"":
+ojava.lang.ObjectB%#
+!org.apache.tika.metadata.Metadata

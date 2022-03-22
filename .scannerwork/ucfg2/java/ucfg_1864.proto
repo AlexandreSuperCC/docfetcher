@@ -1,0 +1,622 @@
+
+Norg.apache.tika.parser.chm.accessor.ChmItspHeader#toString()Ljava/lang/String;X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaN N("1*Ò 
+1X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaO O(.•’
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaO O(,
+%0java.lang.StringBuilder"java.lang.StringBuilder§
+¤
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaO O(.
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder£
+ 
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaO O(/
+sbjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilderöó
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaP/ P(=
+%2byte[]"Borg.apache.tika.parser.chm.accessor.ChmItspHeader#getSignature()[B*53
+1org.apache.tika.parser.chm.accessor.ChmItspHeader2getSignature()‹
+ˆ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaP? P(D
+%3java.nio.charset.Charset"__id*
+""‡„
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaP( P(.
+%4java.lang.String"java.lang.Stringç
+ä
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaP$ P(E
+%5"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
+
+%4java.lang.String*
+
+%2byte[]* 
+
+%3java.nio.charset.Charset¬
+©
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaP P(E
+%6java.lang.String"__concat*
+[ signature:=*
+
+%4java.lang.Stringã
+à
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaQ Q(6
+%7java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator³
+°
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaP Q(6
+%8java.lang.String"__concat*
+
+%6java.lang.String*
+
+%7java.lang.String 
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaP Q(7
+%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%8java.lang.String2append(Ljava/lang/String;)ïì
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaR" R(.
+
+%10int"?org.apache.tika.parser.chm.accessor.ChmItspHeader#getVersion()I*53
+1org.apache.tika.parser.chm.accessor.ChmItspHeader2getVersion()Ÿ
+œ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaR R(.
+%11java.lang.String"__concat*
+version:=\t*
+
+
+%10intä
+á
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaS S(6
+%12java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator¶
+³
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaR S(6
+%13java.lang.String"__concat*
+
+%11java.lang.String*
+
+%12java.lang.String¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaR S(7
+%14java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%13java.lang.String2append(Ljava/lang/String;)õò
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaT% T(4
+
+%15int"Borg.apache.tika.parser.chm.accessor.ChmItspHeader#getHeader_len()I*53
+1org.apache.tika.parser.chm.accessor.ChmItspHeader2getHeader_len()¢
+Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaT T(4
+%16java.lang.String"__concat*
+header_len:=\t*
+
+
+%15intä
+á
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaU U(6
+%17java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator¶
+³
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaT U(6
+%18java.lang.String"__concat*
+
+%16java.lang.String*
+
+%17java.lang.String¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaT U(7
+%19java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%18java.lang.String2append(Ljava/lang/String;)ùö
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaV& V(7
+
+%20int"Dorg.apache.tika.parser.chm.accessor.ChmItspHeader#getUnknown_000c()I*53
+1org.apache.tika.parser.chm.accessor.ChmItspHeader2getUnknown_000c()£
+ 
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaV V(7
+%21java.lang.String"__concat*
+unknown_00c:=\t*
+
+
+%20intä
+á
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaW W(6
+%22java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator¶
+³
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaV W(6
+%23java.lang.String"__concat*
+
+%21java.lang.String*
+
+%22java.lang.String¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaV W(7
+%24java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%23java.lang.String2append(Ljava/lang/String;)ôñ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaX$ X(2
+%25long"Aorg.apache.tika.parser.chm.accessor.ChmItspHeader#getBlock_len()J*53
+1org.apache.tika.parser.chm.accessor.ChmItspHeader2getBlock_len()¢
+Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaX X(2
+%26java.lang.String"__concat*
+block_len:=\t*
+
+%25long¸
+µ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaX X(N
+%27java.lang.String"__concat*
+
+%26java.lang.String*
+ [directory chunk size]ä
+á
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaY Y(6
+%28java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator¶
+³
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaX Y(6
+%29java.lang.String"__concat*
+
+%27java.lang.String*
+
+%28java.lang.String¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaX Y(7
+%30java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%29java.lang.String2append(Ljava/lang/String;)ýú
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaZ' Z(:
+
+%31int"Forg.apache.tika.parser.chm.accessor.ChmItspHeader#getBlockidx_intvl()I*53
+1org.apache.tika.parser.chm.accessor.ChmItspHeader2getBlockidx_intvl()¤
+¡
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaZ Z(:
+%32java.lang.String"__concat*
+blockidx_intvl:=*
+
+
+%31intÉ
+Æ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaZ [(<
+%33java.lang.String"__concat*
+
+%32java.lang.String*,*
+(, density of quickref section, usually 2ä
+á
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.java\ \(6
+%34java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator¶
+³
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaZ \(6
+%35java.lang.String"__concat*
+
+%33java.lang.String*
+
+%34java.lang.String¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaZ \(7
+%36java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%35java.lang.String2append(Ljava/lang/String;)÷ô
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.java^ ^("
+
+%37int"Corg.apache.tika.parser.chm.accessor.ChmItspHeader#getIndex_depth()I*53
+1org.apache.tika.parser.chm.accessor.ChmItspHeader2getIndex_depth()£
+ 
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.java] ^("
+%38java.lang.String"__concat*
+index_depth:=\t*
+
+
+%37int÷
+ô
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.java] _(j
+%39java.lang.String"__concat*
+
+%38java.lang.String*ZX
+V, depth of the index tree - 1 there is no index, 2 if there is one level of PMGI chunkä
+á
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.java` `(6
+%40java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator¶
+³
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.java] `(6
+%41java.lang.String"__concat*
+
+%39java.lang.String*
+
+%40java.lang.String¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.java] `(7
+%42java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%41java.lang.String2append(Ljava/lang/String;)õò
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaa% a(4
+
+%43int"Borg.apache.tika.parser.chm.accessor.ChmItspHeader#getIndex_root()I*53
+1org.apache.tika.parser.chm.accessor.ChmItspHeader2getIndex_root()¢
+Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaa a(4
+%44java.lang.String"__concat*
+index_root:=\t*
+
+
+%43intØ
+Õ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaa b(K
+%45java.lang.String"__concat*
+
+%44java.lang.String*;9
+7, chunk number of root index chunk, -1 if there is noneä
+á
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javac c(6
+%46java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator¶
+³
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaa c(6
+%47java.lang.String"__concat*
+
+%45java.lang.String*
+
+%46java.lang.String¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaa c(7
+%48java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%47java.lang.String2append(Ljava/lang/String;)õò
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javad% d(4
+
+%49int"Borg.apache.tika.parser.chm.accessor.ChmItspHeader#getIndex_head()I*53
+1org.apache.tika.parser.chm.accessor.ChmItspHeader2getIndex_head()¢
+Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javad d(4
+%50java.lang.String"__concat*
+index_head:=\t*
+
+
+%49intÍ
+Ê
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javad e(@
+%51java.lang.String"__concat*
+
+%50java.lang.String*0.
+,, chunk number of first PMGL (listing) chunkä
+á
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaf f(6
+%52java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator¶
+³
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javad f(6
+%53java.lang.String"__concat*
+
+%51java.lang.String*
+
+%52java.lang.String¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javad f(7
+%54java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%53java.lang.String2append(Ljava/lang/String;)ùö
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javag' g(8
+
+%55int"Dorg.apache.tika.parser.chm.accessor.ChmItspHeader#getUnknown_0024()I*53
+1org.apache.tika.parser.chm.accessor.ChmItspHeader2getUnknown_0024()¤
+¡
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javag g(8
+%56java.lang.String"__concat*
+unknown_0024:=\t*
+
+
+%55intÌ
+É
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javag h(?
+%57java.lang.String"__concat*
+
+%56java.lang.String*/-
++, chunk number of last PMGL (listing) chunkä
+á
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javai i(6
+%58java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator¶
+³
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javag i(6
+%59java.lang.String"__concat*
+
+%57java.lang.String*
+
+%58java.lang.String¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javag i(7
+%60java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%59java.lang.String2append(Ljava/lang/String;)öó
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaj% j(4
+%61long"Borg.apache.tika.parser.chm.accessor.ChmItspHeader#getNum_blocks()J*53
+1org.apache.tika.parser.chm.accessor.ChmItspHeader2getNum_blocks()£
+ 
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaj j(4
+%62java.lang.String"__concat*
+num_blocks:=\t*
+
+%61long¯
+¬
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaj j(G
+%63java.lang.String"__concat*
+
+%62java.lang.String*
+, -1 (unknown)ä
+á
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javak k(6
+%64java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator¶
+³
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaj k(6
+%65java.lang.String"__concat*
+
+%63java.lang.String*
+
+%64java.lang.String¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaj k(7
+%66java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%65java.lang.String2append(Ljava/lang/String;)ùö
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javal' l(8
+
+%67int"Dorg.apache.tika.parser.chm.accessor.ChmItspHeader#getUnknown_002c()I*53
+1org.apache.tika.parser.chm.accessor.ChmItspHeader2getUnknown_002c()¤
+¡
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javal l(8
+%68java.lang.String"__concat*
+unknown_002c:=\t*
+
+
+%67intÅ
+Â
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javal m(8
+%69java.lang.String"__concat*
+
+%68java.lang.String*(&
+$, number of directory chunks (total)ä
+á
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javan n(6
+%70java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator¶
+³
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javal n(6
+%71java.lang.String"__concat*
+
+%69java.lang.String*
+
+%70java.lang.String¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javal n(7
+%72java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%71java.lang.String2append(Ljava/lang/String;)ðí
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javao" o(.
+%73long"?org.apache.tika.parser.chm.accessor.ChmItspHeader#getLang_id()J*53
+1org.apache.tika.parser.chm.accessor.ChmItspHeader2getLang_id() 
+
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javao o(.
+%74java.lang.String"__concat*
+lang_id:=\t*
+
+%73long¤
+¡
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javao o(6
+%75java.lang.String"__concat*
+
+%74java.lang.String*
+ - ðí
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javap) p(5
+%76long"?org.apache.tika.parser.chm.accessor.ChmItspHeader#getLang_id()J*53
+1org.apache.tika.parser.chm.accessor.ChmItspHeader2getLang_id()‚
+ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javap p(6
+%77java.lang.String"Korg.apache.tika.parser.chm.core.ChmCommons#getLanguage(J)Ljava/lang/String;*.",
+*org.apache.tika.parser.chm.core.ChmCommons*
+
+%76long¶
+³
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javao p(6
+%78java.lang.String"__concat*
+
+%75java.lang.String*
+
+%77java.lang.Stringä
+á
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javaq q(6
+%79java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator¶
+³
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javao q(6
+%80java.lang.String"__concat*
+
+%78java.lang.String*
+
+%79java.lang.String¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javao q(7
+%81java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%80java.lang.String2append(Ljava/lang/String;)ûø
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javar$ r(4
+%82byte[]"Dorg.apache.tika.parser.chm.accessor.ChmItspHeader#getSystem_uuid()[B*53
+1org.apache.tika.parser.chm.accessor.ChmItspHeader2getSystem_uuid()¤
+¡
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javar r(4
+%83java.lang.String"__concat*
+system_uuid:=*
+
+%82byte[]ä
+á
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javas s(6
+%84java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator¶
+³
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javar s(6
+%85java.lang.String"__concat*
+
+%83java.lang.String*
+
+%84java.lang.String¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javar s(7
+%86java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%85java.lang.String2append(Ljava/lang/String;)ýú
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javat% t(6
+%87byte[]"Eorg.apache.tika.parser.chm.accessor.ChmItspHeader#getUnknown_0044()[B*53
+1org.apache.tika.parser.chm.accessor.ChmItspHeader2getUnknown_0044()¥
+¢
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javat t(6
+%88java.lang.String"__concat*
+unknown_0044:=*
+
+%87byte[]£
+ 
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javat t(=
+%89java.lang.String"__concat*
+
+%88java.lang.String*
+ ]¢Ÿ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javat t(>
+%90java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%89java.lang.String2append(Ljava/lang/String;)ÙÖ
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javau u(
+%91java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()"u
+X
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmItspHeader.javau u(
+
+%91java.lang.StringB53
+1org.apache.tika.parser.chm.accessor.ChmItspHeader

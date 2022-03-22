@@ -1,0 +1,23 @@
+
+$org.apache.tika.mime.Magic#eval([B)ZA
+7D:/git_project/code/src/org/apache/tika/mime/Magic.java2 2("1*ñ
+1A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.java3 3(›
+˜
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.java3 3(!
+%0org.apache.tika.mime.Clause"__id***(
+org.apache.tika.mime.Magic"
+clause½º
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.java3 3( 
+%1boolean"%org.apache.tika.mime.Clause#eval([B)Z*#
+!
+%0org.apache.tika.mime.Clause*
+
+databyte[]2eval([B)"K
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.java3 3(!
+"":
+databyte[]B
+org.apache.tika.mime.Magic

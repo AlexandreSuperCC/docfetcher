@@ -1,0 +1,11 @@
+
+dorg.apache.tika.language.detect.LanguageNames#getMacroLanguage(Ljava/lang/String;)Ljava/lang/String;T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java? ?(&"1*Ô
+1T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.javaA	 A("y
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.javaA A(!
+
+languageTagjava.lang.String:
+languageTagjava.lang.StringB1"/
+-org.apache.tika.language.detect.LanguageNames

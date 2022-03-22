@@ -1,0 +1,594 @@
+
+únet.sourceforge.docfetcher.model.index.file.FileFactory#unpackFromRarArchive(Lnet/sourceforge/docfetcher/model/index/IndexingConfig;Lnet/sourceforge/docfetcher/model/Path;Lnet/sourceforge/docfetcher/model/FileResource;Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/FileResource;`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaù ù(*"startingBlock*î
+24`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‚ ‚(DŒ
+À
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‚ ‚(D1
+cacheKey%net.sourceforge.docfetcher.model.Path"__id*.
+,
+%24%net.sourceforge.docfetcher.model.Path‘
+—
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java„ „(G
+%25"¥net.sourceforge.docfetcher.model.index.file.FileFactory#unpackRarEntry(Lnet/sourceforge/docfetcher/model/index/IndexingConfig;LArchive;LFileHeader;Ljava/lang/String;)Ljava/io/File;*;"9
+7net.sourceforge.docfetcher.model.index.file.FileFactory*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*
+""*
+""*
+
+	entryPathjava.lang.String*
+23*¯
+25`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‚ ‚((âÜ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‚ ‚(C,
+%24%net.sourceforge.docfetcher.model.Path"nnet.sourceforge.docfetcher.model.Path#createSubPath(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/Path;*>
+<
+originalArchivePath%net.sourceforge.docfetcher.model.Path*!
+
+currentPathjava.lang.String2!createSubPath(Ljava/lang/String;)*
+24*ÿ
+48`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java– –(&™ß
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java– –($$
+%13java.io.FileNotFoundException"java.io.FileNotFoundExceptionΩ
+∫
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java– –(&
+%14"'java.io.FileNotFoundException#<init>()V*&
+$
+%13java.io.FileNotFoundException*
+2*ˆ
+27`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaﬁ ﬁ((ÉÄ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java· ·(%
+%23boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	entryPathjava.lang.String*!
+
+currentPathjava.lang.String2equals(Ljava/lang/Object;)*
+25
+21*Ã
+28`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java› ›(4ß
+§
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java› ›(4
+currentPathjava.lang.String"__id*
+
+%21java.lang.String≥
+∞
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaﬁ ﬁ('
+%22boolean"\net.sourceforge.docfetcher.model.index.file.FileFactory#noTrailingSlash(Ljava/lang/String;)Z*;"9
+7net.sourceforge.docfetcher.model.index.file.FileFactory*!
+
+currentPathjava.lang.String*
+27*Ø
+29`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‹ ‹(Uï
+í
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‹ ‹(U
+currentPathjava.lang.String"__id*
+
+%18®
+•
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java› ›(4
+%21java.lang.String"[net.sourceforge.docfetcher.util.Util#toForwardSlashes(Ljava/lang/String;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*!
+
+currentPathjava.lang.String*
+28*Ë
+30`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‹> ‹(@z
+x
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‹> ‹(T
+%18"__id*
+
+%20*
+29*œ
+53`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java   (–Õ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java   ()
+%12boolean"Tnet.sourceforge.docfetcher.model.index.IndexingConfig#isArchive(Ljava/lang/String;)Z*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*!
+
+currentPathjava.lang.String2isArchive(Ljava/lang/String;)*
+48
+60
+61
+44
+45*Ë
+31`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‹* ‹(,z
+x
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‹* ‹(;
+%18"__id*
+
+%19*
+29*ç
+10`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java (U‚
+ﬂ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java (U=
+innerArchive-net.sourceforge.docfetcher.model.FileResource"__id*6
+4
+%35-net.sourceforge.docfetcher.model.FileResource∫∑
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÒ0 Ò(D
+
+%36int"java.lang.String#length()I*!
+
+currentPathjava.lang.String2length()*
+9*ª
+55`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java… …(≤
+Ø
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java… …(.
+%10java.lang.String"__concat*!
+
+currentPathjava.lang.String*
+/ÉÄ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java… …(/
+%11boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+	entryPathjava.lang.String*
+
+%10java.lang.String2startsWith(Ljava/lang/String;)*
+48
+60
+61
+53
+44
+45*–
+11`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÔ Ô(DŒ
+À
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÔ Ô(D1
+cacheKey%net.sourceforge.docfetcher.model.Path"__id*.
+,
+%33%net.sourceforge.docfetcher.model.PathÛ
+
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java! (,8
+%341net.sourceforge.docfetcher.model.HotColdFileCache"__id*L*J9
+7net.sourceforge.docfetcher.model.index.file.FileFactory"
+unpackCacheöó
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java! (T4
+%35-net.sourceforge.docfetcher.model.FileResource"£net.sourceforge.docfetcher.model.HotColdFileCache#putIfAbsent(Lnet/sourceforge/docfetcher/model/Path;Ljava/io/File;)Lnet/sourceforge/docfetcher/model/FileResource;*:
+8
+%341net.sourceforge.docfetcher.model.HotColdFileCache*3
+1
+cacheKey%net.sourceforge.docfetcher.model.Path*"
+ 
+innerArchiveFilejava.io.File2BputIfAbsent(Lnet/sourceforge/docfetcher/model/Path;Ljava/io/File;)*
+10*¯
+12`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÔ Ô((âÜ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÔ Ô(C,
+%33%net.sourceforge.docfetcher.model.Path"nnet.sourceforge.docfetcher.model.Path#createSubPath(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/Path;*>
+<
+originalArchivePath%net.sourceforge.docfetcher.model.Path*!
+
+currentPathjava.lang.String2!createSubPath(Ljava/lang/String;)*
+11*˝
+57`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java∆ ∆()Çˇ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java»	 »(&
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+	entryPathjava.lang.String*!
+
+currentPathjava.lang.String2equals(Ljava/lang/Object;)*
+48
+55
+44
+45* 
+58`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java≈ ≈(5¶
+£
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java≈ ≈(5
+currentPathjava.lang.String"__id*
+
+%7java.lang.String≤
+Ø
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java∆ ∆((
+%8boolean"\net.sourceforge.docfetcher.model.index.file.FileFactory#noTrailingSlash(Ljava/lang/String;)Z*;"9
+7net.sourceforge.docfetcher.model.index.file.FileFactory*!
+
+currentPathjava.lang.String*
+57*Ì
+14`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÌ Ì(˚¯
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÌ Ì(
+%32void"8net.sourceforge.docfetcher.model.FileResource#dispose()V*B
+@
+archiveResource-net.sourceforge.docfetcher.model.FileResource2	dispose()*
+2
+12*≠
+59`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaƒ ƒ(Vî
+ë
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaƒ ƒ(V
+currentPathjava.lang.String"__id*
+
+%4ß
+§
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java≈ ≈(5
+%7java.lang.String"[net.sourceforge.docfetcher.util.Util#toForwardSlashes(Ljava/lang/String;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*!
+
+currentPathjava.lang.String*
+58*Ö
+15`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÍ Í(Iñ
+ì
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÍ Í(I 
+innerArchiveFilejava.io.File"__id*
+
+%31*
+14*≈
+16`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÍ Í('÷
+”
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÍ Í(I
+%31"¥net.sourceforge.docfetcher.model.index.file.FileFactory#unpackRarEntry(Lnet/sourceforge/docfetcher/model/index/IndexingConfig;LArchive;LFileHeader;Ljava/lang/String;)Ljava/io/File;*;"9
+7net.sourceforge.docfetcher.model.index.file.FileFactory*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*
+""*
+""*!
+
+currentPathjava.lang.String*
+15*Ñ
+17`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaË Ë(ï
+í
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaË Ë( 
+innerArchiveFilejava.io.File"__id*
+""*
+16* 
+19`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÁ	 Á(–Õ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÁ	 Á(&
+%30boolean"Tnet.sourceforge.docfetcher.model.index.IndexingConfig#isArchive(Ljava/lang/String;)Z*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*!
+
+currentPathjava.lang.String2isArchive(Ljava/lang/String;)*
+2
+17
+30
+31*~
+0 "w
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÅ Å(
+implicit return*◊
+1`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÄ Ä(#™ß
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÄ Ä(!$
+%42java.io.FileNotFoundException"java.io.FileNotFoundExceptionΩ
+∫
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÄ Ä(#
+%43"'java.io.FileNotFoundException#<init>()V*&
+$
+%42java.io.FileNotFoundException*
+0*Î
+2`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java˝ ˝(˚¯
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java˛ ˛(
+%41void"8net.sourceforge.docfetcher.model.FileResource#dispose()V*B
+@
+archiveResource-net.sourceforge.docfetcher.model.FileResource2	dispose()*
+0
+1*Á
+startingBlock`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaù* †(&Ù
+Ò
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaú ú(	
+%44"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfigÙ
+Ò
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaù, ù(4
+%45"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig∆
+√
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaùD ù(J?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig"__annotation*
+
+%44*
+
+%45Ò
+Ó
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaú ú(	
+%46"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*>
+<
+originalArchivePath%net.sourceforge.docfetcher.model.PathÒ
+Ó
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaû û(
+%47"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*>
+<
+originalArchivePath%net.sourceforge.docfetcher.model.Path√
+¿
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaû û(-<
+originalArchivePath%net.sourceforge.docfetcher.model.Path"__annotation*
+
+%46*
+
+%47ı
+Ú
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaú ú(	
+%48"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*B
+@
+archiveResource-net.sourceforge.docfetcher.model.FileResourceı
+Ú
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaü ü(
+%49"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*B
+@
+archiveResource-net.sourceforge.docfetcher.model.FileResource«
+ƒ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaü" ü(1@
+archiveResource-net.sourceforge.docfetcher.model.FileResource"__annotation*
+
+%48*
+
+%49“
+œ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaú ú(	
+%50"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+	entryPathjava.lang.String“
+œ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java† †(
+%51"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+	entryPathjava.lang.String§
+°
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java† †(%
+	entryPathjava.lang.String"__annotation*
+
+%50*
+
+%51*
+85*Ç
+7`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÚ Ú(M"ö
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÚ Ú(M6
+4
+%38-net.sourceforge.docfetcher.model.FileResource*Œ
+80`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java®
+ ®(S˘ˆ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java® ®('K
+%2Enet.sourceforge.docfetcher.model.index.file.ArchiveEncryptedException"Enet.sourceforge.docfetcher.model.index.file.ArchiveEncryptedException‰
+·
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java®
+ ®(S
+%3"onet.sourceforge.docfetcher.model.index.file.ArchiveEncryptedException#<init>(Ljava/io/File;Ljava/lang/String;)V*M
+K
+%2Enet.sourceforge.docfetcher.model.index.file.ArchiveEncryptedException*
+
+archiveFilejava.io.File*
+
+%1java.lang.String*
+2*Î
+8`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÒ Ò(J©
+¶
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÒ Ò(J!
+remainingPathjava.lang.String"__id*
+
+%37java.lang.String“
+œ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÚ Ú(L4
+%38-net.sourceforge.docfetcher.model.FileResource"ônet.sourceforge.docfetcher.model.index.file.FileFactory#unpackFromArchive(Lnet/sourceforge/docfetcher/model/index/IndexingConfig;Lnet/sourceforge/docfetcher/model/Path;Lnet/sourceforge/docfetcher/model/FileResource;Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/FileResource;*;9
+7net.sourceforge.docfetcher.model.index.file.FileFactory*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*3
+1
+cacheKey%net.sourceforge.docfetcher.model.Path*?
+=
+innerArchive-net.sourceforge.docfetcher.model.FileResource*#
+!
+remainingPathjava.lang.String*
+7*˙
+81`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java®( ®(3ãà
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java®5 ®(R
+%1java.lang.String"Anet.sourceforge.docfetcher.model.Path#getPath()Ljava/lang/String;*>
+<
+originalArchivePath%net.sourceforge.docfetcher.model.Path2	getPath()*
+80*”
+9`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÒG Ò(HÊ„
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÒ Ò(I
+%37java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+	entryPathjava.lang.String*
+""2substring(I)*
+8*Ê
+60`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaƒ? ƒ(Ax
+v
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaƒ? ƒ(U
+%4"__id*
+
+%6*
+59*Ê
+61`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaƒ+ ƒ(-x
+v
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaƒ+ ƒ(<
+%4"__id*
+
+%5*
+59*°
+84`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java• •(0û
+õ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java• •(0
+archiveFilejava.io.File"__id*
+
+%0java.io.File*
+48
+81
+60
+61
+44
+45*˛
+85`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java• •(%èå
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java• •(/
+%0java.io.File"Enet.sourceforge.docfetcher.model.FileResource#getFile()Ljava/io/File;*B
+@
+archiveResource-net.sourceforge.docfetcher.model.FileResource2	getFile()*
+84*≤
+21`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÊ Ê(≤
+Ø
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÊ" Ê(3
+%28java.lang.String"__concat*!
+
+currentPathjava.lang.String*
+/ÉÄ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaÊ Ê(4
+%29boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+	entryPathjava.lang.String*
+
+%28java.lang.String2startsWith(Ljava/lang/String;)*
+2
+19
+30
+31*˝
+44`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‘A ‘(Eá
+Ñ
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‘A ‘(E
+%15"__id*
+
+%17
+<nulltype>*
+2
+30
+31*É
+22`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‰ ‰(<"ö
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‰ ‰(<6
+4
+%27-net.sourceforge.docfetcher.model.FileResource*Ô
+45`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‘( ‘(>z
+x
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‘( ‘(>
+%15"__id*
+
+%16*
+2
+30
+31*ê
+23`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java„ „(Hí
+è
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java„ „(H
+unpackedFilejava.io.File"__id*
+
+%25Û
+
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‰ ‰(8
+%261net.sourceforge.docfetcher.model.HotColdFileCache"__id*L*J9
+7net.sourceforge.docfetcher.model.index.file.FileFactory"
+unpackCacheñì
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‰ ‰(;4
+%27-net.sourceforge.docfetcher.model.FileResource"£net.sourceforge.docfetcher.model.HotColdFileCache#putIfAbsent(Lnet/sourceforge/docfetcher/model/Path;Ljava/io/File;)Lnet/sourceforge/docfetcher/model/FileResource;*:
+8
+%261net.sourceforge.docfetcher.model.HotColdFileCache*3
+1
+cacheKey%net.sourceforge.docfetcher.model.Path*
+
+unpackedFilejava.io.File2BputIfAbsent(Lnet/sourceforge/docfetcher/model/Path;Ljava/io/File;)*
+22:?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig:<
+originalArchivePath%net.sourceforge.docfetcher.model.Path:@
+archiveResource-net.sourceforge.docfetcher.model.FileResource:
+	entryPathjava.lang.StringB;9
+7net.sourceforge.docfetcher.model.index.file.FileFactory

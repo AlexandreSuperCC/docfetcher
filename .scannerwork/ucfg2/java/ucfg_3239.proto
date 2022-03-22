@@ -1,0 +1,56 @@
+
+Xnet.sourceforge.docfetcher.model.Path#contains(Lnet/sourceforge/docfetcher/model/Path;)ZL
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java{ {("startingBlock*Ñ
+startingBlockL
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java{ {(/Ð
+Í
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java{ {(!
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*2
+0
+subPath%net.sourceforge.docfetcher.model.Path™
+–
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java{' {(.0
+subPath%net.sourceforge.docfetcher.model.Path"__annotation*
+
+%5*
+1*«	
+1L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java|	 |(ýú
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java|	 |(#
+%0java.lang.String"Jnet.sourceforge.docfetcher.model.Path#getCanonicalPath()Ljava/lang/String;*2
+0
+subPath%net.sourceforge.docfetcher.model.Path2getCanonicalPath()ôñ
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java|/ |(A
+%1java.lang.String"Jnet.sourceforge.docfetcher.model.Path#getCanonicalPath()Ljava/lang/String;*)'
+%net.sourceforge.docfetcher.model.Path2getCanonicalPath()v
+t
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java|D |(K
+%2java.lang.String"__id*
+""§
+¤
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java|/ |(K
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.Stringæã
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java|	 |(L
+%4boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+%0java.lang.String*
+
+%3java.lang.String2startsWith(Ljava/lang/String;)"V
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java| |(M
+"":0
+subPath%net.sourceforge.docfetcher.model.PathB)'
+%net.sourceforge.docfetcher.model.Path

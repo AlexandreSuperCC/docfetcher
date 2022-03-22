@@ -1,0 +1,34 @@
+
+Yorg.apache.tika.mime.MimeTypes#getMimeType(Ljava/io/File;)Lorg/apache/tika/mime/MimeType;G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaõ õ("1*≥
+1G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaù ù(}{
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaù ù(
+%0org.apache.tika.Tika"org.apache.tika.Tika’
+“
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaù ù(%
+%1"?org.apache.tika.Tika#<init>(Lorg/apache/tika/detect/Detector;)V*
+
+%0org.apache.tika.Tika*" 
+org.apache.tika.mime.MimeTypesÒÓ
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaù ù(2
+%2java.lang.String"=org.apache.tika.Tika#detect(Ljava/io/File;)Ljava/lang/String;*
+
+%0org.apache.tika.Tika*
+
+filejava.io.File2detect(Ljava/io/File;)ß§
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaù ù(3#
+%3org.apache.tika.mime.MimeType"Yorg.apache.tika.mime.MimeTypes#forName(Ljava/lang/String;)Lorg/apache/tika/mime/MimeType;*" 
+org.apache.tika.mime.MimeTypes*
+
+%2java.lang.String2forName(Ljava/lang/String;)"p
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaù ù(4%
+#
+%3org.apache.tika.mime.MimeType:
+filejava.io.FileB" 
+org.apache.tika.mime.MimeTypes

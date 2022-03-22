@@ -1,0 +1,32 @@
+
+Dnet.sourceforge.docfetcher.util.concurrent.BlockingWrapper#isNull()Za
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.javaC C("3*—
+2a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.javaF
+ F(Á
+¾
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.javaF
+ F(
+%2T"__id*J*H<
+:net.sourceforge.docfetcher.util.concurrent.BlockingWrapper"
+object"k
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.javaF F(
+""*š
+3a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.javaD D(Ý
+Ú
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.javaD D(%
+%0java.util.concurrent.locks.Lock"__id*H*F<
+:net.sourceforge.docfetcher.util.concurrent.BlockingWrapper"
+lockÌÉ
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.javaD D(
+
+%1void"'java.util.concurrent.locks.Lock#lock()V*'
+%
+%0java.util.concurrent.locks.Lock2lock()*
+2B><
+:net.sourceforge.docfetcher.util.concurrent.BlockingWrapper

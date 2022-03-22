@@ -1,0 +1,61 @@
+
+]org.apache.tika.mime.MimeTypesFactory#create([Ljava/net/URL;)Lorg/apache/tika/mime/MimeTypes;L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.javaU U(""10*…
+4L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java] ](#"v
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java] ](#&
+$
+%4org.apache.tika.mime.MimeTypes*Ö
+5L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java] ](¨
+©
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java] ]("$
+%4org.apache.tika.mime.MimeTypes"dorg.apache.tika.mime.MimeTypesFactory#create([Ljava/io/InputStream;)Lorg/apache/tika/mime/MimeTypes;*)"'
+%org.apache.tika.mime.MimeTypesFactory*"
+ 
+streamsjava.io.InputStream[]*
+4*·
+8L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.javaY Y(ì
+ê
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.javaY Y(
+%1java.net.URL"
+__arrayGet*
+
+urlsjava.net.URL[]*
+""¿Ω
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.javaY Y(,
+%2java.io.InputStream".java.net.URL#openStream()Ljava/io/InputStream;*
+
+%1java.net.URL2openStream()¨
+©
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.javaY Y(,
+%3"
+__arraySet*"
+ 
+streamsjava.io.InputStream[]*
+""*
+
+%2java.io.InputStream*
+5
+8*˝
+10L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.javaW0 W(4ÖÇ
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.javaW  W(<
+%0java.io.InputStream[]"java.io.InputStream[]ò
+ï
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.javaW W(= 
+streamsjava.io.InputStream[]"__id*
+
+%0java.io.InputStream[]*
+5
+8:
+urlsjava.net.URL[]B)"'
+%org.apache.tika.mime.MimeTypesFactory

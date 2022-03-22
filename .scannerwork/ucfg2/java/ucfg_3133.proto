@@ -1,0 +1,16 @@
+
+Jorg.apache.tika.parser.mp3.ID3v1Handler#getTrackNumber()Ljava/lang/String;N
+DD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v1Handler.javap p( "1*ñ
+1N
+DD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v1Handler.javaq q(¯
+¬
+N
+DD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v1Handler.javaq q(
+%0java.lang.String"__id*<*:)
+'org.apache.tika.parser.mp3.ID3v1Handler"
+trackNumber"j
+N
+DD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v1Handler.javaq q(
+
+%0java.lang.StringB+)
+'org.apache.tika.parser.mp3.ID3v1Handler

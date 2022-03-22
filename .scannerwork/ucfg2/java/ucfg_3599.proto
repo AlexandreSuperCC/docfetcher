@@ -1,0 +1,114 @@
+
+knet.sourceforge.docfetcher.model.parse.MSExcelParser#extractWithJexcelAPI(Ljava/io/File;)Ljava/lang/String;[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.javaV V($"startingBlock*Ê
+13[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.javad d(%¯ı
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.javad d(%
+%3"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*
+13
+10*ó
+startingBlock[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.javaV$ V(8√
+¿
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.javaU U(	
+%9"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.Fileƒ
+¡
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.javaV% V(-
+%10"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.Fileï
+í
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.javaV3 V(7
+filejava.io.File"__annotation*
+
+%9*
+
+%10*
+28*Ÿ
+5[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.javai i("w
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.javai i(
+
+%6java.lang.String*ì
+27[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java] ](*¶
+£
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java] ](*
+sbjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder*
+6
+22*√
+6[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.javai
+ i(€ÿ
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.javai
+ i(
+%6java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()*
+5*Ø
+28[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java\ \(4òï
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java] ]('
+%0java.lang.StringBuilder"java.lang.StringBuilder™
+ß
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java] ]()
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder*
+27*Å
+8[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.javag g(ïí
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.javag g(
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+\n\n\n2append(Ljava/lang/String;)*
+6
+22*Ç
+10[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.javae e(ëé
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.javae e(
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+\n2append(Ljava/lang/String;)*
+13
+8
+10*È
+22[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java` `(¯ı
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java` `(
+%2"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*
+13
+8
+10:
+filejava.io.FileB86
+4net.sourceforge.docfetcher.model.parse.MSExcelParser

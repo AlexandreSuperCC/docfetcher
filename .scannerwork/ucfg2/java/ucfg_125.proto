@@ -1,0 +1,140 @@
+
+~org.apache.tika.sax.ElementMappingContentHandler$TargetElement#mapAttributes(Lorg/xml/sax/Attributes;)Lorg/xml/sax/Attributes;W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.java} }('"6*ı
+3Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaÉ É(ÌÍ
+Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaÑ Ñ(2
+%9java.lang.String"=javax.xml.namespace.QName#getNamespaceURI()Ljava/lang/String;*#
+!
+namejavax.xml.namespace.QName2getNamespaceURI()ËÂ
+Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaÑ4 Ñ(G
+%10java.lang.String":javax.xml.namespace.QName#getLocalPart()Ljava/lang/String;*#
+!
+namejavax.xml.namespace.QName2getLocalPart()Ö
+Ç
+Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaÖ Ö(,
+%11java.lang.String"__id*
+""ƒ
+¡
+Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaÖ Ö(2
+%12java.lang.String"porg.apache.tika.sax.ElementMappingContentHandler#getQNameAsString(Ljavax/xml/namespace/QName;)Ljava/lang/String;*4"2
+0org.apache.tika.sax.ElementMappingContentHandler*#
+!
+namejavax.xml.namespace.QName‚ﬂ
+Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaÜ Ü(+
+%13java.lang.String"3org.xml.sax.Attributes#getType(I)Ljava/lang/String;* 
+
+attsorg.xml.sax.Attributes*
+""2
+getType(I)‰·
+Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaÜ- Ü(=
+%14java.lang.String"4org.xml.sax.Attributes#getValue(I)Ljava/lang/String;* 
+
+attsorg.xml.sax.Attributes*
+""2getValue(I)ôñ
+Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaÉ Ü(>
+%15void"åorg.xml.sax.helpers.AttributesImpl#addAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*-
++
+natts"org.xml.sax.helpers.AttributesImpl*
+
+%9java.lang.String*
+
+%10java.lang.String*
+
+%12java.lang.String*
+
+%13java.lang.String*
+
+%14java.lang.String2haddAttribute(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)*
+5*§
+4Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaÄ Ä(.‘
+—
+Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaÄ Ä(.
+%3java.util.Map"__id*Y*W@
+>org.apache.tika.sax.ElementMappingContentHandler$TargetElement"
+attributesMappingﬂ‹
+Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaÅ" Å(0
+%4java.lang.String"2org.xml.sax.Attributes#getURI(I)Ljava/lang/String;* 
+
+attsorg.xml.sax.Attributes*
+""2	getURI(I)ÎË
+Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaÅ2 Å(F
+%5java.lang.String"8org.xml.sax.Attributes#getLocalName(I)Ljava/lang/String;* 
+
+attsorg.xml.sax.Attributes*
+""2getLocalName(I)öó
+Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaÅ Å(!
+%6javax.xml.namespace.QName"javax.xml.namespace.QNameÑ
+Å
+Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaÅ Å(G
+%7"Gjavax.xml.namespace.QName#<init>(Ljava/lang/String;Ljava/lang/String;)V*!
+
+%6javax.xml.namespace.QName*
+
+%4java.lang.String*
+
+%5java.lang.String√
+¿
+Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaÄ Å(H
+%8javax.xml.namespace.QName"__mapGet*
+
+%3java.util.Map*!
+
+%6javax.xml.namespace.QName™
+ß
+Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaÄ Å(I!
+namejavax.xml.namespace.QName"__id*!
+
+%8javax.xml.namespace.QName*
+3
+5*¢
+5W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.java (ª∏
+W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.java  (0	
+%2int"#org.xml.sax.Attributes#getLength()I* 
+
+attsorg.xml.sax.Attributes2getLength()*
+4
+1*ã
+6W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.java~# ~(7™ß
+W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.java~' ~(5(
+%0"org.xml.sax.helpers.AttributesImpl""org.xml.sax.helpers.AttributesImplº
+π
+W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.java~# ~(7
+%1",org.xml.sax.helpers.AttributesImpl#<init>()V**
+(
+%0"org.xml.sax.helpers.AttributesImplª
+∏
+W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.java~ ~(8+
+natts"org.xml.sax.helpers.AttributesImpl"__id**
+(
+%0"org.xml.sax.helpers.AttributesImpl*
+5*Î
+1Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaâ â("ä
+Y
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaâ â(-
++
+natts"org.xml.sax.helpers.AttributesImpl:
+attsorg.xml.sax.AttributesBB@
+>org.apache.tika.sax.ElementMappingContentHandler$TargetElement

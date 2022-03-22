@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
@@ -60,7 +61,6 @@
 	<classpathentry kind="lib" path="lib/truezip/truezip-kernel-7.7.7.jar" sourcepath="lib/truezip/truezip-kernel-7.7.7-sources.jar"/>
 	<classpathentry kind="lib" path="lib/truezip/truezip-swing-7.7.7.jar" sourcepath="lib/truezip/truezip-swing-7.7.7-sources.jar"/>
 	<classpathentry kind="lib" path="lib/xz-utils/xz-1.3.jar"/>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="lib/ant/ant-1.10.3.jar"/>
 	<classpathentry kind="lib" path="lib/jintellitype/jintellitype-1.3.7.jar" sourcepath="lib/jintellitype/jintellitype-1.3.7-sources.jar"/>
 	<classpathentry kind="lib" path="lib/metadata-extractor/metadata-extractor-2.11.0.jar"/>
@@ -71,5 +71,6 @@
 	<classpathentry kind="lib" path="lib/pdfbox/fontbox-2.0.13.jar"/>
 	<classpathentry kind="lib" path="lib/pdfbox/pdfbox-2.0.13.jar"/>
 	<classpathentry kind="lib" path="lib/pdfbox/xmpbox-2.0.13.jar"/>
+	<classpathentry kind="lib" path="dist/lang"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

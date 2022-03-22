@@ -1,0 +1,16 @@
+
+Wnull#getLabel(Lnet/sourceforge/docfetcher/model/index/IndexingError;)Ljava/lang/String;Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ErrorTable.javaJ J("1*†
+1Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ErrorTable.javaK K(®«
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ErrorTable.javaK K((
+%0java.lang.String"\net.sourceforge.docfetcher.model.index.IndexingError#getLocalizedMessage()Ljava/lang/String;*A
+?
+element4net.sourceforge.docfetcher.model.index.IndexingError2getLocalizedMessage()"u
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ErrorTable.javaK K()
+
+%0java.lang.String:?
+element4net.sourceforge.docfetcher.model.index.IndexingErrorB=;
+9Lnet/sourceforge/docfetcher/gui/indexing/ErrorTable$2839;

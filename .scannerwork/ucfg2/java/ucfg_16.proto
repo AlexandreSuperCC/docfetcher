@@ -1,0 +1,77 @@
+
+›org.apache.tika.parser.odf.OpenDocumentContentParser$OpenDocumentElementMappingContentHandler#needsCompleteFiltering(Ljava/lang/String;Ljava/lang/String;)Z[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javaf f(."7*Ú
+2[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javal4 l(Hòï
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javal4 l(Z
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+covered-table-cell*
+
+	localNamejava.lang.String2equals(Ljava/lang/Object;)*
+1*ë
+3[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javal l(†
+ƒ
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javal l(
+%4java.lang.String"__id*
+""÷ô
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javal l(0
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%4java.lang.String*"
+ 
+namespaceURIjava.lang.String2equals(Ljava/lang/Object;)*
+2
+1*Ç
+4[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javai j(8"e
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javai j(8
+""*Ò
+5[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javaj j($êç
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javaj j(7
+%3boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+	localNamejava.lang.String*
+
+-style2endsWith(Ljava/lang/String;)*
+4*Ø
+6[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javai i( íê
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javai i(6
+%2boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+	localNamejava.lang.String*
+	-template2endsWith(Ljava/lang/String;)*
+4
+5*ë
+7[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javah h(†
+ƒ
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javah h(
+%0java.lang.String"__id*
+""÷ô
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javah h(,
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String*"
+ 
+namespaceURIjava.lang.String2equals(Ljava/lang/Object;)*
+3
+6*Ç
+1[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javal l(["e
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javal l([
+"": 
+namespaceURIjava.lang.String:
+	localNamejava.lang.StringBa_
+]org.apache.tika.parser.odf.OpenDocumentContentParser$OpenDocumentElementMappingContentHandler

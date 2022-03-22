@@ -1,0 +1,70 @@
+
+3org.apache.tika.io.LookaheadInputStream#read([BII)IN
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javah h("startingBlock*„
+2N
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javak k(õ
+ò
+N
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javak k(4	
+%1int"java.lang.Math#min(II)I*"
+java.lang.Math*
+""*
+""†
+ù
+N
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javal l(#
+%2byte[]"__id*7*5)
+'org.apache.tika.io.LookaheadInputStream"
+bufferÚ
+Ô
+N
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javal l(;
+
+%3void"Djava.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V*"
+java.lang.System*
+
+%2byte[]*
+""*
+
+bbyte[]*
+""*
+"""X
+N
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javan n(
+""*õ
+3N
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javai i(Ω
+∫
+N
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javai i(
+
+%0void"/org.apache.tika.io.LookaheadInputStream#fill()V*+)
+'org.apache.tika.io.LookaheadInputStream*
+2
+1*Í
+startingBlockN
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javah h(/å
+â
+N
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javag g(
+%4"
+__annotate*
+java.lang.Override*
+
+bbyte[]u
+s
+N
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javah h(
+bbyte[]"__annotation*
+
+%4*
+3*≠
+1N
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javap p("X
+N
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javap p(
+"":
+bbyte[]:
+"":
+""B+)
+'org.apache.tika.io.LookaheadInputStream

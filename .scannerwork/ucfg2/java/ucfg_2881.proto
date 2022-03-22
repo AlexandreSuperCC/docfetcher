@@ -1,0 +1,274 @@
+
+Üorg.apache.tika.config.TikaConfig$DetectorXmlLoader#createComposite(Ljava/lang/Class;Ljava/util/List;Ljava/util/Set;Lorg/apache/tika/mime/MimeTypes;Lorg/apache/tika/config/ServiceLoader;)Lorg/apache/tika/detect/Detector;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÚ Ú( "startingBlock*Ö
+25J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaà  à($Š
+‡
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaà à(%+
+detectororg.apache.tika.detect.Detector"__id*
+""€
+~
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaá á(."
+cjava.lang.reflect.Constructor"__id*
+""£ 
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaâ) â(I,
+%0&org.apache.tika.mime.MediaTypeRegistry"]org.apache.tika.mime.MimeTypes#getMediaTypeRegistry()Lorg/apache/tika/mime/MediaTypeRegistry;*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes2getMediaTypeRegistry()¹
+¶
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaâ â(J2
+registry&org.apache.tika.mime.MediaTypeRegistry"__id*.
+,
+%0&org.apache.tika.mime.MediaTypeRegistry*
+5
+17
+11
+23
+1*ô
+14J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaï ï(X•
+’
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaï ï(X+
+detectororg.apache.tika.detect.Detector"__id*
+
+%4	!capture!*
+
+5
+11
+1*õ
+16J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaî î(k 
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaî î(k"
+cjava.lang.reflect.Constructor"__id*%
+#
+%3java.lang.reflect.Constructorùö
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaï ï(X
+%4	!capture!"Pjava.lang.reflect.Constructor#newInstance([Ljava/lang/Object;)Ljava/lang/Object;*$
+"
+cjava.lang.reflect.Constructor*4
+2
+registry&org.apache.tika.mime.MediaTypeRegistry*"
+ 
+childDetectorsjava.util.List*#
+!
+excludeDetectorsjava.util.Set2 newInstance([Ljava/lang/Object;)*
+14*€
+17J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaî î(%§¤
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaî î(k#
+%3java.lang.reflect.Constructor"Qjava.lang.Class#getConstructor([Ljava/lang/Class;)Ljava/lang/reflect/Constructor;*"
+ 
+detectorClassjava.lang.Class*
+""*
+""*
+""2"getConstructor([Ljava/lang/Class;)*
+16*Ì
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÿ ÿ("{
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÿ ÿ(-
++
+detectororg.apache.tika.detect.Detector*ì
+2J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaû û(<•
+’
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaû û(<+
+detectororg.apache.tika.detect.Detector"__id*
+
+%8	!capture!*
+1*ï
+startingBlockJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÚ  Ý(:
+š
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÙ Ù(
+%9"
+__annotate*
+java.lang.Override*"
+ 
+detectorClassjava.lang.Class‡
+„
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÚ; Ú(H 
+detectorClassjava.lang.Class"__annotation*
+
+%9ž
+›
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÙ Ù(
+%10"
+__annotate*
+java.lang.Override*"
+ 
+childDetectorsjava.util.Listˆ
+…
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÛ Û(- 
+childDetectorsjava.util.List"__annotation*
+
+%10Ÿ
+œ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÙ Ù(
+%11"
+__annotate*
+java.lang.Override*#
+!
+excludeDetectorsjava.util.Set‰
+†
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÜ/ Ü(?!
+excludeDetectorsjava.util.Set"__annotation*
+
+%11©
+¦
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÙ Ù(
+%12"
+__annotate*
+java.lang.Override*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes“
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÝ Ý(#+
+	mimeTypesorg.apache.tika.mime.MimeTypes"__annotation*
+
+%12¬
+©
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÙ Ù(
+%13"
+__annotate*
+java.lang.Override*0
+.
+loader$org.apache.tika.config.ServiceLoader–
+“
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÝ3 Ý(9.
+loader$org.apache.tika.config.ServiceLoader"__annotation*
+
+%13*
+25*˜
+4J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaú ú(@ 
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaú ú(@"
+cjava.lang.reflect.Constructor"__id*%
+#
+%7java.lang.reflect.Constructorž›
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaû û(<
+%8	!capture!"Pjava.lang.reflect.Constructor#newInstance([Ljava/lang/Object;)Ljava/lang/Object;*$
+"
+cjava.lang.reflect.Constructor*"
+ 
+childDetectorsjava.util.List2 newInstance([Ljava/lang/Object;)*
+2*î
+5J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaú ú(%—”
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaú ú(@#
+%7java.lang.reflect.Constructor"Qjava.lang.Class#getConstructor([Ljava/lang/Class;)Ljava/lang/reflect/Constructor;*"
+ 
+detectorClassjava.lang.Class*
+""2"getConstructor([Ljava/lang/Class;)*
+4*ï
+8J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaõ õ(F•
+’
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaõ õ(F+
+detectororg.apache.tika.detect.Detector"__id*
+
+%6	!capture!*
+5
+1*ø
+20J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaè è(Q•
+’
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaè è(Q+
+detectororg.apache.tika.detect.Detector"__id*
+
+%2	!capture!*
+5
+17
+11
+1*Ï
+10J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaô ô(Y 
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaô ô(Y"
+cjava.lang.reflect.Constructor"__id*%
+#
+%5java.lang.reflect.ConstructorÔÑ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaõ õ(F
+%6	!capture!"Pjava.lang.reflect.Constructor#newInstance([Ljava/lang/Object;)Ljava/lang/Object;*$
+"
+cjava.lang.reflect.Constructor*4
+2
+registry&org.apache.tika.mime.MediaTypeRegistry*"
+ 
+childDetectorsjava.util.List2 newInstance([Ljava/lang/Object;)*
+8*ü
+22J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaç ç(l 
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaç ç(l"
+cjava.lang.reflect.Constructor"__id*%
+#
+%1java.lang.reflect.Constructor€ý
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaè è(Q
+%2	!capture!"Pjava.lang.reflect.Constructor#newInstance([Ljava/lang/Object;)Ljava/lang/Object;*$
+"
+cjava.lang.reflect.Constructor*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes*0
+.
+loader$org.apache.tika.config.ServiceLoader*#
+!
+excludeDetectorsjava.util.Set2 newInstance([Ljava/lang/Object;)*
+20*ø
+11J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaô ô(%Ÿœ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaô ô(Y#
+%5java.lang.reflect.Constructor"Qjava.lang.Class#getConstructor([Ljava/lang/Class;)Ljava/lang/reflect/Constructor;*"
+ 
+detectorClassjava.lang.Class*
+""*
+""2"getConstructor([Ljava/lang/Class;)*
+10*€
+23J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaç ç(%§¤
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaç ç(l#
+%1java.lang.reflect.Constructor"Qjava.lang.Class#getConstructor([Ljava/lang/Class;)Ljava/lang/reflect/Constructor;*"
+ 
+detectorClassjava.lang.Class*
+""*
+""*
+""2"getConstructor([Ljava/lang/Class;)*
+22: 
+detectorClassjava.lang.Class: 
+childDetectorsjava.util.List:!
+excludeDetectorsjava.util.Set:+
+	mimeTypesorg.apache.tika.mime.MimeTypes:.
+loader$org.apache.tika.config.ServiceLoaderB75
+3org.apache.tika.config.TikaConfig$DetectorXmlLoader

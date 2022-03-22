@@ -1,0 +1,43 @@
+
+xnet.sourceforge.docfetcher.gui.filter.FileTypePanel#getParserStateMap()Lnet/sourceforge/docfetcher/util/collect/ListMap;\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java‚! ‚(2"5*³
+3\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java† †( ¨
+¥
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java† †(+7
+parser-net.sourceforge.docfetcher.model.parse.Parser"__id*
+""œ™
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java‡ ‡(%
+%1"Šnet.sourceforge.docfetcher.util.collect.ListMap#add(Ljava/lang/Object;Ljava/lang/Object;)Lnet/sourceforge/docfetcher/util/collect/ListMap;*8
+6
+map/net.sourceforge.docfetcher.util.collect.ListMap*9
+7
+parser-net.sourceforge.docfetcher.model.parse.Parser*
+""2)add(Ljava/lang/Object;Ljava/lang/Object;)*
+3
+1*¦
+5\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.javaƒ ƒ(
+
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java„! „(=
+%0"jnet.sourceforge.docfetcher.util.collect.ListMap#create(I)Lnet/sourceforge/docfetcher/util/collect/ListMap;*3"1
+/net.sourceforge.docfetcher.util.collect.ListMap*
+""§
+¤
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java„ „(>6
+map/net.sourceforge.docfetcher.util.collect.ListMap"__id*
+
+%0*
+3
+1*ü
+1\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java‰	 ‰("˜
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/FileTypePanel.java‰ ‰(8
+6
+map/net.sourceforge.docfetcher.util.collect.ListMapB75
+3net.sourceforge.docfetcher.gui.filter.FileTypePanel

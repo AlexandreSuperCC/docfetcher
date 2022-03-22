@@ -1,0 +1,35 @@
+
+5org.apache.tika.parser.mp3.LyricsHandler#hasLyrics()ZO
+ED:/git_project/code/src/org/apache/tika/parser/mp3/LyricsHandler.javay y("3*®
+2O
+ED:/git_project/code/src/org/apache/tika/parser/mp3/LyricsHandler.javaz% z(/°
+­
+O
+ED:/git_project/code/src/org/apache/tika/parser/mp3/LyricsHandler.javaz% z(/
+%1java.lang.String"__id*<*:*
+(org.apache.tika.parser.mp3.LyricsHandler"
+
+lyricsTextŸœ
+O
+ED:/git_project/code/src/org/apache/tika/parser/mp3/LyricsHandler.javaz% z(8	
+%2int"java.lang.String#length()I*
+
+%1java.lang.String2length()*
+1*
+3O
+ED:/git_project/code/src/org/apache/tika/parser/mp3/LyricsHandler.javaz z(°
+­
+O
+ED:/git_project/code/src/org/apache/tika/parser/mp3/LyricsHandler.javaz z(
+%0java.lang.String"__id*<*:*
+(org.apache.tika.parser.mp3.LyricsHandler"
+
+lyricsText*
+2
+1*¯
+1O
+ED:/git_project/code/src/org/apache/tika/parser/mp3/LyricsHandler.javaz z(="Y
+O
+ED:/git_project/code/src/org/apache/tika/parser/mp3/LyricsHandler.javaz z(=
+""B,*
+(org.apache.tika.parser.mp3.LyricsHandler

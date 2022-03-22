@@ -1,0 +1,81 @@
+
+Korg.apache.tika.io.IOUtils#toString([BLjava/lang/String;)Ljava/lang/String;C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java   (!"startingBlock*ë
+2C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java¤ ¤(#u
+s
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java¤% ¤(*
+%0java.nio.charset.Charset"__id*
+""qo
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java¤ ¤(
+%1java.lang.String"java.lang.StringÕ
+Ò
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java¤ ¤(+
+%2"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
+
+%1java.lang.String*
+
+inputbyte[]* 
+
+%0java.nio.charset.Charset"_
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java¤ ¤(,
+
+%1java.lang.String*ê
+startingBlockC
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java !  (@‡
+„
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaŸ Ÿ(
+%5"
+__annotate*
+java.lang.Deprecated*
+
+inputbyte[]n
+l
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java )  (.
+inputbyte[]"__annotation*
+
+%5”
+‘
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaŸ Ÿ(
+%6"
+__annotate*
+java.lang.Deprecated*
+
+encodingjava.lang.String{
+y
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java 7  (?
+encodingjava.lang.String"__annotation*
+
+%6*
+2
+1*ê
+1C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java¦ ¦(#qo
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java¦ ¦(
+%3java.lang.String"java.lang.StringË
+È
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java¦ ¦(.
+%4".java.lang.String#<init>([BLjava/lang/String;)V*
+
+%3java.lang.String*
+
+inputbyte[]*
+
+encodingjava.lang.String"_
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java¦ ¦(/
+
+%3java.lang.String:
+inputbyte[]:
+encodingjava.lang.StringB"
+org.apache.tika.io.IOUtils

@@ -1,0 +1,24 @@
+
+Qorg.apache.tika.config.TikaConfig#getBuilder()Ljavax/xml/parsers/DocumentBuilder;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaß# ß(-"1*¹
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaà à(!Ÿœ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaà à()
+%0#org.apache.tika.parser.ParseContext"#org.apache.tika.parser.ParseContext±
+®
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaà à(!
+%1"-org.apache.tika.parser.ParseContext#<init>()V*+
+)
+%0#org.apache.tika.parser.ParseContext˜•
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaà à(6'
+%2!javax.xml.parsers.DocumentBuilder"[org.apache.tika.parser.ParseContext#getDocumentBuilder()Ljavax/xml/parsers/DocumentBuilder;*+
+)
+%0#org.apache.tika.parser.ParseContext2getDocumentBuilder()"w
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaà à(7)
+'
+%2!javax.xml.parsers.DocumentBuilderB%"#
+!org.apache.tika.config.TikaConfig

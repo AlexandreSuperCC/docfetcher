@@ -1,0 +1,35 @@
+
+1org.apache.tika.parser.mp3.MpegStream#nextByte()IN
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaò ò("2"3"6*Ê
+2N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaý! ý('p
+n
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaý! ý('	
+%1int"__id*
+	
+%3int*
+1*Ê
+3N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaý ý(p
+n
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaý ý(	
+%1int"__id*
+	
+%2int*
+1*”
+6N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.java÷ ÷(¶³
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.java÷ ÷(	
+%0int"#java.io.PushbackInputStream#read()I*)'
+%org.apache.tika.parser.mp3.MpegStream2read()*
+2
+3*­
+1N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaý ý(("X
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/MpegStream.javaý ý((
+""B)'
+%org.apache.tika.parser.mp3.MpegStream

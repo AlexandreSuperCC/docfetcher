@@ -1,0 +1,101 @@
+
+enet.sourceforge.docfetcher.util.Util#listFiles(Ljava/io/File;Ljava/io/FilenameFilter;)[Ljava/io/File;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java• •("startingBlock*„
+2M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java®' ®(,â
+Ü
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java®' ®(,
+%1java.io.File[]"__id*
+
+filesjava.io.File[]*
+1*Ÿ
+3M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java®" ®(#wu
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java® ®($
+%2java.io.File[]"java.io.File[]Ü
+É
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java® ®($
+%1java.io.File[]"__id*
+
+%2java.io.File[]*
+1*˜
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java• ¶()¥
+±
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java§ §(	
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+dirjava.io.File¥
+±
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java•! •()
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+dirjava.io.FileÖ
+Ç
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java•/ •(2
+dirjava.io.File"__annotation*
+
+%3*
+
+%4¡
+æ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java§ §(	
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*"
+ 
+filterjava.io.FilenameFilter¬
+ø
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¶	 ¶(
+%6"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*"
+ 
+filterjava.io.FilenameFilterí
+è
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¶" ¶(( 
+filterjava.io.FilenameFilter"__annotation*
+
+%5*
+
+%6*
+4*Ú
+4M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaß ß(âÜ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaß ß(&
+%0java.io.File[]"?java.io.File#listFiles(Ljava/io/FilenameFilter;)[Ljava/io/File;*
+
+dirjava.io.File*"
+ 
+filterjava.io.FilenameFilter2#listFiles(Ljava/io/FilenameFilter;)â
+Ü
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaß ß('
+filesjava.io.File[]"__id*
+
+%0java.io.File[]*
+2
+3*ª
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java® ®(-"g
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java® ®(-
+
+%1java.io.File[]:
+dirjava.io.File: 
+filterjava.io.FilenameFilterB("&
+$net.sourceforge.docfetcher.util.Util

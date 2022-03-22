@@ -1,0 +1,16 @@
+
+]org.apache.tika.metadata.Property#getValueType()Lorg/apache/tika/metadata/Property$ValueType;J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaµ µ(!"1*”
+1J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.java¶ ¶(¾
+»
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.java¶ ¶(1
+%0+org.apache.tika.metadata.Property$ValueType"__id*4*2#
+!org.apache.tika.metadata.Property"
+	valueType"
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.java¶ ¶(3
+1
+%0+org.apache.tika.metadata.Property$ValueTypeB%#
+!org.apache.tika.metadata.Property

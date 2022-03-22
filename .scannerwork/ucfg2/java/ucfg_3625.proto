@@ -1,0 +1,16 @@
+
+uorg.apache.tika.parser.odf.OpenDocumentParser#getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Set;T
+JD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentParser.javar r(+"1*Å
+1T
+JD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentParser.javas s({
+y
+T
+JD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentParser.javas s(
+%0java.util.Set"__id*
+"""m
+T
+JD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentParser.javas s(
+
+%0java.util.Set:.
+context#org.apache.tika.parser.ParseContextB1/
+-org.apache.tika.parser.odf.OpenDocumentParser

@@ -1,0 +1,162 @@
+
+cnet.sourceforge.docfetcher.model.parse.FLACParser#extract(Ljava/io/InputStream;Z)Ljava/lang/String;X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.java1 1("startingBlock*ú
+startingBlockX
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.java1 1(K∆
+√
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.java0 0(	
+%13"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+injava.io.InputStream∆
+√
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.java1 1('
+%14"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+injava.io.InputStreamò
+ï
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.java14 1(6
+injava.io.InputStream"__annotation*
+
+%13*
+
+%14*
+11*Ø
+6X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.javaK K(«ƒ
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.javaK K(	
+%8int"%java.io.DataInputStream#skipBytes(I)I* 
+
+disjava.io.DataInputStream*
+""2skipBytes(I)*
+7
+1*∫
+7X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.javaC C(z
+x
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.javaC C(
+databyte[]"__id*
+""‘—
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.javaD D(
+
+%6void"&java.io.DataInputStream#readFully([B)V* 
+
+disjava.io.DataInputStream*
+
+databyte[]2readFully([B)ˇ
+¸
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.javaE E(%
+%7long[]"Inet.sourceforge.docfetcher.model.parse.FLACParser#readMetadataBlock([B)[J*5"3
+1net.sourceforge.docfetcher.model.parse.FLACParser*
+
+databyte[]*
+6
+1*≠
+10X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.java;
+ ;(÷”
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.java;
+ ;(
+%5java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuffer2
+toString()"t
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.java; ;(
+
+%5java.lang.String*£
+
+11X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.java3 3(&ìê
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.java3 3($
+%0java.lang.StringBuffer"java.lang.StringBuffer•
+¢
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.java3 3(&
+%1" java.lang.StringBuffer#<init>()V*
+
+%0java.lang.StringBuffer°
+û
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.java3 3('
+sbjava.lang.StringBuffer"__id*
+
+%0java.lang.StringBufferïí
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.java4 4(+
+%2java.io.DataInputStream"java.io.DataInputStreamŸ
+÷
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.java4 4(/
+%3"6java.io.DataInputStream#<init>(Ljava/io/InputStream;)V*
+
+%2java.io.DataInputStream*
+
+injava.io.InputStream§
+°
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.java4 4(0
+disjava.io.DataInputStream"__id*
+
+%2java.io.DataInputStreamπ∂
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.java9 9(	
+%4int""java.io.DataInputStream#readInt()I* 
+
+disjava.io.DataInputStream2	readInt()*
+
+7
+10
+1*Ê
+1X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.javaT T((œÃ
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.javaT T(&:
+%94net.sourceforge.docfetcher.model.parse.VorbisComment"4net.sourceforge.docfetcher.model.parse.VorbisComment‚
+ﬂ
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.javaT T((
+%10">net.sourceforge.docfetcher.model.parse.VorbisComment#<init>()V*<
+:
+%94net.sourceforge.docfetcher.model.parse.VorbisComment›
+⁄
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.javaT T():
+vb4net.sourceforge.docfetcher.model.parse.VorbisComment"__id*<
+:
+%94net.sourceforge.docfetcher.model.parse.VorbisCommentûõ
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.javaU U(
+%11void"onet.sourceforge.docfetcher.model.parse.VorbisComment#parse(Ljava/io/DataInputStream;Ljava/lang/StringBuffer;Z)V*<
+:
+vb4net.sourceforge.docfetcher.model.parse.VorbisComment* 
+
+disjava.io.DataInputStream*
+
+sbjava.lang.StringBuffer*
+""29parse(Ljava/io/DataInputStream;Ljava/lang/StringBuffer;Z)◊‘
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.javaW	 W(
+%12java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuffer2
+toString()"u
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/FLACParser.javaW W(
+
+%12java.lang.String:
+injava.io.InputStream:
+""B5"3
+1net.sourceforge.docfetcher.model.parse.FLACParser

@@ -1,0 +1,40 @@
+
+Unet.sourceforge.docfetcher.util.Util#splitFilename(Ljava/io/File;)[Ljava/lang/String;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÅ Å(%"startingBlock*š
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÅ% Å(9µ
+²
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÅ& Å(.
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.File}
+{
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÅ4 Å(8
+filejava.io.File"__annotation*
+
+%2*
+1*‡
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÆ	 Æ(·´
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÆ Æ(*
+%0java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+filejava.io.File2	getName()‹
+ˆ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÆ	 Æ(+
+%1java.lang.String[]"Ynet.sourceforge.docfetcher.util.Util#splitFilename(Ljava/lang/String;)[Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+%0java.lang.String"k
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÆ Æ(,
+
+%1java.lang.String[]:
+filejava.io.FileB("&
+$net.sourceforge.docfetcher.util.Util

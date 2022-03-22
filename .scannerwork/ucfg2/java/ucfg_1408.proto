@@ -1,0 +1,132 @@
+
+?net.sourceforge.docfetcher.util.Util#isSymLink(Ljava/io/File;)ZM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÁ Á( "startingBlock*“
+13M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÈ È(v
+t
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÈ È(
+canonjava.io.File"__id*
+""»¸
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÉ É(
+%0java.lang.String"*java.io.File#getParent()Ljava/lang/String;*
+
+filejava.io.File2getParent()*
+10
+11*«
+2M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÐ
+ Ð(C"W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÐ Ð(D
+""*­
+3M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÐ Ð(CÓÐ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÐ Ð(C
+%8boolean"(java.io.File#equals(Ljava/lang/Object;)Z*
+
+%6java.io.File*
+
+%7java.io.File2equals(Ljava/lang/Object;)*
+2*›
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÁ  Á(4µ
+²
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÁ! Á()
+%9"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.File}
+{
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÁ/ Á(3
+filejava.io.File"__annotation*
+
+%9*
+13*š
+4M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÐ+ Ð(0À½
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÐ+ Ð(B
+%7java.io.File",java.io.File#getAbsoluteFile()Ljava/io/File;*
+
+canonjava.io.File2getAbsoluteFile()*
+3*œ
+5M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÐ Ð(Â¿
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÐ Ð(#
+%6java.io.File"-java.io.File#getCanonicalFile()Ljava/io/File;*
+
+canonjava.io.File2getCanonicalFile()*
+4*ß
+6M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÎ Î(.…
+‚
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÎ Î(.
+canonjava.io.File"__id*
+
+%4java.io.File*
+5*«
+7M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÎ Î(.sq
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÎ Î(
+%4java.io.File"java.io.FileÜ
+Ù
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÎ Î(.
+%5"6java.io.File#<init>(Ljava/io/File;Ljava/lang/String;)V*
+
+%4java.io.File*
+
+canonDirjava.io.File*
+
+%3java.lang.String*
+6*œ
+8M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÍ Í(<ˆ
+…
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÍ Í(<
+canonDirjava.io.File"__id*
+
+%2java.io.File·´
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÎ Î(-
+%3java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+filejava.io.File2	getName()*
+7*™
+9M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÍ Í(;¿¼
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÍ Í(;
+%2java.io.File"-java.io.File#getCanonicalFile()Ljava/io/File;*
+
+%1java.io.File2getCanonicalFile()*
+8*–
+10M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÍ Í(»¸
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÍ Í((
+%1java.io.File"*java.io.File#getParentFile()Ljava/io/File;*
+
+filejava.io.File2getParentFile()*
+9*â
+11M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÊ Ê(‡
+„
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÊ Ê(
+canonjava.io.File"__id*
+
+filejava.io.File*
+5:
+filejava.io.FileB("&
+$net.sourceforge.docfetcher.util.Util

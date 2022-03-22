@@ -1,0 +1,74 @@
+
+snet.sourceforge.docfetcher.model.IndexRegistry#getTreeCheckState()Lnet/sourceforge/docfetcher/model/TreeCheckState;W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaò ò(("5*Ô
+2W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java÷ ÷(¡
+
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java÷ ÷(5
+index,net.sourceforge.docfetcher.model.LuceneIndex"__id*
+""É
+Æ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.java÷ ÷(5
+index,net.sourceforge.docfetcher.model.LuceneIndex"
+__arrayGet* 
+
+localIndexesjava.util.List*
+""*
+3
+1*¾
+3W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaø ø(ÔÑ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaø ø(+5
+%3/net.sourceforge.docfetcher.model.TreeCheckState"qnet.sourceforge.docfetcher.model.LuceneIndex#getTreeCheckState()Lnet/sourceforge/docfetcher/model/TreeCheckState;*7
+5
+index,net.sourceforge.docfetcher.model.LuceneIndex2getTreeCheckState()ƒ€
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaø ø(,
+
+%4void"gnet.sourceforge.docfetcher.model.TreeCheckState#add(Lnet/sourceforge/docfetcher/model/TreeCheckState;)V*?
+=
+
+totalState/net.sourceforge.docfetcher.model.TreeCheckState*7
+5
+%3/net.sourceforge.docfetcher.model.TreeCheckState26add(Lnet/sourceforge/docfetcher/model/TreeCheckState;)*
+2*ÿ
+5W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaô# ô(-ş
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaô# ô(/
+%0java.util.List"Knet.sourceforge.docfetcher.model.IndexRegistry#getIndexes()Ljava/util/List;*20
+.net.sourceforge.docfetcher.model.IndexRegistry2getIndexes()š
+—
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaô ô(0
+localIndexesjava.util.List"__id*
+
+%0java.util.ListÄÁ
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaö" ö(05
+%1/net.sourceforge.docfetcher.model.TreeCheckState"/net.sourceforge.docfetcher.model.TreeCheckStateÖ
+Ó
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaö ö(2
+%2"9net.sourceforge.docfetcher.model.TreeCheckState#<init>()V*7
+5
+%1/net.sourceforge.docfetcher.model.TreeCheckStateÚ
+×
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaö ö(3=
+
+totalState/net.sourceforge.docfetcher.model.TreeCheckState"__id*7
+5
+%1/net.sourceforge.docfetcher.model.TreeCheckState*
+2*ù
+1W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaù	 ù("š
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaù ù(?
+=
+
+totalState/net.sourceforge.docfetcher.model.TreeCheckStateB20
+.net.sourceforge.docfetcher.model.IndexRegistry

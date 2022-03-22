@@ -1,0 +1,60 @@
+
+mnet.sourceforge.docfetcher.model.index.IndexingConfig#createDerivedTempFile(Ljava/lang/String;)Ljava/io/File;^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java± ±(("startingBlock*Û
+3^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java´ ´(="v
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java´ ´(=
+
+%1java.io.File*¸
+startingBlock^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java±( ±(BÎ
+Ë
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java° °(	
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filenamejava.lang.StringÎ
+Ë
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java±) ±(1
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filenamejava.lang.StringŸ
+œ
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java±9 ±(A
+filenamejava.lang.String"__annotation*
+
+%4*
+
+%5*
+5*®
+4^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java´
+ ´(<Ã
+À
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java´
+ ´(<
+%1java.io.File"jnet.sourceforge.docfetcher.util.Util#createDerivedTempFile(Ljava/lang/String;Ljava/io/File;)Ljava/io/File;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+filenamejava.lang.String*
+
+%0java.io.File*
+3*ý
+5^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java´
+ ´(’
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java´/ ´(;
+%0java.io.File"Pnet.sourceforge.docfetcher.model.index.IndexingConfig#getTempDir()Ljava/io/File;*97
+5net.sourceforge.docfetcher.model.index.IndexingConfig2getTempDir()*
+4:
+filenamejava.lang.StringB97
+5net.sourceforge.docfetcher.model.index.IndexingConfig

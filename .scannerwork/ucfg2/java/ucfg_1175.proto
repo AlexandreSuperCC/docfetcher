@@ -1,0 +1,30 @@
+
+Korg.apache.tika.mime.MediaType#compareTo(Lorg/apache/tika/mime/MediaType;)IG
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaª ª("1*Ω
+1G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaº º(ö
+ó
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaº º(
+%0java.lang.String"__id*.*, 
+org.apache.tika.mime.MediaType"
+string†
+ù
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaº  º(+
+%1java.lang.String"__id*4*2
+&
+thatorg.apache.tika.mime.MediaType"
+string€ÿ
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaº º(,	
+%2int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+%0java.lang.String*
+
+%1java.lang.String2compareTo(Ljava/lang/String;)"Q
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaº º(-
+"":&
+thatorg.apache.tika.mime.MediaTypeB" 
+org.apache.tika.mime.MediaType

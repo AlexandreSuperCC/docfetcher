@@ -1,0 +1,35 @@
+
+±org.apache.tika.parser.xml.DcXMLParser#getDublinCoreHandler(Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;Ljava/lang/String;)Lorg/xml/sax/ContentHandler;M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java#" #(6"1*ò
+1M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java& &(w
+u
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java& &(+
+%0java.lang.String"__id*
+""¾»
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java% %()7
+%11org.apache.tika.parser.xml.ElementMetadataHandler"1org.apache.tika.parser.xml.ElementMetadataHandlerÖ
+Ó
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java% '(#
+%2"¥org.apache.tika.parser.xml.ElementMetadataHandler#<init>(Ljava/lang/String;Ljava/lang/String;Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;)V*9
+7
+%11org.apache.tika.parser.xml.ElementMetadataHandler*
+
+%0java.lang.String*
+
+elementjava.lang.String*/
+-
+metadata!org.apache.tika.metadata.Metadata*/
+-
+property!org.apache.tika.metadata.Property"Š
+M
+CD:/git_project/code/src/org/apache/tika/parser/xml/DcXMLParser.java% '($9
+7
+%11org.apache.tika.parser.xml.ElementMetadataHandler:-
+metadata!org.apache.tika.metadata.Metadata:-
+property!org.apache.tika.metadata.Property:
+elementjava.lang.StringB*"(
+&org.apache.tika.parser.xml.DcXMLParser

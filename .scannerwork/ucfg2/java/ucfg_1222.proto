@@ -1,0 +1,27 @@
+
+iorg.apache.tika.io.IOUtils#toInputStream(Ljava/lang/CharSequence;Ljava/lang/String;)Ljava/io/InputStream;C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaŠ Š(+"1*˜
+1C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java‹ ‹(ÄÁ
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java‹ ‹(-
+%0java.lang.String"3java.lang.CharSequence#toString()Ljava/lang/String;*!
+
+inputjava.lang.CharSequence2
+toString()¢
+Ÿ
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java‹ ‹(8
+%1java.io.InputStream"corg.apache.tika.io.IOUtils#toInputStream(Ljava/lang/String;Ljava/lang/String;)Ljava/io/InputStream;*"
+org.apache.tika.io.IOUtils*
+
+%0java.lang.String*
+
+encodingjava.lang.String"b
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java‹ ‹(9
+
+%1java.io.InputStream:
+inputjava.lang.CharSequence:
+encodingjava.lang.StringB"
+org.apache.tika.io.IOUtils

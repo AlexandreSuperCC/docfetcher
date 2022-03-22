@@ -1,0 +1,79 @@
+
+snet.sourceforge.docfetcher.util.gui.viewer.ColumnEditSupport$ComboEditSupport#getStringChoices()[Ljava/lang/String;c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/ColumnEditSupport.java& &("5*Ã
+3c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/ColumnEditSupport.java+ +(ô
+ñ
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/ColumnEditSupport.java+  +(*
+%4EN"
+__arrayGet*
+
+choicesEN[]*
+""˜Ù
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/ColumnEditSupport.java+ +(+
+%5java.lang.String"znet.sourceforge.docfetcher.util.gui.viewer.ColumnEditSupport$ComboEditSupport#toString(Ljava/lang/Enum;)Ljava/lang/String;*QO
+Mnet.sourceforge.docfetcher.util.gui.viewer.ColumnEditSupport$ComboEditSupport*
+
+
+%4EN2toString(Ljava/lang/Enum;)√
+¿
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/ColumnEditSupport.java+ +(+
+%6"
+__arraySet*%
+#
+stringChoicesjava.lang.String[]*
+""*
+
+%5java.lang.String*
+3
+1*Ô	
+5c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/ColumnEditSupport.java' '(È
+Ê
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/ColumnEditSupport.java' '(
+%0java.lang.Class"__id*b*`O
+Mnet.sourceforge.docfetcher.util.gui.viewer.ColumnEditSupport$ComboEditSupport"
+choiceClassÿ’
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/ColumnEditSupport.java' '(0
+
+%1EN[]"5java.lang.Class#getEnumConstants()[Ljava/lang/Object;*
+
+%0java.lang.Class2getEnumConstants()ç
+ä
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/ColumnEditSupport.java' '(1
+choicesEN[]"__id*
+
+
+%1EN[]⁄
+◊
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/ColumnEditSupport.java( ((%
+
+%2void"2net.sourceforge.docfetcher.util.Util#checkThat(Z)V*("&
+$net.sourceforge.docfetcher.util.Util*
+""ñì
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/ColumnEditSupport.java) )(6
+%3java.lang.String[]"java.lang.String[]Ø
+¨
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/ColumnEditSupport.java) )(7#
+stringChoicesjava.lang.String[]"__id*
+
+%3java.lang.String[]*
+3
+1*˜
+1c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/ColumnEditSupport.java,
+ ,("å
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/ColumnEditSupport.java, ,(%
+#
+stringChoicesjava.lang.String[]BQO
+Mnet.sourceforge.docfetcher.util.gui.viewer.ColumnEditSupport$ComboEditSupport

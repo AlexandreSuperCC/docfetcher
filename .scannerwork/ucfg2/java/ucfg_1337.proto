@@ -1,0 +1,98 @@
+
+Pnet.sourceforge.docfetcher.model.SimpleJNotifyListener#addWatch(Ljava/io/File;)I]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/SimpleJNotifyListener.javaB B("startingBlock*¬
+startingBlock]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/SimpleJNotifyListener.javaB B(3Ë
+È
+]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/SimpleJNotifyListener.javaA A(
+
+%6"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.CallOnce*
+
+	watchFilejava.io.FileÊ
+Ç
+]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/SimpleJNotifyListener.javaB B(#
+%7"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+	watchFilejava.io.File›
+˜
+]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/SimpleJNotifyListener.javaB) B(2
+	watchFilejava.io.File"__annotation*
+
+%6*
+
+%7*
+1*Ã
+1]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/SimpleJNotifyListener.javaC C(ä
+á
+]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/SimpleJNotifyListener.javaC C(0
+%0*net.contentobjects.jnotify.JNotifyListener"__id*H*F8
+6net.sourceforge.docfetcher.model.SimpleJNotifyListener"
+
+listenerÃ
+À
+]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/SimpleJNotifyListener.javaC C((
+
+%1void"Xnet.sourceforge.docfetcher.util.Util#checkNotNull(Ljava/lang/Object;Ljava/lang/Object;)V*("&
+$net.sourceforge.docfetcher.util.Util*2
+0
+%0*net.contentobjects.jnotify.JNotifyListener*
+
+	watchFilejava.io.Fileš
+—
+]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/SimpleJNotifyListener.javaD D(3
+%2java.lang.String"Wnet.sourceforge.docfetcher.util.Util#getSystemAbsPath(Ljava/io/File;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+	watchFilejava.io.FileŸ
+œ
+]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/SimpleJNotifyListener.javaD D(4
+absPathjava.lang.String"__id*
+
+%2java.lang.Stringz
+x
+]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/SimpleJNotifyListener.javaE% E(5	
+%3int"__id*
+""ä
+á
+]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/SimpleJNotifyListener.javaE= E(E0
+%4*net.contentobjects.jnotify.JNotifyListener"__id*H*F8
+6net.sourceforge.docfetcher.model.SimpleJNotifyListener"
+
+listenerë
+è
+]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/SimpleJNotifyListener.javaE E(F	
+%5int"nnet.contentobjects.jnotify.JNotify#addWatch(Ljava/lang/String;IZLnet/contentobjects/jnotify/JNotifyListener;)I*&"$
+"net.contentobjects.jnotify.JNotify*
+
+absPathjava.lang.String*
+	
+%3int*2*2
+0
+%4*net.contentobjects.jnotify.JNotifyListener¸
+µ
+]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/SimpleJNotifyListener.javaF F(F8
+6net.sourceforge.docfetcher.model.SimpleJNotifyListener"
+
+listener"__id*
+"""g
+]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/SimpleJNotifyListener.javaG G(
+"":
+	watchFilejava.io.FileB:8
+6net.sourceforge.docfetcher.model.SimpleJNotifyListener

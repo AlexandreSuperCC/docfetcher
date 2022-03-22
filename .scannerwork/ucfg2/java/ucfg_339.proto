@@ -1,0 +1,56 @@
+
+anet.sourceforge.docfetcher.gui.ResultPanel#compareAlphanum(Ljava/lang/String;Ljava/lang/String;)IS
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaø ø(#"startingBlock*û
+startingBlockS
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaø# ø(K½
+º
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaø$ ø(,
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+s1java.lang.String†
+ƒ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaø4 ø(6
+s1java.lang.String"__annotation*
+
+%2½
+º
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaø8 ø(@
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+s2java.lang.String†
+ƒ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaøH ø(J
+s2java.lang.String"__annotation*
+
+%3*
+1*Ú
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaù	 ù(¨
+¥
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaù	 ù(.@
+%0:net.sourceforge.docfetcher.util.collect.AlphanumComparator"__id*
+""õò
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaù	 ù(>	
+%1int"inet.sourceforge.docfetcher.util.collect.AlphanumComparator#compare(Ljava/lang/String;Ljava/lang/String;)I*B
+@
+%0:net.sourceforge.docfetcher.util.collect.AlphanumComparator*
+
+s1java.lang.String*
+
+s2java.lang.String2-compare(Ljava/lang/String;Ljava/lang/String;)"]
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaù ù(?
+"":
+s1java.lang.String:
+s2java.lang.StringB.",
+*net.sourceforge.docfetcher.gui.ResultPanel

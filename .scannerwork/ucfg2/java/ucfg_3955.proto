@@ -1,0 +1,22 @@
+
+$org.apache.tika.sax.Link#isScript()Z?
+5D:/git_project/code/src/org/apache/tika/sax/Link.java? ?("1*â
+1?
+5D:/git_project/code/src/org/apache/tika/sax/Link.java@ @(Š
+‡
+?
+5D:/git_project/code/src/org/apache/tika/sax/Link.java@ @(#
+%0java.lang.String"__id*&*$
+org.apache.tika.sax.Link"
+typeÃÀ
+?
+5D:/git_project/code/src/org/apache/tika/sax/Link.java@ @($
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+script*
+
+%0java.lang.String2equals(Ljava/lang/Object;)"I
+?
+5D:/git_project/code/src/org/apache/tika/sax/Link.java@ @(%
+""B
+org.apache.tika.sax.Link

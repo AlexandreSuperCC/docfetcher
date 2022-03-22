@@ -1,0 +1,33 @@
+
+=org.apache.tika.metadata.Property#equals(Ljava/lang/Object;)ZJ
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÝ Ý("2"1*ç
+2J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÞ( Þ(,ž
+›
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÞ( Þ(,
+%0java.lang.String"__id*/*-#
+!org.apache.tika.metadata.Property"
+name
+
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÞ4 Þ(G
+%1java.lang.String"__id*!*
+
+ojava.lang.Object"
+nameÜÙ
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÞ( Þ(H
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String*
+
+%1java.lang.String2equals(Ljava/lang/Object;)*
+1*¥
+1J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÞ Þ(I"T
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÞ Þ(I
+"":
+ojava.lang.ObjectB%#
+!org.apache.tika.metadata.Property

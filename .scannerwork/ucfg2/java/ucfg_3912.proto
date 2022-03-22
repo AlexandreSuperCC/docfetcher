@@ -1,0 +1,71 @@
+
+Corg.apache.tika.mime.Magic#compareTo(Lorg/apache/tika/mime/Magic;)IA
+7D:/git_project/code/src/org/apache/tika/mime/Magic.java> >("2"4"6"1*Ã
+2A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaG G(ì
+ê
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaG G(
+%5java.lang.String"__id*-*+
+
+oorg.apache.tika.mime.Magic"
+stringê
+ç
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaG& G(,
+%6java.lang.String"__id***(
+org.apache.tika.mime.Magic"
+string’“
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaG G(-	
+%7int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+%5java.lang.String*
+
+%6java.lang.String2compareTo(Ljava/lang/String;)*
+1*¶
+4A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaD D(û
+õ
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaD D(#
+%2org.apache.tika.mime.MimeType"__id*+*)
+
+oorg.apache.tika.mime.Magic"
+typeõ
+ò
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaD$ D((#
+%3org.apache.tika.mime.MimeType"__id*(*&
+org.apache.tika.mime.Magic"
+typeñì
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaD D()	
+%4int"Iorg.apache.tika.mime.MimeType#compareTo(Lorg/apache/tika/mime/MimeType;)I*%
+#
+%2org.apache.tika.mime.MimeType*%
+#
+%3org.apache.tika.mime.MimeType2*compareTo(Lorg/apache/tika/mime/MimeType;)*
+2
+1*î
+6A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaA A(†ù
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaA A(	
+%0int""org.apache.tika.mime.Magic#size()I*!
+
+oorg.apache.tika.mime.Magic2size()ùö
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaA A($	
+%1int""org.apache.tika.mime.Magic#size()I*
+org.apache.tika.mime.Magic2size()*	
+2
+4
+1*ì
+1A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaI I("K
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaI I(
+"":
+oorg.apache.tika.mime.MagicB
+org.apache.tika.mime.Magic

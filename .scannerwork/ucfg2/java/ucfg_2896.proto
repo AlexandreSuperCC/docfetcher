@@ -1,0 +1,48 @@
+
+Ëorg.apache.tika.config.TikaConfig$ExecutorServiceXmlLoader#createDefault(Lorg/apache/tika/mime/MimeTypes;Lorg/apache/tika/config/ServiceLoader;)Lorg/apache/tika/concurrent/ConfigurableThreadPoolExecutor;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÄ' Ä(4"startingBlock*æ
+startingBlockJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÄ4 Ä(_¨
+¥
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÃ Ã(
+%1"
+__annotate*
+java.lang.Override*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes’
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÄ? Ä(H+
+	mimeTypesorg.apache.tika.mime.MimeTypes"__annotation*
+
+%1«
+¨
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÃ Ã(
+%2"
+__annotate*
+java.lang.Override*0
+.
+loader$org.apache.tika.config.ServiceLoader•
+’
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÄX Ä(^.
+loader$org.apache.tika.config.ServiceLoader"__annotation*
+
+%2*
+1*•
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÅ Å(,±
+®
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÅ Å(.?
+%09org.apache.tika.concurrent.ConfigurableThreadPoolExecutor"xorg.apache.tika.config.TikaConfig#getDefaultExecutorService()Lorg/apache/tika/concurrent/ConfigurableThreadPoolExecutor;*%"#
+!org.apache.tika.config.TikaConfig"
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÅ Å(/A
+?
+%09org.apache.tika.concurrent.ConfigurableThreadPoolExecutor:+
+	mimeTypesorg.apache.tika.mime.MimeTypes:.
+loader$org.apache.tika.config.ServiceLoaderB><
+:org.apache.tika.config.TikaConfig$ExecutorServiceXmlLoader

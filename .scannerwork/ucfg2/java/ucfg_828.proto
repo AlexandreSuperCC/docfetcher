@@ -1,0 +1,46 @@
+
+@org.apache.tika.parser.chm.lzx.ChmLzxBlock#createPreLenTable()[SS
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaù ù(%"5*ã
+3S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaü ü( 
+
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaü ü(,/
+%2)org.apache.tika.parser.chm.lzx.ChmSection"eorg.apache.tika.parser.chm.lzx.ChmLzxBlock#getChmSection()Lorg/apache/tika/parser/chm/lzx/ChmSection;*.,
+*org.apache.tika.parser.chm.lzx.ChmLzxBlockp
+n
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaý ý(>	
+%3int"__id*
+""îë
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaü ý(?	
+%4int"9org.apache.tika.parser.chm.lzx.ChmSection#getSyncBits(I)I*1
+/
+%2)org.apache.tika.parser.chm.lzx.ChmSection*
+	
+%3int2getSyncBits(I)*
+4*Ò
+4S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaû û(p
+n
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaû û(?	
+%1int"__id*
+""*
+3
+1*Ï
+5S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaú  ú(,p
+n
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaú  ú(C	
+%0int"__id*
+""*
+4*·
+1S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaÿ ÿ("]
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaÿ ÿ(
+""B.,
+*org.apache.tika.parser.chm.lzx.ChmLzxBlock

@@ -1,0 +1,36 @@
+
+]org.apache.tika.sax.xpath.NamedAttributeMatcher#equals(Ljava/lang/String;Ljava/lang/String;)ZV
+LD:/git_project/code/src/org/apache/tika/sax/xpath/NamedAttributeMatcher.java& &(!"2"3*Ì
+2V
+LD:/git_project/code/src/org/apache/tika/sax/xpath/NamedAttributeMatcher.java'+ '(,æã
+V
+LD:/git_project/code/src/org/apache/tika/sax/xpath/NamedAttributeMatcher.java'+ '(6
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+ajava.lang.String*
+
+bjava.lang.String2equals(Ljava/lang/Object;)€
+~
+V
+LD:/git_project/code/src/org/apache/tika/sax/xpath/NamedAttributeMatcher.java'+ '(6
+%0boolean"__id*
+
+%2boolean*
+1*ã
+3V
+LD:/git_project/code/src/org/apache/tika/sax/xpath/NamedAttributeMatcher.java' '(€
+~
+V
+LD:/git_project/code/src/org/apache/tika/sax/xpath/NamedAttributeMatcher.java' '('
+%0boolean"__id*
+
+%1boolean*
+1*½
+1V
+LD:/git_project/code/src/org/apache/tika/sax/xpath/NamedAttributeMatcher.java' '(7"`
+V
+LD:/git_project/code/src/org/apache/tika/sax/xpath/NamedAttributeMatcher.java' '(7
+"":
+ajava.lang.String:
+bjava.lang.StringB3"1
+/org.apache.tika.sax.xpath.NamedAttributeMatcher

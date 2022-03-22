@@ -1,0 +1,24 @@
+
+bnet.sourceforge.docfetcher.model.HotColdFileCache$DisposeOnceProxyResource#getFile()Ljava/io/File;X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.javae e("1*Ê
+1X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.javaf
+ f(û
+ø
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.javaf
+ f(3
+%0-net.sourceforge.docfetcher.model.FileResource"__id*a*_L
+Jnet.sourceforge.docfetcher.model.HotColdFileCache$DisposeOnceProxyResource"
+innerResourceú÷
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.javaf
+ f(!
+%1java.io.File"Enet.sourceforge.docfetcher.model.FileResource#getFile()Ljava/io/File;*5
+3
+%0-net.sourceforge.docfetcher.model.FileResource2	getFile()"p
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/HotColdFileCache.javaf f("
+
+%1java.io.FileBNL
+Jnet.sourceforge.docfetcher.model.HotColdFileCache$DisposeOnceProxyResource

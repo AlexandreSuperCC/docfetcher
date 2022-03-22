@@ -1,0 +1,63 @@
+
+Korg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#unmarshalUInt32([BJ)J^
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.javaü ü( "1*ï
+1^
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java† †(Å
+˛
+^
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java† †(.
+
+%0void"Jorg.apache.tika.parser.chm.assertion.ChmAssert#assertByteArrayNotNull([B)V*2"0
+.org.apache.tika.parser.chm.assertion.ChmAssert*
+
+databyte[]Û
+
+^
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java° °(+	
+%1int"Horg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#getCurrentPlace()I*97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTableÛ
+
+^
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java¢ ¢(.	
+%2int"Horg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#getCurrentPlace()I*97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTableÛ
+
+^
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java£ £(.	
+%3int"Horg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#getCurrentPlace()I*97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTableÛ
+
+^
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java§ §(.	
+%4int"Horg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#getCurrentPlace()I*97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTableÛ
+
+^
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java¶ ¶(.	
+%5int"Horg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#getDataRemained()I*97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTable˝
+˙
+^
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java¶ ¶(3
+
+%6void"Iorg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#setDataRemained(I)V*97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTable*
+""Û
+
+^
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.javaß ß(3	
+%7int"Horg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#getCurrentPlace()I*97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTable˝
+˙
+^
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.javaß ß(8
+
+%8void"Iorg.apache.tika.parser.chm.accessor.ChmLzxcResetTable#setCurrentPlace(I)V*97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTable*
+"""h
+^
+RD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcResetTable.java® ®(
+"":
+databyte[]:
+""B97
+5org.apache.tika.parser.chm.accessor.ChmLzxcResetTable

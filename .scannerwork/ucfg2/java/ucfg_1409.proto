@@ -1,0 +1,68 @@
+
+Lnet.sourceforge.docfetcher.util.Util#getWin32FileAttributes(Ljava/io/File;)IM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java› ›(*"9*Ê
+2M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÌ Ì(!å
+â
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÌ Ì(!
+pathjava.lang.String"__id*
+
+%1java.lang.String*
+1*£
+5M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÌ
+ Ì(…∆
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÌ
+ Ì(!
+%1java.lang.String"1java.io.File#getCanonicalPath()Ljava/lang/String;*
+
+filejava.io.File2getCanonicalPath()*
+2*“
+6M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÎ Î(y
+w
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÎ Î(
+pathjava.lang.String"__id*
+""*
+5*Î
+7M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java‡ ‡(ë
+é
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java‡ ‡(C/&
+$net.sourceforge.docfetcher.util.Util"
+lib"__id*
+""*
+6*ù
+9M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaﬁ ﬁ(	¿
+Ω
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaﬁ ﬁ(	3
+%0-net.sourceforge.docfetcher.util.Util$Kernel32"__id*1*/&
+$net.sourceforge.docfetcher.util.Util"
+lib*
+6
+7*ı
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÚ	 Ú(¿
+Ω
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÚ	 Ú(3
+%3-net.sourceforge.docfetcher.util.Util$Kernel32"__id*1*/&
+$net.sourceforge.docfetcher.util.Util"
+libÑÅ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÚ	 Ú(2
+%4"Lnet.sourceforge.docfetcher.util.Util$Kernel32#GetFileAttributesW(LWString;)I*5
+3
+%3-net.sourceforge.docfetcher.util.Util$Kernel32*
+""2GetFileAttributesW(LWString;)"W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÚ Ú(3
+"":
+filejava.io.FileB("&
+$net.sourceforge.docfetcher.util.Util

@@ -1,0 +1,27 @@
+
+Onet.sourceforge.docfetcher.model.TreeIndex#getCanonicalRootFile()Ljava/io/File;Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javah h('"1*×
+1Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javai	 i(¥
+¢
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javai	 i(
+%0F"__id*>*<,
+*net.sourceforge.docfetcher.model.TreeIndex"
+
+rootFolderóð
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javai	 i(+
+%1%net.sourceforge.docfetcher.model.Path"Xnet.sourceforge.docfetcher.model.Folder#getPath()Lnet/sourceforge/docfetcher/model/Path;*	
+
+%0F2	getPath()õò
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javai	 i(0
+%2java.io.File"Fnet.sourceforge.docfetcher.model.Path#getCanonicalFile()Ljava/io/File;*-
++
+%1%net.sourceforge.docfetcher.model.Path2getCanonicalFile()"i
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javai i(1
+
+%2java.io.FileB.,
+*net.sourceforge.docfetcher.model.TreeIndex

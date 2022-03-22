@@ -1,0 +1,29 @@
+
+Norg.apache.tika.utils.CharsetUtils#clean(Ljava/lang/String;)Ljava/lang/String;K
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.javaã ã("4*π
+2K
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.javaç ç(/"g
+K
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.javaç ç(/
+
+%1java.lang.String*ù
+3K
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.javaç ç(.≈¬
+K
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.javaç ç(.
+%1java.lang.String"1java.nio.charset.Charset#name()Ljava/lang/String;* 
+
+%0java.nio.charset.Charset2name()*
+2*Ì
+4K
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.javaç ç(ï
+í
+K
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.javaç ç('
+%0java.nio.charset.Charset"Xorg.apache.tika.utils.CharsetUtils#forName(Ljava/lang/String;)Ljava/nio/charset/Charset;*&"$
+"org.apache.tika.utils.CharsetUtils*!
+
+charsetNamejava.lang.String*
+3:
+charsetNamejava.lang.StringB&"$
+"org.apache.tika.utils.CharsetUtils

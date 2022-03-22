@@ -1,0 +1,41 @@
+
+wnet.sourceforge.docfetcher.model.search.ResultDocument#getFileResource()Lnet/sourceforge/docfetcher/model/FileResource;_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÎ Î($"1*­
+1_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÐ Ð(ñ
+î
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÐ Ð(
+
+%0void"Cnet.sourceforge.docfetcher.model.search.ResultDocument#onlyFiles()V*:8
+6net.sourceforge.docfetcher.model.search.ResultDocumentö
+ó
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÑ	 Ñ(=
+%17net.sourceforge.docfetcher.model.index.file.FileFactory"__id*K*I8
+6net.sourceforge.docfetcher.model.search.ResultDocument"
+fileFactoryï
+ì
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÑ  Ñ(&;
+%25net.sourceforge.docfetcher.model.index.IndexingConfig"__id*F*D8
+6net.sourceforge.docfetcher.model.search.ResultDocument"
+configÁ¾
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÑ( Ñ(1+
+%3%net.sourceforge.docfetcher.model.Path"gnet.sourceforge.docfetcher.model.search.ResultDocument#getPath()Lnet/sourceforge/docfetcher/model/Path;*:8
+6net.sourceforge.docfetcher.model.search.ResultDocument2	getPath()ˆ…
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÑ	 Ñ(23
+%4-net.sourceforge.docfetcher.model.FileResource"Ñnet.sourceforge.docfetcher.model.index.file.FileFactory#createFile(Lnet/sourceforge/docfetcher/model/index/IndexingConfig;Lnet/sourceforge/docfetcher/model/Path;)Lnet/sourceforge/docfetcher/model/FileResource;*?
+=
+%17net.sourceforge.docfetcher.model.index.file.FileFactory*=
+;
+%25net.sourceforge.docfetcher.model.index.IndexingConfig*-
++
+%3%net.sourceforge.docfetcher.model.Path2jcreateFile(Lnet/sourceforge/docfetcher/model/index/IndexingConfig;Lnet/sourceforge/docfetcher/model/Path;)"˜
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÑ Ñ(35
+3
+%4-net.sourceforge.docfetcher.model.FileResourceB:8
+6net.sourceforge.docfetcher.model.search.ResultDocument

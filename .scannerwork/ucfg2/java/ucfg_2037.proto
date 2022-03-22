@@ -1,0 +1,42 @@
+
+6org.apache.tika.parser.chm.lzx.ChmSection#checkBit(I)IP
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java2 2("4*Î
+2P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java3D 3(Er
+p
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java3D 3(E	
+%2int"__id*
+	
+%4int*
+1*Î
+3P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java3@ 3(Ar
+p
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java3@ 3(A	
+%2int"__id*
+	
+%3int*
+1*ü
+4P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java3 3(Ç
+Ä
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java3 3(	
+%0int"6org.apache.tika.parser.chm.lzx.ChmSection#getBuffer()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSectionÒÏ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java3& 3(0	
+%1int"5org.apache.tika.parser.chm.lzx.ChmSection#getTotal()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2
+getTotal()*
+2
+3*±
+1P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java3 3(F"Z
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java3 3(F
+"":
+""B-+
+)org.apache.tika.parser.chm.lzx.ChmSection

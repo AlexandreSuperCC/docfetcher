@@ -1,0 +1,25 @@
+
+null#isEnabled()Z[
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ErrorTable.javaê ê("1*ö
+1[
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ErrorTable.javaë ë(Ú
+Ô
+[
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ErrorTable.javaë ë(C
+%0=net.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer"__id*E*C;
+9Lnet/sourceforge/docfetcher/gui/indexing/ErrorTable$4947;"
+tv´®
+[
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ErrorTable.javaë ë(
+%1java.util.List"\net.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer#getSelection()Ljava/util/List;*E
+C
+%0=net.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer2getSelection()≠™
+[
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ErrorTable.javaë ë('
+%2boolean"java.util.List#isEmpty()Z*
+
+%1java.util.List2	isEmpty()"e
+[
+OD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/ErrorTable.javaë ë((
+""B=;
+9Lnet/sourceforge/docfetcher/gui/indexing/ErrorTable$4947;

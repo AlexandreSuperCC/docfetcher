@@ -1,0 +1,32 @@
+
+Xorg.apache.tika.config.ServiceLoader#removeService(Ljava/lang/Object;)Ljava/lang/Object;K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javar r("2*É
+2K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javas s(r
+p
+K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javas s(
+%0java.util.Map"__id*
+""*
+1*¢
+1K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javat t(r
+p
+K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javat t(
+%1java.util.Map"__id*
+""Ï
+Ì
+K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javat t(-8
+%22org.apache.tika.config.ServiceLoader$RankedService"__mapRemove*
+
+%1java.util.Map*
+
+	referencejava.lang.Object"‰
+K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javat t(.:
+8
+%22org.apache.tika.config.ServiceLoader$RankedService:
+	referencejava.lang.ObjectB("&
+$org.apache.tika.config.ServiceLoader

@@ -1,0 +1,392 @@
+
+rnet.sourceforge.docfetcher.model.UtilModel#getRelativePath(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÉ É(%"startingBlock*£
+24S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaå å(É
+Ä
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaå å(
+srcPartjava.lang.String"__id*
+""É
+Ä
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaç ç(
+dstPartjava.lang.String"__id*
+""±Æ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaé é(
+%10boolean"java.util.Iterator#hasNext()Z*
+
+srcItjava.util.Iterator2	hasNext()*
+22
+23*ç
+26S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÖ Ö(ã
+à
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÖ Ö(2
+%0java.util.List"Rnet.sourceforge.docfetcher.util.Util#splitPath(Ljava/lang/String;)Ljava/util/List;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+srcPathjava.lang.String≈¬
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÖ Ö(=
+%1java.util.Iterator"-java.util.List#iterator()Ljava/util/Iterator;*
+
+%0java.util.List2
+iterator()ó
+î
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÖ Ö(>
+srcItjava.util.Iterator"__id*
+
+%1java.util.Iteratorã
+à
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÜ Ü(2
+%2java.util.List"Rnet.sourceforge.docfetcher.util.Util#splitPath(Ljava/lang/String;)Ljava/util/List;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+dstPathjava.lang.String≈¬
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÜ Ü(=
+%3java.util.Iterator"-java.util.List#iterator()Ljava/util/Iterator;*
+
+%2java.util.List2
+iterator()ó
+î
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÜ Ü(>
+dstItjava.util.Iterator"__id*
+
+%3java.util.IteratoràÖ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaá! á(2
+%4java.util.ArrayList"java.util.ArrayListö
+ó
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaá á(4
+%5"java.util.ArrayList#<init>()V*
+
+%4java.util.ArrayListö
+ó
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaá á(5
+srcOverhangjava.util.List"__id*
+
+%4java.util.ArrayListàÖ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaà! à(2
+%6java.util.ArrayList"java.util.ArrayListö
+ó
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaà à(4
+%7"java.util.ArrayList#<init>()V*
+
+%6java.util.ArrayListö
+ó
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaà à(5
+dstOverhangjava.util.List"__id*
+
+%6java.util.ArrayListàÖ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaâ â(.
+%8java.util.ArrayList"java.util.ArrayListö
+ó
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaâ â(0
+%9"java.util.ArrayList#<init>()V*
+
+%8java.util.ArrayListñ
+ì
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaâ â(1
+dstListjava.util.List"__id*
+
+%8java.util.ArrayList*
+24
+8*À
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java™	 ™("q
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java™ ™(
+
+pathjava.lang.String*Û
+2S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java®
+ ®(ì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java®
+ ®($
+%23java.lang.String"Unet.sourceforge.docfetcher.util.Util#joinPath(Ljava/lang/Iterable;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+srcOverhangjava.util.Listù
+ö
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java®
+ ®(*
+%24java.lang.String"__concat*
+
+%23java.lang.String*
+/ì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java© ©(!
+%25java.lang.String"Unet.sourceforge.docfetcher.util.Util#joinPath(Ljava/lang/Iterable;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+dstOverhangjava.util.List±
+Æ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java®
+ ©(!
+%26java.lang.String"__concat*
+
+%24java.lang.String*
+
+%25java.lang.Stringì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java® ©(!
+pathjava.lang.String"__id*
+
+%26java.lang.String*
+1*â
+3S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java¶
+ ¶(ì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java¶
+ ¶($
+%22java.lang.String"Unet.sourceforge.docfetcher.util.Util#joinPath(Ljava/lang/Iterable;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+srcOverhangjava.util.Listì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java¶ ¶($
+pathjava.lang.String"__id*
+
+%22java.lang.String*
+1*Ó
+startingBlockS
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÉ% Ñ(#√
+¿
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÅ Å(	
+%27"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+srcPathjava.lang.String“
+œ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÇ Ç(
+%28"
+__annotate*FD
+Bnet.sourceforge.docfetcher.util.annotations.VisibleForPackageGroup*
+
+srcPathjava.lang.String√
+¿
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÉ' É(/
+%29"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+srcPathjava.lang.Stringû
+õ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÉ7 É(>
+srcPathjava.lang.String"__annotation*
+
+%27*
+
+%28*
+
+%29√
+¿
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÅ Å(	
+%30"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+dstPathjava.lang.String“
+œ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÇ Ç(
+%31"
+__annotate*FD
+Bnet.sourceforge.docfetcher.util.annotations.VisibleForPackageGroup*
+
+dstPathjava.lang.String√
+¿
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÑ Ñ(
+%32"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+dstPathjava.lang.Stringû
+õ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÑ Ñ("
+dstPathjava.lang.String"__annotation*
+
+%30*
+
+%31*
+
+%32*
+26*í
+4S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java• •(Ø¨
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java• •("
+%21boolean"java.util.List#isEmpty()Z*
+
+dstOverhangjava.util.List2	isEmpty()*
+2
+3*â
+5S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java§ §(ì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java§ §(%
+%20java.lang.String"Unet.sourceforge.docfetcher.util.Util#joinPath(Ljava/lang/Iterable;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+dstOverhangjava.util.Listì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java§ §(%
+pathjava.lang.String"__id*
+
+%20java.lang.String*
+1*Ö
+6S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java¢ ¢(è
+å
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java¢ ¢(!
+%19java.lang.String"Unet.sourceforge.docfetcher.util.Util#joinPath(Ljava/lang/Iterable;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+dstListjava.util.Listì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java¢ ¢(!
+pathjava.lang.String"__id*
+
+%19java.lang.String*
+1*í
+7S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java° °(Ø¨
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java° °(
+%18boolean"java.util.List#isEmpty()Z*
+
+dstOverhangjava.util.List2	isEmpty()*
+5
+6*ì
+8S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaü ü(
+}
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaü ü(
+pathjava.lang.String"__id*
+""Ø¨
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java† †(
+%17boolean"java.util.List#isEmpty()Z*
+
+srcOverhangjava.util.List2	isEmpty()*
+4
+7*ú
+9S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaù ù(∏
+µ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaù ù(
+%16boolean"
+__arrayAdd*
+
+dstOverhangjava.util.List*: *
+
+dstPartjava.lang.String*
+24
+8*Å
+21S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaë ë(≈¬
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaë ë(
+%13java.lang.String"+java.util.Iterator#next()Ljava/lang/Object;*
+
+dstItjava.util.Iterator2next()ñ
+ì
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaë ë(
+dstPartjava.lang.String"__id*
+
+%13java.lang.String¥
+±
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaí í(
+%14boolean"
+__arrayAdd*
+
+dstListjava.util.List*: *
+
+dstPartjava.lang.String*
+24
+8
+9
+11*°
+22S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaê ê(±Æ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaê ê(
+%12boolean"java.util.Iterator#hasNext()Z*
+
+dstItjava.util.Iterator2	hasNext()*
+24
+8
+9
+21
+11*â
+11S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaõ õ(°
+û
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaõ õ(
+%15boolean"
+__arrayAdd*
+
+srcOverhangjava.util.List*: *
+..*
+
+24
+8
+9*¿
+23S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaè è(≈¬
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaè è(
+%11java.lang.String"+java.util.Iterator#next()Ljava/lang/Object;*
+
+srcItjava.util.Iterator2next()ñ
+ì
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaè è(
+srcPartjava.lang.String"__id*
+
+%11java.lang.String*
+22:
+srcPathjava.lang.String:
+dstPathjava.lang.StringB.",
+*net.sourceforge.docfetcher.model.UtilModel

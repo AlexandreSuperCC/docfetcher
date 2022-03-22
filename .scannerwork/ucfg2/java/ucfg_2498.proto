@@ -1,0 +1,71 @@
+
+/org.apache.tika.mime.MimeType#matchesMagic([B)ZF
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java£ £("6*ù
+3F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaß ß("P
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaß ß(
+""*Î
+4F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java• •( ñ
+ì
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java• •( 
+%3java.util.List"__id*-*+
+org.apache.tika.mime.MimeType"
+magicsô
+ñ
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java• •(' 
+%4org.apache.tika.mime.Magic"
+__arrayGet*
+
+%3java.util.List*
+""ö
+ó
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java• •((#
+magicorg.apache.tika.mime.Magic"__id*"
+ 
+%4org.apache.tika.mime.Magic√¿
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java¶ ¶( 
+%5boolean"$org.apache.tika.mime.Magic#eval([B)Z*%
+#
+magicorg.apache.tika.mime.Magic*
+
+databyte[]2eval([B)*
+3
+6*˝
+5F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java§* §(+ñ
+ì
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java§. §(4
+%1java.util.List"__id*-*+
+org.apache.tika.mime.MimeType"
+magicséã
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java§. §(;	
+%2int"java.util.List#size()I*
+
+%1java.util.List2size()*
+4
+1*Ï
+6F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java§ §(ñ
+ì
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java§ §(
+%0java.util.List"__id*-*+
+org.apache.tika.mime.MimeType"
+magics*
+5
+1*ù
+1F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java™ ™("P
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java™ ™(
+"":
+databyte[]B!
+org.apache.tika.mime.MimeType

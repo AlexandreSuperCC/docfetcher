@@ -1,0 +1,55 @@
+
+Fnet.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX#removeWatch(I)Z_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaŠ Š("4*ß
+2_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java‘ ‘(ó
+ð
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java‘ ‘("
+%4boolean"@net.contentobjects.jnotify.macosx.JNotify_macosx#removeWatch(I)Z*4"2
+0net.contentobjects.jnotify.macosx.JNotify_macosx*
+""*
+1*‚
+3_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaŽ Ž(Ï
+Ì
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaŽ Ž(
+%1java.util.Hashtable"__id*H*F8
+6net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX"
+
+_id2DataÍ
+Ê
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaŽ% Ž(8
+%2java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*"
+java.lang.Integer*
+""ñ
+î
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaŽ Ž(9F
+%3@net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData"__mapRemove*
+
+%1java.util.Hashtable*
+
+%2java.lang.Integer*
+2
+1*»
+4_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaŒ Œ(Ï
+Ì
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaŒ Œ(
+%0java.util.Hashtable"__id*H*F8
+6net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX"
+
+_id2Data*
+3*Ï
+1_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java“
+ “("i
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java“ “(
+"":
+""B:8
+6net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX

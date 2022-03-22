@@ -1,0 +1,22 @@
+
+onet.sourceforge.docfetcher.model.TreeIndex#getTreeCheckState()Lnet/sourceforge/docfetcher/model/TreeCheckState;S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaâ â(."1*³
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaã	 ã(§
+¤
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaã	 ã(
+%0F"__id*>*<,
+*net.sourceforge.docfetcher.model.TreeIndex"
+
+rootFolderš
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaã	 ã('5
+%1/net.sourceforge.docfetcher.model.TreeCheckState"lnet.sourceforge.docfetcher.model.Folder#getTreeCheckState()Lnet/sourceforge/docfetcher/model/TreeCheckState;*	
+
+%0F2getTreeCheckState()"Ž
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeIndex.javaã ã((7
+5
+%1/net.sourceforge.docfetcher.model.TreeCheckStateB.,
+*net.sourceforge.docfetcher.model.TreeIndex

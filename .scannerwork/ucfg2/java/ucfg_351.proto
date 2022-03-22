@@ -1,0 +1,21 @@
+
+Inet.sourceforge.docfetcher.gui.ResultPanel#getSelection()Ljava/util/List;S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaã ã()"1*Ï
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaä	 ä(ß
+Ü
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaä	 ä(C
+%0=net.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer"__id*:*8,
+*net.sourceforge.docfetcher.gui.ResultPanel"
+viewer£ 
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaä	 ä(
+%1java.util.List"\net.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer#getSelection()Ljava/util/List;*E
+C
+%0=net.sourceforge.docfetcher.util.gui.viewer.VirtualTableViewer2getSelection()"m
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaä ä(
+
+%1java.util.ListB.,
+*net.sourceforge.docfetcher.gui.ResultPanel

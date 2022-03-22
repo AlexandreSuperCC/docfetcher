@@ -1,0 +1,25 @@
+
+|org.apache.tika.mime.MediaTypeRegistry#isSpecializationOf(Lorg/apache/tika/mime/MediaType;Lorg/apache/tika/mime/MediaType;)ZO
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java‹ ‹(%"1*Ï
+1O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaŒ Œ(ôñ
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaŒ Œ(+$
+%0org.apache.tika.mime.MediaType"uorg.apache.tika.mime.MediaTypeRegistry#getSupertype(Lorg/apache/tika/mime/MediaType;)Lorg/apache/tika/mime/MediaType;**(
+&org.apache.tika.mime.MediaTypeRegistry*%
+#
+aorg.apache.tika.mime.MediaType2.getSupertype(Lorg/apache/tika/mime/MediaType;)¦£
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaŒ Œ(/
+%1boolean"vorg.apache.tika.mime.MediaTypeRegistry#isInstanceOf(Lorg/apache/tika/mime/MediaType;Lorg/apache/tika/mime/MediaType;)Z**(
+&org.apache.tika.mime.MediaTypeRegistry*&
+$
+%0org.apache.tika.mime.MediaType*%
+#
+borg.apache.tika.mime.MediaType2NisInstanceOf(Lorg/apache/tika/mime/MediaType;Lorg/apache/tika/mime/MediaType;)"Y
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaŒ Œ(0
+"":#
+aorg.apache.tika.mime.MediaType:#
+borg.apache.tika.mime.MediaTypeB*(
+&org.apache.tika.mime.MediaTypeRegistry

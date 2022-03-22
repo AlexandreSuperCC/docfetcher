@@ -1,0 +1,57 @@
+
+vnet.sourceforge.docfetcher.model.parse.MP3Parser#renderText(Ljava/io/InputStream;Ljava/lang/String;)Ljava/lang/String;W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java$ $("startingBlock*—
+3W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java' '("s
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java' '(
+
+%0java.lang.String*ﬂ
+startingBlockW
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java$ $(=£
+†
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java# #(
+
+%3"
+__annotate*
+java.lang.Override*
+
+injava.io.InputStreamç
+ä
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java$) $(+
+injava.io.InputStream"__annotation*
+
+%3¶
+£
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java# #(
+
+%4"
+__annotate*
+java.lang.Override*
+
+filenamejava.lang.Stringê
+ç
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java$4 $(<
+filenamejava.lang.String"__annotation*
+
+%4*
+4*é
+4W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java'
+ '(™
+ß
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MP3Parser.java'
+ '(
+%0java.lang.String"anet.sourceforge.docfetcher.model.parse.MP3Parser#extract(Ljava/io/InputStream;)Ljava/lang/String;*4"2
+0net.sourceforge.docfetcher.model.parse.MP3Parser*
+
+injava.io.InputStream*
+3:
+injava.io.InputStream:
+filenamejava.lang.StringB42
+0net.sourceforge.docfetcher.model.parse.MP3Parser

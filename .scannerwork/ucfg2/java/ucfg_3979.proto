@@ -1,0 +1,249 @@
+
+ºnet.sourceforge.docfetcher.model.index.file.FileDocument#isFolderModified(Lnet/sourceforge/docfetcher/model/index/file/FileFolder;Lnet/sourceforge/docfetcher/model/index/file/FileFolder;)Za
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaÄ Ä(("startingBlock*ç
+13a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaä ä(ãà
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaä ä(#	
+%2int"<net.sourceforge.docfetcher.model.Folder#getSubFolderCount()I*E
+C
+	oldFolder6net.sourceforge.docfetcher.model.index.file.FileFolder2getSubFolderCount()ãà
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaä' ä(D	
+%3int"<net.sourceforge.docfetcher.model.Folder#getSubFolderCount()I*E
+C
+	newFolder6net.sourceforge.docfetcher.model.index.file.FileFolder2getSubFolderCount()*
+11
+12*‘
+14a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaà
+ à("k
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaà à(
+""*â
+15a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaá á(âÜ
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaá á("	
+%0int";net.sourceforge.docfetcher.model.Folder#getDocumentCount()I*E
+C
+	oldFolder6net.sourceforge.docfetcher.model.index.file.FileFolder2getDocumentCount()âÜ
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaá& á(B	
+%1int";net.sourceforge.docfetcher.model.Folder#getDocumentCount()I*E
+C
+	newFolder6net.sourceforge.docfetcher.model.index.file.FileFolder2getDocumentCount()*
+13
+14*‘
+16a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaÖ
+ Ö("k
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaÖ Ö(
+""*‘
+18a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaÉ
+ É("k
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaÉ É(
+""*”
+1a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaô	 ô("k
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaô ô(
+""*ä
+2a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaì ì(º
+π
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaì ì(F
+oldSubFolder6net.sourceforge.docfetcher.model.index.file.FileFolder"__id*
+""⁄
+◊
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaì ì(F
+oldSubFolder6net.sourceforge.docfetcher.model.index.file.FileFolder"
+__arrayGet*
+
+%9java.util.List*
+""*
+5
+1*”
+3a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javañ ñ("k
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javañ ñ(
+""*ö
+startingBlocka
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaÄ( Å(*ˇ
+¸
+_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.java (
+%13"
+__annotate*?=
+;net.sourceforge.docfetcher.util.annotations.RecursiveMethod*E
+C
+	oldFolder6net.sourceforge.docfetcher.model.index.file.FileFolder˙
+˜
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaÄ) Ä(2
+%14"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*E
+C
+	oldFolder6net.sourceforge.docfetcher.model.index.file.FileFolderÀ
+»
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaÄ> Ä(GC
+	oldFolder6net.sourceforge.docfetcher.model.index.file.FileFolder"__annotation*
+
+%13*
+
+%14ˇ
+¸
+_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.java (
+%15"
+__annotate*?=
+;net.sourceforge.docfetcher.util.annotations.RecursiveMethod*E
+C
+	newFolder6net.sourceforge.docfetcher.model.index.file.FileFolder˙
+˜
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaÅ Å(
+%16"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*E
+C
+	newFolder6net.sourceforge.docfetcher.model.index.file.FileFolderÀ
+»
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaÅ  Å()C
+	newFolder6net.sourceforge.docfetcher.model.index.file.FileFolder"__annotation*
+
+%15*
+
+%16*
+15
+16
+18*¯
+4a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaï ï(/á
+Ñ
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaï ï(K
+%12boolean"ºnet.sourceforge.docfetcher.model.index.file.FileDocument#isFolderModified(Lnet/sourceforge/docfetcher/model/index/file/FileFolder;Lnet/sourceforge/docfetcher/model/index/file/FileFolder;)Z*<":
+8net.sourceforge.docfetcher.model.index.file.FileDocument*H
+F
+oldSubFolder6net.sourceforge.docfetcher.model.index.file.FileFolder*H
+F
+newSubFolder6net.sourceforge.docfetcher.model.index.file.FileFolder*
+2
+3*£
+5a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaî î(&õò
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaî4 î(J
+%10java.lang.String"Enet.sourceforge.docfetcher.model.TreeNode#getName()Ljava/lang/String;*H
+F
+oldSubFolder6net.sourceforge.docfetcher.model.index.file.FileFolder2	getName()úô
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaî î(K=
+%116net.sourceforge.docfetcher.model.index.file.FileFolder"qnet.sourceforge.docfetcher.model.Folder#getSubFolder(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/Folder;*E
+C
+	newFolder6net.sourceforge.docfetcher.model.index.file.FileFolder*
+
+%10java.lang.String2 getSubFolder(Ljava/lang/String;)ı
+Ú
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaî î(LF
+newSubFolder6net.sourceforge.docfetcher.model.index.file.FileFolder"__id*?
+=
+%116net.sourceforge.docfetcher.model.index.file.FileFolder*
+3
+4*ã
+6a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaì! ì(*ùö
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaì! ì(:
+%9java.util.List"Gnet.sourceforge.docfetcher.model.Folder#getSubFolders()Ljava/util/List;*E
+C
+	oldFolder6net.sourceforge.docfetcher.model.index.file.FileFolder2getSubFolders()*
+2*É
+7a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaç ç(∏
+µ
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaç ç(B
+oldDoc8net.sourceforge.docfetcher.model.index.file.FileDocument"__id*
+""÷
+”
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaç ç(B
+oldDoc8net.sourceforge.docfetcher.model.index.file.FileDocument"
+__arrayGet*
+
+%4java.util.List*
+""*
+6
+10*”
+8a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaê ê("k
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaê ê(
+""*Ü
+9a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaè è(âÜ
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaè è(1
+
+%7long"<net.sourceforge.docfetcher.model.Document#getLastModified()J*D
+B
+oldDoc8net.sourceforge.docfetcher.model.index.file.FileDocument2getLastModified()âÜ
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaè5 è(M
+
+%8long"<net.sourceforge.docfetcher.model.Document#getLastModified()J*D
+B
+newDoc8net.sourceforge.docfetcher.model.index.file.FileDocument2getLastModified()*
+7
+8*ú
+10a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaé é("ñì
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaé/ é(?
+%5java.lang.String"Enet.sourceforge.docfetcher.model.TreeNode#getName()Ljava/lang/String;*D
+B
+oldDoc8net.sourceforge.docfetcher.model.index.file.FileDocument2	getName()úô
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaé é(@>
+%68net.sourceforge.docfetcher.model.index.file.FileDocument"rnet.sourceforge.docfetcher.model.Folder#getDocument(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/Document;*E
+C
+	newFolder6net.sourceforge.docfetcher.model.index.file.FileFolder*
+
+%5java.lang.String2getDocument(Ljava/lang/String;)Ú
+Ô
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaé é(AB
+newDoc8net.sourceforge.docfetcher.model.index.file.FileDocument"__id*@
+>
+%68net.sourceforge.docfetcher.model.index.file.FileDocument*
+8
+9*ä
+11a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaç ç(&õò
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaç ç(5
+%4java.util.List"Fnet.sourceforge.docfetcher.model.Folder#getDocuments()Ljava/util/List;*E
+C
+	oldFolder6net.sourceforge.docfetcher.model.index.file.FileFolder2getDocuments()*
+7*‘
+12a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaã
+ ã("k
+a
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaã ã(
+"":C
+	oldFolder6net.sourceforge.docfetcher.model.index.file.FileFolder:C
+	newFolder6net.sourceforge.docfetcher.model.index.file.FileFolderB<":
+8net.sourceforge.docfetcher.model.index.file.FileDocument

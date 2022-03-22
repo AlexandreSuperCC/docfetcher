@@ -1,0 +1,21 @@
+
+Aorg.apache.tika.Tika#detect(Ljava/lang/String;)Ljava/lang/String;=
+1D:/git_project/code/src/org/apache/tika/Tika.java¡ ¡("4*ù
+3=
+1D:/git_project/code/src/org/apache/tika/Tika.java√ √(4"Y
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java√ √(4
+
+%0java.lang.String*Î
+4=
+1D:/git_project/code/src/org/apache/tika/Tika.java√ √(°û
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java√ √(3
+%0java.lang.String"Vorg.apache.tika.Tika#detect(Ljava/io/InputStream;Ljava/lang/String;)Ljava/lang/String;*
+org.apache.tika.Tika*
+""*
+
+namejava.lang.String2/detect(Ljava/io/InputStream;Ljava/lang/String;)*
+3:
+namejava.lang.StringB
+org.apache.tika.Tika

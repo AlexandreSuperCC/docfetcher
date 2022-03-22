@@ -1,0 +1,23 @@
+
+=org.apache.tika.mime.MediaType#getSubtype()Ljava/lang/String;G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java‘ ‘("1* 
+1G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java’ ’(š
+—
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java’ ’(
+%0java.lang.String"__id*.*, 
+org.apache.tika.mime.MediaType"
+stringÏÌ
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java’ ’(5
+%1java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+%0java.lang.String*
+""*
+""2substring(II)"c
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java’ ’(6
+
+%1java.lang.StringB" 
+org.apache.tika.mime.MediaType

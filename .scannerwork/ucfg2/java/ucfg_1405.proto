@@ -1,0 +1,74 @@
+
+Mnet.sourceforge.docfetcher.util.Util#listFiles(Ljava/io/File;)[Ljava/io/File;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java™ ™("startingBlock*ã
+2M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java›' ›(,‰
+†
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java›' ›(,
+%1java.io.File[]"__id*
+
+filesjava.io.File[]*
+1*Ù
+3M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java›" ›(#wu
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java› ›($
+%2java.io.File[]"java.io.File[]†
+ƒ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java› ›($
+%1java.io.File[]"__id*
+
+%2java.io.File[]*
+1*Ù
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java™ ™(2´
+±
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java˜ ˜(	
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+dirjava.io.File´
+±
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java™  ™((
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+dirjava.io.File…
+‚
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java™. ™(1
+dirjava.io.File"__annotation*
+
+%3*
+
+%4*
+4*ž
+4M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaš š(µ²
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaš š( 
+%0java.io.File[]"'java.io.File#listFiles()[Ljava/io/File;*
+
+dirjava.io.File2listFiles()‰
+†
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaš š(!
+filesjava.io.File[]"__id*
+
+%0java.io.File[]*
+2
+3*»
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java› ›(-"g
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java› ›(-
+
+%1java.io.File[]:
+dirjava.io.FileB("&
+$net.sourceforge.docfetcher.util.Util

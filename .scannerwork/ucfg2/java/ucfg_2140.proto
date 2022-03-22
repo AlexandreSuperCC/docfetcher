@@ -1,0 +1,48 @@
+
+Enet.sourceforge.docfetcher.model.index.PatternAction#validateRegex()Z[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/PatternAction.javab b("6*ñ
+2[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/PatternAction.javaf f(#Ã
+…
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/PatternAction.javaf f(#C6
+4net.sourceforge.docfetcher.model.index.PatternAction"	
+pattern"__id*
+
+%2java.util.regex.Pattern"e
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/PatternAction.javag g(
+""*≤
+3[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/PatternAction.javaf f(√
+¿
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/PatternAction.javaf f("
+%1java.lang.String"__id*C*A6
+4net.sourceforge.docfetcher.model.index.PatternAction"
+regexÑ
+Å
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/PatternAction.javaf f(#
+%2java.util.regex.Pattern"Ljava.util.regex.Pattern#compile(Ljava/lang/String;)Ljava/util/regex/Pattern;*"
+java.util.regex.Pattern*
+
+%1java.lang.String*
+2*«
+5[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/PatternAction.javad
+ d("e
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/PatternAction.javad d(
+""*∑
+6[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/PatternAction.javac c(Ã
+…
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/PatternAction.javac c(
+%0java.util.regex.Pattern"__id*E*C6
+4net.sourceforge.docfetcher.model.index.PatternAction"	
+pattern*
+3
+5B86
+4net.sourceforge.docfetcher.model.index.PatternAction

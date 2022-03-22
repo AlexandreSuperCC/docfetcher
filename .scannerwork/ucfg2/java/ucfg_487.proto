@@ -1,0 +1,145 @@
+
+æorg.apache.tika.parser.chm.lzx.ChmBlockInfo#getChmBlockInfoInstance(Lorg/apache/tika/parser/chm/accessor/DirectoryListingEntry;ILorg/apache/tika/parser/chm/accessor/ChmLzxcControlData;)Lorg/apache/tika/parser/chm/lzx/ChmBlockInfo;R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaR R(6"1*å0
+1R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaU U(·´
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaU U((1
+%0+org.apache.tika.parser.chm.lzx.ChmBlockInfo"+org.apache.tika.parser.chm.lzx.ChmBlockInfoÉ
+Æ
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaU U(*
+%1"5org.apache.tika.parser.chm.lzx.ChmBlockInfo#<init>()V*3
+1
+%0+org.apache.tika.parser.chm.lzx.ChmBlockInfo¶
+³
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaU U(+
+
+%2void"korg.apache.tika.parser.chm.lzx.ChmBlockInfo#setChmBlockInfo(Lorg/apache/tika/parser/chm/lzx/ChmBlockInfo;)V*/"-
++org.apache.tika.parser.chm.lzx.ChmBlockInfo*3
+1
+%0+org.apache.tika.parser.chm.lzx.ChmBlockInfo§
+¤
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaV V(1
+%3+org.apache.tika.parser.chm.lzx.ChmBlockInfo"jorg.apache.tika.parser.chm.lzx.ChmBlockInfo#getChmBlockInfo()Lorg/apache/tika/parser/chm/lzx/ChmBlockInfo;*/"-
++org.apache.tika.parser.chm.lzx.ChmBlockInfoûø
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaV( V(7	
+%4int"Forg.apache.tika.parser.chm.accessor.DirectoryListingEntry#getOffset()I*B
+@
+dle9org.apache.tika.parser.chm.accessor.DirectoryListingEntry2getOffset()ß
+Ü
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaV V(H
+
+%5void"=org.apache.tika.parser.chm.lzx.ChmBlockInfo#setStartBlock(I)V*3
+1
+%3+org.apache.tika.parser.chm.lzx.ChmBlockInfo*
+""§
+¤
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaW W(1
+%6+org.apache.tika.parser.chm.lzx.ChmBlockInfo"jorg.apache.tika.parser.chm.lzx.ChmBlockInfo#getChmBlockInfo()Lorg/apache/tika/parser/chm/lzx/ChmBlockInfo;*/"-
++org.apache.tika.parser.chm.lzx.ChmBlockInfoûø
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaX X( 	
+%7int"Forg.apache.tika.parser.chm.accessor.DirectoryListingEntry#getOffset()I*B
+@
+dle9org.apache.tika.parser.chm.accessor.DirectoryListingEntry2getOffset()ûø
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaX# X(2	
+%8int"Forg.apache.tika.parser.chm.accessor.DirectoryListingEntry#getLength()I*B
+@
+dle9org.apache.tika.parser.chm.accessor.DirectoryListingEntry2getLength()Ý
+Ú
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaW X(D
+
+%9void";org.apache.tika.parser.chm.lzx.ChmBlockInfo#setEndBlock(I)V*3
+1
+%6+org.apache.tika.parser.chm.lzx.ChmBlockInfo*
+""¨
+¥
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaY Y(2
+%10+org.apache.tika.parser.chm.lzx.ChmBlockInfo"jorg.apache.tika.parser.chm.lzx.ChmBlockInfo#getChmBlockInfo()Lorg/apache/tika/parser/chm/lzx/ChmBlockInfo;*/"-
++org.apache.tika.parser.chm.lzx.ChmBlockInfoüù
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaY) Y(8
+
+%11int"Forg.apache.tika.parser.chm.accessor.DirectoryListingEntry#getOffset()I*B
+@
+dle9org.apache.tika.parser.chm.accessor.DirectoryListingEntry2getOffset()â
+ß
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaY Y(I
+%12void">org.apache.tika.parser.chm.lzx.ChmBlockInfo#setStartOffset(I)V*4
+2
+%10+org.apache.tika.parser.chm.lzx.ChmBlockInfo*
+""¨
+¥
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaZ Z(2
+%13+org.apache.tika.parser.chm.lzx.ChmBlockInfo"jorg.apache.tika.parser.chm.lzx.ChmBlockInfo#getChmBlockInfo()Lorg/apache/tika/parser/chm/lzx/ChmBlockInfo;*/"-
++org.apache.tika.parser.chm.lzx.ChmBlockInfoüù
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.java[ [( 
+
+%14int"Forg.apache.tika.parser.chm.accessor.DirectoryListingEntry#getOffset()I*B
+@
+dle9org.apache.tika.parser.chm.accessor.DirectoryListingEntry2getOffset()üù
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.java[# [(2
+
+%15int"Forg.apache.tika.parser.chm.accessor.DirectoryListingEntry#getLength()I*B
+@
+dle9org.apache.tika.parser.chm.accessor.DirectoryListingEntry2getLength()à
+Ý
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javaZ [(D
+%16void"<org.apache.tika.parser.chm.lzx.ChmBlockInfo#setEndOffset(I)V*4
+2
+%13+org.apache.tika.parser.chm.lzx.ChmBlockInfo*
+""¨
+¥
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.java] ](2
+%17+org.apache.tika.parser.chm.lzx.ChmBlockInfo"jorg.apache.tika.parser.chm.lzx.ChmBlockInfo#getChmBlockInfo()Lorg/apache/tika/parser/chm/lzx/ChmBlockInfo;*/"-
++org.apache.tika.parser.chm.lzx.ChmBlockInfo¨
+¥
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.java^ ^(!2
+%18+org.apache.tika.parser.chm.lzx.ChmBlockInfo"jorg.apache.tika.parser.chm.lzx.ChmBlockInfo#getChmBlockInfo()Lorg/apache/tika/parser/chm/lzx/ChmBlockInfo;*/"-
++org.apache.tika.parser.chm.lzx.ChmBlockInfo¨
+¥
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.java^/ ^(@2
+%19+org.apache.tika.parser.chm.lzx.ChmBlockInfo"jorg.apache.tika.parser.chm.lzx.ChmBlockInfo#getChmBlockInfo()Lorg/apache/tika/parser/chm/lzx/ChmBlockInfo;*/"-
++org.apache.tika.parser.chm.lzx.ChmBlockInfo†ƒ
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.java_  _(7
+%20long"Jorg.apache.tika.parser.chm.accessor.ChmLzxcControlData#getResetInterval()J*@
+>
+clcd6org.apache.tika.parser.chm.accessor.ChmLzxcControlData2getResetInterval()ß
+Ü
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.java] _(8
+%21void";org.apache.tika.parser.chm.lzx.ChmBlockInfo#setIniBlock(I)V*4
+2
+%17+org.apache.tika.parser.chm.lzx.ChmBlockInfo*
+""¨
+¥
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javab b( 2
+%22+org.apache.tika.parser.chm.lzx.ChmBlockInfo"jorg.apache.tika.parser.chm.lzx.ChmBlockInfo#getChmBlockInfo()Lorg/apache/tika/parser/chm/lzx/ChmBlockInfo;*/"-
++org.apache.tika.parser.chm.lzx.ChmBlockInfo"Š
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javab b(!4
+2
+%22+org.apache.tika.parser.chm.lzx.ChmBlockInfo:@
+dle9org.apache.tika.parser.chm.accessor.DirectoryListingEntry:
+"":>
+clcd6org.apache.tika.parser.chm.accessor.ChmLzxcControlDataB/"-
++org.apache.tika.parser.chm.lzx.ChmBlockInfo

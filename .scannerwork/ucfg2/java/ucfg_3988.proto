@@ -1,0 +1,153 @@
+
+Yorg.apache.tika.utils.CharsetUtils#initCommonCharsets([Ljava/lang/String;)Ljava/util/Map;I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java2( 2(:"13*ë
+13I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java3( 3(Fyw
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java3, 3(D
+%0java.util.HashMap"java.util.HashMapŒ
+‰
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java3( 3(F
+%1"java.util.HashMap#<init>()V*
+
+%0java.util.HashMapŠ
+‡
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java3 3(G
+charsetsjava.util.Map"__id*
+
+%0java.util.HashMap*
+2*ì
+2I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java4 4(u
+s
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java4 4(
+namejava.lang.String"__id*
+""›
+˜
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java4 4(
+namejava.lang.String"
+__arrayGet*
+
+namesjava.lang.String[]*
+""*
+10
+1*å
+4I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java8 8(!v
+t
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java8 8(!
+aliasjava.lang.String"__id*
+""”
+‘
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java8 8(!
+aliasjava.lang.String"
+__arrayGet*
+
+%7java.util.Set*
+""*
+2
+6*¨
+5I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java9D 9(KÒ
+Ï
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java9 9(L
+%11java.nio.charset.Charset"__mapSet*
+
+%8java.util.Map*
+
+%10java.lang.String*%
+#
+charsetjava.nio.charset.Charset*
+4*À
+6I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java9 9(#p
+n
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java9 9(#
+%8java.util.Map"__id*
+""s
+q
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java9: 9(A
+%9java.util.Locale"__id*
+""ƒ€
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java9( 9(B
+%10java.lang.String"Bjava.lang.String#toLowerCase(Ljava/util/Locale;)Ljava/lang/String;*
+
+aliasjava.lang.String*
+
+%9java.util.Locale2toLowerCase(Ljava/util/Locale;)*
+5*ž
+7I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java8$ 8(+ÈÅ
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java8$ 8(5
+%7java.util.Set"1java.nio.charset.Charset#aliases()Ljava/util/Set;*%
+#
+charsetjava.nio.charset.Charset2	aliases()*
+4*¦
+8I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java7? 7(FÐ
+Í
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java7 7(G
+%6java.nio.charset.Charset"__mapSet*
+
+%3java.util.Map*
+
+%5java.lang.String*%
+#
+charsetjava.nio.charset.Charset*
+7*Ü
+9I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java6 6(8›
+˜
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java6 6(8#
+charsetjava.nio.charset.Charset"__id* 
+
+%2java.nio.charset.Charsetp
+n
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java7 7(
+%3java.util.Map"__id*
+""s
+q
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java75 7(<
+%4java.util.Locale"__id*
+""þ
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java7$ 7(=
+%5java.lang.String"Bjava.lang.String#toLowerCase(Ljava/util/Locale;)Ljava/lang/String;*
+
+namejava.lang.String*
+
+%4java.util.Locale2toLowerCase(Ljava/util/Locale;)*
+8*Ï
+10I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java6" 6()ø
+õ
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java6" 6(7
+%2java.nio.charset.Charset"Njava.nio.charset.Charset#forName(Ljava/lang/String;)Ljava/nio/charset/Charset;*"
+java.nio.charset.Charset*
+
+namejava.lang.String*
+9*¸
+1I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java? ?("h
+I
+?D:/git_project/code/src/org/apache/tika/utils/CharsetUtils.java? ?(
+
+charsetsjava.util.Map:
+namesjava.lang.String[]B&"$
+"org.apache.tika.utils.CharsetUtils

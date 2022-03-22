@@ -1,0 +1,51 @@
+
+;org.apache.tika.parser.chm.lzx.ChmLzxBlock#getContent(II)[BS
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaÑ Ñ("4*Ú
+2S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaÓ3 Ó(4{
+y
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaÓ* Ó(5
+%1byte[]"__id*
+
+%3byte[]*
+1*µ
+3S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaÒ( Ò(2ßÜ
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaÒ? Ò(K
+%4byte[]"9org.apache.tika.parser.chm.lzx.ChmLzxBlock#getContent()[B*.,
+*org.apache.tika.parser.chm.lzx.ChmLzxBlock2getContent()ö
+ó
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaÒ( Ó('
+%2byte[]">org.apache.tika.parser.chm.core.ChmCommons#copyOfRange([BII)[B*.",
+*org.apache.tika.parser.chm.core.ChmCommons*
+
+%4byte[]*
+""*
+""{
+y
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaÒ( Ó('
+%1byte[]"__id*
+
+%2byte[]*
+1*Â
+4S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaÒ Ò(ßÜ
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaÒ Ò(
+%0byte[]"9org.apache.tika.parser.chm.lzx.ChmLzxBlock#getContent()[B*.,
+*org.apache.tika.parser.chm.lzx.ChmLzxBlock2getContent()*
+2
+3*¿
+1S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaÒ Ó(6"e
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaÒ Ó(6
+
+%1byte[]:
+"":
+""B.,
+*org.apache.tika.parser.chm.lzx.ChmLzxBlock

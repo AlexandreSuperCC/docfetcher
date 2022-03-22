@@ -1,0 +1,33 @@
+
+vnet.sourceforge.docfetcher.model.parse.MSOfficeParser$MSPowerPointParser#extractText(Ljava/io/File;)Ljava/lang/String;\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.javaQ Q("13*ÿ
+13\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.javaU) U(-ôñ
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.javaU U((
+%0java.io.FileInputStream"java.io.FileInputStream—
+Œ
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.javaU U(.
+%1"/java.io.FileInputStream#<init>(Ljava/io/File;)V*
+
+%0java.io.FileInputStream*
+
+filejava.io.File*
+12*…
+7\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.javaZ Z(/"f
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.javaZ Z(/
+""*ç
+12\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.javaU U(/£
+†
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.javaU U(/
+injava.io.InputStream"__id*
+
+%0java.io.FileInputStream*
+7:
+filejava.io.FileBLJ
+Hnet.sourceforge.docfetcher.model.parse.MSOfficeParser$MSPowerPointParser

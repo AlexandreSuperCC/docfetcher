@@ -1,0 +1,33 @@
+
+6net.sourceforge.docfetcher.model.TreeNode#hasErrors()ZP
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.java\# \(,"3*®
+2P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.java] ]("¬
+©
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.java] ]("
+%1java.util.List"__id*9*7+
+)net.sourceforge.docfetcher.model.TreeNode"
+errors¢Ÿ
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.java] ](,
+%2boolean"java.util.List#isEmpty()Z*
+
+%1java.util.List2	isEmpty()*
+1*Œ
+3P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.java]	 ](¬
+©
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.java]	 ](
+%0java.util.List"__id*9*7+
+)net.sourceforge.docfetcher.model.TreeNode"
+errors*
+2
+1*±
+1P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.java] ](-"Z
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.java] ](-
+""B-+
+)net.sourceforge.docfetcher.model.TreeNode

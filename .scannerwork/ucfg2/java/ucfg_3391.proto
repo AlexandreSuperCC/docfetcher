@@ -1,0 +1,34 @@
+
+Wnet.sourceforge.docfetcher.model.TreeCheckState$PathWrapper#equals(Ljava/lang/Object;)ZV
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaA A("startingBlock*¤
+startingBlockV
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaA A(#¨
+¥
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java@ @((
+%1"
+__annotate*
+java.lang.SuppressWarnings*
+
+objjava.lang.ObjectŠ
+‡
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaA A("
+objjava.lang.Object"__annotation*
+
+%1*
+1*ý
+1V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaG G(½º
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaG
+ G(,
+%0boolean"Ynet.sourceforge.docfetcher.model.TreeCheckState$FolderWrapper#equals(Ljava/lang/Object;)Z*
+
+objjava.lang.Object*?=
+;net.sourceforge.docfetcher.model.TreeCheckState$PathWrapper2equals(Ljava/lang/Object;)"`
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaG G(-
+"":
+objjava.lang.ObjectB?=
+;net.sourceforge.docfetcher.model.TreeCheckState$PathWrapper

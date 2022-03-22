@@ -1,0 +1,17 @@
+
+=org.apache.tika.mime.MediaType#getParameters()Ljava/util/Map;G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java¦ ¦(,"1*Ì
+1G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java§ §(›
+˜
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java§ §(
+%0java.util.Map"__id*2*0 
+org.apache.tika.mime.MediaType"
+
+parameters"`
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java§ §(
+
+%0java.util.MapB" 
+org.apache.tika.mime.MediaType

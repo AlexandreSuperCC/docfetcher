@@ -1,0 +1,24 @@
+
+`org.apache.tika.mime.MimeTypesFactory#create(Ljava/lang/String;)Lorg/apache/tika/mime/MimeTypes;L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.javar r(""1*Ò
+1L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.javat t(íê
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.javat t(A
+%0java.net.URL"=java.lang.Class#getResource(Ljava/lang/String;)Ljava/net/URL;*
+""*
+
+filePathjava.lang.String2getResource(Ljava/lang/String;)–
+“
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.javat t(B$
+%1org.apache.tika.mime.MimeTypes"\org.apache.tika.mime.MimeTypesFactory#create(Ljava/net/URL;)Lorg/apache/tika/mime/MimeTypes;*)"'
+%org.apache.tika.mime.MimeTypesFactory*
+
+%0java.net.URL"v
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.javat t(C&
+$
+%1org.apache.tika.mime.MimeTypes:
+filePathjava.lang.StringB)"'
+%org.apache.tika.mime.MimeTypesFactory

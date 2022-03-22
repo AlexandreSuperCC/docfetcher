@@ -1,0 +1,38 @@
+
+Mnet.sourceforge.docfetcher.gui.SearchBar#getHistoryArray()[Ljava/lang/String;Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchBar.javaÏ Ï(!"1*≥
+
+1Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchBar.javaÌ	 Ì(◊
+‘
+Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchBar.javaÌ	 Ì(8
+%02net.sourceforge.docfetcher.util.collect.MemoryList"__id*?*=*
+(net.sourceforge.docfetcher.gui.SearchBar"
+searchHistory◊
+‘
+Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchBar.javaÌ* Ì(78
+%12net.sourceforge.docfetcher.util.collect.MemoryList"__id*?*=*
+(net.sourceforge.docfetcher.gui.SearchBar"
+searchHistory·ﬁ
+Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchBar.javaÌ* Ì(>	
+%2int":net.sourceforge.docfetcher.util.collect.MemoryList#size()I*:
+8
+%12net.sourceforge.docfetcher.util.collect.MemoryList2size()ÑÅ
+Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchBar.javaÌ Ì(?
+%3java.lang.String[]"java.lang.String[] «
+Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchBar.javaÌ	 Ì(@
+%4java.lang.String[]"bnet.sourceforge.docfetcher.util.collect.MemoryList#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*:
+8
+%02net.sourceforge.docfetcher.util.collect.MemoryList*
+
+%3java.lang.String[]2toArray([Ljava/lang/Object;)"o
+Q
+ED:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchBar.javaÌ Ì(A
+
+%4java.lang.String[]B,*
+(net.sourceforge.docfetcher.gui.SearchBar

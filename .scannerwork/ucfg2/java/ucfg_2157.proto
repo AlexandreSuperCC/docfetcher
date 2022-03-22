@@ -1,0 +1,21 @@
+
+Mnet.sourceforge.docfetcher.build.U#read(Ljava/lang/String;)Ljava/lang/String;I
+?D:/git_project/code/src/net/sourceforge/docfetcher/build/U.javax x("1*Ç
+1I
+?D:/git_project/code/src/net/sourceforge/docfetcher/build/U.javay	 y(om
+I
+?D:/git_project/code/src/net/sourceforge/docfetcher/build/U.javay y( 
+%0java.io.File"java.io.File°
+­
+I
+?D:/git_project/code/src/net/sourceforge/docfetcher/build/U.javay y(&
+%1"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%0java.io.File*
+
+pathjava.lang.String"S
+I
+?D:/git_project/code/src/net/sourceforge/docfetcher/build/U.javay y(8
+"":
+pathjava.lang.StringB&"$
+"net.sourceforge.docfetcher.build.U

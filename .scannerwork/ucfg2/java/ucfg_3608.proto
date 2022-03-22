@@ -1,0 +1,124 @@
+
+~org.apache.tika.parser.RecursiveParserWrapper#deepCopy(Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/metadata/Metadata;V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaç ç("10*‰
+2V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaê ê(
+}
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaê ê(
+njava.lang.String"__id*
+""¢
+Ÿ
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaê ê(
+njava.lang.String"
+__arrayGet*
+
+%2java.lang.String[]*
+""*
+8
+1*Ï
+4V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javað ð(¥
+¢
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javað! ð((
+%7java.lang.String"
+__arrayGet*
+
+valsjava.lang.String[]*
+""Á¾
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javað ð()
+
+%8void"Lorg.apache.tika.metadata.Metadata#add(Ljava/lang/String;Ljava/lang/String;)V*,
+*
+clone!org.apache.tika.metadata.Metadata*
+
+njava.lang.String*
+
+%7java.lang.String2)add(Ljava/lang/String;Ljava/lang/String;)*
+2
+4*­
+6V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaî  î(!«¨
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaî  î(.
+%6java.lang.String[]"Rorg.apache.tika.metadata.Metadata#getValues(Ljava/lang/String;)[Ljava/lang/String;*(
+&
+m!org.apache.tika.metadata.Metadata*
+
+njava.lang.String2getValues(Ljava/lang/String;)™
+–
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaî î(/
+valsjava.lang.String[]"__id*
+
+%6java.lang.String[]*
+2
+4*Ã
+7V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaì ì(œ™
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaì ì(%
+%4java.lang.String"Korg.apache.tika.metadata.Metadata#get(Ljava/lang/String;)Ljava/lang/String;*(
+&
+m!org.apache.tika.metadata.Metadata*
+
+njava.lang.String2get(Ljava/lang/String;)Á¾
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaì ì(&
+
+%5void"Lorg.apache.tika.metadata.Metadata#set(Ljava/lang/String;Ljava/lang/String;)V*,
+*
+clone!org.apache.tika.metadata.Metadata*
+
+njava.lang.String*
+
+%4java.lang.String2)set(Ljava/lang/String;Ljava/lang/String;)*
+2*ü
+8V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaë ë(–“
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaë ë($
+%3boolean"Dorg.apache.tika.metadata.Metadata#isMultiValued(Ljava/lang/String;)Z*(
+&
+m!org.apache.tika.metadata.Metadata*
+
+njava.lang.String2!isMultiValued(Ljava/lang/String;)*
+6
+7*É
+9V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaê ê(æã
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaê ê(!
+%2java.lang.String[]"<org.apache.tika.metadata.Metadata#names()[Ljava/lang/String;*(
+&
+m!org.apache.tika.metadata.Metadata2names()*
+2*‚
+10V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaè è('§¤
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaè è(%'
+%0!org.apache.tika.metadata.Metadata"!org.apache.tika.metadata.Metadata¹
+¶
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaè è('
+%1"+org.apache.tika.metadata.Metadata#<init>()V*)
+'
+%0!org.apache.tika.metadata.Metadata¸
+µ
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaè è((*
+clone!org.apache.tika.metadata.Metadata"__id*)
+'
+%0!org.apache.tika.metadata.Metadata*
+9*ä
+1V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaô ô("†
+V
+JD:/git_project/code/src/org/apache/tika/parser/RecursiveParserWrapper.javaô ô(,
+*
+clone!org.apache.tika.metadata.Metadata:&
+m!org.apache.tika.metadata.MetadataB1/
+-org.apache.tika.parser.RecursiveParserWrapper

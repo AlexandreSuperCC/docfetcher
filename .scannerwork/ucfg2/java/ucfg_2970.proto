@@ -1,0 +1,123 @@
+
+}net.sourceforge.docfetcher.model.index.IndexingConfig#getStorablePath(Ljava/io/File;Z)Lnet/sourceforge/docfetcher/model/Path;^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java£ £(#"startingBlock*’
+2^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java´ ´(´
+®
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java´ ´(<
+%6java.lang.String"fnet.sourceforge.docfetcher.model.UtilModel#getRelativePathIfPossible(Ljava/io/File;)Ljava/lang/String;*.",
+*net.sourceforge.docfetcher.model.UtilModel*
+
+filejava.io.File∑¥
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java´ ´(+
+%7%net.sourceforge.docfetcher.model.Path"%net.sourceforge.docfetcher.model.Pathı
+Ú
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java´
+ ´(=
+%8"Anet.sourceforge.docfetcher.model.Path#<init>(Ljava/lang/String;)V*-
++
+%7%net.sourceforge.docfetcher.model.Path*
+
+%6java.lang.String"è
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java´ ´(>-
++
+%7%net.sourceforge.docfetcher.model.Path*≤
+3^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaß ß(í
+è
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javaß ß(
+%0java.io.File"Wnet.sourceforge.docfetcher.util.Util#checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+filejava.io.Fileê
+ç
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java® ®(!
+%1java.util.regex.Pattern"__id*
+""»≈
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java®* ®(8
+%2java.lang.String"(java.io.File#getPath()Ljava/lang/String;*
+
+filejava.io.File2	getPath()¥±
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java® ®(9
+%3java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
+
+%1java.util.regex.Pattern*
+
+%2java.lang.String2!matcher(Ljava/lang/CharSequence;)¬ø
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java® ®(C
+%4boolean""java.util.regex.Matcher#matches()Z*
+
+%3java.util.regex.Matcher2	matches()’
+“
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java® ®(D
+
+%5void"2net.sourceforge.docfetcher.util.Util#checkThat(Z)V*("&
+$net.sourceforge.docfetcher.util.Util*
+""*
+2
+1*§
+startingBlock^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java£# §(%«
+ƒ
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java¢ ¢(	
+%12"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.File«
+ƒ
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java£% £(-
+%13"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.Fileô
+ñ
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java£3 £(7
+filejava.io.File"__annotation*
+
+%12*
+
+%13*
+3*æ
+1^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java≠ ≠(ê
+ç
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java≠ ≠((
+%9java.lang.String"Qnet.sourceforge.docfetcher.util.Util#getAbsPath(Ljava/io/File;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+filejava.io.File∏µ
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java≠ ≠(,
+%10%net.sourceforge.docfetcher.model.Path"%net.sourceforge.docfetcher.model.Path˜
+Ù
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java≠
+ ≠()
+%11"Anet.sourceforge.docfetcher.model.Path#<init>(Ljava/lang/String;)V*.
+,
+%10%net.sourceforge.docfetcher.model.Path*
+
+%9java.lang.String"ê
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.java≠ ≠(*.
+,
+%10%net.sourceforge.docfetcher.model.Path:
+filejava.io.File:
+""B9"7
+5net.sourceforge.docfetcher.model.index.IndexingConfig

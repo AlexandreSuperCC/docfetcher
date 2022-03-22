@@ -1,0 +1,74 @@
+
+znet.sourceforge.docfetcher.model.UtilModel#isUnmodifiedArchive(Lnet/sourceforge/docfetcher/model/Folder;Ljava/lang/Long;)ZS
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaâ â(*"startingBlock*∑
+2S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaé
+ é("]
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaé é(
+""*‹
+3S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaç ç(˘ˆ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaç ç(.
+%1boolean"*java.lang.Long#equals(Ljava/lang/Object;)Z*#
+!
+oldLastModifiedjava.lang.Long*#
+!
+newLastModifiedjava.lang.Long2equals(Ljava/lang/Object;)*
+2
+1*»
+startingBlockS
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaâ* ä(+ÿ
+’
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaâ, â(4
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*3
+1
+folder'net.sourceforge.docfetcher.model.Folder°
+û
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaâB â(H1
+folder'net.sourceforge.docfetcher.model.Folder"__annotation*
+
+%2…
+∆
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaä ä(
+%3"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*#
+!
+newLastModifiedjava.lang.Longë
+é
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaä ä(*!
+newLastModifiedjava.lang.Long"__annotation*
+
+%3*
+5*Ä
+5S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaã ã(Å˛
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaã ã(1
+%0java.lang.Long"Inet.sourceforge.docfetcher.model.Folder#getLastModified()Ljava/lang/Long;*3
+1
+folder'net.sourceforge.docfetcher.model.Folder2getLastModified()ô
+ñ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaã ã(2!
+oldLastModifiedjava.lang.Long"__id*
+
+%0java.lang.Long*
+3
+1*∑
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaè	 è("]
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaè è(
+"":1
+folder'net.sourceforge.docfetcher.model.Folder:!
+newLastModifiedjava.lang.LongB.",
+*net.sourceforge.docfetcher.model.UtilModel

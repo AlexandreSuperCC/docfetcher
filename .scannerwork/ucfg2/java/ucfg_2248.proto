@@ -1,0 +1,40 @@
+
+Snet.sourceforge.docfetcher.util.gui.dialog.TextInputDialog#open()Ljava/lang/String;c
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/TextInputDialog.javaÄ Ä("9*≈
+8c
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/TextInputDialog.javaÑ Ñ(ç
+ä
+c
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/TextInputDialog.javaÑ Ñ(
+sjava.lang.String"__id*
+""≈¬
+c
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/TextInputDialog.javaÖ Ö(!	
+%1int" java.lang.String#lastIndexOf(I)I*
+
+sjava.lang.String*
+.2lastIndexOf(I)*
+1*Ü
+9c
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/TextInputDialog.javaÅ Å(	ì
+ê
+c
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/TextInputDialog.javaÅ Å(/
+%0"`net.sourceforge.docfetcher.util.UtilGui#setCenteredMinBounds(Lorg/eclipse/swt/widgets/Shell;II)V*+")
+'net.sourceforge.docfetcher.util.UtilGui*
+""*2¨*2ñ*
+8
+1*æ
+1c
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/TextInputDialog.javaë	 ë(“
+œ
+c
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/TextInputDialog.javaë	 ë(
+%2java.lang.String"__id*J*H<
+:net.sourceforge.docfetcher.util.gui.dialog.TextInputDialog"
+answer"
+c
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/TextInputDialog.javaë ë(
+
+%2java.lang.StringB><
+:net.sourceforge.docfetcher.util.gui.dialog.TextInputDialog

@@ -1,0 +1,42 @@
+
+Rorg.apache.tika.io.TikaInputStream#getFileChannel()Ljava/nio/channels/FileChannel;K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaê ê(%"1*Þ
+
+1K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaë ë()ßÜ
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaë/ ë(8
+%0java.nio.file.Path"@org.apache.tika.io.TikaInputStream#getPath()Ljava/nio/file/Path;*&$
+"org.apache.tika.io.TikaInputStream2	getPath()¨
+¥
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaë ë(9#
+%1java.nio.channels.FileChannel"rjava.nio.channels.FileChannel#open(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/nio/channels/FileChannel;*!"
+java.nio.channels.FileChannel*
+
+%0java.nio.file.Path§
+¤
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaë ë(:(
+channeljava.nio.channels.FileChannel"__id*%
+#
+%1java.nio.channels.FileChannel´
+±
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaì ì(+
+%2%org.apache.tika.io.TemporaryResources"__id*/*-$
+"org.apache.tika.io.TikaInputStream"
+tmp¢Ÿ
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaì ì( 
+
+%3void"Gorg.apache.tika.io.TemporaryResources#addResource(Ljava/io/Closeable;)V*-
++
+%2%org.apache.tika.io.TemporaryResources**
+(
+channeljava.nio.channels.FileChannel2 addResource(Ljava/io/Closeable;)"y
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaí í(*
+(
+channeljava.nio.channels.FileChannelB&$
+"org.apache.tika.io.TikaInputStream

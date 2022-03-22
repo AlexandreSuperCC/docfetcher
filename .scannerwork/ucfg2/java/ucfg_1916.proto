@@ -1,0 +1,137 @@
+
+Œorg.apache.tika.detect.TrainedModelDetector#detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/mime/MediaType;R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java4 4("6"1*‰
+2R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaN N(«¨
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaN N(
+%12void"java.io.InputStream#reset()V*
+
+inputjava.io.InputStream2reset()"
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaO O(+
+)
+maxTypeorg.apache.tika.mime.MediaType*
+3R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaJ J("±
+®
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaK K(!)
+maxTypeorg.apache.tika.mime.MediaType"__id*'
+%
+keyorg.apache.tika.mime.MediaType*
+5*
+
+4R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaF  F($ÐÍ
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaF  F(+$
+%8org.apache.tika.mime.MediaType"+java.util.Iterator#next()Ljava/lang/Object;*
+
+iterjava.util.Iterator2next()¬
+©
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaF F(,%
+keyorg.apache.tika.mime.MediaType"__id*&
+$
+%8org.apache.tika.mime.MediaType²
+¯
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaG% G(.
+%9java.util.Map"__id*>*<-
++org.apache.tika.detect.TrainedModelDetector"
+	MODEL_MAPÍ
+Ê
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaG% G(7*
+%10#org.apache.tika.detect.TrainedModel"__mapGet*
+
+%9java.util.Map*'
+%
+keyorg.apache.tika.mime.MediaType¹
+¶
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaG G(8,
+model#org.apache.tika.detect.TrainedModel"__id*,
+*
+%10#org.apache.tika.detect.TrainedModelÜÙ
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaH H(5
+%11float"0org.apache.tika.detect.TrainedModel#predict([F)F*.
+,
+model#org.apache.tika.detect.TrainedModel*
+""2predict([F)*
+3
+5*
+5R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaE E(®«
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaE E(!
+%7boolean"java.util.Iterator#hasNext()Z*
+
+iterjava.util.Iterator2	hasNext()*
+2
+4*Ã
+6R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java8 8(àÝ
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java8 8(%	
+%0int";org.apache.tika.detect.TrainedModelDetector#getMinLength()I*/-
++org.apache.tika.detect.TrainedModelDetector2getMinLength()·´
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java8 8(&
+
+%1void"java.io.InputStream#mark(I)V*
+
+inputjava.io.InputStream*
+	
+%0int2mark(I)½º
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java9  9(:
+%2float[]"Xorg.apache.tika.detect.TrainedModelDetector#readByteFrequencies(Ljava/io/InputStream;)[F*/-
++org.apache.tika.detect.TrainedModelDetector*
+
+inputjava.io.InputStream2*readByteFrequencies(Ljava/io/InputStream;)²
+¯
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java?' ?(0
+%3java.util.Map"__id*>*<-
++org.apache.tika.detect.TrainedModelDetector"
+	MODEL_MAP´±
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java?' ?(9
+%4java.util.Set"%java.util.Map#keySet()Ljava/util/Set;*
+
+%3java.util.Map2keySet()Â¿
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java?' ?(D
+%5java.util.Iterator",java.util.Set#iterator()Ljava/util/Iterator;*
+
+%4java.util.Set2
+iterator()•
+’
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.java? ?(E
+iterjava.util.Iterator"__id*
+
+%5java.util.Iterator‹
+ˆ
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaD  D(6$
+%6org.apache.tika.mime.MediaType"__id*
+""°
+­
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaD D(7)
+maxTypeorg.apache.tika.mime.MediaType"__id*&
+$
+%6org.apache.tika.mime.MediaType*
+5*µ
+1R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaQ Q("\
+R
+HD:/git_project/code/src/org/apache/tika/detect/TrainedModelDetector.javaQ Q(
+"":
+inputjava.io.InputStream:-
+metadata!org.apache.tika.metadata.MetadataB/-
++org.apache.tika.detect.TrainedModelDetector

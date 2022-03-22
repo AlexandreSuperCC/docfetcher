@@ -1,0 +1,22 @@
+
+horg.apache.tika.parser.mp3.ID3v24Handler#getComment([BII)Lorg/apache/tika/parser/mp3/ID3Tags$ID3Comment;O
+ED:/git_project/code/src/org/apache/tika/parser/mp3/ID3v24Handler.javaV V(!"1*Ÿ
+1O
+ED:/git_project/code/src/org/apache/tika/parser/mp3/ID3v24Handler.javaW W(½
+º
+O
+ED:/git_project/code/src/org/apache/tika/parser/mp3/ID3v24Handler.javaW W(:3
+%0-org.apache.tika.parser.mp3.ID3Tags$ID3Comment"eorg.apache.tika.parser.mp3.ID3v2Frame#getComment([BII)Lorg/apache/tika/parser/mp3/ID3Tags$ID3Comment;*)"'
+%org.apache.tika.parser.mp3.ID3v2Frame*
+
+databyte[]*
+""*
+"""ˆ
+O
+ED:/git_project/code/src/org/apache/tika/parser/mp3/ID3v24Handler.javaW W(;5
+3
+%0-org.apache.tika.parser.mp3.ID3Tags$ID3Comment:
+databyte[]:
+"":
+""B,*
+(org.apache.tika.parser.mp3.ID3v24Handler

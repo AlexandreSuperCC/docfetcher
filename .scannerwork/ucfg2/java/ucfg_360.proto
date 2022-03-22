@@ -1,0 +1,54 @@
+
+wnet.sourceforge.docfetcher.model.parse.HtmlParser#renderText(Ljava/io/InputStream;Ljava/lang/String;)Ljava/lang/String;X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javaj j("startingBlock*Á
+3X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javao o(I"b
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javao o(I
+""*ä
+startingBlockX
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javaj j(=¤
+¡
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javai i(
+
+%3"
+__annotate*
+java.lang.Override*
+
+injava.io.InputStreamŽ
+‹
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javaj) j(+
+injava.io.InputStream"__annotation*
+
+%3§
+¤
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javai i(
+
+%4"
+__annotate*
+java.lang.Override*
+
+filenamejava.lang.String‘
+Ž
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javaj4 j(<
+filenamejava.lang.String"__annotation*
+
+%4*
+8*
+8X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javam m(ª
+§
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/HtmlParser.javam m(+
+%0"qnet.sourceforge.docfetcher.model.parse.UtilParser#getSource(Ljava/io/InputStream;)Lnet/htmlparser/jericho/Source;*5"3
+1net.sourceforge.docfetcher.model.parse.UtilParser*
+
+injava.io.InputStream*
+3:
+injava.io.InputStream:
+filenamejava.lang.StringB53
+1net.sourceforge.docfetcher.model.parse.HtmlParser

@@ -1,0 +1,77 @@
+
+Onet.sourceforge.docfetcher.util.SwtJarLocator#getOsArchPart()Ljava/lang/String;T
+JD:/git_project/code/src/net/sourceforge/docfetcher/util/SwtJarLocator.javaA A($"6*Ú
+2T
+JD:/git_project/code/src/net/sourceforge/docfetcher/util/SwtJarLocator.javaE* E(/ë
+é
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/util/SwtJarLocator.javaE* E(/
+%4java.lang.String"__id*
+
+%6java.lang.String*
+1*Ú
+3T
+JD:/git_project/code/src/net/sourceforge/docfetcher/util/SwtJarLocator.javaE E('ë
+é
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/util/SwtJarLocator.javaE E('
+%4java.lang.String"__id*
+
+%5java.lang.String*
+1* 
+4T
+JD:/git_project/code/src/net/sourceforge/docfetcher/util/SwtJarLocator.javaE	 E(Ê„
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/util/SwtJarLocator.javaE	 E(
+%3boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+archjava.lang.String*
+642"contains(Ljava/lang/CharSequence;)*
+2
+3*û
+5T
+JD:/git_project/code/src/net/sourceforge/docfetcher/util/SwtJarLocator.javaD
+ D(ÿ
+’
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/util/SwtJarLocator.javaD
+ D('
+%1java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*	
+os.archÃ…
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/util/SwtJarLocator.javaD
+ D(5
+%2java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+%1java.lang.String2toLowerCase()ì
+ê
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/util/SwtJarLocator.javaD D(5
+archjava.lang.String"__id*
+
+%2java.lang.String*
+4*ﬁ
+6T
+JD:/git_project/code/src/net/sourceforge/docfetcher/util/SwtJarLocator.javaB B(‰
+·
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/util/SwtJarLocator.javaB B(9
+%0java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+sun.arch.data.modelì
+ê
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/util/SwtJarLocator.javaB B(:
+archjava.lang.String"__id*
+
+%0java.lang.String*
+4
+5*À
+1T
+JD:/git_project/code/src/net/sourceforge/docfetcher/util/SwtJarLocator.javaE E(0"p
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/util/SwtJarLocator.javaE E(0
+
+%4java.lang.StringB1"/
+-net.sourceforge.docfetcher.util.SwtJarLocator

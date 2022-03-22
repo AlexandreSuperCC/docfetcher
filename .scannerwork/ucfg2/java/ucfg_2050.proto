@@ -1,0 +1,19 @@
+
+9org.apache.tika.parser.chm.lzx.ChmSection#unmarshalInt()IP
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java ("1*õ
+1R
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java€ €(Œ‰
+R
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java€ €(
+%0java.math.BigInteger"Porg.apache.tika.parser.chm.lzx.ChmSection#getBigInteger(I)Ljava/math/BigInteger;*-+
+)org.apache.tika.parser.chm.lzx.ChmSection*22getBigInteger(I)®«
+R
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java€ €(*	
+%1int" java.math.BigInteger#intValue()I*
+
+%0java.math.BigInteger2
+intValue()"\
+R
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.java€ €(+
+""B-+
+)org.apache.tika.parser.chm.lzx.ChmSection

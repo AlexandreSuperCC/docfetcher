@@ -1,0 +1,56 @@
+
+0org.apache.tika.io.CountingInputStream#read([B)IM
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java9 9("startingBlock*È
+2M
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java;- ;(.o
+m
+M
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java;- ;(.	
+%1int"__id*
+	
+%3int*
+1*È
+3M
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java;% ;(*o
+m
+M
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java;% ;(*	
+%1int"__id*
+	
+%2int*
+1*ç
+startingBlockM
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java9 9(‹
+ˆ
+M
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java8 8(
+%4"
+__annotate*
+java.lang.Override*
+
+bbyte[]t
+r
+M
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java9 9(
+bbyte[]"__annotation*
+
+%4*
+4*€
+4M
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java: :(£
+ 
+M
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java: :(!	
+%0int"-org.apache.tika.io.ProxyInputStream#read([B)I*
+""*
+
+bbyte[]*
+2
+3*«
+1M
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java; ;(."W
+M
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java< <(
+"":
+bbyte[]B*(
+&org.apache.tika.io.CountingInputStream

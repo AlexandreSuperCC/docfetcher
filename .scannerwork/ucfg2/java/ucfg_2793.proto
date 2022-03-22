@@ -1,0 +1,17 @@
+
+pnet.sourceforge.docfetcher.model.parse.ParseContext#getCancelable()Lnet/sourceforge/docfetcher/model/Cancelable;Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseContext.java4 4( "1*×
+1Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseContext.java5	 5(á
+Þ
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseContext.java5	 5(1
+%0+net.sourceforge.docfetcher.model.Cancelable"__id*G*E5
+3net.sourceforge.docfetcher.model.parse.ParseContext"
+
+cancelable"‘
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseContext.java5 5(3
+1
+%0+net.sourceforge.docfetcher.model.CancelableB75
+3net.sourceforge.docfetcher.model.parse.ParseContext

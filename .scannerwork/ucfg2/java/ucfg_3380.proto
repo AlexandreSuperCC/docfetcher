@@ -1,0 +1,17 @@
+
+Öorg.apache.tika.detect.EmptyDetector#detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/mime/MediaType;K
+AD:/git_project/code/src/org/apache/tika/detect/EmptyDetector.java# #("1*Œ
+1K
+AD:/git_project/code/src/org/apache/tika/detect/EmptyDetector.java% %(Ñ
+Å
+K
+AD:/git_project/code/src/org/apache/tika/detect/EmptyDetector.java% %(%$
+%0org.apache.tika.mime.MediaType"__id*
+"""u
+K
+AD:/git_project/code/src/org/apache/tika/detect/EmptyDetector.java% %(&&
+$
+%0org.apache.tika.mime.MediaType:
+inputjava.io.InputStream:-
+metadata!org.apache.tika.metadata.MetadataB(&
+$org.apache.tika.detect.EmptyDetector

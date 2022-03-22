@@ -1,0 +1,175 @@
+
+Norg.apache.tika.parser.mp3.AudioFrame#generateVersionStr(II)Ljava/lang/String;N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.java‚ ‚(,"15*À
+13N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÁ Á(k
+i
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÁ Á(#	
+%5int"__id*
+""*
+11
+12*‚
+14N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÊ Ê(ÜÉ
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÊ Ê(
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+III2append(Ljava/lang/String;)*
+8*∞
+15N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.java„. „(0ãà
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.java„  „(-
+%0java.lang.StringBuilder"java.lang.StringBuilder§
+°
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.java„ „(1
+%1""java.lang.StringBuilder#<init>(I)V*
+
+%0java.lang.StringBuilder*2@ö
+ó
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.java„ „(2
+bufjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilderêç
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.java‰ ‰(#
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+MPEG 3 Layer 2append(Ljava/lang/String;)k
+i
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÂ Â(	
+%3int"__id*
+""*
+13
+14*ì
+1N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.java˙ ˙(–Õ
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.java˙ ˙(
+%18java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+bufjava.lang.StringBuilder2
+toString()"k
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.java˙ ˙(
+
+%18java.lang.String*Ë
+2N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.java˜ ˜(çä
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.java˜ ˜(#
+%17java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+	(reseved)2append(Ljava/lang/String;)*
+1*‡
+3N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaı ı(ÖÇ
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaı ı(
+%16java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+12append(Ljava/lang/String;)*
+1*…
+4N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÙ Ù(l
+j
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÙ Ù($
+
+%15int"__id*
+""*
+2
+3*‡
+5N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÛ Û(ÖÇ
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÛ Û(
+%14java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+22append(Ljava/lang/String;)*
+1*…
+6N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÚ Ú(l
+j
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÚ Ú($
+
+%13int"__id*
+""*
+4
+5*‚
+7N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÒ Ò(áÑ
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÒ Ò(
+%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+2.52append(Ljava/lang/String;)*
+1*Ÿ
+8N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÔ Ô(çä
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÔ Ô(
+%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+	 Version 2append(Ljava/lang/String;)l
+j
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.java ( 
+
+%11int"__id*
+""*
+6
+7*Ë
+9N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÏ Ï(çä
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÏ Ï($
+%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+
+(reserved)2append(Ljava/lang/String;)*
+8*‡
+10N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÍ Í(ÑÅ
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÍ Í(
+%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+I2append(Ljava/lang/String;)*
+8* 
+11N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÈ È(k
+i
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaÈ È(#	
+%7int"__id*
+""*
+9
+10*·
+12N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaË Ë(ÖÇ
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/AudioFrame.javaË Ë(
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+bufjava.lang.StringBuilder*
+II2append(Ljava/lang/String;)*
+8:
+"":
+""B)"'
+%org.apache.tika.parser.mp3.AudioFrame

@@ -1,0 +1,25 @@
+
+¦org.apache.tika.config.TikaConfig#getDefaultDetector(Lorg/apache/tika/mime/MimeTypes;Lorg/apache/tika/config/ServiceLoader;)Lorg/apache/tika/detect/CompositeDetector;H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaH' H(9"1*Ê
+1H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaJ# J((£ 
+H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaJ J(",
+%0&org.apache.tika.detect.DefaultDetector"&org.apache.tika.detect.DefaultDetectorØ
+Õ
+H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaJ J(1
+%1"vorg.apache.tika.detect.DefaultDetector#<init>(Lorg/apache/tika/mime/MimeTypes;Lorg/apache/tika/config/ServiceLoader;)V*.
+,
+%0&org.apache.tika.detect.DefaultDetector*)
+'
+typesorg.apache.tika.mime.MimeTypes*0
+.
+loader$org.apache.tika.config.ServiceLoader"z
+H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaJ J(2.
+,
+%0&org.apache.tika.detect.DefaultDetector:'
+typesorg.apache.tika.mime.MimeTypes:.
+loader$org.apache.tika.config.ServiceLoaderB%"#
+!org.apache.tika.config.TikaConfig

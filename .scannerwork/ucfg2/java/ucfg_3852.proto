@@ -1,0 +1,42 @@
+
+Torg.apache.tika.sax.ToXMLContentHandler#writeCharsAndEntity([CIILjava/lang/String;)IP
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.javaó ó(#"1*±
+1P
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.javaõ õ(Å
+Â
+P
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.javaõ õ(-
+
+%0void":org.apache.tika.sax.ToTextContentHandler#characters([CII)V*
+""*
+
+chchar[]*
+""*
+""ÒÏ
+P
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.javaö ö(
+
+%1void"1org.apache.tika.sax.ToXMLContentHandler#write(C)V*+)
+'org.apache.tika.sax.ToXMLContentHandler*
+&2write(C)‹ˆ
+P
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.java÷ ÷(
+
+%2void"Borg.apache.tika.sax.ToXMLContentHandler#write(Ljava/lang/String;)V*+)
+'org.apache.tika.sax.ToXMLContentHandler*
+
+entityjava.lang.String2write(Ljava/lang/String;)ÒÏ
+P
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.javaø ø(
+
+%3void"1org.apache.tika.sax.ToXMLContentHandler#write(C)V*+)
+'org.apache.tika.sax.ToXMLContentHandler*
+;2write(C)"Z
+P
+DD:/git_project/code/src/org/apache/tika/sax/ToXMLContentHandler.javaù ù(
+"":
+chchar[]:
+"":
+"":
+entityjava.lang.StringB+)
+'org.apache.tika.sax.ToXMLContentHandler

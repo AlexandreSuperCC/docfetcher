@@ -1,0 +1,73 @@
+
+ˆnet.sourceforge.docfetcher.model.index.file.AppendingContext#appendToOuter(Lnet/sourceforge/docfetcher/model/index/file/FileDocument;Z)Zc
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/AppendingContext.java: :("startingBlock*¶
+startingBlockc
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/AppendingContext.java: ;(÷
+ô
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/AppendingContext.java: :('
+%11"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*A
+?
+doc8net.sourceforge.docfetcher.model.index.file.FileDocumentÀ
+½
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/AppendingContext.java:5 :(8?
+doc8net.sourceforge.docfetcher.model.index.file.FileDocument"__annotation*
+
+%11*
+8*×
+5c
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/AppendingContext.java@
+ @("m
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/AppendingContext.java@ @(
+""*†
+6c
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/AppendingContext.java?" ?(%–“
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/AppendingContext.java? ?(:
+%4"¤net.sourceforge.docfetcher.model.index.file.LuceneDocWriter#write(Lnet/sourceforge/docfetcher/model/index/file/FileDocument;Lorg/apache/lucene/document/Document;Z)V*C
+A
+%3;net.sourceforge.docfetcher.model.index.file.LuceneDocWriter*A
+?
+doc8net.sourceforge.docfetcher.model.index.file.FileDocument*
+""*
+""2gwrite(Lnet/sourceforge/docfetcher/model/index/file/FileDocument;Lorg/apache/lucene/document/Document;Z)*
+5*ð
+7c
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/AppendingContext.java? ?(
+þ
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/AppendingContext.java? ?(=
+%27net.sourceforge.docfetcher.model.index.file.FileContext"__id*R*P>
+<net.sourceforge.docfetcher.model.index.file.AppendingContext"
+outerContextüù
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/AppendingContext.java? ?(A
+%3;net.sourceforge.docfetcher.model.index.file.LuceneDocWriter"€net.sourceforge.docfetcher.model.index.file.FileContext#getWriter()Lnet/sourceforge/docfetcher/model/index/file/LuceneDocWriter;*?
+=
+%27net.sourceforge.docfetcher.model.index.file.FileContext2getWriter()*
+6*®
+8c
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/AppendingContext.java<3 <(<ýú
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/AppendingContext.java<3 <(>A
+%0;net.sourceforge.docfetcher.model.index.file.LuceneDocWriter"€net.sourceforge.docfetcher.model.index.file.FileContext#getWriter()Lnet/sourceforge/docfetcher/model/index/file/LuceneDocWriter;*@>
+<net.sourceforge.docfetcher.model.index.file.AppendingContext2getWriter()ý
+ú
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/AppendingContext.java< <(?H
+writer>net.sourceforge.docfetcher.model.index.file.AppendingDocWriter"__id*C
+A
+%0;net.sourceforge.docfetcher.model.index.file.LuceneDocWriter¾»
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/AppendingContext.java= =(,
+%1"rnet.sourceforge.docfetcher.model.index.file.AppendingDocWriter#getLuceneDoc()Lorg/apache/lucene/document/Document;*J
+H
+writer>net.sourceforge.docfetcher.model.index.file.AppendingDocWriter2getLuceneDoc()*
+7:?
+doc8net.sourceforge.docfetcher.model.index.file.FileDocument:
+""B@>
+<net.sourceforge.docfetcher.model.index.file.AppendingContext

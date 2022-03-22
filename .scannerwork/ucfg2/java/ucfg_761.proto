@@ -1,0 +1,29 @@
+
+[org.apache.tika.io.TikaInputStream#get(Ljava/sql/Blob;)Lorg/apache/tika/io/TikaInputStream;K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java›" ›(%"1*„
+1K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaœ œ(œ™
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaœ œ(%'
+%0!org.apache.tika.metadata.Metadata"!org.apache.tika.metadata.Metadata®
+«
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaœ œ('
+%1"+org.apache.tika.metadata.Metadata#<init>()V*)
+'
+%0!org.apache.tika.metadata.Metadataæ
+ã
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaœ œ(((
+%2"org.apache.tika.io.TikaInputStream"~org.apache.tika.io.TikaInputStream#get(Ljava/sql/Blob;Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/io/TikaInputStream;*&"$
+"org.apache.tika.io.TikaInputStream*
+
+blobjava.sql.Blob*)
+'
+%0!org.apache.tika.metadata.Metadata"y
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaœ œ()*
+(
+%2"org.apache.tika.io.TikaInputStream:
+blobjava.sql.BlobB&"$
+"org.apache.tika.io.TikaInputStream

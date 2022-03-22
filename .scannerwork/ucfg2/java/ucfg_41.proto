@@ -1,0 +1,79 @@
+
+Yorg.apache.tika.utils.ServiceLoaderUtils$1#compare(Ljava/lang/Object;Ljava/lang/Object;)IO
+ED:/git_project/code/src/org/apache/tika/utils/ServiceLoaderUtils.java! !("5*¯
+2O
+ED:/git_project/code/src/org/apache/tika/utils/ServiceLoaderUtils.java) )("Y
+O
+ED:/git_project/code/src/org/apache/tika/utils/ServiceLoaderUtils.java) )(
+""*•
+4O
+ED:/git_project/code/src/org/apache/tika/utils/ServiceLoaderUtils.java' '(ãà
+O
+ED:/git_project/code/src/org/apache/tika/utils/ServiceLoaderUtils.java' '(+	
+%6int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+n1java.lang.String*
+
+n2java.lang.String2compareTo(Ljava/lang/String;)"Y
+O
+ED:/git_project/code/src/org/apache/tika/utils/ServiceLoaderUtils.java' '(,
+""*³
+5O
+ED:/git_project/code/src/org/apache/tika/utils/ServiceLoaderUtils.java" "(°­
+O
+ED:/git_project/code/src/org/apache/tika/utils/ServiceLoaderUtils.java" "()
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*	
+
+c1T2
+getClass()½º
+O
+ED:/git_project/code/src/org/apache/tika/utils/ServiceLoaderUtils.java" "(3
+%1java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+
+%0java.lang.Class2	getName()Œ
+‰
+O
+ED:/git_project/code/src/org/apache/tika/utils/ServiceLoaderUtils.java" "(4
+n1java.lang.String"__id*
+
+%1java.lang.String°­
+O
+ED:/git_project/code/src/org/apache/tika/utils/ServiceLoaderUtils.java# #()
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*	
+
+c2T2
+getClass()½º
+O
+ED:/git_project/code/src/org/apache/tika/utils/ServiceLoaderUtils.java# #(3
+%3java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+
+%2java.lang.Class2	getName()Œ
+‰
+O
+ED:/git_project/code/src/org/apache/tika/utils/ServiceLoaderUtils.java# #(4
+n2java.lang.String"__id*
+
+%3java.lang.Stringåâ
+O
+ED:/git_project/code/src/org/apache/tika/utils/ServiceLoaderUtils.java$ $(>
+%4boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+n1java.lang.String*
+org.apache.tika.2startsWith(Ljava/lang/String;)åâ
+O
+ED:/git_project/code/src/org/apache/tika/utils/ServiceLoaderUtils.java% %(>
+%5boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+n2java.lang.String*
+org.apache.tika.2startsWith(Ljava/lang/String;)*	
+2
+4
+1*¯
+1O
+ED:/git_project/code/src/org/apache/tika/utils/ServiceLoaderUtils.java+ +("Y
+O
+ED:/git_project/code/src/org/apache/tika/utils/ServiceLoaderUtils.java+ +(
+"":
+c1T:
+c2TB.,
+*org.apache.tika.utils.ServiceLoaderUtils$1

@@ -1,0 +1,72 @@
+
+Xnet.sourceforge.docfetcher.util.concurrent.MergingBlockingQueue#take()Ljava/lang/Object;f
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/MergingBlockingQueue.java/
+ /("5*ÿ
+2f
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/MergingBlockingQueue.java4 4(É
+Æ
+f
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/MergingBlockingQueue.java4 4(
+%5T"__id*M*KA
+?net.sourceforge.docfetcher.util.concurrent.MergingBlockingQueue"
+item†
+ƒ
+f
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/MergingBlockingQueue.java4 4(
+retT"__id*	
+
+%5TÆ
+Ã
+f
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/MergingBlockingQueue.java5 5(KA
+?net.sourceforge.docfetcher.util.concurrent.MergingBlockingQueue"
+item"__id*
+"""t
+f
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/MergingBlockingQueue.java6 6(
+
+
+retT*Â
+3f
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/MergingBlockingQueue.java3 3(ï
+ì
+f
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/MergingBlockingQueue.java3 3(*
+%3$java.util.concurrent.locks.Condition"__id*P*NA
+?net.sourceforge.docfetcher.util.concurrent.MergingBlockingQueue"	
+notNullÝÚ
+f
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/MergingBlockingQueue.java3 3(
+
+%4void"-java.util.concurrent.locks.Condition#await()V*,
+*
+%3$java.util.concurrent.locks.Condition2await()*
+4*¿
+4f
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/MergingBlockingQueue.java2
+ 2(É
+Æ
+f
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/MergingBlockingQueue.java2
+ 2(
+%2T"__id*M*KA
+?net.sourceforge.docfetcher.util.concurrent.MergingBlockingQueue"
+item*
+2
+3*®
+5f
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/MergingBlockingQueue.java0 0(ç
+ä
+f
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/MergingBlockingQueue.java0 0(%
+%0java.util.concurrent.locks.Lock"__id*M*KA
+?net.sourceforge.docfetcher.util.concurrent.MergingBlockingQueue"
+lockÑÎ
+f
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/MergingBlockingQueue.java0 0(
+
+%1void"'java.util.concurrent.locks.Lock#lock()V*'
+%
+%0java.util.concurrent.locks.Lock2lock()*
+4BCA
+?net.sourceforge.docfetcher.util.concurrent.MergingBlockingQueue

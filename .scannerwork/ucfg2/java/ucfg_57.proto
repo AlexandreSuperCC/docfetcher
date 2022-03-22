@@ -1,0 +1,22 @@
+
+Horg.apache.tika.sax.ContentHandlerDecorator#toString()Ljava/lang/String;T
+HD:/git_project/code/src/org/apache/tika/sax/ContentHandlerDecorator.java¬ ¬("1*à
+1T
+HD:/git_project/code/src/org/apache/tika/sax/ContentHandlerDecorator.java­ ­(¿
+¼
+T
+HD:/git_project/code/src/org/apache/tika/sax/ContentHandlerDecorator.java­ ­( 
+%0org.xml.sax.ContentHandler"__id*<*:-
++org.apache.tika.sax.ContentHandlerDecorator"	
+handlerÐÍ
+T
+HD:/git_project/code/src/org/apache/tika/sax/ContentHandlerDecorator.java­ ­(!
+%1java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*"
+ 
+%0org.xml.sax.ContentHandler2
+toString()"p
+T
+HD:/git_project/code/src/org/apache/tika/sax/ContentHandlerDecorator.java­ ­("
+
+%1java.lang.StringB/-
++org.apache.tika.sax.ContentHandlerDecorator

@@ -1,0 +1,249 @@
+
+ânet.sourceforge.docfetcher.build.BuildMain#recreateJarFile(Ljava/lang/String;ZLnet/sourceforge/docfetcher/build/U$LineSep;)Ljava/io/File;Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javan n($"2"3*Ï
+2Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javap' p(-é
+ã
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javap' p(-
+%0java.lang.String"__id*
+
+%2java.lang.String*
+1*Ï
+3Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javap" p($é
+ã
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javap" p($
+%0java.lang.String"__id*
+
+%1java.lang.String*
+1*÷3
+1Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javap p(.ï
+í
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javap p(.
+	msgPrefixjava.lang.String"__id*
+
+%0java.lang.String¿
+Ω
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaq q(E
+%3java.lang.String"bnet.sourceforge.docfetcher.build.U#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*&"$
+"net.sourceforge.docfetcher.build.U*#!
+Creating %sportable jar file...*
+
+	msgPrefixjava.lang.StringÍ
+Á
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaq q(F
+
+%4void"Bnet.sourceforge.docfetcher.util.Util#println([Ljava/lang/Object;)V*("&
+$net.sourceforge.docfetcher.util.Util*
+
+%3java.lang.String{
+y
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javas! s()
+%5java.lang.String"__id*
+""®
+•
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javas! s(>
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+/system-conf.txtwu
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javas s( 
+%7java.io.File"java.io.File∂
+≥
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javas s(?
+%8"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%7java.io.File*
+
+%6java.lang.Stringí
+è
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javas s(@
+systemConfDestjava.io.File"__id*
+
+%7java.io.File©¶
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javat t(
+%9boolean"java.io.File#delete()Z* 
+
+systemConfDestjava.io.File2delete()|
+z
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javav" v(*
+%10java.lang.String"__id*
+""´
+®
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javav" v(@
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+/program-conf.txtxv
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javav v(!
+%12java.io.File"java.io.Fileπ
+∂
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javav v(A
+%13"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%12java.io.File*
+
+%11java.lang.Stringî
+ë
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javav v(B
+programConfDestjava.io.File"__id*
+
+%12java.io.File´®
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaw w(
+%14boolean"java.io.File#delete()Z*!
+
+programConfDestjava.io.File2delete()|
+z
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaz* z(3
+%15java.lang.String"__id*
+""|
+z
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaz5 z(<
+%16java.lang.String"__id*
+""|
+z
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaz> z(G
+%17java.lang.String"__id*
+""Á
+‰
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javay z(H
+%18java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*
+build/tmp/%s%s_%s_%s.jar*
+
+	jarPrefixjava.lang.String*
+
+%15java.lang.String*
+
+%16java.lang.String*
+
+%17java.lang.Stringxv
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javay y(
+%19java.io.File"java.io.Fileπ
+∂
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javay z(I
+%20"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%19java.io.File*
+
+%18java.lang.Stringê
+ç
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javay z(J
+mainJarFilejava.io.File"__id*
+
+%19java.io.Fileß§
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.java{ {(
+%21boolean"java.io.File#delete()Z*
+
+mainJarFilejava.io.File2delete()∆√
+Q
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.java (
+%22java.lang.String"(java.io.File#getPath()Ljava/lang/String;* 
+
+systemConfDestjava.io.File2	getPath()~
+|
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÅ Å(
+%23java.lang.String"__id*
+""~
+|
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÇ Ç(
+%24java.lang.String"__id*
+""~
+|
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÉ É(
+%25java.lang.String"__id*
+""æ
+ª
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÑ Ñ(/
+%26java.lang.String"-java.lang.String#valueOf(Z)Ljava/lang/String;*"
+java.lang.String*
+""”
+–
+R
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.java} Ñ(0
+%27void"ïnet.sourceforge.docfetcher.build.U#copyTextFile(Ljava/lang/String;Ljava/lang/String;Lnet/sourceforge/docfetcher/build/U$LineSep;[Ljava/lang/String;)V*&"$
+"net.sourceforge.docfetcher.build.U*!
+dist/system-template-conf.txt*
+
+%22java.lang.String*7
+5
+lineSep*net.sourceforge.docfetcher.build.U$LineSep*
+${app_name}*
+
+%23java.lang.String*
+${app_version}*
+
+%24java.lang.String*
+${build_date}*
+
+%25java.lang.String*
+${is_portable}*
+
+%26java.lang.String…∆
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaà à(
+%28java.lang.String"(java.io.File#getPath()Ljava/lang/String;*!
+
+programConfDestjava.io.File2	getPath()î
+ë
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaÜ â(
+%29void"ïnet.sourceforge.docfetcher.build.U#copyTextFile(Ljava/lang/String;Ljava/lang/String;Lnet/sourceforge/docfetcher/build/U$LineSep;[Ljava/lang/String;)V*&"$
+"net.sourceforge.docfetcher.build.U*
+dist/program-conf.txt*
+
+%28java.lang.String*7
+5
+lineSep*net.sourceforge.docfetcher.build.U$LineSepzx
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaé é(
+%30java.io.File"java.io.File≥
+∞
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaé é(*
+%31"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%30java.io.File*
+build/tmp/src±Æ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaì ì($
+%32java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+""2	getName()"t
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/build/BuildMain.javaò ò(
+
+mainJarFilejava.io.File:
+	jarPrefixjava.lang.String:
+"":5
+lineSep*net.sourceforge.docfetcher.build.U$LineSepB.",
+*net.sourceforge.docfetcher.build.BuildMain

@@ -1,0 +1,121 @@
+
+nnet.sourceforge.docfetcher.UtilGlobal#replaceSilently(Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/String;L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaI I(%"startingBlock*¢	
+3L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaM M(£
+ 
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaM M(
+%1java.lang.String"
+__arrayGet*$
+"
+replacementsjava.lang.String[]*
+""‰
+†
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaM M(
+s1java.lang.String"__id*
+
+%1java.lang.String£
+ 
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaN N("
+%2java.lang.String"
+__arrayGet*$
+"
+replacementsjava.lang.String[]*
+""‰
+†
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaN N(#
+s2java.lang.String"__id*
+
+%2java.lang.StringÓÐ
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaO O( 
+%3java.lang.String"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+inputjava.lang.String*
+
+s1java.lang.String*
+
+s2java.lang.String29replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Œ
+‰
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaO O( 
+inputjava.lang.String"__id*
+
+%3java.lang.String*
+3
+1*‡	
+startingBlockL
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaI% J(+¹
+¶
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaH H(	
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+inputjava.lang.String¹
+¶
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaI' I(/
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+inputjava.lang.StringŠ
+‡
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaI7 I(<
+inputjava.lang.String"__annotation*
+
+%4*
+
+%5Â
+¿
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaH H(	
+%6"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*$
+"
+replacementsjava.lang.String[]Â
+¿
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaJ J(
+%7"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*$
+"
+replacementsjava.lang.String[]“
+
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaJ J(*"
+replacementsjava.lang.String[]"__annotation*
+
+%6*
+
+%7*
+5*Ÿ
+5L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaK K(Ã
+À
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaK K(.
+
+%0void"2net.sourceforge.docfetcher.util.Util#checkThat(Z)V*("&
+$net.sourceforge.docfetcher.util.Util*
+""*
+3
+1*¾
+1L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaQ	 Q("k
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.javaQ Q(
+
+inputjava.lang.String:
+inputjava.lang.String:"
+replacementsjava.lang.String[]B)"'
+%net.sourceforge.docfetcher.UtilGlobal

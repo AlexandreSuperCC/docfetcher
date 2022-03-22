@@ -1,0 +1,138 @@
+
+Änet.contentobjects.jnotify.linux.JNotifyAdapterLinux#createWatch(Lnet/contentobjects/jnotify/linux/JNotifyAdapterLinux$WatchData;ZLjava/io/File;IIZLnet/contentobjects/jnotify/JNotifyListener;)Lnet/contentobjects/jnotify/linux/JNotifyAdapterLinux$WatchData;]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaà à("3*£
+2]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaí í(’
+“
+]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaí í(
+%11java.util.Hashtable"__id*O*M6
+4net.contentobjects.jnotify.linux.JNotifyAdapterLinux"
+_autoWatchesPaths·
+ﬁ
+]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaí í(*
+%12java.lang.String"__mapSet*
+
+%11java.util.Hashtable*
+
+absPathjava.lang.String*
+
+absPathjava.lang.String*
+1*‹
+3]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaä ä(«ƒ
+]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaä ä(!
+%0java.lang.String"(java.io.File#getPath()Ljava/lang/String;*
+
+pathjava.io.File2	getPath()ü
+ú
+]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaä ä("
+absPathjava.lang.String"__id*
+
+%0java.lang.Stringó
+î
+]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaå å(:	
+%1int"Mnet.contentobjects.jnotify.linux.JNotify_linux#addWatch(Ljava/lang/String;I)I*2"0
+.net.contentobjects.jnotify.linux.JNotify_linux*
+
+absPathjava.lang.String*
+""ËÂ
+]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaç ç(%D
+%2>net.contentobjects.jnotify.linux.JNotifyAdapterLinux$WatchData">net.contentobjects.jnotify.linux.JNotifyAdapterLinux$WatchData›
+⁄
+]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaç ç({
+%3"Ãnet.contentobjects.jnotify.linux.JNotifyAdapterLinux$WatchData#<init>(Lnet/contentobjects/jnotify/linux/JNotifyAdapterLinux$WatchData;ZLjava/lang/String;IIIIZLnet/contentobjects/jnotify/JNotifyListener;)V*F
+D
+%2>net.contentobjects.jnotify.linux.JNotifyAdapterLinux$WatchData*S
+Q
+parentWatchData>net.contentobjects.jnotify.linux.JNotifyAdapterLinux$WatchData*
+""*
+
+absPathjava.lang.String*
+""*
+""*
+""*
+""*
+""*8
+6
+listener*net.contentobjects.jnotify.JNotifyListener˝
+˙
+]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaç ç(|K
+	watchData>net.contentobjects.jnotify.linux.JNotifyAdapterLinux$WatchData"__id*F
+D
+%2>net.contentobjects.jnotify.linux.JNotifyAdapterLinux$WatchDataŒ
+À
+]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaé é(
+%4java.util.Hashtable"__id*I*G6
+4net.contentobjects.jnotify.linux.JNotifyAdapterLinux"
+_linuxWd2WdÀ
+»
+]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaé é(*
+%5java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*"
+java.lang.Integer*
+""À
+»
+]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaé, é(?
+%6java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*"
+java.lang.Integer*
+""ÿ
+’
+]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaé é(@
+%7java.lang.Integer"__mapSet*
+
+%4java.util.Hashtable*
+
+%5java.lang.Integer*
+
+%6java.lang.IntegerÀ
+»
+]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaè è(
+
+%8java.util.Hashtable"__id*F*D6
+4net.contentobjects.jnotify.linux.JNotifyAdapterLinux"
+
+_id2DataÀ
+»
+]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaè è("
+%9java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*"
+java.lang.Integer*
+""∫
+∑
+]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaè è(.E
+%10>net.contentobjects.jnotify.linux.JNotifyAdapterLinux$WatchData"__mapSet*
+
+%8java.util.Hashtable*
+
+%9java.lang.Integer*M
+K
+	watchData>net.contentobjects.jnotify.linux.JNotifyAdapterLinux$WatchData*
+2
+1*ì
+1]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaî	 î("Æ
+]
+QD:/git_project/code/src/net/contentobjects/jnotify/linux/JNotifyAdapterLinux.javaî î(M
+K
+	watchData>net.contentobjects.jnotify.linux.JNotifyAdapterLinux$WatchData:Q
+parentWatchData>net.contentobjects.jnotify.linux.JNotifyAdapterLinux$WatchData:
+"":
+pathjava.io.File:
+"":
+"":
+"":6
+listener*net.contentobjects.jnotify.JNotifyListenerB86
+4net.contentobjects.jnotify.linux.JNotifyAdapterLinux

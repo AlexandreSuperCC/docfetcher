@@ -1,0 +1,22 @@
+
+nnet.sourceforge.docfetcher.model.IndexRegistry#getSearcher()Lnet/sourceforge/docfetcher/model/search/Searcher;W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÊ Ê("1*‘
+1W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÏ	 Ï(æ
+ã
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÏ	 Ï(@
+%0:net.sourceforge.docfetcher.util.concurrent.BlockingWrapper"__id*@*>0
+.net.sourceforge.docfetcher.model.IndexRegistry"
+
+searcher³°
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÏ	 Ï(6
+%10net.sourceforge.docfetcher.model.search.Searcher"Rnet.sourceforge.docfetcher.util.concurrent.BlockingWrapper#get()Ljava/lang/Object;*B
+@
+%0:net.sourceforge.docfetcher.util.concurrent.BlockingWrapper2get()"“
+W
+KD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexRegistry.javaÏ Ï(8
+6
+%10net.sourceforge.docfetcher.model.search.SearcherB20
+.net.sourceforge.docfetcher.model.IndexRegistry

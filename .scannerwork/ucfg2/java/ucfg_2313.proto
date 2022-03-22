@@ -1,0 +1,59 @@
+
+8org.apache.tika.sax.SecureContentHandler#getByteCount()JQ
+ED:/git_project/code/src/org/apache/tika/sax/SecureContentHandler.javaÄ Ä("8*³
+3Q
+ED:/git_project/code/src/org/apache/tika/sax/SecureContentHandler.javaÉ É(,"[
+Q
+ED:/git_project/code/src/org/apache/tika/sax/SecureContentHandler.javaÉ É(,
+""*ñ
+4Q
+ED:/git_project/code/src/org/apache/tika/sax/SecureContentHandler.javaÉ É(À
+½
+Q
+ED:/git_project/code/src/org/apache/tika/sax/SecureContentHandler.javaÉ É((
+%4"org.apache.tika.io.TikaInputStream"__id*8*6*
+(org.apache.tika.sax.SecureContentHandler"
+streamÐÍ
+Q
+ED:/git_project/code/src/org/apache/tika/sax/SecureContentHandler.javaÉ É(+
+
+%5long"1org.apache.tika.io.TikaInputStream#getPosition()J**
+(
+%4"org.apache.tika.io.TikaInputStream2getPosition()*
+3*³
+5Q
+ED:/git_project/code/src/org/apache/tika/sax/SecureContentHandler.javaÇ Ç(*"[
+Q
+ED:/git_project/code/src/org/apache/tika/sax/SecureContentHandler.javaÇ Ç(*
+""*í
+6Q
+ED:/git_project/code/src/org/apache/tika/sax/SecureContentHandler.javaÇ Ç(À
+½
+Q
+ED:/git_project/code/src/org/apache/tika/sax/SecureContentHandler.javaÇ Ç((
+%2"org.apache.tika.io.TikaInputStream"__id*8*6*
+(org.apache.tika.sax.SecureContentHandler"
+streamÌÉ
+Q
+ED:/git_project/code/src/org/apache/tika/sax/SecureContentHandler.javaÇ Ç()
+
+%3long"/org.apache.tika.io.TikaInputStream#getLength()J**
+(
+%2"org.apache.tika.io.TikaInputStream2getLength()*
+5*ó
+8Q
+ED:/git_project/code/src/org/apache/tika/sax/SecureContentHandler.javaÆ Æ(À
+½
+Q
+ED:/git_project/code/src/org/apache/tika/sax/SecureContentHandler.javaÆ Æ((
+%0"org.apache.tika.io.TikaInputStream"__id*8*6*
+(org.apache.tika.sax.SecureContentHandler"
+streamÏÌ
+Q
+ED:/git_project/code/src/org/apache/tika/sax/SecureContentHandler.javaÆ Æ("
+%1boolean"/org.apache.tika.io.TikaInputStream#hasLength()Z**
+(
+%0"org.apache.tika.io.TikaInputStream2hasLength()*
+4
+6B,*
+(org.apache.tika.sax.SecureContentHandler

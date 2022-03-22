@@ -1,0 +1,100 @@
+
+Öorg.apache.tika.utils.ConcurrentUtils#execute(Lorg/apache/tika/parser/ParseContext;Ljava/lang/Runnable;)Ljava/util/concurrent/Future;L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java) )( "4*Œ
+2L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java4 4($œÃ
+L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java4 4(5!
+%6java.util.concurrent.Future"^java.util.concurrent.ExecutorService#submit(Ljava/lang/Runnable;)Ljava/util/concurrent/Future;*9
+7
+executorService$java.util.concurrent.ExecutorService* 
+
+runnablejava.lang.Runnable2submit(Ljava/lang/Runnable;)£
+†
+L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java4 4(5%
+futurejava.util.concurrent.Future"__id*#
+!
+%6java.util.concurrent.Future*
+1*Ë
+3L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java./ .(7ôñ
+L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java." .(.%
+%1java.util.concurrent.FutureTask"java.util.concurrent.FutureTask˚
+¯
+L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java. .(>
+%2"Ojava.util.concurrent.FutureTask#<init>(Ljava/lang/Runnable;Ljava/lang/Object;)V*'
+%
+%1java.util.concurrent.FutureTask* 
+
+runnablejava.lang.Runnable*
+""©
+¶
+L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java. .(?'
+taskjava.util.concurrent.FutureTask"__id*'
+%
+%1java.util.concurrent.FutureTaskzx
+L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java/  /(&
+%3java.lang.Thread"java.lang.ThreadÔ
+Ï
+L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java/ /(;
+%4"@java.lang.Thread#<init>(Ljava/lang/Runnable;Ljava/lang/String;)V*
+
+%3java.lang.Thread*)
+'
+taskjava.util.concurrent.FutureTask*
+Tika Threadç
+ä
+L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java/ /(<
+threadjava.lang.Thread"__id*
+
+%3java.lang.Threadüú
+L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java0 0(
+
+%5void"java.lang.Thread#start()V*
+
+threadjava.lang.Thread2start()©
+¶
+L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java1 1(%
+futurejava.util.concurrent.Future"__id*)
+'
+taskjava.util.concurrent.FutureTask*
+1*√
+4L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java+ +(Ü
+É
+L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java+ +(%
+futurejava.util.concurrent.Future"__id*
+""ùö
+L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java,* ,(L*
+%0$java.util.concurrent.ExecutorService"Lorg.apache.tika.parser.ParseContext#get(Ljava/lang/Class;)Ljava/lang/Object;*0
+.
+context#org.apache.tika.parser.ParseContext*
+""2get(Ljava/lang/Class;)æ
+ª
+L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java, ,(M7
+executorService$java.util.concurrent.ExecutorService"__id*,
+*
+%0$java.util.concurrent.ExecutorService*
+2
+3* 
+1L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java7 7("w
+L
+BD:/git_project/code/src/org/apache/tika/utils/ConcurrentUtils.java7 7('
+%
+futurejava.util.concurrent.Future:.
+context#org.apache.tika.parser.ParseContext:
+runnablejava.lang.RunnableB)"'
+%org.apache.tika.utils.ConcurrentUtils

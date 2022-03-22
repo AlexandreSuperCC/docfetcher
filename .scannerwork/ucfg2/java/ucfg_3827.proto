@@ -1,0 +1,25 @@
+
+dnet.sourceforge.docfetcher.gui.preview.AppendingStyledTextContent#getTextRange(II)Ljava/lang/String;j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.java­ ­("1*í
+1j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.java®	 ®(ç
+ä
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.java®	 ®(
+%0java.lang.StringBuilder"__id*Q*OC
+Anet.sourceforge.docfetcher.gui.preview.AppendingStyledTextContent"
+bufferˆ…
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.java®	 ®(0
+%1java.lang.String"?java.lang.AbstractStringBuilder#substring(II)Ljava/lang/String;*
+
+%0java.lang.StringBuilder*
+""*
+""2substring(II)"†
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.java® ®(1
+
+%1java.lang.String:
+"":
+""BEC
+Anet.sourceforge.docfetcher.gui.preview.AppendingStyledTextContent

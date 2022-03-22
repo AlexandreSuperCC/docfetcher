@@ -1,0 +1,124 @@
+
+onet.sourceforge.docfetcher.model.parse.ParseServiceTest#equalClasses(Ljava/util/Collection;[Ljava/lang/Class;)Z^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javai i("startingBlock*²
+2^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javan n(Ž
+‹
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javan n(
+elementjava.lang.Object"__id*
+""³
+°
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javan n(
+elementjava.lang.Object"
+__arrayGet*
+
+coljava.util.Collection*
+""*
+5
+1*ù	
+startingBlock^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javai j(&Í
+Ê
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javah h(	
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+coljava.util.CollectionÍ
+Ê
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javai i('
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+coljava.util.Collectionž
+›
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javai6 i(9
+coljava.util.Collection"__annotation*
+
+%4*
+
+%5Î
+Ë
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javah h(	
+%6"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+classesjava.lang.Class[]Î
+Ë
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javaj	 j(
+%7"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+classesjava.lang.Class[]Ÿ
+œ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javaj j(%
+classesjava.lang.Class[]"__annotation*
+
+%6*
+
+%7*
+9*Í
+4^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javap p("h
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javap p(
+""*ã
+5^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javao o(ÓÐ
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javao o(
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+elementjava.lang.Object2
+getClass()®
+«
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javao" o(,
+%2java.lang.Class"
+__arrayGet*
+
+classesjava.lang.Class[]*
+""îë
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javao o(-
+%3boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*
+
+%1java.lang.Class*
+
+%2java.lang.Class2equals(Ljava/lang/Object;)*
+2
+4*Í
+8^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javal
+ l("h
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javal l(
+""*¡
+9^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javak k(	³°
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javak k(	
+%0int"java.util.Collection#size()I*
+
+coljava.util.Collection2size()*
+2
+8*Í
+1^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javas	 s("h
+^
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseServiceTest.javas s(
+"":
+coljava.util.Collection:
+classesjava.lang.Class[]B;9
+7net.sourceforge.docfetcher.model.parse.ParseServiceTest

@@ -1,0 +1,44 @@
+
+Vnet.sourceforge.docfetcher.util.gui.CocoaUIEnhancer#convertToLong(Ljava/lang/Object;)J\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaË Ë("2"4"1*ó
+2\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaÓ Ó("ö
+ó
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaÓ Ó(#
+ljava.lang.Long"__id*
+
+objectjava.lang.ObjectÆ´
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaÔ Ô( 
+
+%1long"java.lang.Long#longValue()J*
+
+ljava.lang.Long2longValue()"f
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaÔ Ô(!
+""*†
+4\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaÍ" Í((ù
+ö
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaÍ Í()
+ijava.lang.Integer"__id*
+
+objectjava.lang.Object¥±
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaÎ Î( 
+
+%0long"java.lang.Integer#longValue()J*
+
+ijava.lang.Integer2longValue()"f
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaÎ Î(!
+""*…
+1\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaÒ Ò("f
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.javaÒ Ò(
+"":
+objectjava.lang.ObjectB75
+3net.sourceforge.docfetcher.util.gui.CocoaUIEnhancer

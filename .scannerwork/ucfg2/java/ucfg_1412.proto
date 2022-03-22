@@ -1,0 +1,63 @@
+
+[net.sourceforge.docfetcher.util.Util#toForwardSlashes(Ljava/lang/String;)Ljava/lang/String;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaž ž(&"startingBlock*¿
+2M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java 
+  ("k
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java   (
+
+pathjava.lang.String*¶
+3M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaŸ Ÿ(
+ÙÖ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaŸ Ÿ(
+%0boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+pathjava.lang.String*
+\\\\2startsWith(Ljava/lang/String;)*
+2
+1*è
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaž& ž(<¹
+¶
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java (	
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+pathjava.lang.String¹
+¶
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaž' ž(/
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+pathjava.lang.StringŠ
+‡
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaž7 ž(;
+pathjava.lang.String"__annotation*
+
+%2*
+
+%3*
+3*’
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¡	 ¡(ÒÏ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¡	 ¡( 
+%1java.lang.String".java.lang.String#replace(CC)Ljava/lang/String;*
+
+pathjava.lang.String*
+\\*
+/2replace(CC)"i
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¡ ¡(!
+
+%1java.lang.String:
+pathjava.lang.StringB("&
+$net.sourceforge.docfetcher.util.Util

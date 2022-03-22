@@ -1,0 +1,17 @@
+
+Sorg.apache.tika.language.detect.LanguageNames#hasMacroLanguage(Ljava/lang/String;)ZT
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java1 1('"1*­
+1T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java2 2(ñ
+î
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java2 2(4
+%0java.util.Locale"Ejava.util.Locale#forLanguageTag(Ljava/lang/String;)Ljava/util/Locale;*"
+java.util.Locale*!
+
+languageTagjava.lang.String"^
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java4 4(
+"":
+languageTagjava.lang.StringB1"/
+-org.apache.tika.language.detect.LanguageNames

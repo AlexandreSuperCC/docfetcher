@@ -1,0 +1,77 @@
+
+Ånet.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog#addButton(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;h
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/MultipleChoiceDialog.javaÉ
+ É("startingBlock*ô
+3h
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/MultipleChoiceDialog.javaÑ Ñ(§
+°
+h
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/MultipleChoiceDialog.javaÑ Ñ(
+%0java.lang.String"Wnet.sourceforge.docfetcher.util.Util#checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+textjava.lang.String*
+1*Ü
+
+startingBlockh
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/MultipleChoiceDialog.javaÉ É(I’
+“
+h
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/MultipleChoiceDialog.javaÇ Ç(
+
+%1"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+textjava.lang.String‘
+—
+h
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/MultipleChoiceDialog.javaÉ É(
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+textjava.lang.String•
+¢
+h
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/MultipleChoiceDialog.javaÉ* É(.
+textjava.lang.String"__annotation*
+
+%1*
+
+%2»
+≈
+h
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/MultipleChoiceDialog.javaÇ Ç(
+
+%3"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+answerA»
+≈
+h
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/MultipleChoiceDialog.javaÉ0 É(9
+%4"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+answerAò
+ï
+h
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/MultipleChoiceDialog.javaÉB É(H
+answerA"__annotation*
+
+%3*
+
+%4*
+3*Ë
+1h
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/MultipleChoiceDialog.javaî	 î("y
+h
+\D:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/MultipleChoiceDialog.javaî î(
+
+answerA:
+textjava.lang.String:
+answerABCA
+?net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog

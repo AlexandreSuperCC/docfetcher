@@ -1,0 +1,96 @@
+
+€net.sourceforge.docfetcher.model.index.file.FileDocument#isModified(Lnet/sourceforge/docfetcher/model/index/file/FileDocument;)Z_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javax x("startingBlock*Ï
+2_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.java{
+ {("i
+_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.java{ {(
+""*ô
+3_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javay y(Œ‰
+_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javay y(
+%0java.lang.String"Enet.sourceforge.docfetcher.model.TreeNode#getName()Ljava/lang/String;*<:
+8net.sourceforge.docfetcher.model.index.file.FileDocument2	getName()”‘
+_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javay" y(2
+%1java.lang.String"Enet.sourceforge.docfetcher.model.TreeNode#getName()Ljava/lang/String;*D
+B
+newDoc8net.sourceforge.docfetcher.model.index.file.FileDocument2	getName()ñî
+_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javay y(3
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String*
+
+%1java.lang.String2equals(Ljava/lang/Object;)ß
+Ü
+_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javay y(4
+
+%3void"2net.sourceforge.docfetcher.util.Util#checkThat(Z)V*("&
+$net.sourceforge.docfetcher.util.Util*
+
+%2booleanÿü
+_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaz z(
+
+%4long"<net.sourceforge.docfetcher.model.Document#getLastModified()J*<:
+8net.sourceforge.docfetcher.model.index.file.FileDocument2getLastModified()‡„
+_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javaz z(3
+
+%5long"<net.sourceforge.docfetcher.model.Document#getLastModified()J*D
+B
+newDoc8net.sourceforge.docfetcher.model.index.file.FileDocument2getLastModified()*
+2
+1*®
+startingBlock_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javax x(8õ
+ò
+_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javax x(#
+%9"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*D
+B
+newDoc8net.sourceforge.docfetcher.model.index.file.FileDocument¾
+»
+_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.javax1 x(7B
+newDoc8net.sourceforge.docfetcher.model.index.file.FileDocument"__annotation*
+
+%9*
+3*¼	
+1_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.java|	 |(ö
+ó
+_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.java| |($<
+%66net.sourceforge.docfetcher.model.index.file.FileFolder"__id*L*J:
+8net.sourceforge.docfetcher.model.index.file.FileDocument"
+
+htmlFolderþ
+û
+_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.java|& |(7<
+%76net.sourceforge.docfetcher.model.index.file.FileFolder"__id*T*R
+B
+newDoc8net.sourceforge.docfetcher.model.index.file.FileDocument"
+
+htmlFolderð
+í
+_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.java|	 |(8
+%8boolean"¼net.sourceforge.docfetcher.model.index.file.FileDocument#isFolderModified(Lnet/sourceforge/docfetcher/model/index/file/FileFolder;Lnet/sourceforge/docfetcher/model/index/file/FileFolder;)Z*<":
+8net.sourceforge.docfetcher.model.index.file.FileDocument*>
+<
+%66net.sourceforge.docfetcher.model.index.file.FileFolder*>
+<
+%76net.sourceforge.docfetcher.model.index.file.FileFolder"i
+_
+UD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileDocument.java| |(9
+"":B
+newDoc8net.sourceforge.docfetcher.model.index.file.FileDocumentB<:
+8net.sourceforge.docfetcher.model.index.file.FileDocument

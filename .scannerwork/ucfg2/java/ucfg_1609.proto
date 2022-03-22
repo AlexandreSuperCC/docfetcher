@@ -1,0 +1,16 @@
+
+iorg.apache.tika.parser.microsoft.OfficeParser$POIFSDocumentType#getType()Lorg/apache/tika/mime/MediaType;T
+JD:/git_project/code/src/org/apache/tika/parser/microsoft/OfficeParser.javaA A( "1*°
+1T
+JD:/git_project/code/src/org/apache/tika/parser/microsoft/OfficeParser.javaB B(Ô
+Ñ
+T
+JD:/git_project/code/src/org/apache/tika/parser/microsoft/OfficeParser.javaB B($
+%0org.apache.tika.mime.MediaType"__id*M*KA
+?org.apache.tika.parser.microsoft.OfficeParser$POIFSDocumentType"
+type"~
+T
+JD:/git_project/code/src/org/apache/tika/parser/microsoft/OfficeParser.javaB B(&
+$
+%0org.apache.tika.mime.MediaTypeBCA
+?org.apache.tika.parser.microsoft.OfficeParser$POIFSDocumentType

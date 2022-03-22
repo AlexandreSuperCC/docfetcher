@@ -1,0 +1,70 @@
+
+Vnet.sourceforge.docfetcher.util.Util#isCanonicallyEqual(Ljava/io/File;Ljava/io/File;)ZM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaã ã()"startingBlock*´
+2M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaé
+ é("W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaé é(
+""*⁄
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaã) å(!∑
+¥
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaã+ ã(4
+%3"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+file1java.io.File~
+|
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaã: ã(?
+file1java.io.File"__annotation*
+
+%3∑
+¥
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaå å(
+%4"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+file2java.io.File~
+|
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaå å( 
+file2java.io.File"__annotation*
+
+%4*
+2
+1*É
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaè	 è(˛
+˚
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaè	 è( 
+%0java.io.File"Snet.sourceforge.docfetcher.util.Util#getCanonicalFile(Ljava/io/File;)Ljava/io/File;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+file1java.io.File˛
+˚
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaè( è(?
+%1java.io.File"Snet.sourceforge.docfetcher.util.Util#getCanonicalFile(Ljava/io/File;)Ljava/io/File;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+file2java.io.File”–
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaè	 è(@
+%2boolean"(java.io.File#equals(Ljava/lang/Object;)Z*
+
+%0java.io.File*
+
+%1java.io.File2equals(Ljava/lang/Object;)"W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaè è(A
+"":
+file1java.io.File:
+file2java.io.FileB("&
+$net.sourceforge.docfetcher.util.Util

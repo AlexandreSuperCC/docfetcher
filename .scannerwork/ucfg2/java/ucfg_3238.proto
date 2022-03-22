@@ -1,0 +1,64 @@
+
+nnet.sourceforge.docfetcher.model.Path#createSubPath(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/Path;L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaw w("startingBlock*
+startingBlockL
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaw w(4º
+π
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javav v(	
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+pathPartjava.lang.Stringº
+π
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaw w(#
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+pathPartjava.lang.Stringç
+ä
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaw+ w(3
+pathPartjava.lang.String"__annotation*
+
+%4*
+
+%5*
+1*œ
+1L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javax x(§
+°
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javax  x($
+%0java.lang.String"__id*3*1'
+%net.sourceforge.docfetcher.model.Path"
+path«
+ƒ
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javax x(/
+%1java.lang.String"xnet.sourceforge.docfetcher.util.Util#joinPath(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+%0java.lang.String*
+
+pathPartjava.lang.String•¢
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javax x(+
+%2%net.sourceforge.docfetcher.model.Path"%net.sourceforge.docfetcher.model.Path„
+‡
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javax	 x(0
+%3"Anet.sourceforge.docfetcher.model.Path#<init>(Ljava/lang/String;)V*-
++
+%2%net.sourceforge.docfetcher.model.Path*
+
+%1java.lang.String"}
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javax x(1-
++
+%2%net.sourceforge.docfetcher.model.Path:
+pathPartjava.lang.StringB)'
+%net.sourceforge.docfetcher.model.Path

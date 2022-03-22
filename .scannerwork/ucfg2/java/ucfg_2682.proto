@@ -1,0 +1,16 @@
+
+rorg.apache.tika.parser.chm.core.ChmExtractor#getChmItspHeader()Lorg/apache/tika/parser/chm/accessor/ChmItspHeader;S
+ID:/git_project/code/src/org/apache/tika/parser/chm/core/ChmExtractor.javaI I(*"1* 
+1S
+ID:/git_project/code/src/org/apache/tika/parser/chm/core/ChmExtractor.javaJ J(‹
+Ÿ
+S
+ID:/git_project/code/src/org/apache/tika/parser/chm/core/ChmExtractor.javaJ J(7
+%01org.apache.tika.parser.chm.accessor.ChmItspHeader"__id*C*A.
+,org.apache.tika.parser.chm.core.ChmExtractor"
+chmItspHeader"ê
+S
+ID:/git_project/code/src/org/apache/tika/parser/chm/core/ChmExtractor.javaJ J(9
+7
+%01org.apache.tika.parser.chm.accessor.ChmItspHeaderB0.
+,org.apache.tika.parser.chm.core.ChmExtractor

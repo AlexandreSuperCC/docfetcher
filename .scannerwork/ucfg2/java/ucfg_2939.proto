@@ -1,0 +1,97 @@
+
+null#compare(LMatch;LMatch;)I\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java– –("9*É
+2\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¡ ¡("f
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¡ ¡(
+""*É
+5\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaŸ Ÿ("f
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaŸ Ÿ(
+""*É
+8\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaš š("f
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaš š(
+""*½
+9\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java˜ ˜(¤¡
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java˜  ˜(2	
+%0int"Match#getMatchCount()I*
+
+m1Match2getMatchCount()¤¡
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java˜4 ˜(F	
+%1int"Match#getMatchCount()I*
+
+m2Match2getMatchCount()*
+2
+5
+8
+1*þ
+1\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¤ ¤(·
+´
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¤ ¤(3
+%2-net.sourceforge.docfetcher.model.parse.Parser"__id**
+
+m1Match"
+parseréæ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¤ ¤('
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+3
+%2-net.sourceforge.docfetcher.model.parse.Parser2
+getClass()ÖÓ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¤ ¤(7
+%4java.lang.String"1java.lang.Class#getSimpleName()Ljava/lang/String;*
+
+%3java.lang.Class2getSimpleName()œ
+™
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¤ ¤(8
+name1java.lang.String"__id*
+
+%4java.lang.String·
+´
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¥ ¥(3
+%5-net.sourceforge.docfetcher.model.parse.Parser"__id**
+
+m2Match"
+parseréæ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¥ ¥('
+%6java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+3
+%5-net.sourceforge.docfetcher.model.parse.Parser2
+getClass()ÖÓ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¥ ¥(7
+%7java.lang.String"1java.lang.Class#getSimpleName()Ljava/lang/String;*
+
+%6java.lang.Class2getSimpleName()œ
+™
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¥ ¥(8
+name2java.lang.String"__id*
+
+%7java.lang.Stringöó
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¦ ¦(!	
+%8int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+name1java.lang.String*
+
+name2java.lang.String2compareTo(Ljava/lang/String;)"f
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¦ ¦("
+"":
+m1Match:
+m2MatchB><
+:Lnet/sourceforge/docfetcher/model/parse/ParseService$5480;

@@ -1,0 +1,59 @@
+
+8net.sourceforge.docfetcher.model.Folder#getChildCount()IP
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaî î(,"5*Ø
+2P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaô ô(±
+Æ
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaô ô(
+%4java.util.HashMap"__id*;*9)
+'net.sourceforge.docfetcher.model.Folder"
+
+subFoldersûõ
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaô ô(	
+%5int"java.util.HashMap#size()I*
+
+%4java.util.HashMap2size()*
+1*ë
+3P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaò ò(±
+Æ
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaò ò(
+%3java.util.HashMap"__id*;*9)
+'net.sourceforge.docfetcher.model.Folder"
+
+subFolders*
+2
+1*Æ
+4P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaó ó(∞
+≠
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaó ó(
+%1java.util.HashMap"__id*:*8)
+'net.sourceforge.docfetcher.model.Folder"
+	documentsûõ
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaó ó(	
+%2int"java.util.HashMap#size()I*
+
+%1java.util.HashMap2size()*
+3*ê
+5P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaï ï(∞
+≠
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javañ ñ(
+%0java.util.HashMap"__id*:*8)
+'net.sourceforge.docfetcher.model.Folder"
+	documents*
+3
+4*±
+1P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaö	 ö("Z
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaö ö(
+""B+)
+'net.sourceforge.docfetcher.model.Folder

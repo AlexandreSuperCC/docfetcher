@@ -1,0 +1,23 @@
+
+inet.sourceforge.docfetcher.model.index.file.HtmlUtil#getHtmlDirBasename(Ljava/io/File;)Ljava/lang/String;[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlUtil.java< <(("1*Þ
+1[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlUtil.java=	 =(ÄÁ
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlUtil.java=% =(2
+%0java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+dirjava.io.File2	getName()»
+¸
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlUtil.java=	 =(3
+%1java.lang.String"mnet.sourceforge.docfetcher.model.index.file.HtmlUtil#getHtmlDirBasename(Ljava/lang/String;)Ljava/lang/String;*8"6
+4net.sourceforge.docfetcher.model.index.file.HtmlUtil*
+
+%0java.lang.String"w
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/HtmlUtil.java= =(4
+
+%1java.lang.String:
+dirjava.io.FileB8"6
+4net.sourceforge.docfetcher.model.index.file.HtmlUtil

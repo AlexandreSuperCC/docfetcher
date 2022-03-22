@@ -1,0 +1,106 @@
+
+jnet.sourceforge.docfetcher.model.UtilModel#getRelativePath(Ljava/io/File;Ljava/io/File;)Ljava/lang/String;S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java½ ½(%"startingBlock*Á
+startingBlockS
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java½% ¾(!¾
+»
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java» »(	
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+srcFilejava.io.FileÍ
+Ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java¼ ¼(
+%4"
+__annotate*FD
+Bnet.sourceforge.docfetcher.util.annotations.VisibleForPackageGroup*
+
+srcFilejava.io.File¾
+»
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java½' ½(/
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+srcFilejava.io.File—
+”
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java½5 ½(<
+srcFilejava.io.File"__annotation*
+
+%3*
+
+%4*
+
+%5¾
+»
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java» »(	
+%6"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+dstFilejava.io.FileÍ
+Ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java¼ ¼(
+%7"
+__annotate*FD
+Bnet.sourceforge.docfetcher.util.annotations.VisibleForPackageGroup*
+
+dstFilejava.io.File¾
+»
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java¾ ¾(
+%8"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+dstFilejava.io.File—
+”
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java¾ ¾( 
+dstFilejava.io.File"__annotation*
+
+%6*
+
+%7*
+
+%8*
+1*¶
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java¿	 ¿(Ž
+‹
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÀ À("
+%0java.lang.String"Wnet.sourceforge.docfetcher.util.Util#getSystemAbsPath(Ljava/io/File;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+srcFilejava.io.FileŽ
+‹
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.javaÁ Á("
+%1java.lang.String"Wnet.sourceforge.docfetcher.util.Util#getSystemAbsPath(Ljava/io/File;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+dstFilejava.io.FileÈ
+Å
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java¿	 Â(
+%2java.lang.String"rnet.sourceforge.docfetcher.model.UtilModel#getRelativePath(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*.",
+*net.sourceforge.docfetcher.model.UtilModel*
+
+%0java.lang.String*
+
+%1java.lang.String"o
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/model/UtilModel.java¿ Â(
+
+%2java.lang.String:
+srcFilejava.io.File:
+dstFilejava.io.FileB.",
+*net.sourceforge.docfetcher.model.UtilModel

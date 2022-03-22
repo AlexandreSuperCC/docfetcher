@@ -1,0 +1,51 @@
+
+]org.apache.tika.io.IOUtils#readLines(Ljava/io/InputStream;Ljava/lang/String;)Ljava/util/List;C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaœ œ(("2"1*ï
+2C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java— —(Î
+Ë
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java— —(#
+%0java.util.List"Korg.apache.tika.io.IOUtils#readLines(Ljava/io/InputStream;)Ljava/util/List;*"
+org.apache.tika.io.IOUtils*
+
+inputjava.io.InputStream"]
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java— —($
+
+%0java.util.List*∑
+1C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java”= ”(BÑÅ
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java”+ ”(<
+%1java.io.InputStreamReader"java.io.InputStreamReader˝
+˙
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java”' ”(M
+%2"Jjava.io.InputStreamReader#<init>(Ljava/io/InputStream;Ljava/lang/String;)V*!
+
+%1java.io.InputStreamReader*
+
+inputjava.io.InputStream*
+
+encodingjava.lang.Stringñ
+ì
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java” ”(N#
+readerjava.io.InputStreamReader"__id*!
+
+%1java.io.InputStreamReaderÌ
+Í
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java‘ ‘($
+%3java.util.List"Forg.apache.tika.io.IOUtils#readLines(Ljava/io/Reader;)Ljava/util/List;*"
+org.apache.tika.io.IOUtils*%
+#
+readerjava.io.InputStreamReader"]
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java‘ ‘(%
+
+%3java.util.List:
+inputjava.io.InputStream:
+encodingjava.lang.StringB"
+org.apache.tika.io.IOUtils

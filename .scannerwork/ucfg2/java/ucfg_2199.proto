@@ -1,0 +1,20 @@
+
+Rnet.sourceforge.docfetcher.model.parse.EpubParser#getTypeLabel()Ljava/lang/String;Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaÇ Ç("1*à
+1Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaÈ	 È(™
+–
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaÈ	 È(*
+%0$net.sourceforge.docfetcher.enums.Msg"__id*
+""êç
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaÈ	 È( 
+%1java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*,
+*
+%0$net.sourceforge.docfetcher.enums.Msg2get()"v
+Z
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.javaÈ È(!
+
+%1java.lang.StringB53
+1net.sourceforge.docfetcher.model.parse.EpubParser

@@ -1,0 +1,68 @@
+
+Ynet.sourceforge.docfetcher.model.Path#normalizePath(Ljava/lang/String;)Ljava/lang/String;L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaZ Z($"startingBlock*ä
+startingBlockL
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaZ$ Z(:¸
+µ
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaY Y(	
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+pathjava.lang.String¸
+µ
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaZ% Z(-
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+pathjava.lang.String‰
+†
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.javaZ5 Z(9
+pathjava.lang.String"__annotation*
+
+%3*
+
+%4*
+1*Ð
+1L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java[	 [(d
+b
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java[	 [(
+%0"__id*
+""x
+v
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java[ [(3
+pathjava.lang.String"__id*
+""Œ
+‰
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java\	 \($
+%1java.lang.String"[net.sourceforge.docfetcher.util.Util#toForwardSlashes(Ljava/lang/String;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+pathjava.lang.String‹
+ˆ
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java\ \($
+pathjava.lang.String"__id*
+
+%1java.lang.String•
+’
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java]	 ](%
+%2java.lang.String"]net.sourceforge.docfetcher.model.Path#normalizeUnicode(Ljava/lang/String;Z)Ljava/lang/String;*)"'
+%net.sourceforge.docfetcher.model.Path*
+
+pathjava.lang.String*2"h
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java] ](&
+
+%2java.lang.String:
+pathjava.lang.StringB)"'
+%net.sourceforge.docfetcher.model.Path

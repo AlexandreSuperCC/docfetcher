@@ -1,0 +1,117 @@
+
+Iorg.apache.tika.parser.chm.accessor.ChmDirectoryListingSet#getEncint([B)Ic
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÆ Æ("5*Ÿ
+2c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÑ Ñ(ïì
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÒ Ò( 
+%6java.math.BigInteger"7java.math.BigInteger#shiftLeft(I)Ljava/math/BigInteger;*
+
+bijava.math.BigInteger*22shiftLeft(I)š—
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÒ) Ò(3
+%7java.math.BigInteger"java.math.BigInteger¾
+»
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÒ% Ò(7
+%8" java.math.BigInteger#<init>([B)V*
+
+%7java.math.BigInteger*
+
+nbbyte[]¥¢
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÒ Ò(8
+%9java.math.BigInteger"Fjava.math.BigInteger#add(Ljava/math/BigInteger;)Ljava/math/BigInteger;*
+
+%6java.math.BigInteger*
+
+%7java.math.BigInteger2add(Ljava/math/BigInteger;)¨
+¥
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÒ Ò(8
+bijava.math.BigInteger"__id*
+
+%9java.math.BigIntegerŒ
+‰
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÓ Ó(+
+%10void"Morg.apache.tika.parser.chm.accessor.ChmDirectoryListingSet#setPlaceHolder(I)V*><
+:org.apache.tika.parser.chm.accessor.ChmDirectoryListingSet*
+""*
+1*¡
+3c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÍ Í(ïì
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÎ Î($
+%1java.math.BigInteger"7java.math.BigInteger#shiftLeft(I)Ljava/math/BigInteger;*
+
+bijava.math.BigInteger*22shiftLeft(I)š—
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÎ- Î(7
+%2java.math.BigInteger"java.math.BigInteger¾
+»
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÎ) Î(;
+%3" java.math.BigInteger#<init>([B)V*
+
+%2java.math.BigInteger*
+
+nbbyte[]¥¢
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÎ Î(<
+%4java.math.BigInteger"Fjava.math.BigInteger#add(Ljava/math/BigInteger;)Ljava/math/BigInteger;*
+
+%1java.math.BigInteger*
+
+%2java.math.BigInteger2add(Ljava/math/BigInteger;)¨
+¥
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÎ Î(<
+bijava.math.BigInteger"__id*
+
+%4java.math.BigInteger‹
+ˆ
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÏ Ï(/
+
+%5void"Morg.apache.tika.parser.chm.accessor.ChmDirectoryListingSet#setPlaceHolder(I)V*><
+:org.apache.tika.parser.chm.accessor.ChmDirectoryListingSet*
+""*
+2
+3*º
+5c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÇ Ç(’
+
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÈ È('
+%0java.math.BigInteger"__id*
+""¨
+¥
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÈ È((
+bijava.math.BigInteger"__id*
+
+%0java.math.BigInteger„
+
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÉ É( 
+nbbyte[]"__id*
+""*	
+2
+3
+1*š
+1c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÕ Õ(À½
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÕ Õ(
+
+%11int" java.math.BigInteger#intValue()I*
+
+bijava.math.BigInteger2
+intValue()"m
+c
+WD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmDirectoryListingSet.javaÕ Õ(
+"":
+
+data_chunkbyte[]B><
+:org.apache.tika.parser.chm.accessor.ChmDirectoryListingSet

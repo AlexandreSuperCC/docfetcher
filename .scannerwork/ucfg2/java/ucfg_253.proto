@@ -1,0 +1,22 @@
+
+2net.contentobjects.jnotify.JNotify#removeWatch(I)ZI
+?D:/git_project/code/src/net/contentobjects/jnotify/JNotify.javac c(""1*¶
+1I
+?D:/git_project/code/src/net/contentobjects/jnotify/JNotify.javae	 e(¶
+³
+I
+?D:/git_project/code/src/net/contentobjects/jnotify/JNotify.javae	 e()
+%0#net.contentobjects.jnotify.IJNotify"__id*5*3$
+"net.contentobjects.jnotify.JNotify"
+	_instance×Ô
+I
+?D:/git_project/code/src/net/contentobjects/jnotify/JNotify.javae	 e('
+%1boolean"3net.contentobjects.jnotify.IJNotify#removeWatch(I)Z*+
+)
+%0#net.contentobjects.jnotify.IJNotify*
+""2removeWatch(I)"S
+I
+?D:/git_project/code/src/net/contentobjects/jnotify/JNotify.javae e((
+"":
+""B&"$
+"net.contentobjects.jnotify.JNotify

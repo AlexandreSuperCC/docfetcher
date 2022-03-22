@@ -1,0 +1,193 @@
+
+Ynet.sourceforge.docfetcher.model.TreeCheckState$FolderWrapper#equals(Ljava/lang/Object;)ZV
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaV V("13"14*ñ
+13V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javab& b()≥
+∞
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javab b(/+
+%3%net.sourceforge.docfetcher.model.Path"__id*#*!
+
+objjava.lang.Object"
+pathÌ
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javab b(9
+%4java.lang.String"Anet.sourceforge.docfetcher.model.Path#getPath()Ljava/lang/String;*-
++
+%3%net.sourceforge.docfetcher.model.Path2	getPath()õ
+ò
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javab b(:
+
+targetPathjava.lang.String"__id*
+
+%4java.lang.StringÆ´
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javac c(	
+%5int"java.lang.String#length()I* 
+
+
+targetPathjava.lang.String2length()ﬂ
+‹
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javac, c(2-
+%6'net.sourceforge.docfetcher.model.Folder"__id*M*K?
+=net.sourceforge.docfetcher.model.TreeCheckState$FolderWrapper"
+folder”
+–
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javac c(3	
+%7int"wnet.sourceforge.docfetcher.model.TreeCheckState$FolderWrapper#getPathLength(Lnet/sourceforge/docfetcher/model/Folder;)I*A?
+=net.sourceforge.docfetcher.model.TreeCheckState$FolderWrapper*/
+-
+%6'net.sourceforge.docfetcher.model.Folder*
+11
+12*È
+14V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java^* ^(-ƒ
+¡
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java^ ^(.F
+other=net.sourceforge.docfetcher.model.TreeCheckState$FolderWrapper"__id*
+
+objjava.lang.Objectﬂ
+‹
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java_ _(-
+%0'net.sourceforge.docfetcher.model.Folder"__id*M*K?
+=net.sourceforge.docfetcher.model.TreeCheckState$FolderWrapper"
+folderÊ
+„
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java_ _(%-
+%1'net.sourceforge.docfetcher.model.Folder"__id*T*R
+F
+other=net.sourceforge.docfetcher.model.TreeCheckState$FolderWrapper"
+folderñì
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java_ _(&
+%2boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*/
+-
+%0'net.sourceforge.docfetcher.model.Folder*/
+-
+%1'net.sourceforge.docfetcher.model.Folder2equals(Ljava/lang/Object;)"`
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java_ _('
+""*Ω
+3V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javas s("`
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javas s(
+""*˛
+4V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javar	 r(òï
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javar	 r(
+%17boolean"Pnet.sourceforge.docfetcher.model.TreeCheckState$StringReverseIterator#hasNext()Z*N
+L
+it2Enet.sourceforge.docfetcher.model.TreeCheckState$StringReverseIterator2	hasNext()*
+3
+1*Ω
+5V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javan n("`
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javan n(
+""*Ω
+6V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javak k("`
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javak k(
+""*Ü
+7V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaj
+ j(ãà
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaj
+ j(
+%15char"Knet.sourceforge.docfetcher.model.TreeCheckState$PathReverseIterator#next()C*L
+J
+it1Cnet.sourceforge.docfetcher.model.TreeCheckState$PathReverseIterator2next()èå
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaj j("
+%16char"Mnet.sourceforge.docfetcher.model.TreeCheckState$StringReverseIterator#next()C*N
+L
+it2Enet.sourceforge.docfetcher.model.TreeCheckState$StringReverseIterator2next()*	
+6
+9
+1*˛
+8V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javai	 i(òï
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javai	 i(
+%14boolean"Pnet.sourceforge.docfetcher.model.TreeCheckState$StringReverseIterator#hasNext()Z*N
+L
+it2Enet.sourceforge.docfetcher.model.TreeCheckState$StringReverseIterator2	hasNext()*
+5
+7*˙
+9V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javah h(îë
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javah h(
+%13boolean"Nnet.sourceforge.docfetcher.model.TreeCheckState$PathReverseIterator#hasNext()Z*L
+J
+it1Cnet.sourceforge.docfetcher.model.TreeCheckState$PathReverseIterator2	hasNext()*
+4
+8*ª
+11V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javae5 e(;ﬂ
+‹
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javae5 e(;-
+%8'net.sourceforge.docfetcher.model.Folder"__id*M*K?
+=net.sourceforge.docfetcher.model.TreeCheckState$FolderWrapper"
+folderÎË
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javae! e(4I
+%9Cnet.sourceforge.docfetcher.model.TreeCheckState$PathReverseIterator"Cnet.sourceforge.docfetcher.model.TreeCheckState$PathReverseIteratorÿ
+’
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javae e(<
+%10"vnet.sourceforge.docfetcher.model.TreeCheckState$PathReverseIterator#<init>(Lnet/sourceforge/docfetcher/model/Folder;)V*K
+I
+%9Cnet.sourceforge.docfetcher.model.TreeCheckState$PathReverseIterator*/
+-
+%8'net.sourceforge.docfetcher.model.Folder˙
+˜
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javae e(=J
+it1Cnet.sourceforge.docfetcher.model.TreeCheckState$PathReverseIterator"__id*K
+I
+%9Cnet.sourceforge.docfetcher.model.TreeCheckState$PathReverseIteratorÌ
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaf# f(8L
+%11Enet.sourceforge.docfetcher.model.TreeCheckState$StringReverseIterator"Enet.sourceforge.docfetcher.model.TreeCheckState$StringReverseIterator∑
+¥
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaf f(D
+%12"anet.sourceforge.docfetcher.model.TreeCheckState$StringReverseIterator#<init>(Ljava/lang/String;)V*N
+L
+%11Enet.sourceforge.docfetcher.model.TreeCheckState$StringReverseIterator* 
+
+
+targetPathjava.lang.Stringˇ
+¸
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaf f(EL
+it2Enet.sourceforge.docfetcher.model.TreeCheckState$StringReverseIterator"__id*N
+L
+%11Enet.sourceforge.docfetcher.model.TreeCheckState$StringReverseIterator*
+9
+1*æ
+12V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javad d("`
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javad d(
+""*Ω
+1V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javax
+ x("`
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javax x(
+"":
+objjava.lang.ObjectBA?
+=net.sourceforge.docfetcher.model.TreeCheckState$FolderWrapper

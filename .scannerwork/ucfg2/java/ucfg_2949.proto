@@ -1,0 +1,156 @@
+
+ínet.sourceforge.docfetcher.model.parse.ParseService#isBuiltInExtension(Lnet/sourceforge/docfetcher/model/index/IndexingConfig;Ljava/lang/String;)Z\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java° °()"startingBlock*ﬁ
+2\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java£ £(®
+•
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java£ £(7
+parser-net.sourceforge.docfetcher.model.parse.Parser"__id*
+""∆
+√
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java£ £(7
+parser-net.sourceforge.docfetcher.model.parse.Parser"
+__arrayGet*
+
+%0java.util.List*
+""*
+11
+1*∑
+3\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java´ ´(ë
+é
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java´ ´( 
+candidateExtjava.lang.String"__id*
+""∑
+¥
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java´ ´( 
+candidateExtjava.lang.String"
+__arrayGet*
+
+extsjava.util.Collection*
+""*
+2
+5*â
+startingBlock\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java°) ¢(&Ô
+Ï
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java°+ °(3
+%7"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig∏
+µ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java°C °(I?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig"__annotation*
+
+%7Õ
+ 
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¢ ¢(
+%8"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+	extensionjava.lang.Stringñ
+ì
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¢ ¢(%
+	extensionjava.lang.String"__annotation*
+
+%8*
+12*…
+4\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java≠ ≠("f
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java≠ ≠(
+""*¬
+5\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¨ ¨(ﬁ€
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¨ ¨("
+%5java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*"
+ 
+candidateExtjava.lang.String2toLowerCase()ıÚ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java¨ ¨(4
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%5java.lang.String*
+
+	extensionjava.lang.String2equals(Ljava/lang/Object;)*
+3
+4*≠
+7\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java™ ™(ûõ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java™ ™(!
+%4java.util.Collection"Snet.sourceforge.docfetcher.model.parse.Parser#getExtensions()Ljava/util/Collection;*9
+7
+parser-net.sourceforge.docfetcher.model.parse.Parser2getExtensions()£
+†
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java™ ™(!
+extsjava.util.Collection"__id*
+
+%4java.util.Collection*
+3*≈
+8\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java® ®(∂≥
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java® ®(%
+%3java.util.Collection"_net.sourceforge.docfetcher.model.index.IndexingConfig#getHtmlExtensions()Ljava/util/Collection;*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig2getHtmlExtensions()£
+†
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java® ®(%
+extsjava.util.Collection"__id*
+
+%3java.util.Collection*
+3*î
+9\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaß ß(®
+•
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaß ß( 7
+%21net.sourceforge.docfetcher.model.parse.HtmlParser"__id*
+""*
+7
+8*•
+11\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java§ §(ç
+ä
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java§ §(
+extsjava.util.Collection"__id*
+""®
+•
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java• •(7
+%11net.sourceforge.docfetcher.model.parse.TextParser"__id*
+""*
+2
+9*Ô
+12\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java£ £(Ö
+Ç
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.java£ £(
+%0java.util.List"__id*
+""*
+2*…
+1\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaØ	 Ø("f
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaØ Ø(
+"":?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig:
+	extensionjava.lang.StringB7"5
+3net.sourceforge.docfetcher.model.parse.ParseService

@@ -1,0 +1,55 @@
+
+Sorg.apache.tika.config.ServiceLoader#getContextClassLoader()Ljava/lang/ClassLoader;K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javaU U(,"5*¾
+2K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java[ [( Í
+Ê
+K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java[ [(7
+%2java.lang.ClassLoader"Cjava.lang.ClassLoader#getSystemClassLoader()Ljava/lang/ClassLoader;*"
+java.lang.ClassLoader–
+“
+K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java[ [(7
+loaderjava.lang.ClassLoader"__id*
+
+%2java.lang.ClassLoader*
+1*´
+4K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javaX X((À½
+K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javaX X(9
+%1java.lang.ClassLoader"7java.lang.Class#getClassLoader()Ljava/lang/ClassLoader;*
+""2getClassLoader()–
+“
+K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javaX X(9
+loaderjava.lang.ClassLoader"__id*
+
+%1java.lang.ClassLoader*
+2
+1*¬
+5K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javaV V(/µ
+²
+K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javaV V(/
+%0java.lang.ClassLoader"__id*@*>&
+$org.apache.tika.config.ServiceLoader"
+contextClassLoader–
+“
+K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.javaV V(0
+loaderjava.lang.ClassLoader"__id*
+
+%0java.lang.ClassLoader*	
+2
+4
+1*Â
+1K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java] ]("p
+K
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java] ](!
+
+loaderjava.lang.ClassLoaderB("&
+$org.apache.tika.config.ServiceLoader

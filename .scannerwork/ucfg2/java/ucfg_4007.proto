@@ -1,0 +1,72 @@
+
+Pnet.sourceforge.docfetcher.model.search.ResultDocument#getDate()Ljava/util/Date;_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java’ ’("4*∂
+2_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÿ, ÿ(0Í
+Á
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÿ, ÿ(B
+%6java.lang.Long":java.lang.Long#valueOf(Ljava/lang/String;)Ljava/lang/Long;*"
+java.lang.Long*
+
+sendDatejava.lang.Stringäá
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÿ' ÿ(+
+%5java.util.Date"java.util.Dateµ
+≤
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÿ# ÿ(C
+%7"java.util.Date#<init>(J)V*
+
+%5java.util.Date*
+
+%6java.lang.Longò
+ï
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÿ# ÿ(C
+%3java.util.Date"__id*
+
+%5java.util.Date*
+1*Ä
+3_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÿ ÿ( î
+ë
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÿ ÿ( 
+%3java.util.Date"__id*
+
+%4
+<nulltype>*
+1*ê
+4_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java÷ ÷(Ú
+Ô
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java÷ ÷(
+
+%0void"Dnet.sourceforge.docfetcher.model.search.ResultDocument#onlyEmails()V*:8
+6net.sourceforge.docfetcher.model.search.ResultDocument°
+û
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java◊" ◊(--
+%1'net.sourceforge.docfetcher.model.Fields"__id*
+""ıÚ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java◊" ◊(3
+%2java.lang.String"?net.sourceforge.docfetcher.model.Fields#key()Ljava/lang/String;*/
+-
+%1'net.sourceforge.docfetcher.model.Fields2key()ê
+ç
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java◊ ◊(5
+sendDatejava.lang.String"__id*
+""*
+2
+3*ﬂ
+1_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÿ ÿ(D"y
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÿ ÿ(D
+
+%3java.util.DateB:8
+6net.sourceforge.docfetcher.model.search.ResultDocument

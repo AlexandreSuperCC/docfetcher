@@ -1,0 +1,20 @@
+
+Iorg.apache.tika.parser.mp3.ID3v2Frame#readFully(Ljava/io/InputStream;I)[BN
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.java± ±(%"1*º
+1N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.java≥ ≥(Ñ
+Å
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.java≥ ≥(*
+%0byte[]"Jorg.apache.tika.parser.mp3.ID3v2Frame#readFully(Ljava/io/InputStream;IZ)[B*)"'
+%org.apache.tika.parser.mp3.ID3v2Frame*
+
+inpjava.io.InputStream*
+""*2"`
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.java≥ ≥(+
+
+%0byte[]:
+inpjava.io.InputStream:
+""B)"'
+%org.apache.tika.parser.mp3.ID3v2Frame

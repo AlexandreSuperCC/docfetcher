@@ -1,0 +1,56 @@
+
+~net.sourceforge.docfetcher.util.collect.SafeKeyMap#create(Ljava/util/Map;)Lnet/sourceforge/docfetcher/util/collect/SafeKeyMap;Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/SafeKeyMap.java&' &(-"startingBlock*õ
+startingBlockY
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/SafeKeyMap.java&- &(J∆
+√
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/SafeKeyMap.java% %(	
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+delegatejava.util.Map∆
+√
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/SafeKeyMap.java&. &(6
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+delegatejava.util.Mapó
+î
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/SafeKeyMap.java&A &(I
+delegatejava.util.Map"__annotation*
+
+%3*
+
+%4*
+1*Í
+1Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/SafeKeyMap.java' '(ì
+ê
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/SafeKeyMap.java' '(
+%0java.util.Map"Wnet.sourceforge.docfetcher.util.Util#checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+delegatejava.util.MapÃ…
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/SafeKeyMap.java( ((8
+%12net.sourceforge.docfetcher.util.collect.SafeKeyMap"2net.sourceforge.docfetcher.util.collect.SafeKeyMapä
+á
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/SafeKeyMap.java(	 (('
+%2"Knet.sourceforge.docfetcher.util.collect.SafeKeyMap#<init>(Ljava/util/Map;)V*:
+8
+%12net.sourceforge.docfetcher.util.collect.SafeKeyMap*
+
+delegatejava.util.Map"ó
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/SafeKeyMap.java( (((:
+8
+%12net.sourceforge.docfetcher.util.collect.SafeKeyMap:
+delegatejava.util.MapB6"4
+2net.sourceforge.docfetcher.util.collect.SafeKeyMap

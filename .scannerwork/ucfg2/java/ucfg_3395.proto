@@ -1,0 +1,92 @@
+
+wnet.sourceforge.docfetcher.model.TreeCheckState$FolderWrapper#getPathLength(Lnet/sourceforge/docfetcher/model/Folder;)IV
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java ("startingBlock*ﬂ
+2X
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaà à(	˝˙
+X
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaà à(
+%4java.lang.String"Enet.sourceforge.docfetcher.model.TreeNode#getName()Ljava/lang/String;*4
+2
+current'net.sourceforge.docfetcher.model.Folder2	getName()®•
+X
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaà à('	
+%5int"java.lang.String#length()I*
+
+%4java.lang.String2length()Ã
+…
+X
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaâ â(2
+current'net.sourceforge.docfetcher.model.Folder"__id*3
+1
+parent'net.sourceforge.docfetcher.model.Folder*
+4
+1*™
+3X
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaÖ Ö(
+•¢
+X
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaÖ Ö(+
+%1%net.sourceforge.docfetcher.model.Path"Xnet.sourceforge.docfetcher.model.Folder#getPath()Lnet/sourceforge/docfetcher/model/Path;*4
+2
+current'net.sourceforge.docfetcher.model.Folder2	getPath()ÚÔ
+X
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaÖ Ö()
+%2java.lang.String"Anet.sourceforge.docfetcher.model.Path#getPath()Ljava/lang/String;*-
++
+%1%net.sourceforge.docfetcher.model.Path2	getPath()®•
+X
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaÖ Ö(2	
+%3int"java.lang.String#length()I*
+
+%2java.lang.String2length()*
+1*Ò
+startingBlockV
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java (9€
+ÿ
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java ($
+%6"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*3
+1
+folder'net.sourceforge.docfetcher.model.Folder§
+°
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.java2 (81
+folder'net.sourceforge.docfetcher.model.Folder"__annotation*
+
+%6*
+6*£
+4X
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaÉ É(!èå
+X
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaÉ É(-
+%0	!capture!"\net.sourceforge.docfetcher.model.Folder#getParent()Lnet/sourceforge/docfetcher/model/Folder;*4
+2
+current'net.sourceforge.docfetcher.model.Folder2getParent()©
+¶
+X
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaÉ É(.1
+parent'net.sourceforge.docfetcher.model.Folder"__id*
+
+%0	!capture!*
+2
+3*¥
+6X
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaÄ Ä(Ã
+…
+X
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaÅ Å(!2
+current'net.sourceforge.docfetcher.model.Folder"__id*3
+1
+folder'net.sourceforge.docfetcher.model.Folder*
+4
+1*¡
+1X
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaã
+ ã("b
+X
+LD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeCheckState.javaã ã(
+"":1
+folder'net.sourceforge.docfetcher.model.FolderBA?
+=net.sourceforge.docfetcher.model.TreeCheckState$FolderWrapper

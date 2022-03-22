@@ -1,0 +1,41 @@
+
+pnet.sourceforge.docfetcher.model.parse.MSOfficeParser$MSWordParser#extractText(Ljava/io/File;)Ljava/lang/String;\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.java4 4("13*ı
+13\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.java6 6(ä
+á
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.java6 6(
+injava.io.InputStream"__id*
+""*
+12*…
+9\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.java; ;("f
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.java; ;(
+""*ç
+11\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.java9 9("£
+†
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.java9 9("
+injava.io.InputStream"__id*
+
+%0java.io.FileInputStream*
+9*ÿ
+12\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.java9 9(!ôñ
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.java9 9(
+%0java.io.FileInputStream"java.io.FileInputStream—
+Œ
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSOfficeParser.java9	 9("
+%1"/java.io.FileInputStream#<init>(Ljava/io/File;)V*
+
+%0java.io.FileInputStream*
+
+filejava.io.File*
+11:
+filejava.io.FileBFD
+Bnet.sourceforge.docfetcher.model.parse.MSOfficeParser$MSWordParser

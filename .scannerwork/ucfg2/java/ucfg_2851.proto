@@ -1,0 +1,16 @@
+
+Zorg.apache.tika.config.TikaConfig#getServiceLoader()Lorg/apache/tika/config/ServiceLoader;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÈ È()"1*‰
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÉ É(»
+¸
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÉ É(*
+%0$org.apache.tika.config.ServiceLoader"__id*8*6#
+!org.apache.tika.config.TikaConfig"
+serviceLoader"z
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÉ É(,
+*
+%0$org.apache.tika.config.ServiceLoaderB%#
+!org.apache.tika.config.TikaConfig

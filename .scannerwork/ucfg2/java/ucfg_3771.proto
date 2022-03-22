@@ -1,0 +1,38 @@
+
+9org.apache.tika.sax.xpath.CompositeMatcher#matchesText()ZQ
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java9 9("3*î
+2Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java:" :(#¼
+¹
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java:" :(#'
+%2!org.apache.tika.sax.xpath.Matcher"__id*5*3,
+*org.apache.tika.sax.xpath.CompositeMatcher"
+bÑÎ
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java:" :(1
+%3boolean"0org.apache.tika.sax.xpath.Matcher#matchesText()Z*)
+'
+%2!org.apache.tika.sax.xpath.Matcher2matchesText()*
+1*ñ
+3Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java: :(¼
+¹
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java: :('
+%0!org.apache.tika.sax.xpath.Matcher"__id*5*3,
+*org.apache.tika.sax.xpath.CompositeMatcher"
+aÑÎ
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java: :(
+%1boolean"0org.apache.tika.sax.xpath.Matcher#matchesText()Z*)
+'
+%0!org.apache.tika.sax.xpath.Matcher2matchesText()*
+2
+1*³
+1Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java: :(2"[
+Q
+GD:/git_project/code/src/org/apache/tika/sax/xpath/CompositeMatcher.java: :(2
+""B.,
+*org.apache.tika.sax.xpath.CompositeMatcher

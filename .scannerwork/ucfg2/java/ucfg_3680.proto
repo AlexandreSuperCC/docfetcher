@@ -1,0 +1,30 @@
+
+Qorg.apache.tika.metadata.Property#compareTo(Lorg/apache/tika/metadata/Property;)IJ
+>D:/git_project/code/src/org/apache/tika/metadata/Property.java× ×("1*Ë
+1J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaØ Ø(ž
+›
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaØ Ø(
+%0java.lang.String"__id*/*-#
+!org.apache.tika.metadata.Property"
+name¡
+ž
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaØ Ø($
+%1java.lang.String"__id*2*0
+&
+o!org.apache.tika.metadata.Property"
+nameÞÛ
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaØ Ø(%	
+%2int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+%0java.lang.String*
+
+%1java.lang.String2compareTo(Ljava/lang/String;)"T
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaØ Ø(&
+"":&
+o!org.apache.tika.metadata.PropertyB%#
+!org.apache.tika.metadata.Property

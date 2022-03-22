@@ -1,0 +1,45 @@
+
+Inet.sourceforge.docfetcher.util.Util#isWindowsDevice(Ljava/lang/String;)ZM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaê ê(&"startingBlock*£
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaê& ê(<¹
+¶
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaê' ê(/
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+pathjava.lang.String
+
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaê7 ê(;
+pathjava.lang.String"__annotation*
+
+%3*
+1*Á
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaë	 ë(·
+´
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaë	 ë(
+%0java.util.regex.Pattern"__id*>*<&
+$net.sourceforge.docfetcher.util.Util"
+driveOnlyPattern¥¢
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaë	 ë('
+%1java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
+
+%0java.util.regex.Pattern*
+
+pathjava.lang.String2!matcher(Ljava/lang/CharSequence;)±®
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaë	 ë(1
+%2boolean""java.util.regex.Matcher#matches()Z*
+
+%1java.util.regex.Matcher2	matches()"W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaë ë(2
+"":
+pathjava.lang.StringB("&
+$net.sourceforge.docfetcher.util.Util

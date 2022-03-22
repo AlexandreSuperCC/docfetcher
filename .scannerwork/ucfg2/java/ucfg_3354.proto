@@ -1,0 +1,39 @@
+
+xnet.sourceforge.docfetcher.model.index.file.SolidArchiveTree#hasHtmlFolder(Lnet/sourceforge/docfetcher/model/TreeNode;)Ze
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaµ µ(%"startingBlock*Û
+2e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.java·
+ ·("o
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.java· ·(
+""*©
+startingBlocke
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaµ% µ(Aî
+ë
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaµ& µ(.
+%1"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*7
+5
+treeNode)net.sourceforge.docfetcher.model.TreeNode·
+´
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.javaµ8 µ(@5
+treeNode)net.sourceforge.docfetcher.model.TreeNode"__annotation*
+
+%1*
+2
+1*Ó
+1e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.java¸ ¸(!õò
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.java¸	 ¸(2<
+%06net.sourceforge.docfetcher.model.index.file.FileFolder"€net.sourceforge.docfetcher.model.index.file.FileDocument#getHtmlFolder()Lnet/sourceforge/docfetcher/model/index/file/FileFolder;*7
+5
+treeNode)net.sourceforge.docfetcher.model.TreeNode2getHtmlFolder()"o
+e
+YD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/SolidArchiveTree.java¸ ¸(;
+"":5
+treeNode)net.sourceforge.docfetcher.model.TreeNodeB@">
+<net.sourceforge.docfetcher.model.index.file.SolidArchiveTree

@@ -1,0 +1,78 @@
+
+Gnet.sourceforge.docfetcher.util.AppUtil#getImageDir()Ljava/lang/String;P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.java† †(!"6*¿
+2P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.java‹
+ ‹("h
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.java‹ ‹(
+../Resources/img*í
+3P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaŠ Š( ˜
+•
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaŠ Š( 3
+%5-net.sourceforge.docfetcher.util.AppUtil$Const"__id*
+""˜
+•
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaŠ Š(,3
+%6-net.sourceforge.docfetcher.util.AppUtil$Const"__id*
+""×
+Ô
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaŠ Š(8
+%7boolean":net.sourceforge.docfetcher.util.AppUtil$Const#asBoolean()Z*5
+3
+%6-net.sourceforge.docfetcher.util.AppUtil$Const*
+2
+1*Ð
+4P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaŠ Š(
+q
+o
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaŠ Š(
+%4boolean"__id*
+""*
+3
+1*·
+5P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.java‰
+ ‰("`
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.java‰ ‰(
+
+dist/img*À
+6P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.java‡ ‡(Ð
+Í
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.java‡ ‡(
+
+%0void"@net.sourceforge.docfetcher.util.AppUtil#checkConstInitialized()V*+")
+'net.sourceforge.docfetcher.util.AppUtil˜
+•
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaˆ ˆ(3
+%1-net.sourceforge.docfetcher.util.AppUtil$Const"__id*
+""˜
+•
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaˆ ˆ("3
+%2-net.sourceforge.docfetcher.util.AppUtil$Const"__id*
+""×
+Ô
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaˆ ˆ(.
+%3boolean":net.sourceforge.docfetcher.util.AppUtil$Const#asBoolean()Z*5
+3
+%2-net.sourceforge.docfetcher.util.AppUtil$Const*
+4
+5*²
+1P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaŒ	 Œ("[
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaŒ Œ(
+imgB+")
+'net.sourceforge.docfetcher.util.AppUtil

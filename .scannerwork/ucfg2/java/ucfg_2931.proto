@@ -1,0 +1,30 @@
+
+Fnet.sourceforge.docfetcher.UtilGlobal$1#iterator()Ljava/util/Iterator;L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java! !("1*˛
+1L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java'0 '(8≤Ø
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java'0 '(C
+%0java.util.Iterator"1java.lang.Iterable#iterator()Ljava/util/Iterator;*
+""2
+iterator()ò
+ï
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java' '(D#
+innerIteratorjava.util.Iterator"__id*
+
+%0java.util.Iterator≠™
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java( ((/
+%1)net.sourceforge.docfetcher.UtilGlobal$1$1")net.sourceforge.docfetcher.UtilGlobal$1$1¶
+£
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java( 2(
+%2"java.lang.Object#<init>()V*1
+/
+%1)net.sourceforge.docfetcher.UtilGlobal$1$1"Å
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/UtilGlobal.java( 2(1
+/
+%1)net.sourceforge.docfetcher.UtilGlobal$1$1B+)
+'net.sourceforge.docfetcher.UtilGlobal$1

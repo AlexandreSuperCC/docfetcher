@@ -1,0 +1,19 @@
+
+:org.apache.tika.io.TikaInputStream#getFile()Ljava/io/File;K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaæ æ("1*Ï
+1K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaç ç(ßÜ
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaç ç(
+%0java.nio.file.Path"@org.apache.tika.io.TikaInputStream#getPath()Ljava/nio/file/Path;*&$
+"org.apache.tika.io.TikaInputStream2	getPath()µ²
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaç ç(!
+%1java.io.File")java.nio.file.Path#toFile()Ljava/io/File;*
+
+%0java.nio.file.Path2toFile()"c
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaç ç("
+
+%1java.io.FileB&$
+"org.apache.tika.io.TikaInputStream

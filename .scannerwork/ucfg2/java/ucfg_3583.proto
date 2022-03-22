@@ -1,0 +1,116 @@
+
+unet.sourceforge.docfetcher.gui.filter.IndexPanel#checkIndexDirOverlap(Ljava/io/File;Ljava/io/File;)Ljava/lang/String;Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÁ Á(+"startingBlock*Ü
+2Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÅ
+ Å(˜
+•
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÅ
+ Å($*
+%2$net.sourceforge.docfetcher.enums.Msg"__id*
+""éæ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÅ
+ Å(*
+%3java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*,
+*
+%2$net.sourceforge.docfetcher.enums.Msg2get()"u
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÅ Å(+
+
+%3java.lang.String*Ž
+3Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÄ Ä(¥
+¢
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÄ Ä(0
+%1boolean"Lnet.sourceforge.docfetcher.util.Util#contains(Ljava/io/File;Ljava/io/File;)Z*("&
+$net.sourceforge.docfetcher.util.Util* 
+
+indexParentDirjava.io.File*
+
+
+targetFilejava.io.File*
+2
+1*Û	
+startingBlockY
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÁ+ Â(%Ì
+É
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÀ À(
+
+%4"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable* 
+
+indexParentDirjava.io.FileË
+È
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÁ- Á(5
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull* 
+
+indexParentDirjava.io.Fileœ
+™
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÁ; Á(I
+indexParentDirjava.io.File"__annotation*
+
+%4*
+
+%5È
+Å
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÀ À(
+
+%6"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+
+targetFilejava.io.FileÇ
+Ä
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÂ Â(
+%7"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+
+targetFilejava.io.File˜
+•
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÂ Â($
+
+targetFilejava.io.File"__annotation*
+
+%6*
+
+%7*
+4*˜
+4Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÃ Ã(
+¯
+¬
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÃ Ã(9
+%0boolean"Vnet.sourceforge.docfetcher.util.Util#isCanonicallyEqual(Ljava/io/File;Ljava/io/File;)Z*("&
+$net.sourceforge.docfetcher.util.Util* 
+
+indexParentDirjava.io.File*
+
+
+targetFilejava.io.File*
+2
+3*Ã
+1Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÆ	 Æ("c
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÆ Æ(
+"":
+indexParentDirjava.io.File:
+
+targetFilejava.io.FileB4"2
+0net.sourceforge.docfetcher.gui.filter.IndexPanel

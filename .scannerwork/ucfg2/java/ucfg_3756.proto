@@ -1,0 +1,29 @@
+
+aorg.apache.tika.language.detect.LanguageNames#normalizeName(Ljava/lang/String;)Ljava/lang/String;T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java& &(#"1*®
+1T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java' '(ñ
+î
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java' '(4
+%0java.util.Locale"Ejava.util.Locale#forLanguageTag(Ljava/lang/String;)Ljava/util/Locale;*"
+java.util.Locale*!
+
+languageTagjava.lang.String•
+’
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java' '(5
+localejava.util.Locale"__id*
+
+%0java.util.LocaleÔÑ
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java(	 ((
+%1java.lang.String"2java.util.Locale#toLanguageTag()Ljava/lang/String;*
+
+localejava.util.Locale2toLanguageTag()"p
+T
+JD:/git_project/code/src/org/apache/tika/language/detect/LanguageNames.java( (( 
+
+%1java.lang.String:
+languageTagjava.lang.StringB1"/
+-org.apache.tika.language.detect.LanguageNames

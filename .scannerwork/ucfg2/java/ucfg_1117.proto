@@ -1,0 +1,89 @@
+
+]org.apache.tika.mime.MimeTypes#getMimeType(Ljava/lang/String;)Lorg/apache/tika/mime/MimeType;G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaÑ Ñ("5*¿
+2G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaã ã("r
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaã ã('
+%
+typeorg.apache.tika.mime.MimeType*ƒ
+3G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaâ â(©
+¶
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaâ â(#
+%2org.apache.tika.mime.Patterns"__id*0*. 
+org.apache.tika.mime.MimeTypes"
+
+patternsq
+o
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaâ1 â(?
+%3java.util.Locale"__id*
+""ˇ¸
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaâ  â(@
+%4java.lang.String"Bjava.lang.String#toLowerCase(Ljava/util/Locale;)Ljava/lang/String;*
+
+namejava.lang.String*
+
+%3java.util.Locale2toLowerCase(Ljava/util/Locale;)©¶
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaâ â(A#
+%5org.apache.tika.mime.MimeType"Xorg.apache.tika.mime.Patterns#matches(Ljava/lang/String;)Lorg/apache/tika/mime/MimeType;*%
+#
+%2org.apache.tika.mime.Patterns*
+
+%4java.lang.String2matches(Ljava/lang/String;)†
+ù
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaâ â(A%
+typeorg.apache.tika.mime.MimeType"__id*%
+#
+%5org.apache.tika.mime.MimeType*
+2
+1*¿
+4G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaá á("r
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaá á('
+%
+typeorg.apache.tika.mime.MimeType*—
+5G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaÖ Ö( ©
+¶
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaÖ Ö( #
+%0org.apache.tika.mime.Patterns"__id*0*. 
+org.apache.tika.mime.MimeTypes"
+
+patterns´®
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaÖ Ö(.#
+%1org.apache.tika.mime.MimeType"Xorg.apache.tika.mime.Patterns#matches(Ljava/lang/String;)Lorg/apache/tika/mime/MimeType;*%
+#
+%0org.apache.tika.mime.Patterns*
+
+namejava.lang.String2matches(Ljava/lang/String;)†
+ù
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaÖ Ö(/%
+typeorg.apache.tika.mime.MimeType"__id*%
+#
+%1org.apache.tika.mime.MimeType*
+3
+4*Ó
+1G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaç ç(≠
+™
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaç ç(#
+%6org.apache.tika.mime.MimeType"__id*4*2 
+org.apache.tika.mime.MimeTypes"
+rootMimeType"p
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaç ç( %
+#
+%6org.apache.tika.mime.MimeType:
+namejava.lang.StringB" 
+org.apache.tika.mime.MimeTypes

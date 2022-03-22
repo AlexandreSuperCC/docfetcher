@@ -1,0 +1,27 @@
+
+porg.apache.tika.parser.ParserDecorator$3#getSupportedTypes(Lorg/apache/tika/parser/ParseContext;)Ljava/util/Set;M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javat" t(3"startingBlock*¯
+startingBlockM
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javat3 t(I®
+«
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javas s(
+%0"
+__annotate*
+java.lang.Override*0
+.
+context#org.apache.tika.parser.ParseContext˜
+•
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javatA t(H.
+context#org.apache.tika.parser.ParseContext"__annotation*
+
+%0*
+1*«
+1M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javau u("W
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javau u(
+"":.
+context#org.apache.tika.parser.ParseContextB,*
+(org.apache.tika.parser.ParserDecorator$3

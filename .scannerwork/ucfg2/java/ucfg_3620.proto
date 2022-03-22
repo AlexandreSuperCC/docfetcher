@@ -1,0 +1,44 @@
+
+aorg.apache.tika.detect.CompositeDetector#assignableFrom(Ljava/util/Collection;Ljava/lang/Class;)ZO
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.java_ _(""2*‚
+2O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.java` `((w
+u
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.java` `((
+ejava.lang.Class"__id*
+""ª
+§
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.java` `((
+ejava.lang.Class"
+__arrayGet**
+(
+excludeDetectorsjava.util.Collection*
+""*
+4
+1*¯
+3O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaa. a(2"Y
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaa' a(3
+""*Í
+4O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaa a(îë
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javaa a(%
+%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+
+ejava.lang.Class*
+
+djava.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
+2
+3*¯
+1O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javac c("Y
+O
+ED:/git_project/code/src/org/apache/tika/detect/CompositeDetector.javac c(
+"":(
+excludeDetectorsjava.util.Collection:
+djava.lang.ClassB,*
+(org.apache.tika.detect.CompositeDetector

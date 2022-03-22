@@ -1,0 +1,105 @@
+
+%null#processLine(Ljava/lang/String;)ZN
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javaO O("7*­
+2N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.java] ]("X
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.java] ](
+""*Ú
+3N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javaZ Z(ÌÉ
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javaZ Z((
+%3java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+linejava.lang.String*22substring(I)‘
+Ž
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javaZ Z()
+rootPathjava.lang.String"__id*
+
+%3java.lang.StringÐ
+Í
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.java[ [(,2
+%4,net.sourceforge.docfetcher.model.LuceneIndex"snet.sourceforge.docfetcher.model.Daemon#findIndex(Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/LuceneIndex;*20
+.Lnet/sourceforge/docfetcher/model/Daemon$2598;*
+
+rootPathjava.lang.StringÆ
+Ã
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.java[ [(-5
+index,net.sourceforge.docfetcher.model.LuceneIndex"__id*4
+2
+%4,net.sourceforge.docfetcher.model.LuceneIndex*
+2
+1*­
+4N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javaX X("X
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javaX X(
+""*µ
+5N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javaW
+ W(×Ô
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javaW
+ W(
+%2boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+linejava.lang.String*
+#2startsWith(Ljava/lang/String;)*
+3
+4*­
+6N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javaT T("X
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javaT T(
+""*ƒ
+7N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javaP P(º·
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javaP P(
+%0java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+linejava.lang.String2trim()
+Š
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javaP P(
+linejava.lang.String"__id*
+
+%0java.lang.StringØÕ
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.javaS	 S(
+%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+linejava.lang.String*
+//2startsWith(Ljava/lang/String;)*
+5
+6*ë
+1N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.java_ _(
+ 
+
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.java_ _(%=
+%57net.sourceforge.docfetcher.model.index.Task$IndexAction"__id*
+"" 
+
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.java_ _(,=
+%67net.sourceforge.docfetcher.model.index.Task$IndexAction"__id*
+""õò
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.java_ _(-D
+%7>net.sourceforge.docfetcher.model.index.IndexingQueue$Rejection"ånet.sourceforge.docfetcher.model.index.IndexingQueue#addTask(Lnet/sourceforge/docfetcher/model/LuceneIndex;Lnet/sourceforge/docfetcher/model/index/Task$IndexAction;)Lnet/sourceforge/docfetcher/model/index/IndexingQueue$Rejection;*
+""*7
+5
+index,net.sourceforge.docfetcher.model.LuceneIndex*?
+=
+%67net.sourceforge.docfetcher.model.index.Task$IndexAction2paddTask(Lnet/sourceforge/docfetcher/model/LuceneIndex;Lnet/sourceforge/docfetcher/model/index/Task$IndexAction;)"X
+N
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Daemon.java` `(
+"":
+linejava.lang.StringB20
+.Lnet/sourceforge/docfetcher/model/Daemon$2598;

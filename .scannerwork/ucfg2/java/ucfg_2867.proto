@@ -1,0 +1,52 @@
+
+Qorg.apache.tika.config.TikaConfig$ParserXmlLoader#isComposite(Ljava/lang/Class;)ZJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaã ã("startingBlock*¥
+2J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaæ æ("T
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaæ æ(
+""*½
+3J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaå å(%ãà
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaå å(C
+%1boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+""* 
+
+loadedClassjava.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
+2
+1*†
+startingBlockJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaã ã(@›
+˜
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaâ â(
+%2"
+__annotate*
+java.lang.Override* 
+
+loadedClassjava.lang.Class…
+‚
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaã4 ã(?
+loadedClassjava.lang.Class"__annotation*
+
+%2*
+4*½
+4J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaä ä(%ãà
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaä ä(C
+%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*
+""* 
+
+loadedClassjava.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
+2
+3*¥
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaè è("T
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaè è(
+"":
+loadedClassjava.lang.ClassB53
+1org.apache.tika.config.TikaConfig$ParserXmlLoader

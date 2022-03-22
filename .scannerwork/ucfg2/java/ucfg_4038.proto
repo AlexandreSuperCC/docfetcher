@@ -1,0 +1,22 @@
+
+lorg.apache.tika.language.detect.LanguageWriter#getLanguage()Lorg/apache/tika/language/detect/LanguageResult;U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageWriter.java4 4(%"1*ã
+1U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageWriter.java5 5(⁄
+◊
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageWriter.java5 5(6
+%00org.apache.tika.language.detect.LanguageDetector"__id*@*>0
+.org.apache.tika.language.detect.LanguageWriter"
+
+detectorøº
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageWriter.java5 5(4
+%1.org.apache.tika.language.detect.LanguageResult"iorg.apache.tika.language.detect.LanguageDetector#detect()Lorg/apache/tika/language/detect/LanguageResult;*8
+6
+%00org.apache.tika.language.detect.LanguageDetector2detect()"è
+U
+KD:/git_project/code/src/org/apache/tika/language/detect/LanguageWriter.java5 5(6
+4
+%1.org.apache.tika.language.detect.LanguageResultB20
+.org.apache.tika.language.detect.LanguageWriter

@@ -1,0 +1,70 @@
+
+knet.sourceforge.docfetcher.model.index.Task#is(Lnet/sourceforge/docfetcher/model/index/Task$CancelAction;)ZR
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java	 ("startingBlock*π
+2T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javaÇ Ç(9"^
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javaÇ Ç(9
+""*√
+3T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javaÇ
+ Ç(‚
+ﬂ
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javaÇ Ç()>
+%38net.sourceforge.docfetcher.model.index.Task$CancelAction"__id*A*?-
++net.sourceforge.docfetcher.model.index.Task"
+cancelAction*
+2*ê
+startingBlockR
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java (0Ò
+Ó
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java~ ~(
+%7"
+__annotate*:8
+6net.sourceforge.docfetcher.util.annotations.ThreadSafe*J
+H
+cancelAction8net.sourceforge.docfetcher.model.index.Task$CancelActionÔ
+Ï
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java (
+%8"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*J
+H
+cancelAction8net.sourceforge.docfetcher.model.index.Task$CancelActionø
+º
+R
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java# (/H
+cancelAction8net.sourceforge.docfetcher.model.index.Task$CancelAction"__annotation*
+
+%7*
+
+%8*
+4*œ
+4T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javaÄ Ä(◊
+‘
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javaÄ Ä(:
+%04net.sourceforge.docfetcher.model.index.IndexingQueue"__id*:*8-
++net.sourceforge.docfetcher.model.index.Task"
+queue“
+œ
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javaÄ Ä(%
+%1java.util.concurrent.locks.Lock"__id*J*H
+:
+%04net.sourceforge.docfetcher.model.index.IndexingQueue"
+
+readLockøº
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.javaÄ Ä(
+
+%2void"'java.util.concurrent.locks.Lock#lock()V*'
+%
+%1java.util.concurrent.locks.Lock2lock()*
+3:H
+cancelAction8net.sourceforge.docfetcher.model.index.Task$CancelActionB/-
++net.sourceforge.docfetcher.model.index.Task

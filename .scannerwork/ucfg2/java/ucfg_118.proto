@@ -1,0 +1,62 @@
+
+porg.apache.tika.sax.ElementMappingContentHandler#getQNameAsString(Ljavax/xml/namespace/QName;)Ljava/lang/String;W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaI" I(2"3*ï
+2W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaL L(£
+†
+W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaL L(
+%2java.lang.String"__concat*
+
+prefixjava.lang.String*
+:Ê„
+W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaL" L(6
+%3java.lang.String":javax.xml.namespace.QName#getLocalPart()Ljava/lang/String;*$
+"
+qnamejavax.xml.namespace.QName2getLocalPart()≤
+Ø
+W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaL L(6
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.String"s
+W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaL L(7
+
+%4java.lang.String*ê
+3W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaJ J(‡›
+W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaJ J()
+%0java.lang.String"7javax.xml.namespace.QName#getPrefix()Ljava/lang/String;*$
+"
+qnamejavax.xml.namespace.QName2getPrefix()ò
+ï
+W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaJ J(*
+prefixjava.lang.String"__id*
+
+%0java.lang.String´®
+W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaK K(	
+%1int"java.lang.String#length()I*
+
+prefixjava.lang.String2length()*
+2
+1*∫
+1W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaN N(Ê„
+W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaN N('
+%5java.lang.String":javax.xml.namespace.QName#getLocalPart()Ljava/lang/String;*$
+"
+qnamejavax.xml.namespace.QName2getLocalPart()"s
+W
+MD:/git_project/code/src/org/apache/tika/sax/ElementMappingContentHandler.javaN N((
+
+%5java.lang.String:"
+qnamejavax.xml.namespace.QNameB4"2
+0org.apache.tika.sax.ElementMappingContentHandler

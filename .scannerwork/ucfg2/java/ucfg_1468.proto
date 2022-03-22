@@ -1,0 +1,65 @@
+
+Wnet.sourceforge.docfetcher.gui.preview.PreviewPanel#setTextSafely(Ljava/util/List;ZJZ)Z\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.java¹ ¹("startingBlock*ª
+startingBlock\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.java¹ ¼(Ì
+É
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.java¸ ¸(
+%4"
+__annotate*:8
+6net.sourceforge.docfetcher.util.annotations.ThreadSafe*
+
+stringsjava.util.ListÉ
+Æ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.java¹  ¹((
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+stringsjava.util.Listš
+—
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.java¹G ¹(N
+stringsjava.util.List"__annotation*
+
+%4*
+
+%5*
+1*ñ	
+1\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÂ	 Â(ë
+è
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÂ! Â(,8
+%02net.sourceforge.docfetcher.gui.preview.TextPreview"__id*H*F5
+3net.sourceforge.docfetcher.gui.preview.PreviewPanel"
+textPreviewáÞ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÂ2 Â(:A
+%1;Lnet/sourceforge/docfetcher/gui/preview/PreviewPanel$10277;";Lnet/sourceforge/docfetcher/gui/preview/PreviewPanel$10277;È
+Å
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÂ. Õ(
+%2"java.lang.Object#<init>()V*C
+A
+%1;Lnet/sourceforge/docfetcher/gui/preview/PreviewPanel$10277;ˆ
+…
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÂ	 Õ(
+%3"]net.sourceforge.docfetcher.gui.preview.PreviewPanel#runSafely(JLWidget;Ljava/lang/Runnable;)Z*75
+3net.sourceforge.docfetcher.gui.preview.PreviewPanel*
+""*:
+8
+%02net.sourceforge.docfetcher.gui.preview.TextPreview*C
+A
+%1;Lnet/sourceforge/docfetcher/gui/preview/PreviewPanel$10277;"f
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/PreviewPanel.javaÂ Õ(
+"":
+stringsjava.util.List:
+"":
+"":
+""B75
+3net.sourceforge.docfetcher.gui.preview.PreviewPanel

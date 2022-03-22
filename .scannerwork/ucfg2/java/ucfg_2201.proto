@@ -1,0 +1,34 @@
+
+3org.apache.tika.utils.RereadableInputStream#read()IT
+HD:/git_project/code/src/org/apache/tika/utils/RereadableInputStream.java£ £("3*¹
+2T
+HD:/git_project/code/src/org/apache/tika/utils/RereadableInputStream.java¦ ¦(Ø
+Õ
+T
+HD:/git_project/code/src/org/apache/tika/utils/RereadableInputStream.java¦ ¦(
+
+%2void"8org.apache.tika.utils.RereadableInputStream#saveByte(I)V*/-
++org.apache.tika.utils.RereadableInputStream*
+""*
+1*É
+3T
+HD:/git_project/code/src/org/apache/tika/utils/RereadableInputStream.java¤ ¤(#¼
+¹
+T
+HD:/git_project/code/src/org/apache/tika/utils/RereadableInputStream.java¤ ¤(#
+%0java.io.InputStream"__id*@*>-
++org.apache.tika.utils.RereadableInputStream"
+inputStream¦£
+T
+HD:/git_project/code/src/org/apache/tika/utils/RereadableInputStream.java¤ ¤(*	
+%1int"java.io.InputStream#read()I*
+
+%0java.io.InputStream2read()*
+2
+1*¹
+1T
+HD:/git_project/code/src/org/apache/tika/utils/RereadableInputStream.java¨ ¨("^
+T
+HD:/git_project/code/src/org/apache/tika/utils/RereadableInputStream.java¨ ¨(
+""B/-
++org.apache.tika.utils.RereadableInputStream

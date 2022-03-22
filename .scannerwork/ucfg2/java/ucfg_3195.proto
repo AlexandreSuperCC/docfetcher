@@ -1,0 +1,50 @@
+
+§net.sourceforge.docfetcher.model.index.file.FileIndex#createRootFolder(Lnet/sourceforge/docfetcher/model/Path;)Lnet/sourceforge/docfetcher/model/index/file/FileFolder;\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javal l(&"startingBlock*ã
+startingBlock\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javal& l(:Ý
+Ú
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javak k(	
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*/
+-
+path%net.sourceforge.docfetcher.model.PathÝ
+Ú
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javal' l(/
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*/
+-
+path%net.sourceforge.docfetcher.model.Path®
+«
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javal5 l(9-
+path%net.sourceforge.docfetcher.model.Path"__annotation*
+
+%2*
+
+%3*
+1*¸
+1\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javam m(×Ô
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javam m(<
+%06net.sourceforge.docfetcher.model.index.file.FileFolder"6net.sourceforge.docfetcher.model.index.file.FileFolderÙ
+Ö
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javam	 m(#
+%1"wnet.sourceforge.docfetcher.model.index.file.FileFolder#<init>(Lnet/sourceforge/docfetcher/model/Path;Ljava/lang/Long;)V*>
+<
+%06net.sourceforge.docfetcher.model.index.file.FileFolder*/
+-
+path%net.sourceforge.docfetcher.model.Path*
+"""ž
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javam m($>
+<
+%06net.sourceforge.docfetcher.model.index.file.FileFolder:-
+path%net.sourceforge.docfetcher.model.PathB97
+5net.sourceforge.docfetcher.model.index.file.FileIndex

@@ -1,0 +1,83 @@
+
+gorg.apache.tika.Tika#detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)Ljava/lang/String;=
+1D:/git_project/code/src/org/apache/tika/Tika.javaô ô("2"3*∞
+2=
+1D:/git_project/code/src/org/apache/tika/Tika.javaú ú(ó
+î
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaú ú(%
+%1org.apache.tika.detect.Detector"__id*&*$
+org.apache.tika.Tika"
+
+detector®•
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaú ú(4$
+%2org.apache.tika.mime.MediaType"Äorg.apache.tika.detect.Detector#detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/mime/MediaType;*'
+%
+%1org.apache.tika.detect.Detector*
+
+streamjava.io.InputStream*/
+-
+metadata!org.apache.tika.metadata.Metadata2@detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)À»
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaú ú(?
+%3java.lang.String";org.apache.tika.mime.MediaType#toString()Ljava/lang/String;*&
+$
+%2org.apache.tika.mime.MediaType2
+toString()"Y
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaú ú(@
+
+%3java.lang.String*ˆ
+3=
+1D:/git_project/code/src/org/apache/tika/Tika.javaõ õ($©¶
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaõ õ(4
+%0boolean"$java.io.InputStream#markSupported()Z*
+
+streamjava.io.InputStream2markSupported()*
+2
+1*Ö
+
+1=
+1D:/git_project/code/src/org/apache/tika/Tika.javaû û(ó
+î
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaû û(%
+%4org.apache.tika.detect.Detector"__id*&*$
+org.apache.tika.Tika"
+
+detectorÅ
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaü ü(+!
+%5java.io.BufferedInputStream"java.io.BufferedInputStream 
+«
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaü ü(3
+%6":java.io.BufferedInputStream#<init>(Ljava/io/InputStream;)V*#
+!
+%5java.io.BufferedInputStream*
+
+streamjava.io.InputStream¨©
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaû ü(>$
+%7org.apache.tika.mime.MediaType"Äorg.apache.tika.detect.Detector#detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/mime/MediaType;*'
+%
+%4org.apache.tika.detect.Detector*#
+!
+%5java.io.BufferedInputStream*/
+-
+metadata!org.apache.tika.metadata.Metadata2@detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)À»
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaû ü(I
+%8java.lang.String";org.apache.tika.mime.MediaType#toString()Ljava/lang/String;*&
+$
+%7org.apache.tika.mime.MediaType2
+toString()"Y
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaû ü(J
+
+%8java.lang.String:
+streamjava.io.InputStream:-
+metadata!org.apache.tika.metadata.MetadataB
+org.apache.tika.Tika

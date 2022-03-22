@@ -1,0 +1,86 @@
+
+Aorg.apache.tika.detect.MagicDetector#toString()Ljava/lang/String;M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaø ø("1*»
+1M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java¡ ¡(%≤
+Ø
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java¡( ¡(,$
+%0org.apache.tika.mime.MediaType"__id*2*0&
+$org.apache.tika.detect.MagicDetector"
+type∂
+≥
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java¡ ¡(,
+%1java.lang.String"__concat*
+Magic Detection for *&
+$
+%0org.apache.tika.mime.MediaType°
+û
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java¡ ¬(
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+ looking for ù
+ö
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java¬" ¬()
+%3byte[]"__id*5*3&
+$org.apache.tika.detect.MagicDetector"	
+patternñ
+ì
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java¡ ¬(0
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+""ù
+ö
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java¡ √(
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+	 bytes = ù
+ö
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java√ √(*
+%6byte[]"__id*5*3&
+$org.apache.tika.detect.MagicDetector"	
+patternû
+õ
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java¡ √(*
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6byte[]ú
+ô
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java¡ ƒ(
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+
+ mask = ö
+ó
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.javaƒ ƒ(&
+%9byte[]"__id*2*0&
+$org.apache.tika.detect.MagicDetector"
+maskü
+ú
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java¡ ƒ(&
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9byte[]"j
+M
+AD:/git_project/code/src/org/apache/tika/detect/MagicDetector.java¡ ƒ('
+
+%10java.lang.StringB(&
+$org.apache.tika.detect.MagicDetector

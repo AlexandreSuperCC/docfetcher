@@ -1,0 +1,36 @@
+
+[org.apache.tika.sax.XHTMLContentHandler#unmodifiableSet([Ljava/lang/String;)Ljava/util/Set;N
+DD:/git_project/code/src/org/apache/tika/sax/XHTMLContentHandler.javaQ Q(."1*È
+1N
+DD:/git_project/code/src/org/apache/tika/sax/XHTMLContentHandler.javaR R(ß
+Ü
+N
+DD:/git_project/code/src/org/apache/tika/sax/XHTMLContentHandler.javaS$ S(;
+%0java.util.List"<java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;*"
+java.util.Arrays* 
+
+elementsjava.lang.String[]~|
+N
+DD:/git_project/code/src/org/apache/tika/sax/XHTMLContentHandler.javaS S(#
+%1java.util.HashSet"java.util.HashSet¿
+¼
+N
+DD:/git_project/code/src/org/apache/tika/sax/XHTMLContentHandler.javaS S(<
+%2"1java.util.HashSet#<init>(Ljava/util/Collection;)V*
+
+%1java.util.HashSet*
+
+%0java.util.Listå
+â
+N
+DD:/git_project/code/src/org/apache/tika/sax/XHTMLContentHandler.javaR S(=
+%3java.util.Set"Ejava.util.Collections#unmodifiableSet(Ljava/util/Set;)Ljava/util/Set;*"
+java.util.Collections*
+
+%1java.util.HashSet"g
+N
+DD:/git_project/code/src/org/apache/tika/sax/XHTMLContentHandler.javaR S(>
+
+%3java.util.Set:
+elementsjava.lang.String[]B+")
+'org.apache.tika.sax.XHTMLContentHandler

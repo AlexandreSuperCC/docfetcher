@@ -1,0 +1,13 @@
+
+âorg.apache.tika.parser.chm.lzx.ChmBlockInfo#validateParameters(Lorg/apache/tika/parser/chm/accessor/DirectoryListingEntry;ILorg/apache/tika/parser/chm/accessor/ChmLzxcControlData;Lorg/apache/tika/parser/chm/lzx/ChmBlockInfo;)ZR
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.javas s(&"1*µ
+1R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.java ("\
+R
+HD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmBlockInfo.java ($
+"":@
+dle9org.apache.tika.parser.chm.accessor.DirectoryListingEntry:
+"":>
+clcd6org.apache.tika.parser.chm.accessor.ChmLzxcControlData:;
+chmBlockInfo+org.apache.tika.parser.chm.lzx.ChmBlockInfoB/-
++org.apache.tika.parser.chm.lzx.ChmBlockInfo

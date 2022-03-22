@@ -1,0 +1,229 @@
+
+€net.sourceforge.docfetcher.gui.indexing.IndexingDialog#confirmCancel()Lnet/sourceforge/docfetcher/model/index/Task$CancelAction;_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÌ Ì(#"4*à
+2_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÕ Õ(	Ÿ
+œ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÕ Õ("+
+%21$net.sourceforge.docfetcher.enums.Msg"__id*
+""ñî
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÕ Õ((
+%22java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%21$net.sourceforge.docfetcher.enums.Msg2get()ÊÇ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÕ Õ(/?
+%238net.sourceforge.docfetcher.model.index.Task$CancelAction"net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog#addButton(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;*K
+I
+dialog?net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog*
+
+%22java.lang.String*
+""2/addButton(Ljava/lang/String;Ljava/lang/Object;)Ÿ
+œ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÖ Ö(+
+%24$net.sourceforge.docfetcher.enums.Msg"__id*
+""ñî
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÖ Ö(%
+%25java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%24$net.sourceforge.docfetcher.enums.Msg2get()³
+°
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÖ' Ö(3?
+%268net.sourceforge.docfetcher.model.index.Task$CancelAction"__id*
+""³
+°
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÖ' Ö(;?
+%278net.sourceforge.docfetcher.model.index.Task$CancelAction"__id*
+""…‚
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÖ Ö(<?
+%288net.sourceforge.docfetcher.model.index.Task$CancelAction"net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog#addButton(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;*K
+I
+dialog?net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog*
+
+%25java.lang.String*A
+?
+%278net.sourceforge.docfetcher.model.index.Task$CancelAction2/addButton(Ljava/lang/String;Ljava/lang/Object;)Ÿ
+œ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.java× ×(+
+%29$net.sourceforge.docfetcher.enums.Msg"__id*
+""ñî
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.java× ×("
+%30java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%29$net.sourceforge.docfetcher.enums.Msg2get()³
+°
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.java×$ ×(0?
+%318net.sourceforge.docfetcher.model.index.Task$CancelAction"__id*
+""³
+°
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.java×$ ×(5?
+%328net.sourceforge.docfetcher.model.index.Task$CancelAction"__id*
+""…‚
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.java× ×(6?
+%338net.sourceforge.docfetcher.model.index.Task$CancelAction"net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog#addButton(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;*K
+I
+dialog?net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog*
+
+%30java.lang.String*A
+?
+%328net.sourceforge.docfetcher.model.index.Task$CancelAction2/addButton(Ljava/lang/String;Ljava/lang/Object;)*
+1*Ü
+3_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÑ Ñ(	ž
+›
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÑ Ñ(*
+%8$net.sourceforge.docfetcher.enums.Msg"__id*
+""ïì
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÑ Ñ("
+%9java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*,
+*
+%8$net.sourceforge.docfetcher.enums.Msg2get()³
+°
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÑ$ Ñ(0?
+%108net.sourceforge.docfetcher.model.index.Task$CancelAction"__id*
+""³
+°
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÑ$ Ñ(5?
+%118net.sourceforge.docfetcher.model.index.Task$CancelAction"__id*
+""„
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÑ Ñ(6?
+%128net.sourceforge.docfetcher.model.index.Task$CancelAction"net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog#addButton(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;*K
+I
+dialog?net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog*
+
+%9java.lang.String*A
+?
+%118net.sourceforge.docfetcher.model.index.Task$CancelAction2/addButton(Ljava/lang/String;Ljava/lang/Object;)Ÿ
+œ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÒ Ò(+
+%13$net.sourceforge.docfetcher.enums.Msg"__id*
+""ñî
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÒ Ò(%
+%14java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%13$net.sourceforge.docfetcher.enums.Msg2get()³
+°
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÒ' Ò(3?
+%158net.sourceforge.docfetcher.model.index.Task$CancelAction"__id*
+""³
+°
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÒ' Ò(;?
+%168net.sourceforge.docfetcher.model.index.Task$CancelAction"__id*
+""…‚
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÒ Ò(<?
+%178net.sourceforge.docfetcher.model.index.Task$CancelAction"net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog#addButton(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;*K
+I
+dialog?net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog*
+
+%14java.lang.String*A
+?
+%168net.sourceforge.docfetcher.model.index.Task$CancelAction2/addButton(Ljava/lang/String;Ljava/lang/Object;)Ÿ
+œ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÓ Ó("+
+%18$net.sourceforge.docfetcher.enums.Msg"__id*
+""ñî
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÓ Ó((
+%19java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%18$net.sourceforge.docfetcher.enums.Msg2get()ÊÇ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÓ Ó(/?
+%208net.sourceforge.docfetcher.model.index.Task$CancelAction"net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog#addButton(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;*K
+I
+dialog?net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog*
+
+%19java.lang.String*
+""2/addButton(Ljava/lang/String;Ljava/lang/Object;)*
+1*Ö
+4_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÍU Í(Zìé
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÍ2 Í(TE
+%0?net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog"?net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog¥
+¢
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÍ. Í([
+%1"hnet.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog#<init>(Lorg/eclipse/swt/widgets/Shell;)V*G
+E
+%0?net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog*
+""þ
+û
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÍ Í(\I
+dialog?net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog"__id*G
+E
+%0?net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialogž
+›
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÎ Î($*
+%2$net.sourceforge.docfetcher.enums.Msg"__id*
+""ïì
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÎ Î(*
+%3java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*,
+*
+%2$net.sourceforge.docfetcher.enums.Msg2get()ÔÑ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÎ Î(+
+
+%4void"]net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog#setTitle(Ljava/lang/String;)V*K
+I
+dialog?net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog*
+
+%3java.lang.String2setTitle(Ljava/lang/String;)ž
+›
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÏ Ï('*
+%5$net.sourceforge.docfetcher.enums.Msg"__id*
+""ïì
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÏ Ï(-
+%6java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*,
+*
+%5$net.sourceforge.docfetcher.enums.Msg2get()ÒÏ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÏ Ï(.
+
+%7void"\net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog#setText(Ljava/lang/String;)V*K
+I
+dialog?net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog*
+
+%6java.lang.String2setText(Ljava/lang/String;)*
+2
+3*â
+1_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÙ	 Ù(ÔÑ
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÙ	 Ù(?
+%348net.sourceforge.docfetcher.model.index.Task$CancelAction"Xnet.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog#open()Ljava/lang/Object;*K
+I
+dialog?net.sourceforge.docfetcher.util.gui.dialog.MultipleChoiceDialog2open()"¤
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/gui/indexing/IndexingDialog.javaÙ Ù(A
+?
+%348net.sourceforge.docfetcher.model.index.Task$CancelActionB:8
+6net.sourceforge.docfetcher.gui.indexing.IndexingDialog

@@ -1,0 +1,103 @@
+
+korg.apache.tika.mime.MimeTypes#getDefaultMimeTypes(Ljava/lang/ClassLoader;)Lorg/apache/tika/mime/MimeTypes;G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.java¹) ¹(<"14*ð
+13G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.java¼ ¼(6³
+°
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.java¼ ¼(6
+%1java.util.Map"__id*J*H 
+org.apache.tika.mime.MimeTypes"$
+"CLASSLOADER_SPECIFIC_DEFAULT_TYPES»
+¸
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.java¼ ¼(G$
+%2org.apache.tika.mime.MimeTypes"__mapGet*
+
+%1java.util.Map*&
+$
+classLoaderjava.lang.ClassLoader£
+ 
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.java¼ ¼(G'
+typesorg.apache.tika.mime.MimeTypes"__id*&
+$
+%2org.apache.tika.mime.MimeTypes*
+10
+1*ð
+2G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaÎ Î(2³
+°
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaÎ Î(2
+%8java.util.Map"__id*J*H 
+org.apache.tika.mime.MimeTypes"$
+"CLASSLOADER_SPECIFIC_DEFAULT_TYPESæ
+ã
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaÎ Î(J$
+%9org.apache.tika.mime.MimeTypes"__mapSet*
+
+%8java.util.Map*&
+$
+classLoaderjava.lang.ClassLoader*)
+'
+typesorg.apache.tika.mime.MimeTypes*
+1*²
+14G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaº º('¯
+¬
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaº º('$
+%0org.apache.tika.mime.MimeTypes"__id*5*3 
+org.apache.tika.mime.MimeTypes"
+DEFAULT_TYPES£
+ 
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaº º(('
+typesorg.apache.tika.mime.MimeTypes"__id*&
+$
+%0org.apache.tika.mime.MimeTypes*
+13
+10
+1*†
+3G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaÌ  Ì(%²
+¯
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaÌ Ì(%3 
+org.apache.tika.mime.MimeTypes"
+DEFAULT_TYPES"__id*)
+'
+typesorg.apache.tika.mime.MimeTypes*
+1*ú
+5G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaÁ Â(P£
+ 
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaÁ Â(P'
+typesorg.apache.tika.mime.MimeTypes"__id*&
+$
+%3org.apache.tika.mime.MimeTypes*
+2
+3*Ø
+10G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaÁ Á((ƒ
+€
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaÁ Â(P$
+%3org.apache.tika.mime.MimeTypes"‰org.apache.tika.mime.MimeTypesFactory#create(Ljava/lang/String;Ljava/lang/String;Ljava/lang/ClassLoader;)Lorg/apache/tika/mime/MimeTypes;*)"'
+%org.apache.tika.mime.MimeTypesFactory*
+tika-mimetypes.xml*
+custom-mimetypes.xml*&
+$
+classLoaderjava.lang.ClassLoader*
+5*Â
+1G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaÑ Ñ("t
+G
+;D:/git_project/code/src/org/apache/tika/mime/MimeTypes.javaÑ Ñ()
+'
+typesorg.apache.tika.mime.MimeTypes:$
+classLoaderjava.lang.ClassLoaderB"" 
+org.apache.tika.mime.MimeTypes

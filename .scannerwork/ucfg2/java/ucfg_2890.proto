@@ -1,0 +1,50 @@
+
+ºorg.apache.tika.config.TikaConfig$TranslatorXmlLoader#createDefault(Lorg/apache/tika/mime/MimeTypes;Lorg/apache/tika/config/ServiceLoader;)Lorg/apache/tika/language/translate/Translator;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaš š( "startingBlock*æ
+startingBlockJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaš  š(K¨
+¥
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java™ ™(
+%1"
+__annotate*
+java.lang.Override*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes’
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaš+ š(4+
+	mimeTypesorg.apache.tika.mime.MimeTypes"__annotation*
+
+%1«
+¨
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java™ ™(
+%2"
+__annotate*
+java.lang.Override*0
+.
+loader$org.apache.tika.config.ServiceLoader•
+’
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javašD š(J.
+loader$org.apache.tika.config.ServiceLoader"__annotation*
+
+%2*
+1*Å
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java› ›('í
+ê
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java› ›(/3
+%0-org.apache.tika.language.translate.Translator"org.apache.tika.config.TikaConfig#getDefaultTranslator(Lorg/apache/tika/config/ServiceLoader;)Lorg/apache/tika/language/translate/Translator;*%"#
+!org.apache.tika.config.TikaConfig*0
+.
+loader$org.apache.tika.config.ServiceLoader"ƒ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java› ›(05
+3
+%0-org.apache.tika.language.translate.Translator:+
+	mimeTypesorg.apache.tika.mime.MimeTypes:.
+loader$org.apache.tika.config.ServiceLoaderB97
+5org.apache.tika.config.TikaConfig$TranslatorXmlLoader

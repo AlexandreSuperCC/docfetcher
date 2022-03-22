@@ -1,0 +1,42 @@
+
+_net.sourceforge.docfetcher.util.Util#ensureWindowsLineSep(Ljava/lang/String;)Ljava/lang/String;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¹ ¹(*"startingBlock*¦
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¹* ¹(Aº
+·
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¹+ ¹(3
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+inputjava.lang.Stringƒ
+€
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java¹; ¹(@
+inputjava.lang.String"__annotation*
+
+%2*
+1*“
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java»	 »(¡ž
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java»	 »((
+%0java.lang.String"Sjava.lang.String#replaceAll(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*
+
+inputjava.lang.String*	
+\r\n?*
+\n20replaceAll(Ljava/lang/String;Ljava/lang/String;)¯¬
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java»	 »(>
+%1java.lang.String"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+%0java.lang.String*
+\n*
+\r\n29replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)"i
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java» »(?
+
+%1java.lang.String:
+inputjava.lang.StringB("&
+$net.sourceforge.docfetcher.util.Util

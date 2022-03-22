@@ -1,0 +1,66 @@
+
+corg.apache.tika.io.IOUtils#toInputStream(Ljava/lang/String;Ljava/lang/String;)Ljava/io/InputStream;C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java© ©(+"2"3*¨
+2C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaªE ª(Ju
+s
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaªT ª(Y
+%3java.nio.charset.Charset"__id*
+""ôñ
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaªE ª(Z
+%2byte[]"7java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B*
+
+inputjava.lang.String* 
+
+%3java.nio.charset.Charset2$getBytes(Ljava/nio/charset/Charset;)k
+i
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaªE ª(Z
+%0byte[]"__id*
+
+%2byte[]*
+1*Ÿ
+3C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaª* ª(/âß
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaª* ª(B
+%1byte[]"/java.lang.String#getBytes(Ljava/lang/String;)[B*
+
+inputjava.lang.String*
+
+encodingjava.lang.String2getBytes(Ljava/lang/String;)k
+i
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaª* ª(B
+%0byte[]"__id*
+
+%1byte[]*
+1*æ
+1C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaª ª([n
+l
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaª ª([
+bytesbyte[]"__id*
+
+%0byte[]Š‡
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java« «('"
+%4java.io.ByteArrayInputStream"java.io.ByteArrayInputStream±
+®
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java« «(.
+%5"(java.io.ByteArrayInputStream#<init>([B)V*$
+"
+%4java.io.ByteArrayInputStream*
+
+bytesbyte[]"k
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java« «(/$
+"
+%4java.io.ByteArrayInputStream:
+inputjava.lang.String:
+encodingjava.lang.StringB"
+org.apache.tika.io.IOUtils

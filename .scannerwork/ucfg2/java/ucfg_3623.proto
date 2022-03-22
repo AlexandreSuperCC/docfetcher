@@ -1,0 +1,16 @@
+
+_org.apache.tika.parser.odf.OpenDocumentParser#getContentParser()Lorg/apache/tika/parser/Parser;T
+JD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentParser.javaj j(""1*Ÿ
+1T
+JD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentParser.javak k(Ä
+Á
+T
+JD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentParser.javak k(#
+%0org.apache.tika.parser.Parser"__id*>*</
+-org.apache.tika.parser.odf.OpenDocumentParser"	
+content"}
+T
+JD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentParser.javak k(%
+#
+%0org.apache.tika.parser.ParserB1/
+-org.apache.tika.parser.odf.OpenDocumentParser

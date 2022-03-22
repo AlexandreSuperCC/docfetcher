@@ -1,0 +1,53 @@
+
+null#skip(Ljava/io/File;)Z`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaŒ Œ("3*Ñ
+2`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaŽ Ž("j
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.javaŽ Ž(
+""*­
+3`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java
+ (½º
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java
+ (!
+%0boolean"java.io.File#isDirectory()Z*
+
+	fileOrDirjava.io.File2isDirectory()*
+2
+1*Ð
+1`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java ((Æ
+Ã
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java (@
+%1"wnet.sourceforge.docfetcher.model.index.file.FileFactory#getRelativePath(Ljava/io/File;Ljava/io/File;)Ljava/lang/String;*;"9
+7net.sourceforge.docfetcher.model.index.file.FileFactory*
+""*
+
+	fileOrDirjava.io.File”
+‘
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java (A
+currentPathjava.lang.String"__id*
+
+%1±
+®
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‘" ‘(3
+%2java.lang.String"__concat*!
+
+currentPathjava.lang.String*
+/èå
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‘ ‘(4
+%3boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+""*
+
+%2java.lang.String2startsWith(Ljava/lang/String;)"j
+`
+TD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileFactory.java‘ ‘(5
+"":
+	fileOrDirjava.io.FileBB@
+>Lnet/sourceforge/docfetcher/model/index/file/FileFactory$7852;

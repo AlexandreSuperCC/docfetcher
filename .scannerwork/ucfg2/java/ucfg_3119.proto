@@ -1,0 +1,23 @@
+
+Xnet.sourceforge.docfetcher.model.IndexLoadingProblems#getObsoleteFiles()Ljava/util/List;\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexLoadingProblems.java0 0(#"1*ž
+1\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexLoadingProblems.java1	 1(Ë
+È
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexLoadingProblems.java1& 1(3
+%0java.util.List"__id*L*J7
+5net.sourceforge.docfetcher.model.IndexLoadingProblems"
+obsoleteFilesô
+ñ
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexLoadingProblems.java1	 1(4
+%1java.util.List"Hjava.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;*"
+java.util.Collections*
+
+%0java.util.List"v
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexLoadingProblems.java1 1(5
+
+%1java.util.ListB97
+5net.sourceforge.docfetcher.model.IndexLoadingProblems

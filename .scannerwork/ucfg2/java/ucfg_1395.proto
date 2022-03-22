@@ -1,0 +1,80 @@
+
+Qnet.sourceforge.docfetcher.util.Util#getAbsPath(Ljava/io/File;)Ljava/lang/String;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java∏ ∏( "startingBlock*¬
+2M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaª
+ ª("n
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaª ª(
+
+absPathjava.lang.String*ï
+3M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaπ π(«ƒ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaπ π()
+%0java.lang.String"0java.io.File#getAbsolutePath()Ljava/lang/String;*
+
+filejava.io.File2getAbsolutePath()è
+å
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaπ π(*
+absPathjava.lang.String"__id*
+
+%0java.lang.String‹Ÿ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java∫ ∫( 
+%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+absPathjava.lang.String*
+\\\\2startsWith(Ljava/lang/String;)*
+2
+1*‹
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java∏  ∏(4µ
+≤
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java∑ ∑(	
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.Fileµ
+≤
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java∏! ∏()
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.FileÜ
+É
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java∏/ ∏(3
+filejava.io.File"__annotation*
+
+%4*
+
+%5*
+3*ƒ
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java√	 √(’“
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java√	 √(#
+%2java.lang.String".java.lang.String#replace(CC)Ljava/lang/String;*
+
+absPathjava.lang.String*
+\\*
+/2replace(CC)¨©
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java√	 √(6
+%3java.lang.String"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*
+
+%2java.lang.String*
+//*
+/29replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)"i
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java√ √(7
+
+%3java.lang.String:
+filejava.io.FileB("&
+$net.sourceforge.docfetcher.util.Util

@@ -1,0 +1,61 @@
+
+Hnet.sourceforge.docfetcher.model.index.Task#toString()Ljava/lang/String;T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java¶ ¶("1*¶
+1T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java·	 ·(à
+Ý
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java·* ·(5=
+%07net.sourceforge.docfetcher.model.index.Task$IndexAction"__id*@*>-
++net.sourceforge.docfetcher.model.index.Task"
+indexActionãà
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java·* ·(<
+%1java.lang.String"'java.lang.Enum#name()Ljava/lang/String;*?
+=
+%07net.sourceforge.docfetcher.model.index.Task$IndexAction2name()Ø
+Õ
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java·> ·(C;
+%25net.sourceforge.docfetcher.model.index.Task$TaskState"__id*:*8-
++net.sourceforge.docfetcher.model.index.Task"
+stateáÞ
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java·> ¸(
+%3java.lang.String"'java.lang.Enum#name()Ljava/lang/String;*=
+;
+%25net.sourceforge.docfetcher.model.index.Task$TaskState2name()Ï
+Ì
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java¸ ¸(2
+%4,net.sourceforge.docfetcher.model.LuceneIndex"__id*:*8-
++net.sourceforge.docfetcher.model.index.Task"
+indexŽ‹
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java¸ ¸()
+%5java.io.File"Qnet.sourceforge.docfetcher.model.LuceneIndex#getCanonicalRootFile()Ljava/io/File;*4
+2
+%4,net.sourceforge.docfetcher.model.LuceneIndex2getCanonicalRootFile()¾»
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java¸ ¸(4
+%6java.lang.String")java.io.File#toString()Ljava/lang/String;*
+
+%5java.io.File2
+toString()¼
+¹
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java·	 ¸(5
+%7java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*
+Task [%s %s] %s*
+
+%1java.lang.String*
+
+%3java.lang.String*
+
+%6java.lang.String"p
+T
+HD:/git_project/code/src/net/sourceforge/docfetcher/model/index/Task.java· ¸(6
+
+%7java.lang.StringB/-
++net.sourceforge.docfetcher.model.index.Task

@@ -1,0 +1,97 @@
+
+net.sourceforge.docfetcher.model.index.IndexingQueue#sameTarget(Lnet/sourceforge/docfetcher/model/LuceneIndex;Lnet/sourceforge/docfetcher/model/index/Task;)Z]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaï ï(""startingBlock*‘
+startingBlock]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaï" ð(ì
+é
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaî î(
+%4"
+__annotate*=;
+9net.sourceforge.docfetcher.util.annotations.NotThreadSafe*7
+5
+index,net.sourceforge.docfetcher.model.LuceneIndexæ
+ã
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaï$ ï(,
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*7
+5
+index,net.sourceforge.docfetcher.model.LuceneIndex·
+´
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaï9 ï(>5
+index,net.sourceforge.docfetcher.model.LuceneIndex"__annotation*
+
+%4*
+
+%5ê
+ç
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaî î(
+%6"
+__annotate*=;
+9net.sourceforge.docfetcher.util.annotations.NotThreadSafe*5
+3
+task+net.sourceforge.docfetcher.model.index.Taskä
+á
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javað
+ ð(
+%7"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*5
+3
+task+net.sourceforge.docfetcher.model.index.Taskµ
+²
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javað ð(3
+task+net.sourceforge.docfetcher.model.index.Task"__annotation*
+
+%6*
+
+%7*
+1*ô
+1]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javañ ñ(š—
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javañ ñ(-
+%0java.io.File"Qnet.sourceforge.docfetcher.model.LuceneIndex#getCanonicalRootFile()Ljava/io/File;*7
+5
+index,net.sourceforge.docfetcher.model.LuceneIndex2getCanonicalRootFile()—
+”
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javañ ñ(.
+target1java.io.File"__id*
+
+%0java.io.FileËÈ
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaò ò(&2
+%1,net.sourceforge.docfetcher.model.LuceneIndex"jnet.sourceforge.docfetcher.model.index.Task#getLuceneIndex()Lnet/sourceforge/docfetcher/model/LuceneIndex;*5
+3
+task+net.sourceforge.docfetcher.model.index.Task2getLuceneIndex()—”
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaò ò(=
+%2java.io.File"Qnet.sourceforge.docfetcher.model.LuceneIndex#getCanonicalRootFile()Ljava/io/File;*4
+2
+%1,net.sourceforge.docfetcher.model.LuceneIndex2getCanonicalRootFile()—
+”
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaò ò(>
+target2java.io.File"__id*
+
+%2java.io.Fileíê
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaó	 ó( 
+%3boolean"(java.io.File#equals(Ljava/lang/Object;)Z*
+
+target1java.io.File*
+
+target2java.io.File2equals(Ljava/lang/Object;)"g
+]
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingQueue.javaó ó(!
+"":5
+index,net.sourceforge.docfetcher.model.LuceneIndex:3
+task+net.sourceforge.docfetcher.model.index.TaskB8"6
+4net.sourceforge.docfetcher.model.index.IndexingQueue

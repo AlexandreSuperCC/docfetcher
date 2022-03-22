@@ -1,0 +1,30 @@
+
+;org.apache.tika.mime.AndClause#toString()Ljava/lang/String;E
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java. .("1*Ã
+1E
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java/ /(¶
+£
+E
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java/' /(.#
+%0org.apache.tika.mime.Clause[]"__id*/*- 
+org.apache.tika.mime.AndClause"	
+clauses·
+ﬁ
+E
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java/ /(/
+%1java.lang.String"@java.util.Arrays#toString([Ljava/lang/Object;)Ljava/lang/String;*"
+java.util.Arrays*%
+#
+%0org.apache.tika.mime.Clause[]è
+å
+E
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java/ /(/
+%2java.lang.String"__concat*
+and*
+
+%1java.lang.String"a
+E
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java/ /(0
+
+%2java.lang.StringB" 
+org.apache.tika.mime.AndClause

@@ -1,0 +1,91 @@
+
+vorg.apache.tika.parser.mp3.ID3v2Frame#createFrameIfPresent(Ljava/io/InputStream;)Lorg/apache/tika/parser/mp3/MP3Frame;L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaK K(/"8*˜
+2L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaY" Y(.•¢
+L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaY Y(!+
+%6%org.apache.tika.parser.mp3.ID3v2Frame"%org.apache.tika.parser.mp3.ID3v2Frame¸
+˘
+L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaY Y(B
+%7"Forg.apache.tika.parser.mp3.ID3v2Frame#<init>(IILjava/io/InputStream;)V*-
++
+%6%org.apache.tika.parser.mp3.ID3v2Frame*
+""*
+""*
+
+inpjava.io.InputStream"}
+L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaY Y(C-
++
+%6%org.apache.tika.parser.mp3.ID3v2Frame*ƒ
+3L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaV V(ò
+ï
+L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaV V(E
+
+%5void"Horg.apache.tika.parser.mp3.ID3v2Frame#pushBack(Ljava/io/InputStream;[I)V*)"'
+%org.apache.tika.parser.mp3.ID3v2Frame*
+
+inpjava.io.InputStream*
+""*
+""*
+""*
+""*
+"""V
+L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaW W(
+""*ù
+5L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaS S("üú
+L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaS S()	
+%3int"java.io.InputStream#read()I*
+
+inpjava.io.InputStream2read()üú
+L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaT T()	
+%4int"java.io.InputStream#read()I*
+
+inpjava.io.InputStream2read()*
+2
+3*ø
+8L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaM M(üú
+L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaM M(	
+%0int"java.io.InputStream#read()I*
+
+inpjava.io.InputStream2read()üú
+L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaN N(	
+%1int"java.io.InputStream#read()I*
+
+inpjava.io.InputStream2read()üú
+L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaO O(	
+%2int"java.io.InputStream#read()I*
+
+inpjava.io.InputStream2read()*
+5
+1*¥
+1L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.java] ](à
+Ö
+L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.java] ](!
+
+%8void"Horg.apache.tika.parser.mp3.ID3v2Frame#pushBack(Ljava/io/InputStream;[I)V*)"'
+%org.apache.tika.parser.mp3.ID3v2Frame*
+
+inpjava.io.InputStream*
+""*
+""*
+"""V
+L
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.java^ ^(
+"":
+inpjava.io.InputStreamB)"'
+%org.apache.tika.parser.mp3.ID3v2Frame

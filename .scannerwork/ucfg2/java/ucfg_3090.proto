@@ -1,0 +1,38 @@
+
+Horg.apache.tika.language.LanguageIdentifier#toString()Ljava/lang/String;T
+HD:/git_project/code/src/org/apache/tika/language/LanguageIdentifier.javaÌ Ì("1*„
+1T
+HD:/git_project/code/src/org/apache/tika/language/LanguageIdentifier.javaÓ Ó(∂
+≥
+T
+HD:/git_project/code/src/org/apache/tika/language/LanguageIdentifier.javaÓ Ó(
+%0java.lang.String"__id*=*;-
++org.apache.tika.language.LanguageIdentifier"
+
+languageù
+ö
+T
+HD:/git_project/code/src/org/apache/tika/language/LanguageIdentifier.javaÓ Ó(
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+ (ù
+ö
+T
+HD:/git_project/code/src/org/apache/tika/language/LanguageIdentifier.javaÓ Ó()
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+""ú
+ô
+T
+HD:/git_project/code/src/org/apache/tika/language/LanguageIdentifier.javaÓ Ó(/
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+)"p
+T
+HD:/git_project/code/src/org/apache/tika/language/LanguageIdentifier.javaÓ Ó(0
+
+%3java.lang.StringB/-
++org.apache.tika.language.LanguageIdentifier

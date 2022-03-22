@@ -1,0 +1,27 @@
+
+_org.apache.tika.config.TikaConfig$ParserXmlLoader#isComposite(Lorg/apache/tika/parser/Parser;)ZJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaß ß("startingBlock*˜
+startingBlockJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaß ß(*¤
+¡
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaÞ Þ(
+%0"
+__annotate*
+java.lang.Override*)
+'
+loadedorg.apache.tika.parser.ParserŽ
+‹
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaß# ß()'
+loadedorg.apache.tika.parser.Parser"__annotation*
+
+%0*
+1*¥
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaà à("T
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaà à(5
+"":'
+loadedorg.apache.tika.parser.ParserB53
+1org.apache.tika.config.TikaConfig$ParserXmlLoader

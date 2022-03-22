@@ -1,0 +1,61 @@
+
+Rnet.sourceforge.docfetcher.util.concurrent.BlockingWrapper#get()Ljava/lang/Object;a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.java#
+ #("7*š
+2a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.java.
+ .(Á
+¾
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.java.
+ .(
+%5T"__id*J*H<
+:net.sourceforge.docfetcher.util.concurrent.BlockingWrapper"
+object"n
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.java. .(	
+
+%5T*®
+4a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.java( ((å
+â
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.java( ((*
+%3$java.util.concurrent.locks.Condition"__id*K*I<
+:net.sourceforge.docfetcher.util.concurrent.BlockingWrapper"	
+notNullØÕ
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.java( ((
+
+%4void"-java.util.concurrent.locks.Condition#await()V*,
+*
+%3$java.util.concurrent.locks.Condition2await()*
+6*²
+6a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.java&
+ &(Á
+¾
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.java&
+ &(
+%2T"__id*J*H<
+:net.sourceforge.docfetcher.util.concurrent.BlockingWrapper"
+object*
+2
+4*š
+7a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.java$ $(Ý
+Ú
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.java$ $(%
+%0java.util.concurrent.locks.Lock"__id*H*F<
+:net.sourceforge.docfetcher.util.concurrent.BlockingWrapper"
+lockÌÉ
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/concurrent/BlockingWrapper.java$ $(
+
+%1void"'java.util.concurrent.locks.Lock#lock()V*'
+%
+%0java.util.concurrent.locks.Lock2lock()*
+6B><
+:net.sourceforge.docfetcher.util.concurrent.BlockingWrapper

@@ -1,0 +1,43 @@
+
+iorg.apache.tika.parser.mp3.ID3v2Frame$RawTagIterator#next()Lorg/apache/tika/parser/mp3/ID3v2Frame$RawTag;N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaï ï("1*ï	
+1N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javað$ ð(.«
+¨
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javañ  ñ($
+%0byte[]"__id*B*@6
+4org.apache.tika.parser.mp3.ID3v2Frame$RawTagIterator"
+dataµ²
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javað ð(#2
+%1,org.apache.tika.parser.mp3.ID3v2Frame$RawTag",org.apache.tika.parser.mp3.ID3v2Frame$RawTag†
+ƒ
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javað ñ(-
+%2"=org.apache.tika.parser.mp3.ID3v2Frame$RawTag#<init>(IIII[BI)V*4
+2
+%1,org.apache.tika.parser.mp3.ID3v2Frame$RawTag*
+""*
+""*
+""*
+""*
+
+%0byte[]*
+""Ä
+Á
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javað ñ(.3
+tag,org.apache.tika.parser.mp3.ID3v2Frame$RawTag"__id*4
+2
+%1,org.apache.tika.parser.mp3.ID3v2Frame$RawTagÙÖ
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaò ò(#	
+%3int"7org.apache.tika.parser.mp3.ID3v2Frame$RawTag#getSize()I*5
+3
+tag,org.apache.tika.parser.mp3.ID3v2Frame$RawTag2	getSize()"‡
+N
+BD:/git_project/code/src/org/apache/tika/parser/mp3/ID3v2Frame.javaó ó(5
+3
+tag,org.apache.tika.parser.mp3.ID3v2Frame$RawTagB86
+4org.apache.tika.parser.mp3.ID3v2Frame$RawTagIterator

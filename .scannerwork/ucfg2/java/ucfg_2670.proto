@@ -1,0 +1,108 @@
+
+Norg.apache.tika.parser.chm.accessor.ChmPmgiHeader#toString()Ljava/lang/String;Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaó ó("1*â
+1Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaò ò(.óî
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaò ò(,
+%0java.lang.StringBuilder"java.lang.StringBuilder©
+¶
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaò ò(.
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder•
+¢
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaò ò(/
+sbjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder¯ı
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaô- ô(;
+%2byte[]"Borg.apache.tika.parser.chm.accessor.ChmPmgiHeader#getSignature()[B*53
+1org.apache.tika.parser.chm.accessor.ChmPmgiHeader2getSignature()ç
+ä
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaô= ô(B
+%3java.nio.charset.Charset"__id*
+""âÜ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaô& ô(,
+%4java.lang.String"java.lang.StringÈ
+Ê
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaô" ô(C
+%5"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
+
+%4java.lang.String*
+
+%2byte[]* 
+
+%3java.nio.charset.Charset¨
+©
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaô ô(C
+%6java.lang.String"__concat*
+signature:=*
+
+%4java.lang.String£
+†
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaô ô(J
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+, ¢ü
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaô ô(K
+%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%7java.lang.String2append(Ljava/lang/String;)ıÚ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaö# ö(1
+
+%9long"Aorg.apache.tika.parser.chm.accessor.ChmPmgiHeader#getFreeSpace()J*53
+1org.apache.tika.parser.chm.accessor.ChmPmgiHeader2getFreeSpace()¢
+ü
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaö ö(1
+%10java.lang.String"__concat*
+free space:=*
+
+
+%9longÊ
+„
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaõ õ(6
+%11java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator∏
+µ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaö õ(6
+%12java.lang.String"__concat*
+
+%10java.lang.String*
+
+%11java.lang.String§°
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaö õ(7
+%13java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%12java.lang.String2append(Ljava/lang/String;)€ÿ
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaú ú(
+%14java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()"w
+Z
+ND:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmPmgiHeader.javaú ú(
+
+%14java.lang.StringB53
+1org.apache.tika.parser.chm.accessor.ChmPmgiHeader

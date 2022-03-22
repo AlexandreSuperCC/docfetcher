@@ -1,0 +1,21 @@
+
+*org.apache.tika.mime.MediaType#hashCode()IG
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java· ·("1*Ú
+1G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java¸ ¸(š
+—
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java¸ ¸(
+%0java.lang.String"__id*.*, 
+org.apache.tika.mime.MediaType"
+string›˜
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java¸ ¸( 	
+%1int"java.lang.String#hashCode()I*
+
+%0java.lang.String2
+hashCode()"Q
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java¸ ¸(!
+""B" 
+org.apache.tika.mime.MediaType

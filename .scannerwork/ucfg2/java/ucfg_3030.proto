@@ -1,0 +1,44 @@
+
+}org.apache.tika.language.detect.LanguageDetector#getLanguageDetectors(Lorg/apache/tika/config/ServiceLoader;)Ljava/util/List;W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaJ& J(:"1*â
+
+1W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaK+ K(1¿¼
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaK+ K(d
+%0java.util.List"borg.apache.tika.config.ServiceLoader#loadStaticServiceProviders(Ljava/lang/Class;)Ljava/util/List;*0
+.
+loader$org.apache.tika.config.ServiceLoader*
+""2-loadStaticServiceProviders(Ljava/lang/Class;)—
+”
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaK K(e
+	detectorsjava.util.List"__id*
+
+%0java.util.ListÊÇ
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaL( L(D8
+%12org.apache.tika.language.detect.LanguageDetector$1"2org.apache.tika.language.detect.LanguageDetector$1º
+·
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaL$ Z(	
+%2"java.lang.Object#<init>()V*:
+8
+%12org.apache.tika.language.detect.LanguageDetector$1£
+ 
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaL Z(
+
+
+%3void"Cjava.util.Collections#sort(Ljava/util/List;Ljava/util/Comparator;)V*"
+java.util.Collections*
+
+	detectorsjava.util.List*:
+8
+%12org.apache.tika.language.detect.LanguageDetector$1"x
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.java\ \(
+
+	detectorsjava.util.List:.
+loader$org.apache.tika.config.ServiceLoaderB4"2
+0org.apache.tika.language.detect.LanguageDetector

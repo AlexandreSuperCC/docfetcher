@@ -1,0 +1,25 @@
+
+8net.sourceforge.docfetcher.TestFiles#get()Ljava/io/File;K
+AD:/git_project/code/src/net/sourceforge/docfetcher/TestFiles.javaW W("1*½
+1K
+AD:/git_project/code/src/net/sourceforge/docfetcher/TestFiles.javaX X(ßÜ
+K
+AD:/git_project/code/src/net/sourceforge/docfetcher/TestFiles.javaX X(
+%0java.lang.String"@net.sourceforge.docfetcher.TestFiles#getPath()Ljava/lang/String;*(&
+$net.sourceforge.docfetcher.TestFiles2	getPath()qo
+K
+AD:/git_project/code/src/net/sourceforge/docfetcher/TestFiles.javaX X(
+%1java.io.File"java.io.File°
+­
+K
+AD:/git_project/code/src/net/sourceforge/docfetcher/TestFiles.javaX	 X(
+%2"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%1java.io.File*
+
+%0java.lang.String"c
+K
+AD:/git_project/code/src/net/sourceforge/docfetcher/TestFiles.javaX X(
+
+%1java.io.FileB(&
+$net.sourceforge.docfetcher.TestFiles

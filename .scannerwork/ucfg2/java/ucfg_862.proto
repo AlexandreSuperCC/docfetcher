@@ -1,0 +1,63 @@
+
+vorg.apache.tika.sax.OfflineContentHandler#resolveEntity(Ljava/lang/String;Ljava/lang/String;)Lorg/xml/sax/InputSource;P
+FD:/git_project/code/src/org/apache/tika/sax/OfflineContentHandler.java) )($"startingBlock*¬
+startingBlockP
+FD:/git_project/code/src/org/apache/tika/sax/OfflineContentHandler.java)$ )(Fü
+ú
+P
+FD:/git_project/code/src/org/apache/tika/sax/OfflineContentHandler.java( ((
+%4"
+__annotate*
+java.lang.Override*
+
+publicIdjava.lang.Stringâ
+Ü
+P
+FD:/git_project/code/src/org/apache/tika/sax/OfflineContentHandler.java), )(4
+publicIdjava.lang.String"__annotation*
+
+%4ü
+ú
+P
+FD:/git_project/code/src/org/apache/tika/sax/OfflineContentHandler.java( ((
+%5"
+__annotate*
+java.lang.Override*
+
+systemIdjava.lang.Stringâ
+Ü
+P
+FD:/git_project/code/src/org/apache/tika/sax/OfflineContentHandler.java)= )(E
+systemIdjava.lang.String"__annotation*
+
+%5*
+1*•
+1P
+FD:/git_project/code/src/org/apache/tika/sax/OfflineContentHandler.java* *(6ß§
+P
+FD:/git_project/code/src/org/apache/tika/sax/OfflineContentHandler.java*# *(4*
+%0$org.apache.tika.io.ClosedInputStream"$org.apache.tika.io.ClosedInputStreamπ
+∂
+P
+FD:/git_project/code/src/org/apache/tika/sax/OfflineContentHandler.java* *(6
+%1".org.apache.tika.io.ClosedInputStream#<init>()V*,
+*
+%0$org.apache.tika.io.ClosedInputStreamçä
+P
+FD:/git_project/code/src/org/apache/tika/sax/OfflineContentHandler.java* *(
+%2org.xml.sax.InputSource"org.xml.sax.InputSource‚
+ﬂ
+P
+FD:/git_project/code/src/org/apache/tika/sax/OfflineContentHandler.java* *(7
+%3"6org.xml.sax.InputSource#<init>(Ljava/io/InputStream;)V*
+
+%2org.xml.sax.InputSource*,
+*
+%0$org.apache.tika.io.ClosedInputStream"s
+P
+FD:/git_project/code/src/org/apache/tika/sax/OfflineContentHandler.java* *(8
+
+%2org.xml.sax.InputSource:
+publicIdjava.lang.String:
+systemIdjava.lang.StringB-+
+)org.apache.tika.sax.OfflineContentHandler

@@ -1,0 +1,68 @@
+
+6org.apache.tika.mime.Magic#equals(Ljava/lang/Object;)ZA
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaL L("4"1*ì
+2A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaO O(H"K
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaO O(H
+""*Õ
+3A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaO- O(3ê
+ç
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaO- O(3
+%3java.lang.String"__id***(
+org.apache.tika.mime.Magic"
+stringñ
+ì
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaO; O(F
+%4java.lang.String"__id*0*.
+"
+thatorg.apache.tika.mime.Magic"
+string”–
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaO- O(G
+%5boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%3java.lang.String*
+
+%4java.lang.String2equals(Ljava/lang/Object;)*
+2*ô
+4A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaN! N("â
+Ü
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaN N(#"
+thatorg.apache.tika.mime.Magic"__id*
+
+ojava.lang.Objectõ
+ò
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaO O(#
+%0org.apache.tika.mime.MimeType"__id*(*&
+org.apache.tika.mime.Magic"
+type°
+û
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaO O((#
+%1org.apache.tika.mime.MimeType"__id*.*,
+"
+thatorg.apache.tika.mime.Magic"
+type˙˜
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaO O()
+%2boolean"9org.apache.tika.mime.MimeType#equals(Ljava/lang/Object;)Z*%
+#
+%0org.apache.tika.mime.MimeType*%
+#
+%1org.apache.tika.mime.MimeType2equals(Ljava/lang/Object;)*
+2
+3*ì
+1A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaQ Q("K
+A
+7D:/git_project/code/src/org/apache/tika/mime/Magic.javaQ Q(
+"":
+ojava.lang.ObjectB
+org.apache.tika.mime.Magic

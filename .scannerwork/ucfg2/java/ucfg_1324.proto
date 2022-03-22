@@ -1,0 +1,145 @@
+
+Ynet.sourceforge.docfetcher.util.ConfLoader#convert(Ljava/lang/String;Z)Ljava/lang/String;S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.javaù ù("15*Š
+14S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.javaû û(¦£
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.javaû û($	
+%3int"java.lang.String#length()I*
+
+inputjava.lang.String2length()*
+3
+1*©
+3S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.javaü ü(²¯
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.javaü ü(
+%13char"java.lang.String#charAt(I)C*
+
+inputjava.lang.String*
+""2	charAt(I)*
+4
+5
+6
+7
+8
+9
+10
+11*ë
+15S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.javaú( ú(-¦£
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.javaú( ú(6	
+%0int"java.lang.String#length()I*
+
+inputjava.lang.String2length()
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.javaú ú('
+%1java.lang.StringBuilder"java.lang.StringBuilder«
+¨
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.javaú ú(;
+%2""java.lang.StringBuilder#<init>(I)V*
+
+%1java.lang.StringBuilder*
+""Ÿ
+œ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.javaú ú(<
+outjava.lang.StringBuilder"__id*
+
+%1java.lang.StringBuilder*
+14*Ê
+4S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.javaŒ Œ(éæ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.javaŒ Œ(
+%12java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+""2	append(C)*
+14*¶
+5S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.java‡ ‹(4éæ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.java‹ ‹(
+%10java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+\\2	append(C)éæ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.java‹ ‹(,
+%11java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+""2	append(C)*
+14*ì
+6S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.java† †('‹ˆ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.java† †(
+%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+\\f2append(Ljava/lang/String;)*
+14*ì
+7S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.java… …('‹ˆ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.java… …(
+%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+\\r2append(Ljava/lang/String;)*
+14*ì
+8S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.java„ „('‹ˆ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.java„ „(
+%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+\\n2append(Ljava/lang/String;)*
+14*ì
+9S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.javaƒ ƒ('‹ˆ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.javaƒ ƒ(
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+\\t2append(Ljava/lang/String;)*
+14*É
+10S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.java (çä
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.java (
+%5java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+ 2	append(C)*
+14*Ê
+11S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.java€ €(èå
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.java€ €(
+%4java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;* 
+
+outjava.lang.StringBuilder*
+\\2	append(C)*
+10*¢
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.java	 (ÕÒ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.java	 (
+%14java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;* 
+
+outjava.lang.StringBuilder2
+toString()"p
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/util/ConfLoader.java (
+
+%14java.lang.String:
+inputjava.lang.String:
+""B.",
+*net.sourceforge.docfetcher.util.ConfLoader

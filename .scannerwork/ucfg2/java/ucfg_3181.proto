@@ -1,0 +1,43 @@
+
+Çorg.apache.tika.language.translate.DefaultTranslator#getDefaultTranslators(Lorg/apache/tika/config/ServiceLoader;)Ljava/util/List;[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java4$ 4(9"1*î
+1[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java5' 5(-√¿
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java5' 5(Z
+%0java.util.List"borg.apache.tika.config.ServiceLoader#loadStaticServiceProviders(Ljava/lang/Class;)Ljava/util/List;*0
+.
+loader$org.apache.tika.config.ServiceLoader*
+""2-loadStaticServiceProviders(Ljava/lang/Class;)ù
+ö
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java5 5([
+translatorsjava.util.List"__id*
+
+%0java.util.List÷”
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java6* 6(@<
+%16org.apache.tika.language.translate.DefaultTranslator$1"6org.apache.tika.language.translate.DefaultTranslator$1¬
+ø
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java6& D(	
+%2"java.lang.Object#<init>()V*>
+<
+%16org.apache.tika.language.translate.DefaultTranslator$1≠
+™
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java6 D(
+
+
+%3void"Cjava.util.Collections#sort(Ljava/util/List;Ljava/util/Comparator;)V*"
+java.util.Collections*
+
+translatorsjava.util.List*>
+<
+%16org.apache.tika.language.translate.DefaultTranslator$1"~
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaE E(
+
+translatorsjava.util.List:.
+loader$org.apache.tika.config.ServiceLoaderB8"6
+4org.apache.tika.language.translate.DefaultTranslator

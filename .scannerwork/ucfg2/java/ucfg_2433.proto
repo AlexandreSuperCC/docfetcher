@@ -1,0 +1,28 @@
+
+Dorg.apache.tika.Tika#detect(Ljava/io/InputStream;)Ljava/lang/String;=
+1D:/git_project/code/src/org/apache/tika/Tika.java   ("1*ø
+1=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÀ À(éã
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÀ" À(*'
+%0!org.apache.tika.metadata.Metadata"!org.apache.tika.metadata.Metadata†
+ù
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÀ À(,
+%1"+org.apache.tika.metadata.Metadata#<init>()V*)
+'
+%0!org.apache.tika.metadata.MetadataÎË
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÀ À(-
+%2java.lang.String"gorg.apache.tika.Tika#detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)Ljava/lang/String;*
+org.apache.tika.Tika*
+
+streamjava.io.InputStream*)
+'
+%0!org.apache.tika.metadata.Metadata2@detect(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)"Y
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÀ À(.
+
+%2java.lang.String:
+streamjava.io.InputStreamB
+org.apache.tika.Tika

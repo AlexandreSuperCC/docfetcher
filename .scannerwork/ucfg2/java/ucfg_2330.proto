@@ -1,0 +1,29 @@
+
+Corg.apache.tika.io.CountingInputStream#toString()Ljava/lang/String;O
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java³ ³("1*ð
+1O
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java´ ´(3©
+¦
+O
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java´6 ´(8
+%0java.io.InputStream"__id*2*0(
+&org.apache.tika.io.CountingInputStream"
+inÄÁ
+O
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java´6 ´(C
+%1java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+
+%0java.io.InputStream2
+toString()¹
+¶
+O
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java´ ´(C
+%2java.lang.String"__concat*'%
+#Tika Counting InputStream wrapping *
+
+%1java.lang.String"k
+O
+CD:/git_project/code/src/org/apache/tika/io/CountingInputStream.java´ ´(D
+
+%2java.lang.StringB*(
+&org.apache.tika.io.CountingInputStream

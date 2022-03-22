@@ -1,0 +1,240 @@
+
+Sorg.apache.tika.parser.chm.accessor.ChmLzxcControlData#toString()Ljava/lang/String;_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.javaý ý("1*ÎB
+1_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.javaþ þ(.œ™
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.javaþ þ(,
+%0java.lang.StringBuilder"java.lang.StringBuilder®
+«
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.javaþ þ(.
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderª
+§
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.javaþ þ(/
+sbjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilderú÷
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.javaÿ& ÿ(4
+
+%2long"Aorg.apache.tika.parser.chm.accessor.ChmLzxcControlData#getSize()J*:8
+6org.apache.tika.parser.chm.accessor.ChmLzxcControlData2	getSize()©
+¦
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.javaÿ ÿ(4
+%3java.lang.String"__concat*
+size(unknown):=*
+
+
+%2long¨
+¥
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.javaÿ ÿ(;
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+, §¤
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.javaÿ ÿ(<
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%4java.lang.String2append(Ljava/lang/String;)‡„
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java (0
+%6byte[]"Gorg.apache.tika.parser.chm.accessor.ChmLzxcControlData#getSignature()[B*:8
+6org.apache.tika.parser.chm.accessor.ChmLzxcControlData2getSignature()’
+
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java2 (7
+%7java.nio.charset.Charset"__id*
+""Ž‹
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java (
+%8java.lang.String"java.lang.Stringî
+ë
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java (8
+%9"6java.lang.String#<init>([BLjava/nio/charset/Charset;)V*
+
+%8java.lang.String*
+
+%6byte[]* 
+
+%7java.nio.charset.CharsetÏ
+Ì
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java€ (8
+%10java.lang.String"__concat*,*
+(signature(Compression type identifier):=*
+
+%8java.lang.Stringª
+§
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java€ (?
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+, ©¦
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java€ (@
+%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%11java.lang.String2append(Ljava/lang/String;)þ
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.javaƒ ƒ(#
+%13long"Dorg.apache.tika.parser.chm.accessor.ChmLzxcControlData#getVersion()J*:8
+6org.apache.tika.parser.chm.accessor.ChmLzxcControlData2getVersion()Ä
+Á
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java‚ ƒ(#
+%14java.lang.String"__concat*,*
+(version(Possibly numeric code for LZX):=*
+
+%13longë
+è
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.javaƒ& ƒ(J
+%15java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator½
+º
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java‚ ƒ(J
+%16java.lang.String"__concat*
+
+%14java.lang.String*
+
+%15java.lang.String©¦
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java‚ ƒ(K
+%17java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%16java.lang.String2append(Ljava/lang/String;)Š
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java… …()
+%18long"Jorg.apache.tika.parser.chm.accessor.ChmLzxcControlData#getResetInterval()J*:8
+6org.apache.tika.parser.chm.accessor.ChmLzxcControlData2getResetInterval()Ç
+Ä
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java„ …()
+%19java.lang.String"__concat*/-
++resetInterval(The Huffman reset interval):=*
+
+%18longª
+§
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java„ …(0
+%20java.lang.String"__concat*
+
+%19java.lang.String*
+, ©¦
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java„ …(1
+%21java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%20java.lang.String2append(Ljava/lang/String;)‡„
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java†# †(7
+%22long"Gorg.apache.tika.parser.chm.accessor.ChmLzxcControlData#getWindowSize()J*:8
+6org.apache.tika.parser.chm.accessor.ChmLzxcControlData2getWindowSize()¨
+¥
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java† †(7
+%23java.lang.String"__concat*
+windowSize:=*
+
+%22longª
+§
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java† †(>
+%24java.lang.String"__concat*
+
+%23java.lang.String*
+, ©¦
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java† †(?
+%25java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%24java.lang.String2append(Ljava/lang/String;)‘Ž
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.javaˆ ˆ(+
+%26long"Lorg.apache.tika.parser.chm.accessor.ChmLzxcControlData#getWindowsPerReset()J*:8
+6org.apache.tika.parser.chm.accessor.ChmLzxcControlData2getWindowsPerReset()Ý
+Ú
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java‡ ˆ(+
+%27java.lang.String"__concat*EC
+AwindowsPerReset(unknown (sometimes 2, sometimes 1, sometimes 0):=*
+
+%26longª
+§
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java‡ ˆ(2
+%28java.lang.String"__concat*
+
+%27java.lang.String*
+, ©¦
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java‡ ˆ(3
+%29java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%28java.lang.String2append(Ljava/lang/String;)‡„
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java‰# ‰(7
+%30long"Gorg.apache.tika.parser.chm.accessor.ChmLzxcControlData#getUnknown_18()J*:8
+6org.apache.tika.parser.chm.accessor.ChmLzxcControlData2getUnknown_18()¨
+¥
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java‰ ‰(7
+%31java.lang.String"__concat*
+unknown_18:=*
+
+%30longë
+è
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.javaŠ Š(6
+%32java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+line.separator½
+º
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java‰ Š(6
+%33java.lang.String"__concat*
+
+%31java.lang.String*
+
+%32java.lang.String©¦
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java‰ Š(7
+%34java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+
+%33java.lang.String2append(Ljava/lang/String;)àÝ
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java‹ ‹(
+%35java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()"|
+_
+SD:/git_project/code/src/org/apache/tika/parser/chm/accessor/ChmLzxcControlData.java‹ ‹(
+
+%35java.lang.StringB:8
+6org.apache.tika.parser.chm.accessor.ChmLzxcControlData

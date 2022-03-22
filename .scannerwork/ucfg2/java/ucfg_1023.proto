@@ -1,0 +1,63 @@
+
+‹net.sourceforge.docfetcher.model.parse.ParseResult#setContent(Ljava/lang/CharSequence;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java. .("startingBlock*
+2Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java/( /(/§
+¤
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java/( /(/
+%0java.lang.CharSequence"__id*#
+!
+contentjava.lang.CharSequence*
+1*‚
+3Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java/# /(%œ
+™
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java/# /(%
+%0java.lang.CharSequence"__id*
+
+%1java.lang.String*
+1*·
+startingBlockY
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java. .(>Î
+Ë
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java- -(	
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*#
+!
+contentjava.lang.CharSequenceÏ
+Ì
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java. .((
+%3"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*#
+!
+contentjava.lang.CharSequenceŸ
+œ
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java.6 .(=!
+contentjava.lang.CharSequence"__annotation*
+
+%2*
+
+%3*
+2
+3*¾
+1Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java/ /(/Ç
+Ä
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java/ /(/A4
+2net.sourceforge.docfetcher.model.parse.ParseResult"	
+content"__id*
+
+%0java.lang.CharSequence"“
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseResult.java0 0(64
+2net.sourceforge.docfetcher.model.parse.ParseResult:!
+contentjava.lang.CharSequenceB64
+2net.sourceforge.docfetcher.model.parse.ParseResult

@@ -1,0 +1,80 @@
+
+dorg.apache.tika.mime.MimeTypesFactory#create([Ljava/io/InputStream;)Lorg/apache/tika/mime/MimeTypes;L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java; ;(""5*î
+2L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java? ?(#É
+Ä
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java? ?(#"
+inputStreamjava.io.InputStream"__id*
+""≤
+Ø
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java? ?(#"
+inputStreamjava.io.InputStream"
+__arrayGet*'
+%
+inputStreamsjava.io.InputStream[]*
+""*
+3
+1*Ó
+3L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java@ @(ïí
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java@ @(#
+
+%4void"Aorg.apache.tika.mime.MimeTypesReader#read(Ljava/io/InputStream;)V*0
+.
+reader$org.apache.tika.mime.MimeTypesReader*$
+"
+inputStreamjava.io.InputStream2read(Ljava/io/InputStream;)*
+2*∞	
+5L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java= =(-óî
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java=" =(+$
+%0org.apache.tika.mime.MimeTypes"org.apache.tika.mime.MimeTypes©
+¶
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java= =(-
+%1"(org.apache.tika.mime.MimeTypes#<init>()V*&
+$
+%0org.apache.tika.mime.MimeTypes¨
+©
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java= =(.+
+	mimeTypesorg.apache.tika.mime.MimeTypes"__id*&
+$
+%0org.apache.tika.mime.MimeTypes£†
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java>% >(4*
+%2$org.apache.tika.mime.MimeTypesReader"$org.apache.tika.mime.MimeTypesReaderÑ
+Å
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java>! >(?
+%3"Norg.apache.tika.mime.MimeTypesReader#<init>(Lorg/apache/tika/mime/MimeTypes;)V*,
+*
+%2$org.apache.tika.mime.MimeTypesReader*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypesµ
+≤
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.java> >(@.
+reader$org.apache.tika.mime.MimeTypesReader"__id*,
+*
+%2$org.apache.tika.mime.MimeTypesReader*
+2*è
+1L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.javaB B(ºπ
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.javaB B(
+
+%5void"&org.apache.tika.mime.MimeTypes#init()V*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes2init()"}
+L
+BD:/git_project/code/src/org/apache/tika/mime/MimeTypesFactory.javaC C(-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes:%
+inputStreamsjava.io.InputStream[]B)"'
+%org.apache.tika.mime.MimeTypesFactory

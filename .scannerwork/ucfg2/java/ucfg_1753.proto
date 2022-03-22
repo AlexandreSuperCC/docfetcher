@@ -1,0 +1,16 @@
+
+Korg.apache.tika.parser.mp3.ID3v24Handler#getTrackNumber()Ljava/lang/String;O
+ED:/git_project/code/src/org/apache/tika/parser/mp3/ID3v24Handler.javaz z( "1*õ
+1O
+ED:/git_project/code/src/org/apache/tika/parser/mp3/ID3v24Handler.java{ {(±
+®
+O
+ED:/git_project/code/src/org/apache/tika/parser/mp3/ID3v24Handler.java{ {(
+%0java.lang.String"__id*=*;*
+(org.apache.tika.parser.mp3.ID3v24Handler"
+trackNumber"k
+O
+ED:/git_project/code/src/org/apache/tika/parser/mp3/ID3v24Handler.java{ {(
+
+%0java.lang.StringB,*
+(org.apache.tika.parser.mp3.ID3v24Handler

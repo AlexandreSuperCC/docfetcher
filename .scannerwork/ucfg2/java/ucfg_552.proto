@@ -1,0 +1,23 @@
+
+Ynet.sourceforge.docfetcher.util.gui.viewer.SimpleTableViewer#getColumns()Ljava/util/List;c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTableViewer.javai i(""1*»
+1c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTableViewer.javaj	 j(Ó
+Ð
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTableViewer.javaj& j(-
+%0java.util.List"__id*M*K>
+<net.sourceforge.docfetcher.util.gui.viewer.SimpleTableViewer"	
+columnsû
+ø
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTableViewer.javaj	 j(.
+%1java.util.List"Hjava.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;*"
+java.util.Collections*
+
+%0java.util.List"}
+c
+YD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/SimpleTableViewer.javaj j(/
+
+%1java.util.ListB@>
+<net.sourceforge.docfetcher.util.gui.viewer.SimpleTableViewer

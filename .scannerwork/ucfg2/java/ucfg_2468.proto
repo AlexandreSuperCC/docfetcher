@@ -1,0 +1,24 @@
+
+Çorg.apache.tika.parser.ParserDecorator#withoutTypes(Lorg/apache/tika/parser/Parser;Ljava/util/Set;)Lorg/apache/tika/parser/Parser;M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaM M(+"1*é
+1M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaO# O()¨©
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaO O(".
+%0(org.apache.tika.parser.ParserDecorator$2"(org.apache.tika.parser.ParserDecorator$2Ü
+É
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaO _(	
+%1"Oorg.apache.tika.parser.ParserDecorator#<init>(Lorg/apache/tika/parser/Parser;)V*0
+.
+%0(org.apache.tika.parser.ParserDecorator$2*)
+'
+parserorg.apache.tika.parser.Parser"Å
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaO _(
+0
+.
+%0(org.apache.tika.parser.ParserDecorator$2:'
+parserorg.apache.tika.parser.Parser:
+excludeTypesjava.util.SetB*"(
+&org.apache.tika.parser.ParserDecorator

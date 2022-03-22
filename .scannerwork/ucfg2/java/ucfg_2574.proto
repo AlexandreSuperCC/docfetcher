@@ -1,0 +1,84 @@
+
+Sorg.apache.tika.mime.MagicMatch#getDetector()Lorg/apache/tika/detect/MagicDetector;F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java4' 4(2"3*‘
+2F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java6 6($«
+¨
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java6+ 6(4$
+%1org.apache.tika.mime.MediaType"__id*2*0!
+org.apache.tika.mime.MagicMatch"
+	mediaType˜
+•
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java66 6(:
+%2java.lang.String"__id*-*+!
+org.apache.tika.mime.MagicMatch"
+typeš
+—
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java6< 6(B
+%3java.lang.String"__id*/*-!
+org.apache.tika.mime.MagicMatch"
+offset™
+–
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java6D 6(I
+%4java.lang.String"__id*.*,!
+org.apache.tika.mime.MagicMatch"
+value˜
+•
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java6K 6(O
+%5java.lang.String"__id*-*+!
+org.apache.tika.mime.MagicMatch"
+maskî
+ë
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java6 6(P*
+%6$org.apache.tika.detect.MagicDetector"ºorg.apache.tika.detect.MagicDetector#parse(Lorg/apache/tika/mime/MediaType;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Lorg/apache/tika/detect/MagicDetector;*("&
+$org.apache.tika.detect.MagicDetector*&
+$
+%1org.apache.tika.mime.MediaType*
+
+%2java.lang.String*
+
+%3java.lang.String*
+
+%4java.lang.String*
+
+%5java.lang.String°
+­
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java6 6(P/!
+org.apache.tika.mime.MagicMatch"
+
+detector"__id*,
+*
+%6$org.apache.tika.detect.MagicDetector*
+1*†
+3F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java5 5(°
+­
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java5 5(*
+%0$org.apache.tika.detect.MagicDetector"__id*1*/!
+org.apache.tika.mime.MagicMatch"
+
+detector*
+2
+1*ö
+1F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java8 8(°
+­
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java8 8(*
+%7$org.apache.tika.detect.MagicDetector"__id*1*/!
+org.apache.tika.mime.MagicMatch"
+
+detector"v
+F
+<D:/git_project/code/src/org/apache/tika/mime/MagicMatch.java8 8(,
+*
+%7$org.apache.tika.detect.MagicDetectorB#!
+org.apache.tika.mime.MagicMatch

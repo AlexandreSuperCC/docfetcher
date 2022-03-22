@@ -1,0 +1,23 @@
+
+Dnet.sourceforge.docfetcher.util.Event#getListeners()Ljava/util/List;N
+BD:/git_project/code/src/net/sourceforge/docfetcher/util/Event.javaç ç(&"1*“
+1N
+BD:/git_project/code/src/net/sourceforge/docfetcher/util/Event.javaé	 é(©
+¶
+N
+BD:/git_project/code/src/net/sourceforge/docfetcher/util/Event.javaé& é(/
+%0java.util.List"__id*8*6'
+%net.sourceforge.docfetcher.util.Event"
+	listenersÊ
+„
+N
+BD:/git_project/code/src/net/sourceforge/docfetcher/util/Event.javaé	 é(0
+%1java.util.List"Hjava.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;*"
+java.util.Collections*
+
+%0java.util.List"h
+N
+BD:/git_project/code/src/net/sourceforge/docfetcher/util/Event.javaé é(1
+
+%1java.util.ListB)'
+%net.sourceforge.docfetcher.util.Event

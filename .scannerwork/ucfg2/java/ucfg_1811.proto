@@ -1,0 +1,85 @@
+
+[org.apache.tika.parser.ParseContext#getDocumentBuilder()Ljavax/xml/parsers/DocumentBuilder;L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaé é(-"10*Ú
+3L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaó ó(""†
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaó ó(#6
+4
+documentBuilder!javax.xml.parsers.DocumentBuilder*ó
+4L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaò ò(š—
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaò ò(1
+
+%5void"Njavax.xml.parsers.DocumentBuilder#setErrorHandler(Lorg/xml/sax/ErrorHandler;)V*6
+4
+documentBuilder!javax.xml.parsers.DocumentBuilder*
+""2+setErrorHandler(Lorg/xml/sax/ErrorHandler;)*
+3*Õ
+5L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javað ð(I¸
+µ
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javað ð(I4
+documentBuilder!javax.xml.parsers.DocumentBuilder"__id*)
+'
+%2!javax.xml.parsers.DocumentBuilder€
+~
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javañ. ñ(J 
+%3org.xml.sax.EntityResolver"__id*
+""¾»
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javañ ñ(K
+
+%4void"Rjavax.xml.parsers.DocumentBuilder#setEntityResolver(Lorg/xml/sax/EntityResolver;)V*6
+4
+documentBuilder!javax.xml.parsers.DocumentBuilder*"
+ 
+%3org.xml.sax.EntityResolver2/setEntityResolver(Lorg/xml/sax/EntityResolver;)*
+4*á
+6L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaï ï(XÍ
+Ê
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaï ï(XB
+documentBuilderFactory(javax.xml.parsers.DocumentBuilderFactory"__id*0
+.
+%1(javax.xml.parsers.DocumentBuilderFactory¸µ
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javað ð(I'
+%2!javax.xml.parsers.DocumentBuilder"`javax.xml.parsers.DocumentBuilderFactory#newDocumentBuilder()Ljavax/xml/parsers/DocumentBuilder;*D
+B
+documentBuilderFactory(javax.xml.parsers.DocumentBuilderFactory2newDocumentBuilder()*
+5*î
+7L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaï< ï(U•
+’
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaï< ï(W.
+%1(javax.xml.parsers.DocumentBuilderFactory"iorg.apache.tika.parser.ParseContext#getDocumentBuilderFactory()Ljavax/xml/parsers/DocumentBuilderFactory;*'%
+#org.apache.tika.parser.ParseContext*
+6*Ú
+9L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaì ì(""†
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaì ì(#6
+4
+documentBuilder!javax.xml.parsers.DocumentBuilder*©
+10L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaê* ê(-‘Ž
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaê* ê(D'
+%0!javax.xml.parsers.DocumentBuilder"Lorg.apache.tika.parser.ParseContext#get(Ljava/lang/Class;)Ljava/lang/Object;*'%
+#org.apache.tika.parser.ParseContext*
+""2get(Ljava/lang/Class;)¸
+µ
+L
+@D:/git_project/code/src/org/apache/tika/parser/ParseContext.javaê ê(E4
+documentBuilder!javax.xml.parsers.DocumentBuilder"__id*)
+'
+%0!javax.xml.parsers.DocumentBuilder*
+7
+9B'%
+#org.apache.tika.parser.ParseContext

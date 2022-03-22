@@ -1,0 +1,164 @@
+
+Ynet.sourceforge.docfetcher.gui.Application#loadSettingsConf(Ljava/io/File;)Ljava/io/File;S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaπ π(%"startingBlock*å
+3S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÀ À(¨
+©
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaÀ À(6
+%14java.util.List"anet.sourceforge.docfetcher.util.ConfLoader#load(Ljava/io/File;Ljava/lang/Class;Z)Ljava/util/List;*.",
+*net.sourceforge.docfetcher.util.ConfLoader*
+
+confFilejava.io.File*
+""*2*
+1*¬
+startingBlockS
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaπ% π(B≈
+¬
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaπ& π(/
+%16"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+pathOverridejava.io.Fileç
+ä
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaπ5 π(A
+pathOverridejava.io.File"__annotation*
+
+%16*
+10*Œ
+5S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java∆ ∆(·
+ﬁ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java∆ ∆(,
+%11java.io.File"Enet.sourceforge.docfetcher.util.AppUtil#getAppDataDir()Ljava/io/File;*+")
+'net.sourceforge.docfetcher.util.AppUtilë
+é
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java∆ ∆(-
+
+appDataDirjava.io.File"__id*
+
+%11java.io.Filezx
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java« «(
+%12java.io.File"java.io.FileË
+Â
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java« «(<
+%13"6java.io.File#<init>(Ljava/io/File;Ljava/lang/String;)V*
+
+%12java.io.File*
+
+
+appDataDirjava.io.File*
+conf/settings-conf.txtè
+å
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java« «(<
+confFilejava.io.File"__id*
+
+%12java.io.File*
+3*¸
+6S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java¬ ¬(©¶
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java¬ ¬(
+%8boolean"java.io.File#mkdirs()Z*
+
+pathOverridejava.io.File2mkdirs()yw
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java√ √(
+%9java.io.File"java.io.File‰
+·
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java√ √(9
+%10"6java.io.File#<init>(Ljava/io/File;Ljava/lang/String;)V*
+
+%9java.io.File*
+
+pathOverridejava.io.File*
+settings-conf.txté
+ã
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java√ √(9
+confFilejava.io.File"__id*
+
+%9java.io.File*
+3*å
+7S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java¡$ ¡(0©¶
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java¡$ ¡(9
+%7boolean"java.io.File#isFile()Z*
+
+pathOverridejava.io.File2isFile()*
+5
+6*•
+9S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaø ø(.yw
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaø ø(
+%5java.io.File"java.io.Fileπ
+∂
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaø ø(/
+%6"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%5java.io.File*
+bin/settings-conf.txté
+ã
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaø ø(/
+confFilejava.io.File"__id*
+
+%5java.io.File*
+3*±	
+10S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java∫ ∫(	”
+–
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java∫ ∫(!
+
+%0void"@net.sourceforge.docfetcher.util.AppUtil#checkConstInitialized()V*+")
+'net.sourceforge.docfetcher.util.AppUtilÕ
+ 
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaª ª(
+
+%1void":net.sourceforge.docfetcher.util.AppUtil#ensureNoDisplay()V*+")
+'net.sourceforge.docfetcher.util.AppUtil
+}
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaΩ Ω(
+confFilejava.io.File"__id*
+""û
+õ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaæ æ(6
+%20net.sourceforge.docfetcher.enums.SystemConf$Bool"__id*
+""û
+õ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaæ æ(*6
+%30net.sourceforge.docfetcher.enums.SystemConf$Bool"__id*
+""·ﬁ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.javaæ æ(0
+%4boolean"7net.sourceforge.docfetcher.enums.SystemConf$Bool#get()Z*8
+6
+%30net.sourceforge.docfetcher.enums.SystemConf$Bool2get()*	
+5
+7
+9*À
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java–	 –("q
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/Application.java– –(
+
+confFilejava.io.File:
+pathOverridejava.io.FileB.",
+*net.sourceforge.docfetcher.gui.Application

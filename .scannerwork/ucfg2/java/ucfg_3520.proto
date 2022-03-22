@@ -1,0 +1,1785 @@
+
+>org.apache.tika.parser.rtf.TextExtractor#processControlWord()VQ
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaà à(#"104"165*ﬁ
+68Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaû	 û	(“
+œ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaû	 û	(3
+%108+org.apache.tika.parser.rtf.RTFEmbObjHandler"__id*?*=*
+(org.apache.tika.parser.rtf.TextExtractor"
+embObjHandlerﬁ€
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaû	 û	(#
+%109void"6org.apache.tika.parser.rtf.RTFEmbObjHandler#startSV()V*5
+3
+%108+org.apache.tika.parser.rtf.RTFEmbObjHandler2	startSV()…
+∆
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaü	 ü	(-
+%110%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+0*«
+69Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaù	 ù	(„
+‡
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaù	 ù	(
+%107boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+sv*
+68
+67*ﬁ
+70Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaõ	 õ	(“
+œ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaõ	 õ	(3
+%104+org.apache.tika.parser.rtf.RTFEmbObjHandler"__id*?*=*
+(org.apache.tika.parser.rtf.TextExtractor"
+embObjHandlerﬁ€
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaõ	 õ	(#
+%105void"6org.apache.tika.parser.rtf.RTFEmbObjHandler#startSN()V*5
+3
+%104+org.apache.tika.parser.rtf.RTFEmbObjHandler2	startSN()…
+∆
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaú	 ú	(-
+%106%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+0*«
+71Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaö	 ö	(„
+‡
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaö	 ö	(
+%103boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+sn*
+69
+70*®
+72Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaô	 ô	(…
+∆
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaô	 ô	(-
+%102%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+0*«
+73Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaò	 ò	(„
+‡
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaò	 ò	(
+%101boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+sp*
+71
+72*≤
+74Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaó	 ó	(”
+–
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaó	 ó	(
+%100void"9org.apache.tika.parser.rtf.TextExtractor#endParagraph(Z)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*2*
+0*»
+75Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaî	 î	(‰
+·
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaî	 î	(!
+%99boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+cell*
+73
+74*ß
+76Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaì	 ì	(»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaì	 ì	(,
+%98%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+0*Ã
+77Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaí	 í	(Ë
+Â
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaí	 í	(%
+%97boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+listtext*
+75
+76*Ò
+78Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaè	 è	(«
+ƒ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaè	 è	(
+%95void"4org.apache.tika.parser.rtf.TextExtractor#pushText()V*,*
+(org.apache.tika.parser.rtf.TextExtractor»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaë	 ë	(,
+%96%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+0*Œ
+79Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaé	 é	(Í
+Á
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaé	 é	('
+%94boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+annotation*
+77
+78*ÿ
+100Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaﬁ ﬁ(»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaﬁ ﬁ(,
+%62%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState›
+⁄
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaﬂ ﬂ(
+%63void"Corg.apache.tika.parser.rtf.TextExtractor#start(Ljava/lang/String;)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+b»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java‡ ‡(",
+%64%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+95
+99*Ω
+101Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java‹ ‹(€
+ÿ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java‹ ‹( 
+%61void"Aorg.apache.tika.parser.rtf.TextExtractor#end(Ljava/lang/String;)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+i*
+100*Õ
+102Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÿ ÿ(«
+ƒ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÿ ÿ(
+%58void"4org.apache.tika.parser.rtf.TextExtractor#pushText()V*,*
+(org.apache.tika.parser.rtf.TextExtractor—
+Œ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaŸ Ÿ((
+%59void">org.apache.tika.parser.rtf.TextExtractor#lazyStartParagraph()V*,*
+(org.apache.tika.parser.rtf.TextExtractor»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java⁄ ⁄(",
+%60%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+
+101
+100*Æ
+103Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java◊ ◊(»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java◊ ◊(,
+%57%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*	
+102
+95*«
+104Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java÷ ÷(·
+ﬁ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java÷ ÷(
+%56boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+b*	
+103
+98* 
+106S
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“ï “(õÁ
+‰
+S
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“ï “(§
+%55boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+rtlch*
+95*Ò
+80Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaã	 ã	(«
+ƒ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaã	 ã	(
+%92void"4org.apache.tika.parser.rtf.TextExtractor#pushText()V*,*
+(org.apache.tika.parser.rtf.TextExtractor»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaç	 ç	(,
+%93%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+0*œ
+107S
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“Ç “(àÁ
+‰
+S
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“Ç “(ë
+%54boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+ltrch*	
+106
+95*Õ
+81Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaä	 ä	(È
+Ê
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaä	 ä	(&
+%91boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+	atnauthor*
+79
+80*À
+108Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“o “(uÂ
+‚
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“o “(~
+%53boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+plain*	
+107
+95*Ò
+82Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaá	 á	(«
+ƒ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaá	 á	(
+%89void"4org.apache.tika.parser.rtf.TextExtractor#pushText()V*,*
+(org.apache.tika.parser.rtf.TextExtractor»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaâ	 â	(,
+%90%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+0*À
+109Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“\ “(bÂ
+‚
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“\ “(k
+%52boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+sectd*	
+108
+95*…
+83Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÜ	 Ü	(Â
+‚
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÜ	 Ü	("
+%88boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+atnid*
+81
+82*Ò
+84Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÉ	 É	(«
+ƒ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÉ	 É	(
+%86void"4org.apache.tika.parser.rtf.TextExtractor#pushText()V*,*
+(org.apache.tika.parser.rtf.TextExtractor»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÖ	 Ö	(,
+%87%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+0* 
+85Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÇ	 Ç	(Ê
+„
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÇ	 Ç	(#
+%85boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+shptxt*
+83
+84*±
+86Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÄ	 Ä	(“
+œ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÄ	 Ä	("
+%84void"9org.apache.tika.parser.rtf.TextExtractor#endParagraph(Z)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*2*
+0* 
+88Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java˛ ˛(„
+‡
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java˛ ˛( 
+%83boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+par*
+85
+86
+0*¨
+89Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¸ ¸(Õ
+ 
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¸ ¸( 
+%82void":org.apache.tika.parser.rtf.TextExtractor#pendingListEnd()V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+0* 
+110Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“J “(P‰
+·
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“J “(X
+%51boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+sect*	
+109
+95* 
+111Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“8 “(>‰
+·
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“8 “(F
+%50boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+pard*	
+95
+110*…
+112Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“' “(-„
+‡
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“' “(4
+%49boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+par*	
+95
+111*Æ
+113Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“ “(»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java“ “(,
+%48%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*	
+112
+95*À
+115Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÃ Ã(%È
+Ê
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÃ Ã(2
+%47boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+	listlevel*
+113*Ø
+116Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÀ À(#Õ
+ 
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÀ À(#0
+%46)org.apache.tika.parser.rtf.ListDescriptor"__id*=*;*
+(org.apache.tika.parser.rtf.TextExtractor"
+currentList*
+113*´
+90Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java˚ ˚(»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java˚ ˚(
+%81boolean"2org.apache.tika.parser.rtf.TextExtractor#inList()Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+0
+89*‘
+117Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java   (Ì
+Í
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java   (/
+%45boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+liststylename*
+
+115
+116*Ü
+91Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¯ ¯(€
+ÿ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¯ ¯(
+%79void"Aorg.apache.tika.parser.rtf.TextExtractor#end(Ljava/lang/String;)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+b»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java˘ ˘(,
+%80%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+90*¥
+118Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java… …(&Õ
+ 
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java… …(&0
+%44)org.apache.tika.parser.rtf.ListDescriptor"__id*=*;*
+(org.apache.tika.parser.rtf.TextExtractor"
+currentList*
+
+113
+117*¨
+92Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java˜ ˜(»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java˜ ˜(,
+%78%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+90
+91*Æ
+119Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java«" «(6≥∞
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java«& «(40
+%42)org.apache.tika.parser.rtf.ListDescriptor")org.apache.tika.parser.rtf.ListDescriptor∆
+√
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java«" «(6
+%43"3org.apache.tika.parser.rtf.ListDescriptor#<init>()V*2
+0
+%42)org.apache.tika.parser.rtf.ListDescriptorÕ
+ 
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java« «(6;*
+(org.apache.tika.parser.rtf.TextExtractor"
+currentList"__id*2
+0
+%42)org.apache.tika.parser.rtf.ListDescriptor*
+113*Ü
+93Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÙ Ù(€
+ÿ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÙ Ù(
+%76void"Aorg.apache.tika.parser.rtf.TextExtractor#end(Ljava/lang/String;)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+i»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaı ı(,
+%77%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+92*ˆ
+94Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÚ Ú(«
+ƒ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÚ Ú(
+%74void"4org.apache.tika.parser.rtf.TextExtractor#pushText()V*,*
+(org.apache.tika.parser.rtf.TextExtractor»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÛ Û(,
+%75%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+92
+93*ì
+95Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÓ  Ó(*»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÓ  Ó(*,
+%72%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState‰
+·
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java (
+%73boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+pard*
+94
+88*¶
+96Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÊ Ê(«
+ƒ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÊ Ê(
+%68void"4org.apache.tika.parser.rtf.TextExtractor#pushText()V*,*
+(org.apache.tika.parser.rtf.TextExtractor—
+Œ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÁ Á((
+%69void">org.apache.tika.parser.rtf.TextExtractor#lazyStartParagraph()V*,*
+(org.apache.tika.parser.rtf.TextExtractor»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaË Ë(,
+%70%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState›
+⁄
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÈ È(
+%71void"Corg.apache.tika.parser.rtf.TextExtractor#start(Ljava/lang/String;)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+i*
+95*¨
+97Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÂ Â(»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÂ Â(,
+%67%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+95
+96*≈
+98Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java‰ ‰(·
+ﬁ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java‰ ‰("
+%66boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+i*
+95
+97*Ω
+99Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java· ·(›
+⁄
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java· ·("
+%65void"Corg.apache.tika.parser.rtf.TextExtractor#start(Ljava/lang/String;)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+i*
+95*œ
+11Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java˘	 ˘	(Í
+Á
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java˘	 ˘	(&
+%158boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+	ldblquote*	
+8
+9
+0*π
+12Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java˜	 ˜	(⁄
+◊
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java˜	 ˜	('
+%157void":org.apache.tika.parser.rtf.TextExtractor#addOutputChar(C)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+\u2019*
+0*Œ
+14Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÙ	 Ù	(Á
+‰
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÙ	 Ù	(#
+%156boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+rquote*
+11
+0
+12*π
+15Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÚ	 Ú	(⁄
+◊
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÚ	 Ú	('
+%155void":org.apache.tika.parser.rtf.TextExtractor#addOutputChar(C)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+\u2018*
+0*Œ
+17Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÔ	 Ô	(Á
+‰
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÔ	 Ô	(#
+%154boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+lquote*
+14
+15
+0*π
+18Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÌ	 Ì	(⁄
+◊
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÌ	 Ì	('
+%153void":org.apache.tika.parser.rtf.TextExtractor#addOutputChar(C)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+\u2003*
+0*”
+120Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java∆& ∆(,Ï
+È
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java∆& ∆(<
+%41boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+listoverride*
+
+118
+119*o
+0 "h
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaé
+ é
+(
+implicit return*À
+121Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java∆ ∆(‰
+·
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java∆ ∆("
+%40boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+list*
+
+119
+120*ù
+122Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java≈ ≈( ∂
+≥
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java≈ ≈( 
+%39java.util.Map"__id*B*@*
+(org.apache.tika.parser.rtf.TextExtractor"
+currentListTable*
+
+113
+121*–
+1Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaá
+ á
+(¥
+±
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaá
+ á
+(
+%165java.lang.String"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+pendingURL“
+œ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaà
+ à
+( 
+%166void">org.apache.tika.parser.rtf.TextExtractor#lazyStartParagraph()V*,*
+(org.apache.tika.parser.rtf.TextExtractorƒ
+¡
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaâ
+ â
+(/
+%167'org.apache.tika.sax.XHTMLContentHandler"__id*5*3*
+(org.apache.tika.parser.rtf.TextExtractor"
+out¥
+±
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaâ
+* â
+(4
+%168java.lang.String"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+pendingURL˘ˆ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaâ
+ â
+(5
+%169void"morg.apache.tika.sax.XHTMLContentHandler#startElement(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*1
+/
+%167'org.apache.tika.sax.XHTMLContentHandler*
+a*
+href*
+
+%168java.lang.String2DstartElement(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)†
+ù
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaä
+ ä
+(:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+pendingURL"__id*
+""…
+∆
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaå
+ å
+(-
+%170%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+0*™
+124Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaø ø(»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaø ø(,
+%38%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+122*…
+3Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÜ
+ Ü
+(Ë
+Â
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÜ
+ Ü
+($
+%164boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+fldrslt*
+0
+1*ß
+4Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÑ
+ Ñ
+(…
+∆
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÖ
+ Ö
+(-
+%163%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+0*™
+126Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java∫% ∫(&»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaª% ª(/,
+%37%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+122*…
+5Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÉ
+ É
+(Ë
+Â
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÉ
+ É
+($
+%162boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+fldinst*
+3
+4*Œ
+127Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaπ π(Á
+‰
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaπ π(%
+%36boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+fonttbl*
+
+126
+122*∏
+6Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÅ
+ Å
+(⁄
+◊
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÅ
+ Å
+('
+%161void":org.apache.tika.parser.rtf.TextExtractor#addOutputChar(C)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+\u201D*
+0*√
+129Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java≥# ≥(5é
+ã
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java≥# ≥(=(
+%35!org.apache.tika.metadata.Property"__id*
+""∆
+√
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java≥ ≥(=<*
+(org.apache.tika.parser.rtf.TextExtractor"
+nextMetaData"__id**
+(
+%35!org.apache.tika.metadata.Property*
+124
+127
+122*Œ
+8Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java˛	 ˛	(Í
+Á
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java˛	 ˛	(&
+%160boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+	rdblquote*	
+5
+6
+0*∏
+9Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¸	 ¸	(⁄
+◊
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¸	 ¸	('
+%159void":org.apache.tika.parser.rtf.TextExtractor#addOutputChar(C)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+\u201C*
+0*œ
+20Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÍ	 Í	(Ë
+Â
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÍ	 Í	($
+%152boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+emspace*
+17
+18
+0*π
+21Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaË	 Ë	(⁄
+◊
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaË	 Ë	('
+%151void":org.apache.tika.parser.rtf.TextExtractor#addOutputChar(C)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+\u2005*
+0*œ
+23Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÂ	 Â	(Ë
+Â
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÂ	 Â	($
+%150boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+qmspace*
+20
+21
+0*π
+24Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java„	 „	(⁄
+◊
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java„	 „	('
+%149void":org.apache.tika.parser.rtf.TextExtractor#addOutputChar(C)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+\u2002*
+0*œ
+26Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java‡	 ‡	(Ë
+Â
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java‡	 ‡	($
+%148boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+enspace*
+24
+0
+23*π
+27Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaﬁ	 ﬁ	(⁄
+◊
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaﬁ	 ﬁ	('
+%147void":org.apache.tika.parser.rtf.TextExtractor#addOutputChar(C)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+\u2014*
+0*Œ
+29Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java€	 €	(Á
+‰
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java€	 €	(#
+%146boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+emdash*
+26
+27
+0*ÿ
+130Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java≤ ≤(!Á
+‰
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java≤ ≤(,
+%34boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+creatim*
+124
+127
+129
+122*√
+131Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java±# ±(8é
+ã
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java±# ±(A(
+%33!org.apache.tika.metadata.Property"__id*
+""∆
+√
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java± ±(A<*
+(org.apache.tika.parser.rtf.TextExtractor"
+nextMetaData"__id**
+(
+%33!org.apache.tika.metadata.Property*
+124
+127
+122*œ
+132Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java∞ ∞(!Ë
+Â
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java∞ ∞(-
+%32boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+template*
+
+130
+131*√
+133Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaØ# Ø(8é
+ã
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaØ# Ø(@(
+%31!org.apache.tika.metadata.Property"__id*
+""∆
+√
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaØ Ø(@<*
+(org.apache.tika.parser.rtf.TextExtractor"
+nextMetaData"__id**
+(
+%31!org.apache.tika.metadata.Property*
+124
+127
+122*Œ
+134Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÆ Æ(!Á
+‰
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÆ Æ(,
+%30boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+manager*
+
+132
+133*√
+135Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java≠# ≠(8é
+ã
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java≠# ≠(@(
+%29!org.apache.tika.metadata.Property"__id*
+""∆
+√
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java≠ ≠(@<*
+(org.apache.tika.parser.rtf.TextExtractor"
+nextMetaData"__id**
+(
+%29!org.apache.tika.metadata.Property*
+124
+127
+122*Œ
+136Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¨ ¨(!Á
+‰
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¨ ¨(,
+%28boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+company*
+
+134
+135*√
+137Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java´# ´(5é
+ã
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java´# ´(>(
+%27!org.apache.tika.metadata.Property"__id*
+""∆
+√
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java´ ´(><*
+(org.apache.tika.parser.rtf.TextExtractor"
+nextMetaData"__id**
+(
+%27!org.apache.tika.metadata.Property*
+124
+127
+122*Œ
+138Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java™ ™(!Á
+‰
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java™ ™(,
+%26boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+comment*
+
+136
+137*√
+139Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java©# ©(4é
+ã
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java©# ©(=(
+%25!org.apache.tika.metadata.Property"__id*
+""∆
+√
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java© ©(=<*
+(org.apache.tika.parser.rtf.TextExtractor"
+nextMetaData"__id**
+(
+%25!org.apache.tika.metadata.Property*
+124
+127
+122*π
+30Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaŸ	 Ÿ	(⁄
+◊
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaŸ	 Ÿ	('
+%145void":org.apache.tika.parser.rtf.TextExtractor#addOutputChar(C)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+\u2013*
+0*Œ
+32Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java÷	 ÷	(Á
+‰
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java÷	 ÷	(#
+%144boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+endash*
+29
+30
+0*π
+33Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java‘	 ‘	(⁄
+◊
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java‘	 ‘	('
+%143void":org.apache.tika.parser.rtf.TextExtractor#addOutputChar(C)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+\u2022*
+0*Œ
+35Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java—	 —	(Á
+‰
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java—	 —	(#
+%142boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+bullet*
+32
+33
+0*®
+36Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÃ	 Ã	(…
+∆
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java–	 –	(-
+%141%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+0*«
+38Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÀ	 À	(„
+‡
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaÀ	 À	(
+%140boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+ud*
+35
+36*œ
+140Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java® ®(!Ë
+Â
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java® ®(-
+%24boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+category*
+
+138
+139*√
+141Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaß# ß(5é
+ã
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaß# ß(W(
+%23!org.apache.tika.metadata.Property"__id*
+""∆
+√
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaß ß(W<*
+(org.apache.tika.parser.rtf.TextExtractor"
+nextMetaData"__id**
+(
+%23!org.apache.tika.metadata.Property*
+124
+127
+122*œ
+142Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¶ ¶(!Ë
+Â
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¶ ¶(-
+%22boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+keywords*
+
+140
+141*√
+143Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java•# •(5é
+ã
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java•# •(V(
+%21!org.apache.tika.metadata.Property"__id*
+""∆
+√
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java• •(V<*
+(org.apache.tika.parser.rtf.TextExtractor"
+nextMetaData"__id**
+(
+%21!org.apache.tika.metadata.Property*
+124
+127
+122*Œ
+144Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java£ £(!Á
+‰
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java£ £(,
+%20boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+subject*
+
+142
+143*√
+145Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¢# ¢(5é
+ã
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¢# ¢(;(
+%19!org.apache.tika.metadata.Property"__id*
+""∆
+√
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¢ ¢(;<*
+(org.apache.tika.parser.rtf.TextExtractor"
+nextMetaData"__id**
+(
+%19!org.apache.tika.metadata.Property*
+124
+127
+122*Ã
+146Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java° °(!Â
+‚
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java° °(*
+%18boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+title*
+
+145
+144*√
+147Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java†# †(5é
+ã
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java†# †(=(
+%17!org.apache.tika.metadata.Property"__id*
+""∆
+√
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java† †(=<*
+(org.apache.tika.parser.rtf.TextExtractor"
+nextMetaData"__id**
+(
+%17!org.apache.tika.metadata.Property*
+124
+127
+122*Õ
+148Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaü ü(Ê
+„
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaü ü($
+%16boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+author*
+
+146
+147*«
+40Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java…	 …	(‰
+·
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java…	 …	( 
+%139boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+upr*
+38
+0*µ
+41Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java«	 «	(÷
+”
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java«	 «	(#
+%138void":org.apache.tika.parser.rtf.TextExtractor#addOutputChar(C)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+\t*
+0*À
+43Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java≈	 ≈	(‰
+·
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java≈	 ≈	( 
+%137boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+tab*
+40
+41
+0*µ
+44Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java√	 √	(÷
+”
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java√	 √	(#
+%136void":org.apache.tika.parser.rtf.TextExtractor#addOutputChar(C)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+\n*
+0*–
+46Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¡	 ¡	(È
+Ê
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¡	 ¡	(%
+%135boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+softpage*
+43
+44
+0*¥
+47Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaø	 ø	(’
+“
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaø	 ø	("
+%134void":org.apache.tika.parser.rtf.TextExtractor#addOutputChar(C)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+ *
+0*“
+49Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaΩ	 Ω	(Î
+Ë
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaΩ	 Ω	('
+%133boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+softcolumn*
+46
+47
+0*·
+150Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaô# ô(4∑
+¥
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaô# ô(4
+%15java.util.Map"__id*C*A*
+(org.apache.tika.parser.rtf.TextExtractor"
+listOverrideTable∂
+≥
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaô ô(4@*
+(org.apache.tika.parser.rtf.TextExtractor"
+currentListTable"__id*
+
+%15java.util.Map*
+124
+148
+127
+122*Á
+151Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaò ò(Ò
+Ó
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaò ò(2
+%14boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+listoverridetable*
+124
+148
+127
+150
+122*Ÿ
+152Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaó# ó(,Ø
+¨
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaó# ó(,
+%13java.util.Map"__id*;*9*
+(org.apache.tika.parser.rtf.TextExtractor"
+	listTable∂
+≥
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaó ó(,@*
+(org.apache.tika.parser.rtf.TextExtractor"
+currentListTable"__id*
+
+%13java.util.Map*
+124
+148
+127
+122*–
+153Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javañ ñ(È
+Ê
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javañ ñ(*
+%12boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+	listtable*
+
+151
+152*π
+154Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaï ï(»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaï ï(,
+%11%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+124
+148
+127
+122*Œ
+155Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaî> î(DÁ
+‰
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaî> î(O
+%10boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+fonttbl*
+
+153
+154*–
+156Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaî& î(,È
+Ê
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaî& î(:
+%9boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+stylesheet*
+
+154
+155*Œ
+157Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaî î(Á
+‰
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaî î("
+%8boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+colortbl*
+
+156
+154*¶
+158Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaë  ë()Ñ
+Å
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaë  ë()
+%7java.nio.charset.Charset"__id*
+""Ω
+∫
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaë ë()=*
+(org.apache.tika.parser.rtf.TextExtractor"
+globalCharset"__id* 
+
+%7java.nio.charset.Charset*
+157*…
+159Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaê ê(‚
+ﬂ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaê ê($
+%6boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+mac*
+
+157
+158*µ
+50Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaª	 ª	(÷
+”
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaª	 ª	(#
+%132void":org.apache.tika.parser.rtf.TextExtractor#addOutputChar(C)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+\n*
+0*–
+52Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaπ	 π	(È
+Ê
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaπ	 π	(%
+%131boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+softline*
+49
+50
+0*µ
+53Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java∑	 ∑	(÷
+”
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java∑	 ∑	(#
+%130void":org.apache.tika.parser.rtf.TextExtractor#addOutputChar(C)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+\n*
+0*Ã
+55Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaµ	 µ	(Â
+‚
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaµ	 µ	(!
+%129boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+page*
+52
+53
+0*¥
+56Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java≥	 ≥	(’
+“
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java≥	 ≥	("
+%128void":org.apache.tika.parser.rtf.TextExtractor#addOutputChar(C)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+ *
+0*Œ
+58Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java±	 ±	(Á
+‰
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java±	 ±	(#
+%127boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+column*
+55
+0
+56*µ
+59Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaØ	 Ø	(÷
+”
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaØ	 Ø	(#
+%126void":org.apache.tika.parser.rtf.TextExtractor#addOutputChar(C)V*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+\n*
+0*¶
+160Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaè  è(%Ñ
+Å
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaè  è(%
+%5java.nio.charset.Charset"__id*
+""Ω
+∫
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaè è(%=*
+(org.apache.tika.parser.rtf.TextExtractor"
+globalCharset"__id* 
+
+%5java.nio.charset.Charset*
+157*»
+161Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaé é(·
+ﬁ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaé é(#
+%4boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+pc*
+
+159
+160*¶
+162Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaç  ç(%Ñ
+Å
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaç  ç(%
+%3java.nio.charset.Charset"__id*
+""Ω
+∫
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaç ç(%=*
+(org.apache.tika.parser.rtf.TextExtractor"
+globalCharset"__id* 
+
+%3java.nio.charset.Charset*
+157*…
+163Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaå å(‚
+ﬂ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaå å($
+%2boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+pca*
+
+161
+162*¶
+164Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaã  ã(,Ñ
+Å
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaã  ã(,
+%1java.nio.charset.Charset"__id*
+""Ω
+∫
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaã ã(,=*
+(org.apache.tika.parser.rtf.TextExtractor"
+globalCharset"__id* 
+
+%1java.nio.charset.Charset*
+157* 
+165Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaä ä(„
+‡
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaä ä(
+%0boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+ansi*
+
+163
+164*Ã
+61Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java≠	 ≠	(Â
+‚
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java≠	 ≠	(!
+%125boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+line*
+58
+59
+0*≠
+62Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java®	 ®	(»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java®	 ®	(
+%121void"4org.apache.tika.parser.rtf.TextExtractor#pushText()V*,*
+(org.apache.tika.parser.rtf.TextExtractor…
+∆
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java´	 ´	(-
+%122%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState“
+œ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¨	 ¨	(3
+%123+org.apache.tika.parser.rtf.RTFEmbObjHandler"__id*?*=*
+(org.apache.tika.parser.rtf.TextExtractor"
+embObjHandler‚ﬂ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¨	 ¨	(%
+%124void"8org.apache.tika.parser.rtf.RTFEmbObjHandler#startPict()V*5
+3
+%123+org.apache.tika.parser.rtf.RTFEmbObjHandler2startPict()*
+0*…
+63Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaß	 ß	(Â
+‚
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.javaß	 ß	(!
+%120boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+pict*
+61
+62*Ë
+64Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java•	 •	(…
+∆
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java•	 •	(-
+%117%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState“
+œ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¶	 ¶	(3
+%118+org.apache.tika.parser.rtf.RTFEmbObjHandler"__id*?*=*
+(org.apache.tika.parser.rtf.TextExtractor"
+embObjHandlerËÂ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¶	 ¶	((
+%119void";org.apache.tika.parser.rtf.RTFEmbObjHandler#startObjData()V*5
+3
+%118+org.apache.tika.parser.rtf.RTFEmbObjHandler2startObjData()*
+0*Ã
+65Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java§	 §	(Ë
+Â
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java§	 §	($
+%116boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*	
+objdata*
+63
+64*π
+66Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java°	 °	(»
+≈
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java°	 °	(
+%112void"4org.apache.tika.parser.rtf.TextExtractor#pushText()V*,*
+(org.apache.tika.parser.rtf.TextExtractor“
+œ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¢	 ¢	(3
+%113+org.apache.tika.parser.rtf.RTFEmbObjHandler"__id*?*=*
+(org.apache.tika.parser.rtf.TextExtractor"
+embObjHandlerÓÎ
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¢	 ¢	(+
+%114void";org.apache.tika.parser.rtf.RTFEmbObjHandler#setInObject(Z)V*5
+3
+%113+org.apache.tika.parser.rtf.RTFEmbObjHandler*22setInObject(Z)…
+∆
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java£	 £	(-
+%115%org.apache.tika.parser.rtf.GroupState"__id*<*:*
+(org.apache.tika.parser.rtf.TextExtractor"
+
+groupState*
+0*À
+67Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java†	 †	(Á
+‰
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java†	 †	(#
+%111boolean"Dorg.apache.tika.parser.rtf.TextExtractor#equals(Ljava/lang/String;)Z*,*
+(org.apache.tika.parser.rtf.TextExtractor*
+
+object*
+65
+66B,*
+(org.apache.tika.parser.rtf.TextExtractor

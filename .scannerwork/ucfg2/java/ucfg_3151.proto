@@ -1,0 +1,16 @@
+
+corg.apache.tika.config.ServiceLoader#getLoadErrorHandler()Lorg/apache/tika/config/LoadErrorHandler;M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java£ £(/"1*–
+1M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java¤ ¤(¾
+»
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java¤ ¤(-
+%0'org.apache.tika.config.LoadErrorHandler"__id*5*3&
+$org.apache.tika.config.ServiceLoader"	
+handler"€
+M
+AD:/git_project/code/src/org/apache/tika/config/ServiceLoader.java¤ ¤(/
+-
+%0'org.apache.tika.config.LoadErrorHandlerB(&
+$org.apache.tika.config.ServiceLoader

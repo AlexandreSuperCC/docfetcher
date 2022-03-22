@@ -1,0 +1,18 @@
+
+worg.apache.tika.sax.xpath.ChildMatcher#descend(Ljava/lang/String;Ljava/lang/String;)Lorg/apache/tika/sax/xpath/Matcher;M
+CD:/git_project/code/src/org/apache/tika/sax/xpath/ChildMatcher.java ("1*ˆ
+1M
+CD:/git_project/code/src/org/apache/tika/sax/xpath/ChildMatcher.java   (·
+´
+M
+CD:/git_project/code/src/org/apache/tika/sax/xpath/ChildMatcher.java   ('
+%0!org.apache.tika.sax.xpath.Matcher"__id*4*2(
+&org.apache.tika.sax.xpath.ChildMatcher"
+then"z
+M
+CD:/git_project/code/src/org/apache/tika/sax/xpath/ChildMatcher.java   ()
+'
+%0!org.apache.tika.sax.xpath.Matcher:
+	namespacejava.lang.String:
+namejava.lang.StringB*(
+&org.apache.tika.sax.xpath.ChildMatcher

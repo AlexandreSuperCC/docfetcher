@@ -1,0 +1,71 @@
+
+Vnet.sourceforge.docfetcher.util.collect.BoundedList#removeAll(Ljava/util/Collection;)Z\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaÇ Ç("5*ö
+2\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaà à(±Æ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaà à(
+
+%5void"java.util.Iterator#remove()V*
+
+itjava.util.Iterator2remove()*
+4*î
+3\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaÜ Ü(ª∏
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaÜ Ü(
+%3T"+java.util.Iterator#next()Ljava/lang/Object;*
+
+itjava.util.Iterator2next()|
+z
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaÜ Ü(	
+nextT"__id*	
+
+%3TÏÈ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaá á(
+%4boolean"2java.util.Collection#contains(Ljava/lang/Object;)Z*
+
+cjava.util.Collection*
+	
+nextT2contains(Ljava/lang/Object;)*
+2
+4*¢
+4\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaÖ	 Ö(∂≥
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaÖ	 Ö(
+%2boolean"java.util.Iterator#hasNext()Z*
+
+itjava.util.Iterator2	hasNext()*
+3
+1*∏
+5\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaÉ É(∆
+√
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaÉ É(
+%0java.util.LinkedList"__id*A*?5
+3net.sourceforge.docfetcher.util.collect.BoundedList"
+listÊ„
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaÉ É("
+%1java.util.Iterator"?java.util.AbstractSequentialList#iterator()Ljava/util/Iterator;*
+
+%0java.util.LinkedList2
+iterator()ù
+ö
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaÉ É(#
+itjava.util.Iterator"__id*
+
+%1java.util.Iterator*
+4*…
+1\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaç	 ç("f
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/BoundedList.javaé é(
+"":
+cjava.util.CollectionB75
+3net.sourceforge.docfetcher.util.collect.BoundedList

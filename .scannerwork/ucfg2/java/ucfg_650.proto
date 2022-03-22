@@ -1,0 +1,312 @@
+
+Znet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer#moveSelection(Z)Vq
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaÃ Ã("15*ﬂ
+2q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaÂ Â(ﬂ
+‹
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaÂ Â(YJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+	pageIndex"__id*
+""©
+¶
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaÊ Ê(
+%23void"Vnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer#updatePage()V*LJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewerö
+ó
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaÁ Á(#>
+%247net.sourceforge.docfetcher.gui.preview.HighlightingText"__id*\*ZJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+
+textViewerµ≤
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaÁ Á(.
+%25java.lang.Integer"Unet.sourceforge.docfetcher.gui.preview.HighlightingText#goToLast()Ljava/lang/Integer;*@
+>
+%247net.sourceforge.docfetcher.gui.preview.HighlightingText2
+goToLast()≤
+Ø
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaÁ Á(/
+occjava.lang.Integer"__id*
+
+%25java.lang.Integer◊
+‘
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaË Ë(9
+
+%26int"inet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer#relativeToAbsoluteOccurrence(I)I*LJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer*
+
+occjava.lang.IntegerÊ
+„
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaË Ë(9ZJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+
+currentOcc"__id*
+
+
+%26intí
+è
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaÈ È(8
+%271net.sourceforge.docfetcher.gui.preview.RangeField"__id*Z*XJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+
+occFieldÙ
+Ò
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaÈ È('
+%28java.lang.Integer"__id*\*ZJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+
+currentOcc˙˜
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaÈ È(2
+%29void"cnet.sourceforge.docfetcher.gui.preview.RangeField#setRange(Ljava/lang/Integer;Ljava/lang/Integer;)V*:
+8
+%271net.sourceforge.docfetcher.gui.preview.RangeField*
+
+%28java.lang.Integer*
+""20setRange(Ljava/lang/Integer;Ljava/lang/Integer;)*
+0*ƒ
+14q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java– –(5Ÿ
+÷
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java– –(=	
+%2int"inet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer#relativeToAbsoluteOccurrence(I)I*LJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer*
+
+newOccjava.lang.IntegerÂ
+‚
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java– –(=ZJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+
+currentOcc"__id*
+	
+%2intë
+é
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java— —(7
+%31net.sourceforge.docfetcher.gui.preview.RangeField"__id*Z*XJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+
+occFieldÛ
+
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java— —((
+%4java.lang.Integer"__id*\*ZJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+
+currentOcc˜Ù
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java— —(3
+
+%5void"cnet.sourceforge.docfetcher.gui.preview.RangeField#setRange(Ljava/lang/Integer;Ljava/lang/Integer;)V*9
+7
+%31net.sourceforge.docfetcher.gui.preview.RangeField*
+
+%4java.lang.Integer*
+""20setRange(Ljava/lang/Integer;Ljava/lang/Integer;)*
+0*è
+15q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaÕ Õ(#ô
+ñ
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaÕ Õ(#=
+%07net.sourceforge.docfetcher.gui.preview.HighlightingText"__id*\*ZJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+
+textViewerµ≤
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaÕ Õ(2
+%1java.lang.Integer"Rnet.sourceforge.docfetcher.gui.preview.HighlightingText#goTo(Z)Ljava/lang/Integer;*?
+=
+%07net.sourceforge.docfetcher.gui.preview.HighlightingText*
+""2goTo(Z)¥
+±
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaÕ Õ(3
+newOccjava.lang.Integer"__id*
+
+%1java.lang.Integer*
+14
+6
+12*â	
+4q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java‚& ‚(+Ï
+È
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java‚& ‚(+
+%20java.util.List"__id*W*UJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+pagesÂ
+‚
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java‚& ‚(2@
+%219net.sourceforge.docfetcher.model.search.HighlightedString"
+__arrayGet*
+
+%20java.util.List*
+""Ö
+Ç
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java‚ ‚(3C
+string9net.sourceforge.docfetcher.model.search.HighlightedString"__id*B
+@
+%219net.sourceforge.docfetcher.model.search.HighlightedString¶£
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java„ „(%
+
+%22int"Jnet.sourceforge.docfetcher.model.search.HighlightedString#getRangeCount()I*E
+C
+string9net.sourceforge.docfetcher.model.search.HighlightedString2getRangeCount()*	
+2
+4
+0*Ù
+6q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java· ·( Û
+
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java· ·( 
+%19java.lang.Integer"__id*[*YJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+	pageIndex*
+4
+0*ﬂ
+8q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaŸ Ÿ(ﬂ
+‹
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaŸ Ÿ(YJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+	pageIndex"__id*
+""©
+¶
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java⁄ ⁄(
+%12void"Vnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer#updatePage()V*LJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewerö
+ó
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java€ €(#>
+%137net.sourceforge.docfetcher.gui.preview.HighlightingText"__id*\*ZJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+
+textViewerµ≤
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java€ €(.
+%14java.lang.Integer"Rnet.sourceforge.docfetcher.gui.preview.HighlightingText#goTo(Z)Ljava/lang/Integer;*@
+>
+%137net.sourceforge.docfetcher.gui.preview.HighlightingText*22goTo(Z)≤
+Ø
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java€ €(/
+occjava.lang.Integer"__id*
+
+%14java.lang.Integer◊
+‘
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java‹ ‹(9
+
+%15int"inet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer#relativeToAbsoluteOccurrence(I)I*LJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer*
+
+occjava.lang.IntegerÊ
+„
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java‹ ‹(9ZJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+
+currentOcc"__id*
+
+
+%15intí
+è
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java› ›(8
+%161net.sourceforge.docfetcher.gui.preview.RangeField"__id*Z*XJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+
+occFieldÙ
+Ò
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java› ›('
+%17java.lang.Integer"__id*\*ZJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+
+currentOcc˙˜
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java› ›(2
+%18void"cnet.sourceforge.docfetcher.gui.preview.RangeField#setRange(Ljava/lang/Integer;Ljava/lang/Integer;)V*:
+8
+%161net.sourceforge.docfetcher.gui.preview.RangeField*
+
+%17java.lang.Integer*
+""20setRange(Ljava/lang/Integer;Ljava/lang/Integer;)*
+0*Ü	
+10q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java÷& ÷(+Î
+Ë
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java÷& ÷(+
+%9java.util.List"__id*W*UJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+pages‰
+·
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java÷& ÷(2@
+%109net.sourceforge.docfetcher.model.search.HighlightedString"
+__arrayGet*
+
+%9java.util.List*
+""Ö
+Ç
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java÷ ÷(3C
+string9net.sourceforge.docfetcher.model.search.HighlightedString"__id*B
+@
+%109net.sourceforge.docfetcher.model.search.HighlightedString¶£
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java◊ ◊(%
+
+%11int"Jnet.sourceforge.docfetcher.model.search.HighlightedString#getRangeCount()I*E
+C
+string9net.sourceforge.docfetcher.model.search.HighlightedString2getRangeCount()*
+8
+11*ê
+0 "à
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.javaÓ Ó(
+implicit return*™
+11q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java’& ’('Î
+Ë
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java’* ’(/
+%7java.util.List"__id*W*UJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+pagesπ∂
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java’* ’(6	
+%8int"java.util.List#size()I*
+
+%7java.util.List2size()*
+10
+0*Ú
+12q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java’ ’( Ú
+Ô
+q
+eD:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/HighlightingToolBarWithTextViewer.java’ ’( 
+%6java.lang.Integer"__id*[*YJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer"
+	pageIndex*
+11:
+""BLJ
+Hnet.sourceforge.docfetcher.gui.preview.HighlightingToolBarWithTextViewer

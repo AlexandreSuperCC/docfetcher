@@ -1,0 +1,47 @@
+
+–net.sourceforge.docfetcher.util.gui.CocoaUIEnhancer#invoke(Ljava/lang/Class;Ljava/lang/String;[Ljava/lang/Class;[Ljava/lang/Object;)Ljava/lang/Object;\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java¥ ¥("5*Û
+3\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java¨ ¨(/"x
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java¨ ¨(/
+
+%1java.lang.Object*â
+4\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java§ §(G¨
+¥
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java§ §(G
+mjava.lang.reflect.Method"__id* 
+
+%0java.lang.reflect.MethodÎË
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java¨ ¨(.
+%1java.lang.Object"Xjava.lang.reflect.Method#invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;*
+
+mjava.lang.reflect.Method*
+""*!
+
+	argumentsjava.lang.Object[]2-invoke(Ljava/lang/Object;[Ljava/lang/Object;)*
+3*å
+5\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java§ §(üù
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/CocoaUIEnhancer.java§ §(F
+%0java.lang.reflect.Method"ajava.lang.Class#getDeclaredMethod(Ljava/lang/String;[Ljava/lang/Class;)Ljava/lang/reflect/Method;*
+
+clsjava.lang.Class* 
+
+
+methodNamejava.lang.String*!
+
+
+paramTypesjava.lang.Class[]27getDeclaredMethod(Ljava/lang/String;[Ljava/lang/Class;)*
+4:
+clsjava.lang.Class:
+
+methodNamejava.lang.String:
+
+paramTypesjava.lang.Class[]:
+	argumentsjava.lang.Object[]B75
+3net.sourceforge.docfetcher.util.gui.CocoaUIEnhancer

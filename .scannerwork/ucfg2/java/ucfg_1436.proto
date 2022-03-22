@@ -1,0 +1,128 @@
+
+Tnet.sourceforge.docfetcher.util.Util#contains(Ljava/lang/String;Ljava/lang/String;)ZM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java‰ ‰("startingBlock*´
+2M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÓ
+ Ó("W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÓ Ó(
+""*‘
+3M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÌ Ì(˜Ù
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÌ Ì()
+%6boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*#
+!
+fileOrDirPathjava.lang.String*
+
+dirPathjava.lang.String2startsWith(Ljava/lang/String;)*
+2
+1*˝
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java‰ Â('º
+π
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java‰! ‰()
+%7"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+dirPathjava.lang.StringÖ
+Ç
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java‰1 ‰(8
+dirPathjava.lang.String"__annotation*
+
+%7¬
+ø
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÂ	 Â(
+%8"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*#
+!
+fileOrDirPathjava.lang.Stringã
+à
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÂ Â(&!
+fileOrDirPathjava.lang.String"__annotation*
+
+%8*
+7*´
+4M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÏ
+ Ï("W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÏ Ï(
+""*∫
+5M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÍ Í(¢ü
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÍ  Í(0	
+%4int"java.lang.String#length()I*
+
+dirPathjava.lang.String2length()∏µ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÍ Í(1
+
+%5char"java.lang.String#charAt(I)C*#
+!
+fileOrDirPathjava.lang.String*
+	
+%4int2	charAt(I)*
+3
+4*´
+6M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÈ
+ È("W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÈ È(
+""*ä	
+7M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÊ Ê(’“
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÊ Ê(&
+%0java.lang.String".java.lang.String#replace(CC)Ljava/lang/String;*
+
+dirPathjava.lang.String*
+\\*
+/2replace(CC)è
+å
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÊ Ê(&
+dirPathjava.lang.String"__id*
+
+%0java.lang.String€ÿ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÁ Á(2
+%1java.lang.String".java.lang.String#replace(CC)Ljava/lang/String;*#
+!
+fileOrDirPathjava.lang.String*
+\\*
+/2replace(CC)ï
+í
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÁ Á(2!
+fileOrDirPathjava.lang.String"__id*
+
+%1java.lang.String¢ü
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaË Ë(	
+%2int"java.lang.String#length()I*
+
+dirPathjava.lang.String2length()®•
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaË Ë(0	
+%3int"java.lang.String#length()I*#
+!
+fileOrDirPathjava.lang.String2length()*
+5
+6*´
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÔ	 Ô("W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÔ Ô(
+"":
+dirPathjava.lang.String:!
+fileOrDirPathjava.lang.StringB("&
+$net.sourceforge.docfetcher.util.Util

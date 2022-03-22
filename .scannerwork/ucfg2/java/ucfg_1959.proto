@@ -1,0 +1,1158 @@
+
+ònet.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData#scan(Ljava/io/File;ZLnet/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX$JNEvents;)V_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java˜ ˜("88*∞
+24_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÑ
+ Ñ(øº
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÑ
+ Ñ(
+%71boolean"java.util.Iterator#hasNext()Z*
+
+entryitjava.util.Iterator2	hasNext()*
+0
+23*˛
+25_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÉ É(#ê
+ç
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÉ É(#
+entryjava.util.Map$Entry"__id*
+""*
+24*‘
+69_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java®: ®(?®
+•
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java®: ®(B
+%29java.io.File"
+__arrayGet*
+
+filesjava.io.File[]*
+""∑¥
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java®: ®(P
+%30boolean"java.io.File#isDirectory()Z*
+
+%29java.io.File2isDirectory()*
+64
+65*Ì
+26_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÄ Ä(ÿ’
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÄ Ä($
+%70java.lang.String"+java.util.Iterator#next()Ljava/lang/Object;*$
+"
+stillAliveitjava.util.Iterator2next()§
+°
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÄ Ä($
+	lastAlivejava.lang.String"__id*
+
+%70java.lang.String*
+25*«
+27_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java˝ ˝(‡›
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java˝ ˝((
+%68java.util.Iterator"0java.util.TreeSet#iterator()Ljava/util/Iterator;*!
+
+
+stillAlivejava.util.TreeSet2
+iterator()´
+®
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java˝ ˝(("
+stillAliveitjava.util.Iterator"__id*
+
+%68java.util.Iteratorƒ¡
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java˛ ˛(
+%69boolean"java.util.Iterator#hasNext()Z*$
+"
+stillAliveitjava.util.Iterator2	hasNext()*
+25
+26*£
+28_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¯1 ¯(>€ÿ
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¯1 ¯(I
+%67java.util.Iterator",java.util.Set#iterator()Ljava/util/Iterator;* 
+
+existingfilesjava.util.Set2
+iterator()¶
+£
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¯ ¯(J
+entryitjava.util.Iterator"__id*
+
+%67java.util.Iteratorñ
+ì
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java˘ ˘(("
+stillAliveitjava.util.Iterator"__id*
+""ë
+é
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java˙ ˙(
+	lastAlivejava.lang.String"__id*
+""*
+25
+27*—
+70_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java® ®($ﬂ
+‹
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java® ®(-
+%28java.util.TreeSet"__id*Y*W
+I
+events?net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNEvents"
+
+modified*
+69
+64*Ì
+72_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java° °()˚
+¯
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java° °()G
+oldKey=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile"__id*F
+D
+%27=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile*
+70
+64*ö
+73_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java† †("¢
+ü
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java† †("
+plistjava.util.TreeSet"__id*
+
+%26java.util.TreeSetáÑ
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java° °((D
+%27=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile".java.util.Map$Entry#getKey()Ljava/lang/Object;*!
+
+oldEntryjava.util.Map$Entry2getKey()*
+72*Õ
+74_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java† †(ﬂ‹
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java† †("
+%26java.util.TreeSet"0java.util.Map$Entry#getValue()Ljava/lang/Object;*!
+
+oldEntryjava.util.Map$Entry2
+getValue()*
+73*ı
+75_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaö ö($¢
+ü
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaö ö($
+plistjava.util.TreeSet"__id*
+
+%22java.util.TreeSet’
+“
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaõ õ(
+%24java.util.TreeMap"__id*O*MB
+@net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData"
+pathsä
+á
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaõ õ(
+%25java.util.TreeSet"__mapSet*
+
+%24java.util.TreeMap*F
+D
+jnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile*
+
+plistjava.util.TreeSet*
+64*€
+31_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÏ Ï(®
+•
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÏ Ï(
+%64java.io.File"
+__arrayGet*
+
+filesjava.io.File[]*
+""æ
+ª
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÏ Ï((
+%65void"ònet.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData#scan(Ljava/io/File;ZLnet/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX$JNEvents;)V*DB
+@net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData*
+
+%64java.io.File*
+""*K
+I
+events?net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNEvents*
+28
+85*¶
+76_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaö ö($ëé
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaö ö("
+%22java.util.TreeSet"java.util.TreeSet§
+°
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaö ö($
+%23"java.util.TreeSet#<init>()V*
+
+%22java.util.TreeSet*
+75*ÿ
+33_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÍ' Í(,®
+•
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÍ' Í(/
+%62java.io.File"
+__arrayGet*
+
+filesjava.io.File[]*
+""∑¥
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÍ' Í(=
+%63boolean"java.io.File#isDirectory()Z*
+
+%62java.io.File2isDirectory()*
+28
+85
+31*Ì
+78_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaó ó(<˚¯
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaó ó(<
+%21boolean"Ynet.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile#equals(Ljava/lang/Object;)Z*F
+D
+jnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile*F
+D
+%20=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile2equals(Ljava/lang/Object;)*
+74
+76*ı
+79_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaó ó("áÑ
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaó* ó(;D
+%20=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile".java.util.Map$Entry#getKey()Ljava/lang/Object;*!
+
+oldEntryjava.util.Map$Entry2getKey()*
+78*µ
+36_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÊ Ê(ø
+º
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÊ Ê(
+%61boolean"
+__arrayAdd*
+
+eplistjava.util.TreeSet*: *
+
+pathjava.lang.String*
+28
+85
+33*É
+37_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java„	 „('£
+†
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java„	 „('
+eplistjava.util.TreeSet"__id*
+
+%57java.util.TreeSetﬁ
+€
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java‰	 ‰(
+%59java.util.TreeMap"__id*X*V
+I
+events?net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNEvents"	
+deletedé
+ã
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java‰	 ‰(+
+%60java.util.TreeSet"__mapSet*
+
+%59java.util.TreeMap*I
+G
+oldjnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile*
+
+eplistjava.util.TreeSet*
+36*¶
+38_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java„ „('ëé
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java„ „(%
+%57java.util.TreeSet"java.util.TreeSet§
+°
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java„ „('
+%58"java.util.TreeSet#<init>()V*
+
+%57java.util.TreeSet*
+37*ï
+39_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java‡ ‡(<£
+†
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java‡ ‡(<
+eplistjava.util.TreeSet"__id*
+
+%56java.util.TreeSet*
+36
+38*¨
+80_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaï ï(J©
+¶
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaï ï(J
+oldEntryjava.util.Map$Entry"__id*
+
+%19java.util.Map$Entryé
+ã
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javañ ñ(
+plistjava.util.TreeSet"__id*
+""*
+79
+76*å
+81_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaì ì((¯
+ı
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaì ì((D
+jnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile"__id*F
+D
+%16=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile’
+“
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaï4 ï(9
+%18java.util.TreeMap"__id*O*MB
+@net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData"
+pathsÀ»
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaï4 ï(I
+%19java.util.Map$Entry"Ejava.util.TreeMap#floorEntry(Ljava/lang/Object;)Ljava/util/Map$Entry;*
+
+%18java.util.TreeMap*F
+D
+jnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile2floorEntry(Ljava/lang/Object;)*
+80*¶
+82_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaì ì(#®
+•
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaì ì(&
+%15java.io.File"
+__arrayGet*
+
+filesjava.io.File[]*
+""ÈÊ
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaì ì(D
+%16=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile"=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile°
+û
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaì ì('
+%17"Unet.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile#<init>(Ljava/io/File;)V*F
+D
+%16=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile*
+
+%15java.io.File*
+81*µ
+83_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaè è(«
+ƒ
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaè è(
+%14boolean"
+__arrayAdd*!
+
+
+stillAlivejava.util.TreeSet*: *
+
+filePathjava.lang.String*
+82*˛
+84_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaå å(ÍÁ
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaå å(2
+%13java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*
+
+filePathjava.lang.String*2 *
+""2substring(II)£
+†
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaå å(2
+filePathjava.lang.String"__id*
+
+%13java.lang.String*
+83*æ
+40_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java‡! ‡('ﬁ
+€
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java‡! ‡(/
+%55java.util.TreeMap"__id*X*V
+I
+events?net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNEvents"	
+deletedÔ
+Ï
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java‡! ‡(;
+%56java.util.TreeSet"__mapGet*
+
+%55java.util.TreeMap*I
+G
+oldjnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile*
+39*ƒ
+85_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÜ Ü(ß
+§
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÜ Ü(
+%8java.io.File"
+__arrayGet*
+
+filesjava.io.File[]*
+""◊‘
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÜ Ü(1
+%9java.lang.String"0java.io.File#getAbsolutePath()Ljava/lang/String;*
+
+%8java.io.File2getAbsolutePath()¢
+ü
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÜ Ü(2
+filePathjava.lang.String"__id*
+
+%9java.lang.String∂≥
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaá# á(4
+
+%10int"java.lang.String#length()I*
+
+rootPathjava.lang.String2length()‰·
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaá á(9
+%11java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+filePathjava.lang.String*
+""2substring(I)£
+†
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaá á(9
+filePathjava.lang.String"__id*
+
+%11java.lang.String„‡
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaâ â(+
+
+%12int"-java.lang.String#indexOf(Ljava/lang/String;)I*
+
+filePathjava.lang.String*
+/2indexOf(Ljava/lang/String;)*
+83
+84*ÿ
+41_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaﬁ ﬁ(#ﬁ
+€
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaﬁ ﬁ(+
+%54java.util.TreeMap"__id*X*V
+I
+events?net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNEvents"	
+deleted*
+28
+40
+85
+33*–
+87_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÇ Ç(&êç
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÇ Ç($
+%6java.util.TreeSet"java.util.TreeSet¢
+ü
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÇ Ç(&
+%7"java.util.TreeSet#<init>()V*
+
+%6java.util.TreeSet¶
+£
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÇ Ç(&
+
+stillAlivejava.util.TreeSet"__id*
+
+%6java.util.TreeSet*
+28
+85*ƒ
+43_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaŸ	 Ÿ(’
+“
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaŸ	 Ÿ(
+%52java.util.TreeMap"__id*O*MB
+@net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData"
+pathsÚ
+Ô
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaŸ	 Ÿ(
+%53java.util.TreeSet"__mapRemove*
+
+%52java.util.TreeMap*I
+G
+oldjnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile*
+28
+41
+85
+33*√
+88_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java˘ ˘(»≈
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java˘ ˘("
+%0java.io.File[]"'java.io.File#listFiles()[Ljava/io/File;*
+
+rootjava.io.File2listFiles()õ
+ò
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java˘ ˘(#
+filesjava.io.File[]"__id*
+
+%0java.io.File[]÷
+”
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java˙2 ˙(9
+%1java.util.TreeMap"__id*Q*OB
+@net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData"	
+jnfilesŸ÷
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java˙B ˙(X
+%2java.lang.String"0java.io.File#getAbsolutePath()Ljava/lang/String;*
+
+rootjava.io.File2getAbsolutePath()°û
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java˙2 ˙(`
+%3java.util.NavigableMap"Fjava.util.TreeMap#tailMap(Ljava/lang/Object;Z)Ljava/util/NavigableMap;*
+
+%1java.util.TreeMap*
+
+%2java.lang.String*2 2tailMap(Ljava/lang/Object;Z)‘—
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java˙2 ˙(k
+%4java.util.Set"-java.util.SortedMap#entrySet()Ljava/util/Set;*
+
+%3java.util.NavigableMap2
+entrySet()°
+û
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java˙ ˙(l
+existingfilesjava.util.Set"__id*
+
+%4java.util.Setì
+ê
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java˚ ˚(%
+
+stillAlivejava.util.TreeSet"__id*
+""Ÿ÷
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¸ ¸(+
+%5java.lang.String"0java.io.File#getAbsolutePath()Ljava/lang/String;*
+
+rootjava.io.File2getAbsolutePath()¢
+ü
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¸ ¸(,
+rootPathjava.lang.String"__id*
+
+%5java.lang.String*
+28
+87*≤
+45_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java◊ ◊(¥±
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java◊ ◊(
+
+%51int"java.util.TreeSet#size()I*
+
+oldPathsjava.util.TreeSet2size()*
+28
+41
+85
+43
+33*Í
+47_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java” ”(¸˘
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java” ”("
+%50boolean"-java.util.TreeSet#remove(Ljava/lang/Object;)Z*
+
+oldPathsjava.util.TreeSet*
+
+pathjava.lang.String2remove(Ljava/lang/Object;)*
+45*£
+48_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÃ Ã(4•
+¢
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÃ Ã(4
+oldPathsjava.util.TreeSet"__id*
+
+%49java.util.TreeSet*
+47
+28
+41
+85
+33*µ
+49_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÃ" Ã('’
+“
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÃ" Ã('
+%48java.util.TreeMap"__id*O*MB
+@net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData"
+pathsÔ
+Ï
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÃ" Ã(3
+%49java.util.TreeSet"__mapGet*
+
+%48java.util.TreeMap*I
+G
+oldjnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile*
+48*¯
+51_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java» »( ˛˚
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java» »(/
+%47boolean"Ynet.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile#equals(Ljava/lang/Object;)Z*F
+D
+jnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile*I
+G
+oldjnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile2equals(Ljava/lang/Object;)*
+49
+28
+85
+33*ı
+52_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java« «(-˚
+¯
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java« «(-G
+oldjnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile"__id*F
+D
+%46=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile*
+28
+51
+85
+33*¸
+53_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java« «(◊
+‘
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java« «(
+%45java.util.TreeMap"__id*Q*OB
+@net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData"	
+jnfiles¥
+±
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java« «(,D
+%46=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile"__mapSet*
+
+%45java.util.TreeMap*
+
+pathjava.lang.String*F
+D
+jnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile*
+52*≠
+54_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¬ ¬(ø
+º
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¬ ¬(
+%44boolean"
+__arrayAdd*
+
+eplistjava.util.TreeSet*: *
+
+pathjava.lang.String*
+53*Ä
+55_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaø	 ø('£
+†
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaø	 ø('
+eplistjava.util.TreeSet"__id*
+
+%40java.util.TreeSetﬁ
+€
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¿	 ¿(
+%42java.util.TreeMap"__id*X*V
+I
+events?net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNEvents"	
+createdã
+à
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¿	 ¿((
+%43java.util.TreeSet"__mapSet*
+
+%42java.util.TreeMap*F
+D
+jnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile*
+
+eplistjava.util.TreeSet*
+54*¶
+56_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaø ø('ëé
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaø ø(%
+%40java.util.TreeSet"java.util.TreeSet§
+°
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaø ø('
+%41"java.util.TreeSet#<init>()V*
+
+%40java.util.TreeSet*
+55*Ü
+13_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java† †(ë
+é
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java† †(
+	lastAlivejava.lang.String"__id*
+""*
+24
+16
+9*ï
+57_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaº º(9£
+†
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaº º(9
+eplistjava.util.TreeSet"__id*
+
+%39java.util.TreeSet*
+54
+56*Ù
+14_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaú ú(ÿ’
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaú ú(&
+%81java.lang.String"+java.util.Iterator#next()Ljava/lang/Object;*$
+"
+stillAliveitjava.util.Iterator2next()§
+°
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaú ú(&
+	lastAlivejava.lang.String"__id*
+
+%81java.lang.String*
+24
+16
+9*ª
+58_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaº! º('ﬁ
+€
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaº! º(/
+%38java.util.TreeMap"__id*X*V
+I
+events?net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNEvents"	
+createdÏ
+È
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaº! º(8
+%39java.util.TreeSet"__mapGet*
+
+%38java.util.TreeMap*F
+D
+jnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile*
+57*∂
+15_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaö
+ ö(ƒ¡
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaö
+ ö( 
+%80boolean"java.util.Iterator#hasNext()Z*$
+"
+stillAliveitjava.util.Iterator2	hasNext()*
+13
+14*–
+59_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaª ª(#ﬁ
+€
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaª ª(+
+%37java.util.TreeMap"__id*X*V
+I
+events?net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNEvents"	
+created*
+58
+53*˘
+16_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaò, ò(7ÑÅ
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaò, ò(L
+
+%79int"/java.lang.String#compareTo(Ljava/lang/String;)I*!
+
+oldFilePathjava.lang.String*
+
+	lastAlivejava.lang.String2compareTo(Ljava/lang/String;)*
+24
+15
+9*ã
+19_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaî î(ÌÍ
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaî î(8
+%78java.lang.String"0java.lang.String#substring(II)Ljava/lang/String;*!
+
+oldFilePathjava.lang.String*2 *
+""2substring(II)¶
+£
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaî î(8
+oldFilePathjava.lang.String"__id*
+
+%78java.lang.String*
+24
+16
+9*}
+0 "v
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÕ Õ(
+implicit return*´
+1_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java   (æ
+ª
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java   (
+%97boolean"
+__arrayAdd*
+
+eplistjava.util.TreeSet*: *
+
+jnpjava.lang.String*
+24*π
+2_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java« «($ëé
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java« «("
+%93java.util.TreeSet"java.util.TreeSet§
+°
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java« «($
+%94"java.util.TreeSet#<init>()V*
+
+%93java.util.TreeSet£
+†
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java« «($
+eplistjava.util.TreeSet"__id*
+
+%93java.util.TreeSetﬁ
+€
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java» »(
+%95java.util.TreeMap"__id*X*V
+I
+events?net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNEvents"	
+deletedã
+à
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java» »(%
+%96java.util.TreeSet"__mapSet*
+
+%95java.util.TreeMap*F
+D
+jnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile*
+
+eplistjava.util.TreeSet*
+1*‚
+3_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaƒ ƒ($ﬁ
+€
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaƒ ƒ(,
+%91java.util.TreeMap"__id*X*V
+I
+events?net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNEvents"	
+deletedÏ
+È
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaƒ ƒ(5
+%92java.util.TreeSet"__mapGet*
+
+%91java.util.TreeMap*F
+D
+jnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile£
+†
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaƒ ƒ(6
+eplistjava.util.TreeSet"__id*
+
+%92java.util.TreeSet*
+2
+1*Œ
+4_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¬ ¬( ﬁ
+€
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¬ ¬((
+%90java.util.TreeMap"__id*X*V
+I
+events?net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNEvents"	
+deleted*
+24
+3*™
+5_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaø ø(∫∑
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaø ø(
+%89void"java.util.Iterator#remove()V*
+
+entryitjava.util.Iterator2remove()*
+24
+4*≥
+6_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java∫ ∫(’
+“
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java∫ ∫(
+%87java.util.TreeMap"__id*O*MB
+@net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData"
+pathsÔ
+Ï
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java∫ ∫(
+%88java.util.TreeSet"__mapRemove*
+
+%87java.util.TreeMap*F
+D
+jnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile*
+5*£
+7_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java∏	 ∏(¥±
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java∏	 ∏(
+
+%86int"java.util.TreeSet#size()I*
+
+oldPathsjava.util.TreeSet2size()*
+5
+6*Á
+8_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¥
+ ¥(˚¯
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¥
+ ¥(
+%85boolean"-java.util.TreeSet#remove(Ljava/lang/Object;)Z*
+
+oldPathsjava.util.TreeSet*
+
+jnpjava.lang.String2remove(Ljava/lang/Object;)*
+7*·	
+9_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java´ ´(àÖ
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java´ ´(!D
+%82=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile"0java.util.Map$Entry#getValue()Ljava/lang/Object;*
+
+entryjava.util.Map$Entry2
+getValue()¯
+ı
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java´ ´("D
+jnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile"__id*F
+D
+%82=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile’
+“
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¨ ¨($
+%83java.util.TreeMap"__id*O*MB
+@net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData"
+pathsÏ
+È
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¨ ¨(-
+%84java.util.TreeSet"__mapGet*
+
+%83java.util.TreeMap*F
+D
+jnf=net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNFile•
+¢
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¨ ¨(.
+oldPathsjava.util.TreeSet"__id*
+
+%84java.util.TreeSet*
+5
+8*∞
+61_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java∏ ∏(æ
+ª
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java∏ ∏(
+%36boolean"
+__arrayAdd*
+
+plistjava.util.TreeSet*: *
+
+pathjava.lang.String*
+59
+53*ë
+63_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java≤ ≤(/ü
+ú
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java≤ ≤(/
+pathjava.lang.String"__id*
+
+%34java.lang.String˝˙
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java≥ ≥(
+%35boolean"/java.util.TreeSet#contains(Ljava/lang/Object;)Z*
+
+plistjava.util.TreeSet*
+
+pathjava.lang.String2contains(Ljava/lang/Object;)*
+61
+53*‘
+20_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaè è(¶
+£
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaè è(
+oldFilePathjava.lang.String"__id*
+
+jnpjava.lang.String∂≥
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaê) ê(:
+
+%75int"java.lang.String#length()I*
+
+rootPathjava.lang.String2length()Á‰
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaê ê(?
+%76java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*!
+
+oldFilePathjava.lang.String*
+""2substring(I)¶
+£
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaê ê(?
+oldFilePathjava.lang.String"__id*
+
+%76java.lang.StringÊ„
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaë ë(.
+
+%77int"-java.lang.String#indexOf(Ljava/lang/String;)I*!
+
+oldFilePathjava.lang.String*
+/2indexOf(Ljava/lang/String;)*
+24
+16
+19
+9*Ú
+64_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java≤ ≤(®
+•
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java≤ ≤(
+%33java.io.File"
+__arrayGet*
+
+filesjava.io.File[]*
+""Ÿ÷
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java≤ ≤(.
+%34java.lang.String"0java.io.File#getAbsolutePath()Ljava/lang/String;*
+
+%33java.io.File2getAbsolutePath()*
+63*±
+65_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java™ ™(å
+â
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java™ ™(
+pathjava.lang.String"__id*
+""∞
+≠
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java™ ™(
+pathjava.lang.String"
+__arrayGet*
+
+plistjava.util.TreeSet*
+""*
+64
+66*å
+66_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¨
+ ¨(ﬂ
+‹
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¨
+ ¨(
+%31java.util.TreeSet"__id*Y*W
+I
+events?net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNEvents"
+
+modifiedº
+π
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.java¨
+ ¨(#
+%32boolean"
+__arrayAdd*
+
+%31java.util.TreeSet*: *
+
+pathjava.lang.String*
+65*Ú
+23_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÜ Ü(÷”
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÜ Ü(
+%72java.util.Map$Entry"+java.util.Iterator#next()Ljava/lang/Object;*
+
+entryitjava.util.Iterator2next()¶
+£
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaÜ Ü(
+entryjava.util.Map$Entry"__id*
+
+%72java.util.Map$Entry◊‘
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaá á(
+%73java.lang.String".java.util.Map$Entry#getKey()Ljava/lang/Object;*
+
+entryjava.util.Map$Entry2getKey()û
+õ
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaá á( 
+jnpjava.lang.String"__id*
+
+%73java.lang.StringÅ˛
+_
+SD:/git_project/code/src/net/contentobjects/jnotify/macosx/JNotifyAdapterMacOSX.javaâ	 â(!
+%74boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+jnpjava.lang.String*
+
+rootPathjava.lang.String2startsWith(Ljava/lang/String;)*
+
+9
+20
+0:
+rootjava.io.File:
+"":I
+events?net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$JNEventsBDB
+@net.contentobjects.jnotify.macosx.JNotifyAdapterMacOSX$WatchData

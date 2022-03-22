@@ -1,0 +1,55 @@
+
+Enet.sourceforge.docfetcher.model.search.ResultDocument#getSizeInKB()J]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java| |("5"1*Ì
+3_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÅ. Å(/Å
+
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÅ. Å(/	
+%3int"__id*
+	
+%5int*
+1*Ì
+4_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÅ* Å(+Å
+
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÅ* Å(+	
+%3int"__id*
+	
+%4int*
+1*Ñ
+5]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java~ ~( ü
+ú
+]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java~% ~(0-
+%0'net.sourceforge.docfetcher.model.Fields"__id*
+""Û
+]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java~% ~(6
+%1java.lang.String"?net.sourceforge.docfetcher.model.Fields#key()Ljava/lang/String;*/
+-
+%0'net.sourceforge.docfetcher.model.Fields2key()ê
+ç
+]
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java~ ~(8
+
+sizeStringjava.lang.String"__id*
+""Ï
+È
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÄ Ä(.
+%2java.lang.Long":java.lang.Long#valueOf(Ljava/lang/String;)Ljava/lang/Long;*"
+java.lang.Long* 
+
+
+sizeStringjava.lang.String*
+3
+4*œ
+1_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÑ	 Ñ("i
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaÑ Ñ(
+""B:8
+6net.sourceforge.docfetcher.model.search.ResultDocument

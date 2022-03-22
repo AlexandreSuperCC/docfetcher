@@ -1,0 +1,30 @@
+
+¢org.apache.tika.config.TikaConfig#getDefaultParser(Lorg/apache/tika/mime/MimeTypes;Lorg/apache/tika/config/ServiceLoader;)Lorg/apache/tika/parser/CompositeParser;H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaM# M(3"1*í
+1H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaO! O(&š
+H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaO! O(=,
+%0&org.apache.tika.mime.MediaTypeRegistry"]org.apache.tika.mime.MimeTypes#getMediaTypeRegistry()Lorg/apache/tika/mime/MediaTypeRegistry;*)
+'
+typesorg.apache.tika.mime.MimeTypes2getMediaTypeRegistry()Ÿœ
+H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaO O( *
+%1$org.apache.tika.parser.DefaultParser"$org.apache.tika.parser.DefaultParserá
+Þ
+H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaO O(F
+%2"|org.apache.tika.parser.DefaultParser#<init>(Lorg/apache/tika/mime/MediaTypeRegistry;Lorg/apache/tika/config/ServiceLoader;)V*,
+*
+%1$org.apache.tika.parser.DefaultParser*.
+,
+%0&org.apache.tika.mime.MediaTypeRegistry*0
+.
+loader$org.apache.tika.config.ServiceLoader"x
+H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaO O(G,
+*
+%1$org.apache.tika.parser.DefaultParser:'
+typesorg.apache.tika.mime.MimeTypes:.
+loader$org.apache.tika.config.ServiceLoaderB%"#
+!org.apache.tika.config.TikaConfig

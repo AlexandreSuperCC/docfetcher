@@ -1,0 +1,299 @@
+
+aorg.apache.tika.sax.BasicContentHandlerFactory#getNewContentHandler()Lorg/xml/sax/ContentHandler;U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaT T(."15*§
+13U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaX X(á
+Þ
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaX X(A
+%5;org.apache.tika.sax.BasicContentHandlerFactory$HANDLER_TYPE"__id*<*:0
+.org.apache.tika.sax.BasicContentHandlerFactory"
+type«
+¨
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaX X('A
+%6;org.apache.tika.sax.BasicContentHandlerFactory$HANDLER_TYPE"__id*
+""«
+¨
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaX X(.A
+%7;org.apache.tika.sax.BasicContentHandlerFactory$HANDLER_TYPE"__id*
+""*
+
+6
+12
+1*æ
+14U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaW* W(4°­
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaW W(),
+%3&org.apache.tika.sax.BodyContentHandler"&org.apache.tika.sax.BodyContentHandlerË
+È
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaW W(5
+%4"1org.apache.tika.sax.BodyContentHandler#<init>(I)V*.
+,
+%3&org.apache.tika.sax.BodyContentHandler*
+"""‡
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaW W(6.
+,
+%3&org.apache.tika.sax.BodyContentHandler*¥
+15U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaV V(á
+Þ
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaV V(A
+%0;org.apache.tika.sax.BasicContentHandlerFactory$HANDLER_TYPE"__id*<*:0
+.org.apache.tika.sax.BasicContentHandlerFactory"
+type«
+¨
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaV V( A
+%1;org.apache.tika.sax.BasicContentHandlerFactory$HANDLER_TYPE"__id*
+""«
+¨
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaV V(%A
+%2;org.apache.tika.sax.BasicContentHandlerFactory$HANDLER_TYPE"__id*
+""*
+13
+14*Ú
+1U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javag g(â
+ß
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javag g(B
+%38;org.apache.tika.sax.BasicContentHandlerFactory$HANDLER_TYPE"__id*<*:0
+.org.apache.tika.sax.BasicContentHandlerFactory"
+type¬
+©
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javah h(B
+%39;org.apache.tika.sax.BasicContentHandlerFactory$HANDLER_TYPE"__id*
+""¬
+©
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaj j(B
+%40;org.apache.tika.sax.BasicContentHandlerFactory$HANDLER_TYPE"__id*
+""¬
+©
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javal l(B
+%41;org.apache.tika.sax.BasicContentHandlerFactory$HANDLER_TYPE"__id*
+""*
+2
+3
+4
+5*ê
+2U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javan o(6µ²
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javao o(3/
+%36(org.apache.tika.sax.ToTextContentHandler"(org.apache.tika.sax.ToTextContentHandlerÈ
+Å
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javao o(5
+%37"2org.apache.tika.sax.ToTextContentHandler#<init>()V*1
+/
+%36(org.apache.tika.sax.ToTextContentHandler"Š
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javao o(61
+/
+%36(org.apache.tika.sax.ToTextContentHandler*å
+3U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javal m(5³°
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javam m(2.
+%34'org.apache.tika.sax.ToXMLContentHandler"'org.apache.tika.sax.ToXMLContentHandlerÆ
+Ã
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javam m(4
+%35"1org.apache.tika.sax.ToXMLContentHandler#<init>()V*0
+.
+%34'org.apache.tika.sax.ToXMLContentHandler"‰
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javam m(50
+.
+%34'org.apache.tika.sax.ToXMLContentHandler*ê
+4U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaj k(6µ²
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javak k(3/
+%32(org.apache.tika.sax.ToHTMLContentHandler"(org.apache.tika.sax.ToHTMLContentHandlerÈ
+Å
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javak k(5
+%33"2org.apache.tika.sax.ToHTMLContentHandler#<init>()V*1
+/
+%32(org.apache.tika.sax.ToHTMLContentHandler"Š
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javak k(61
+/
+%32(org.apache.tika.sax.ToHTMLContentHandler*ê
+5U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javah i(6µ²
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javai i(3/
+%30(org.apache.tika.sax.ToTextContentHandler"(org.apache.tika.sax.ToTextContentHandlerÈ
+Å
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javai i(5
+%31"2org.apache.tika.sax.ToTextContentHandler#<init>()V*1
+/
+%30(org.apache.tika.sax.ToTextContentHandler"Š
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javai i(61
+/
+%30(org.apache.tika.sax.ToTextContentHandler*Û
+6U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.java\ \(â
+ß
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.java\ \(B
+%26;org.apache.tika.sax.BasicContentHandlerFactory$HANDLER_TYPE"__id*<*:0
+.org.apache.tika.sax.BasicContentHandlerFactory"
+type¬
+©
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.java] ](B
+%27;org.apache.tika.sax.BasicContentHandlerFactory$HANDLER_TYPE"__id*
+""¬
+©
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.java_ _(B
+%28;org.apache.tika.sax.BasicContentHandlerFactory$HANDLER_TYPE"__id*
+""¬
+©
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaa a(B
+%29;org.apache.tika.sax.BasicContentHandlerFactory$HANDLER_TYPE"__id*
+""*
+7
+8
+9
+10*Ï
+7U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javac d(^µ²
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javad: d(N/
+%22(org.apache.tika.sax.ToTextContentHandler"(org.apache.tika.sax.ToTextContentHandlerÈ
+Å
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javad6 d(P
+%23"2org.apache.tika.sax.ToTextContentHandler#<init>()V*1
+/
+%22(org.apache.tika.sax.ToTextContentHandler¹¶
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javad d(51
+%24*org.apache.tika.sax.WriteOutContentHandler"*org.apache.tika.sax.WriteOutContentHandler¤
+¡
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javad d(]
+%25"Qorg.apache.tika.sax.WriteOutContentHandler#<init>(Lorg/xml/sax/ContentHandler;I)V*3
+1
+%24*org.apache.tika.sax.WriteOutContentHandler*1
+/
+%22(org.apache.tika.sax.ToTextContentHandler*
+"""Œ
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javad d(^3
+1
+%24*org.apache.tika.sax.WriteOutContentHandler*Ê
+8U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaa b(]³°
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javab: b(M.
+%18'org.apache.tika.sax.ToXMLContentHandler"'org.apache.tika.sax.ToXMLContentHandlerÆ
+Ã
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javab6 b(O
+%19"1org.apache.tika.sax.ToXMLContentHandler#<init>()V*0
+.
+%18'org.apache.tika.sax.ToXMLContentHandler¹¶
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javab b(51
+%20*org.apache.tika.sax.WriteOutContentHandler"*org.apache.tika.sax.WriteOutContentHandler£
+ 
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javab b(\
+%21"Qorg.apache.tika.sax.WriteOutContentHandler#<init>(Lorg/xml/sax/ContentHandler;I)V*3
+1
+%20*org.apache.tika.sax.WriteOutContentHandler*0
+.
+%18'org.apache.tika.sax.ToXMLContentHandler*
+"""Œ
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javab b(]3
+1
+%20*org.apache.tika.sax.WriteOutContentHandler*Ï
+9U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.java_ `(^µ²
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.java`: `(N/
+%14(org.apache.tika.sax.ToHTMLContentHandler"(org.apache.tika.sax.ToHTMLContentHandlerÈ
+Å
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.java`6 `(P
+%15"2org.apache.tika.sax.ToHTMLContentHandler#<init>()V*1
+/
+%14(org.apache.tika.sax.ToHTMLContentHandler¹¶
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.java` `(51
+%16*org.apache.tika.sax.WriteOutContentHandler"*org.apache.tika.sax.WriteOutContentHandler¤
+¡
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.java` `(]
+%17"Qorg.apache.tika.sax.WriteOutContentHandler#<init>(Lorg/xml/sax/ContentHandler;I)V*3
+1
+%16*org.apache.tika.sax.WriteOutContentHandler*1
+/
+%14(org.apache.tika.sax.ToHTMLContentHandler*
+"""Œ
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.java` `(^3
+1
+%16*org.apache.tika.sax.WriteOutContentHandler*Ð
+10U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.java] ^(^µ²
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.java^: ^(N/
+%10(org.apache.tika.sax.ToTextContentHandler"(org.apache.tika.sax.ToTextContentHandlerÈ
+Å
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.java^6 ^(P
+%11"2org.apache.tika.sax.ToTextContentHandler#<init>()V*1
+/
+%10(org.apache.tika.sax.ToTextContentHandler¹¶
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.java^ ^(51
+%12*org.apache.tika.sax.WriteOutContentHandler"*org.apache.tika.sax.WriteOutContentHandler¤
+¡
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.java^ ^(]
+%13"Qorg.apache.tika.sax.WriteOutContentHandler#<init>(Lorg/xml/sax/ContentHandler;I)V*3
+1
+%12*org.apache.tika.sax.WriteOutContentHandler*1
+/
+%10(org.apache.tika.sax.ToTextContentHandler*
+"""Œ
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.java^ ^(^3
+1
+%12*org.apache.tika.sax.WriteOutContentHandler*É
+12U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaY Y('¨¥
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaY Y(%(
+%8"org.xml.sax.helpers.DefaultHandler""org.xml.sax.helpers.DefaultHandlerº
+·
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaY Y('
+%9",org.xml.sax.helpers.DefaultHandler#<init>()V**
+(
+%8"org.xml.sax.helpers.DefaultHandler"ƒ
+U
+KD:/git_project/code/src/org/apache/tika/sax/BasicContentHandlerFactory.javaY Y((*
+(
+%8"org.xml.sax.helpers.DefaultHandlerB20
+.org.apache.tika.sax.BasicContentHandlerFactory

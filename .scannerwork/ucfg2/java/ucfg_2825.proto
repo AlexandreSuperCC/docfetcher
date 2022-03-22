@@ -1,0 +1,19 @@
+
+xorg.apache.tika.config.TikaConfig#getDefaultExecutorService()Lorg/apache/tika/concurrent/ConfigurableThreadPoolExecutor;H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaV2 V(K"1*é
+1H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaW W(-½º
+H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaW W(+9
+%03org.apache.tika.concurrent.SimpleThreadPoolExecutor"3org.apache.tika.concurrent.SimpleThreadPoolExecutorÏ
+Ì
+H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaW W(-
+%1"=org.apache.tika.concurrent.SimpleThreadPoolExecutor#<init>()V*;
+9
+%03org.apache.tika.concurrent.SimpleThreadPoolExecutor"‡
+H
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaW W(.;
+9
+%03org.apache.tika.concurrent.SimpleThreadPoolExecutorB%"#
+!org.apache.tika.config.TikaConfig

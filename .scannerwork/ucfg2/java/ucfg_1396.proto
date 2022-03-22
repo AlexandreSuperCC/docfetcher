@@ -1,0 +1,38 @@
+
+?net.sourceforge.docfetcher.util.Util#isUncPath(Ljava/io/File;)ZM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÉ É( "startingBlock*š
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÉ  É(4µ
+²
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÉ! É()
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.File}
+{
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÉ/ É(3
+filejava.io.File"__annotation*
+
+%2*
+1*¿
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÊ	 Ê(·´
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÊ	 Ê(
+%0java.lang.String"(java.io.File#getPath()Ljava/lang/String;*
+
+filejava.io.File2	getPath()×Ô
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÊ	 Ê(*
+%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+%0java.lang.String*
+\\\\2startsWith(Ljava/lang/String;)"W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÊ Ê(+
+"":
+filejava.io.FileB("&
+$net.sourceforge.docfetcher.util.Util

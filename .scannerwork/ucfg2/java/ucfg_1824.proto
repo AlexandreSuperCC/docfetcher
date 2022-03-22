@@ -1,0 +1,19 @@
+
+>org.apache.tika.io.EndianUtils#readUE7(Ljava/io/InputStream;)JG
+;D:/git_project/code/src/org/apache/tika/io/EndianUtils.java± ±("5*Ù
+5G
+;D:/git_project/code/src/org/apache/tika/io/EndianUtils.java¥ ¥(ùö
+G
+;D:/git_project/code/src/org/apache/tika/io/EndianUtils.java¥ ¥( 	
+%0int"java.io.InputStream#read()I*
+
+streamjava.io.InputStream2read()*
+5
+1*ü
+1G
+;D:/git_project/code/src/org/apache/tika/io/EndianUtils.javaø ø("Q
+G
+;D:/git_project/code/src/org/apache/tika/io/EndianUtils.javaø ø(
+"":
+streamjava.io.InputStreamB"" 
+org.apache.tika.io.EndianUtils

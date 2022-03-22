@@ -1,0 +1,20 @@
+
+corg.apache.tika.mime.MediaTypeRegistry#getDefaultRegistry()Lorg/apache/tika/mime/MediaTypeRegistry;M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java'$ '(6"1*ê
+1M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java( ((ò
+ï
+M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java( ((.$
+%0org.apache.tika.mime.MimeTypes"Torg.apache.tika.mime.MimeTypes#getDefaultMimeTypes()Lorg/apache/tika/mime/MimeTypes;*"" 
+org.apache.tika.mime.MimeTypesŸœ
+M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java( ((E,
+%1&org.apache.tika.mime.MediaTypeRegistry"]org.apache.tika.mime.MimeTypes#getMediaTypeRegistry()Lorg/apache/tika/mime/MediaTypeRegistry;*&
+$
+%0org.apache.tika.mime.MimeTypes2getMediaTypeRegistry()"
+M
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java( ((F.
+,
+%1&org.apache.tika.mime.MediaTypeRegistryB*"(
+&org.apache.tika.mime.MediaTypeRegistry

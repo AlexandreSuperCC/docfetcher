@@ -1,0 +1,131 @@
+
+org.apache.tika.config.TikaConfig$ParserXmlLoader#decorate(Lorg/apache/tika/parser/Parser;Lorg/w3c/dom/Element;)Lorg/apache/tika/parser/Parser;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¢ ¢("startingBlock*ó
+2J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java­ ­((ô
+ñ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java­ ­(N#
+%5org.apache.tika.parser.Parser"‚org.apache.tika.parser.ParserDecorator#withoutTypes(Lorg/apache/tika/parser/Parser;Ljava/util/Set;)Lorg/apache/tika/parser/Parser;**"(
+&org.apache.tika.parser.ParserDecorator*)
+'
+parserorg.apache.tika.parser.Parser*"
+ 
+parserExclTypesjava.util.Set¥
+¢
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java­ ­(N'
+parserorg.apache.tika.parser.Parser"__id*%
+#
+%5org.apache.tika.parser.Parser*
+1*Ì
+3J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java«- «(I·
+´
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java«- «(b
+%3java.util.Set"vorg.apache.tika.config.TikaConfig#mediaTypesListFromDomElement(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/util/Set;*%"#
+!org.apache.tika.config.TikaConfig* 
+
+elementorg.w3c.dom.Element*
+mime-excludeŽ
+‹
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java« «(c 
+parserExclTypesjava.util.Set"__id*
+
+%3java.util.Set§¤
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¬ ¬(+
+%4boolean"java.util.Set#isEmpty()Z*"
+ 
+parserExclTypesjava.util.Set2	isEmpty()*
+2
+1*À
+startingBlockJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¢ ¢(8¥
+¢
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¡ ¡(
+%6"
+__annotate*
+java.lang.Override**
+(
+createdorg.apache.tika.parser.Parser
+Œ
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¢ ¢(&(
+createdorg.apache.tika.parser.Parser"__annotation*
+
+%6›
+˜
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¡ ¡(
+%7"
+__annotate*
+java.lang.Override* 
+
+elementorg.w3c.dom.Element…
+‚
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¢0 ¢(7
+elementorg.w3c.dom.Element"__annotation*
+
+%7*
+5*ë
+4J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¨ ¨((ì
+é
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¨ ¨(G#
+%2org.apache.tika.parser.Parser"org.apache.tika.parser.ParserDecorator#withTypes(Lorg/apache/tika/parser/Parser;Ljava/util/Set;)Lorg/apache/tika/parser/Parser;**"(
+&org.apache.tika.parser.ParserDecorator*)
+'
+parserorg.apache.tika.parser.Parser*
+
+parserTypesjava.util.Set¥
+¢
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¨ ¨(G'
+parserorg.apache.tika.parser.Parser"__id*%
+#
+%2org.apache.tika.parser.Parser*
+3*é
+5J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java£ £(#ª
+§
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java£ £($'
+parserorg.apache.tika.parser.Parser"__id**
+(
+createdorg.apache.tika.parser.Parser¯
+¬
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¦) ¦(V
+%0java.util.Set"vorg.apache.tika.config.TikaConfig#mediaTypesListFromDomElement(Lorg/w3c/dom/Element;Ljava/lang/String;)Ljava/util/Set;*%"#
+!org.apache.tika.config.TikaConfig* 
+
+elementorg.w3c.dom.Element*
+mimeŠ
+‡
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java¦ ¦(W
+parserTypesjava.util.Set"__id*
+
+%0java.util.Set£ 
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java§ §('
+%1boolean"java.util.Set#isEmpty()Z*
+
+parserTypesjava.util.Set2	isEmpty()*
+3
+4*È
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java± ±("w
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.java± ±()
+'
+parserorg.apache.tika.parser.Parser:(
+createdorg.apache.tika.parser.Parser:
+elementorg.w3c.dom.ElementB53
+1org.apache.tika.config.TikaConfig$ParserXmlLoader

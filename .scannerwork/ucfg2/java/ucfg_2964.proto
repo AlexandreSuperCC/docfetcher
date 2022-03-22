@@ -1,0 +1,70 @@
+
+Pnet.sourceforge.docfetcher.model.index.IndexingConfig#getTempDir()Ljava/io/File;\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javas s("5*ù
+2\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javau
+ u(√
+¿
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javau
+ u(
+%5java.io.File"__id*F*D7
+5net.sourceforge.docfetcher.model.index.IndexingConfig"	
+tempDir"t
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javau u(
+
+%5java.io.File*ﬁ
+3\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javat2 t(9√
+¿
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javat2 t(9
+%3java.io.File"__id*F*D7
+5net.sourceforge.docfetcher.model.index.IndexingConfig"	
+tempDir¨©
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javat2 t(D
+%4boolean"java.io.File#canWrite()Z*
+
+%3java.io.File2
+canWrite()*
+2
+1*‰
+4\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javat t( √
+¿
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javat t( 
+%1java.io.File"__id*F*D7
+5net.sourceforge.docfetcher.model.index.IndexingConfig"	
+tempDir≤Ø
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javat t(.
+%2boolean"java.io.File#isDirectory()Z*
+
+%1java.io.File2isDirectory()*
+3
+1*Ø
+5\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javat t(√
+¿
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javat t(
+%0java.io.File"__id*F*D7
+5net.sourceforge.docfetcher.model.index.IndexingConfig"	
+tempDir*
+4
+1*›
+1\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javav	 v(É
+Ä
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javav	 v(
+%6java.io.File"__id*
+"""t
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingConfig.javav v(
+
+%6java.io.FileB97
+5net.sourceforge.docfetcher.model.index.IndexingConfig

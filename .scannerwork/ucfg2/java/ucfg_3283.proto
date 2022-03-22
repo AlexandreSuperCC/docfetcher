@@ -1,0 +1,28 @@
+
+Yorg.apache.tika.detect.XmlRootExtractor#extractRootElement([B)Ljavax/xml/namespace/QName;N
+DD:/git_project/code/src/org/apache/tika/detect/XmlRootExtractor.java) )(#"1*Å
+1N
+DD:/git_project/code/src/org/apache/tika/detect/XmlRootExtractor.java* *(!ïí
+N
+DD:/git_project/code/src/org/apache/tika/detect/XmlRootExtractor.java*& *(:"
+%0java.io.ByteArrayInputStream"java.io.ByteArrayInputStreamª
+∏
+N
+DD:/git_project/code/src/org/apache/tika/detect/XmlRootExtractor.java*" *(@
+%1"(java.io.ByteArrayInputStream#<init>([B)V*$
+"
+%0java.io.ByteArrayInputStream*
+
+databyte[]‡›
+N
+DD:/git_project/code/src/org/apache/tika/detect/XmlRootExtractor.java* *(A
+%2javax.xml.namespace.QName"lorg.apache.tika.detect.XmlRootExtractor#extractRootElement(Ljava/io/InputStream;)Ljavax/xml/namespace/QName;*+)
+'org.apache.tika.detect.XmlRootExtractor*$
+"
+%0java.io.ByteArrayInputStream2)extractRootElement(Ljava/io/InputStream;)"s
+N
+DD:/git_project/code/src/org/apache/tika/detect/XmlRootExtractor.java* *(B!
+
+%2javax.xml.namespace.QName:
+databyte[]B+)
+'org.apache.tika.detect.XmlRootExtractor

@@ -1,0 +1,83 @@
+
+Jorg.apache.tika.io.TemporaryResources#createTempFile()Ljava/nio/file/Path;L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaN N("4*
+2L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaQ Q(≠
+™
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaQ' Q(2
+%4java.nio.file.Path"__id*:*8'
+%org.apache.tika.io.TemporaryResources"
+tempFileDir◊
+‘
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaQ Q(K
+%3java.nio.file.Path"òjava.nio.file.Files#createTempFile(Ljava/nio/file/Path;Ljava/lang/String;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;*"
+java.nio.file.Files*
+
+%4java.nio.file.Path*
+apache-tika-*
+.tmpç
+ä
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaQ Q(K
+%1java.nio.file.Path"__id*
+
+%3java.nio.file.Path*
+1*ê
+3L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaP P(ß
+§
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaP P(>
+%2java.nio.file.Path"Ñjava.nio.file.Files#createTempFile(Ljava/lang/String;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;*"
+java.nio.file.Files*
+apache-tika-*
+.tmpç
+ä
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaP P(>
+%1java.nio.file.Path"__id*
+
+%2java.nio.file.Path*
+1*â
+4L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaO O(%≠
+™
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaO O(%
+%0java.nio.file.Path"__id*:*8'
+%org.apache.tika.io.TemporaryResources"
+tempFileDir*
+2
+3*À
+1L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaO Q(Lè
+å
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaO Q(L
+pathjava.nio.file.Path"__id*
+
+%1java.nio.file.Path©¶
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaR R(!-
+%5'org.apache.tika.io.TemporaryResources$1"'org.apache.tika.io.TemporaryResources$1§
+°
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaR V(	
+%6"java.lang.Object#<init>()V*/
+-
+%5'org.apache.tika.io.TemporaryResources$1§°
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaR V(
+
+
+%7void"Gorg.apache.tika.io.TemporaryResources#addResource(Ljava/io/Closeable;)V*)'
+%org.apache.tika.io.TemporaryResources*/
+-
+%5'org.apache.tika.io.TemporaryResources$12 addResource(Ljava/io/Closeable;)"l
+L
+BD:/git_project/code/src/org/apache/tika/io/TemporaryResources.javaW W(
+
+pathjava.nio.file.PathB)'
+%org.apache.tika.io.TemporaryResources

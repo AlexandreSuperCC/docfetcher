@@ -1,0 +1,58 @@
+
+Ynull#getLabel(Lnet/sourceforge/docfetcher/model/search/ResultDocument;)Ljava/lang/String;S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java÷ ÷("4*˙
+2S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÿ ÿ()Å
+
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÿ ÿ()
+%4java.text.DateFormat"__id*
+""ÉÄ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÿ ÿ(6
+%3java.lang.String"?java.text.DateFormat#format(Ljava/util/Date;)Ljava/lang/String;*
+
+%4java.text.DateFormat*
+
+datejava.util.Date2format(Ljava/util/Date;)ê
+ç
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÿ ÿ(6
+%1java.lang.String"__id*
+
+%3java.lang.String*
+1*
+3S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÿ ÿ(ê
+ç
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÿ ÿ(
+%1java.lang.String"__id*
+
+%2java.lang.String*
+1*∂
+4S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java◊ ◊(¬
+ø
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java◊ ◊( 
+%0java.util.Date"Vnull#getDate(Lnet/sourceforge/docfetcher/model/search/ResultDocument;)Ljava/util/Date;*53
+1Lnet/sourceforge/docfetcher/gui/ResultPanel$8041;*C
+A
+element6net.sourceforge.docfetcher.model.search.ResultDocumenté
+ã
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java◊ ◊(!
+datejava.util.Date"__id*
+
+%0java.util.Date*
+2
+3*…
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÿ ÿ(7"o
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.javaÿ ÿ(7
+
+%1java.lang.String:A
+element6net.sourceforge.docfetcher.model.search.ResultDocumentB53
+1Lnet/sourceforge/docfetcher/gui/ResultPanel$8041;

@@ -1,0 +1,60 @@
+
+Ünet.sourceforge.docfetcher.website.Website$PageProperties#getPair(Ljava/lang/String;)Lnet/sourceforge/docfetcher/website/Website$Pair;S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaÙ Ù("startingBlock*˝
+startingBlockS
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaÙ Ù(+æ
+ª
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaÛ Û(
+
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+keyjava.lang.Stringæ
+ª
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaÙ Ù(
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+keyjava.lang.Stringè
+å
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaÙ' Ù(*
+keyjava.lang.String"__annotation*
+
+%3*
+
+%4*
+1*ë
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaı ı(¥
+±
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaı ı(%
+%0java.lang.String"hnet.sourceforge.docfetcher.website.Website$PageProperties#getValue(Ljava/lang/String;)Ljava/lang/String;*=;
+9net.sourceforge.docfetcher.website.Website$PageProperties*
+
+keyjava.lang.String¿Ω
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaı ı(5
+%1/net.sourceforge.docfetcher.website.Website$Pair"/net.sourceforge.docfetcher.website.Website$Pair´
+®
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaı
+ ı(&
+%2"]net.sourceforge.docfetcher.website.Website$Pair#<init>(Ljava/lang/String;Ljava/lang/String;)V*7
+5
+%1/net.sourceforge.docfetcher.website.Website$Pair*
+
+keyjava.lang.String*
+
+%0java.lang.String"é
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaı ı('7
+5
+%1/net.sourceforge.docfetcher.website.Website$Pair:
+keyjava.lang.StringB=;
+9net.sourceforge.docfetcher.website.Website$PageProperties

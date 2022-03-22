@@ -1,0 +1,50 @@
+
+…org.apache.tika.language.LanguageProfilerBuilder$NGramEntry#compareTo(Lorg/apache/tika/language/LanguageProfilerBuilder$NGramEntry;)IY
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaö ö("3*Ã
+2Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaù ù("c
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaù ù(
+""*¯
+3Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java÷ ÷(
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java÷% ÷(9
+%0float"Korg.apache.tika.language.LanguageProfilerBuilder$NGramEntry#getFrequency()F*F
+D
+ngram;org.apache.tika.language.LanguageProfilerBuilder$NGramEntry2getFrequency()³
+°
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.java÷ ÷(E	
+%1int"java.lang.Float#compare(FF)I*"
+java.lang.Float*
+
+%0float*
+""*
+2
+1*ú
+1Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaû û( š
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaû û("
+%2java.lang.String"Xorg.apache.tika.language.LanguageProfilerBuilder$NGramEntry#toString()Ljava/lang/String;*?=
+;org.apache.tika.language.LanguageProfilerBuilder$NGramEntry2
+toString()¤¡
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaû- û(=
+%3java.lang.String"Xorg.apache.tika.language.LanguageProfilerBuilder$NGramEntry#toString()Ljava/lang/String;*F
+D
+ngram;org.apache.tika.language.LanguageProfilerBuilder$NGramEntry2
+toString()íê
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaû û(>	
+%4int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+%2java.lang.String*
+
+%3java.lang.String2compareTo(Ljava/lang/String;)"c
+Y
+MD:/git_project/code/src/org/apache/tika/language/LanguageProfilerBuilder.javaû û(@
+"":D
+ngram;org.apache.tika.language.LanguageProfilerBuilder$NGramEntryB?=
+;org.apache.tika.language.LanguageProfilerBuilder$NGramEntry

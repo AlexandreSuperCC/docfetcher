@@ -1,0 +1,28 @@
+
+Yorg.apache.tika.parser.odf.OpenDocumentContentParser$ListStyle#getTag()Ljava/lang/String;[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.java@ @("2"3*€
+2[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javaA$ A((˜
+•
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javaA$ A((
+%0java.lang.String"__id*
+
+%2java.lang.String*
+1*€
+3[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javaA A(!˜
+•
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javaA A(!
+%0java.lang.String"__id*
+
+%1java.lang.String*
+1*Ù
+1[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javaA A()"w
+[
+QD:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentContentParser.javaA A()
+
+%0java.lang.StringBB@
+>org.apache.tika.parser.odf.OpenDocumentContentParser$ListStyle

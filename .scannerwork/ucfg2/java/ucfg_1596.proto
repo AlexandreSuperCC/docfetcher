@@ -1,0 +1,693 @@
+
+8net.sourceforge.docfetcher.gui.SearchQueue#threadLoop()ZS
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaﬁ ﬁ("64*ü
+46S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaí í(Ω∫
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaí í((
+%21java.util.List"Vnet.sourceforge.docfetcher.model.search.Searcher#list(Ljava/util/Set;)Ljava/util/List;*>
+<
+searcher0net.sourceforge.docfetcher.model.search.Searcher*
+
+
+listDocIdsjava.util.Set2list(Ljava/util/Set;)*
+45*ì
+25S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaæ æ(#≤
+Ø
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaæ æ(#
+%53java.util.List"__id*;*9,
+*net.sourceforge.docfetcher.gui.SearchQueue"	
+results*
+8*î
+48S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaê ê(%≤
+Ø
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaê ê(%9,
+*net.sourceforge.docfetcher.gui.SearchQueue"	
+results"__id*
+
+%20java.util.List*
+34*º	
+26S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java∫ ∫(›
+⁄
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java∫ ∫(:
+%493net.sourceforge.docfetcher.gui.filter.FilesizePanel"__id*A*?,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+filesizePanelñì
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java∫ ∫(/
+%50java.lang.Long[]"Tnet.sourceforge.docfetcher.gui.filter.FilesizePanel#getValuesInKB()[Ljava/lang/Long;*<
+:
+%493net.sourceforge.docfetcher.gui.filter.FilesizePanel2getValuesInKB()ï
+í
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java∫ ∫(0
+minMaxjava.lang.Long[]"__id*
+
+%50java.lang.Long[]âÜ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaª2 ª(K
+%51java.util.ArrayList"java.util.ArrayListú
+ô
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaª. ª(M
+%52"java.util.ArrayList#<init>()V*
+
+%51java.util.ArrayListû
+õ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaª ª(N 
+visibleResultsjava.util.List"__id*
+
+%51java.util.ArrayList*
+25*ß
+49S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaê ê(≈¬
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaê ê(%
+%20java.util.List"[net.sourceforge.docfetcher.model.search.Searcher#search(Ljava/lang/String;)Ljava/util/List;*>
+<
+searcher0net.sourceforge.docfetcher.model.search.Searcher*
+
+queryjava.lang.String2search(Ljava/lang/String;)*
+48*∏
+27S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java∏
+ ∏("]
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java∏ ∏(
+""*ò
+28S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java∑ ∑(≤
+Ø
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java∑ ∑(
+%48java.util.List"__id*;*9,
+*net.sourceforge.docfetcher.gui.SearchQueue"	
+results*
+26
+27*ú
+29S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java± ±(!›⁄
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java± ±(56
+%47/net.sourceforge.docfetcher.model.TreeCheckState"snet.sourceforge.docfetcher.model.IndexRegistry#getTreeCheckState()Lnet/sourceforge/docfetcher/model/TreeCheckState;*A
+?
+indexRegistry.net.sourceforge.docfetcher.model.IndexRegistry2getTreeCheckState()⁄
+◊
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java± ±(5@,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+treeCheckState"__id*8
+6
+%47/net.sourceforge.docfetcher.model.TreeCheckState*
+28*∏
+51S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaç ç("]
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaç ç(
+""*≈
+52S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java˚ ˚(4◊
+‘
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java˚ ˚(4<
+searcher0net.sourceforge.docfetcher.model.search.Searcher"__id*9
+7
+%190net.sourceforge.docfetcher.model.search.Searcher*
+46
+49
+51
+44*“
+30S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java∞  ∞()¢
+ü
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java∞3 ∞(;:
+%443net.sourceforge.docfetcher.gui.SearchQueue$GuiEvent"__id*
+""¢
+ü
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java∞3 ∞(D:
+%453net.sourceforge.docfetcher.gui.SearchQueue$GuiEvent"__id*
+""¢ü
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java∞  ∞(E
+%46boolean":java.util.AbstractCollection#contains(Ljava/lang/Object;)Z* 
+
+	queueCopyjava.util.EnumSet*<
+:
+%453net.sourceforge.docfetcher.gui.SearchQueue$GuiEvent2contains(Ljava/lang/Object;)*
+28
+29*µ
+53S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java˚ ˚(%”–
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java˚ ˚(37
+%190net.sourceforge.docfetcher.model.search.Searcher"nnet.sourceforge.docfetcher.model.IndexRegistry#getSearcher()Lnet/sourceforge/docfetcher/model/search/Searcher;*A
+?
+indexRegistry.net.sourceforge.docfetcher.model.IndexRegistry2getSearcher()*
+52*¿
+31S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java∞ ∞(⁄
+◊
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java∞ ∞(6
+%43/net.sourceforge.docfetcher.model.TreeCheckState"__id*B*@,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+treeCheckState*
+29
+30*í
+
+32S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java® ®(
+›
+⁄
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java® ®($:
+%383net.sourceforge.docfetcher.gui.filter.FileTypePanel"__id*A*?,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+fileTypePaneléã
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java® ®(1
+%39"anet.sourceforge.docfetcher.gui.filter.FileTypePanel#getControl()Lorg/eclipse/swt/widgets/Control;*<
+:
+%383net.sourceforge.docfetcher.gui.filter.FileTypePanel2getControl()≈¬
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java®7 ®(?8
+%401Lnet/sourceforge/docfetcher/gui/SearchQueue$9315;"1Lnet/sourceforge/docfetcher/gui/SearchQueue$9315;∑
+¥
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java®3 ¨(
+%41"java.lang.Object#<init>()V*:
+8
+%401Lnet/sourceforge/docfetcher/gui/SearchQueue$9315;Ω
+∫
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java® ¨(
+%42"jnet.sourceforge.docfetcher.util.UtilGui#runSyncExec(Lorg/eclipse/swt/widgets/Widget;Ljava/lang/Runnable;)Z*+")
+'net.sourceforge.docfetcher.util.UtilGui*
+
+%39*:
+8
+%401Lnet/sourceforge/docfetcher/gui/SearchQueue$9315;*
+31*›
+55S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaˆ  ˆ(*◊
+‘
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaˆ  ˆ(*7
+%140net.sourceforge.docfetcher.gui.filter.IndexPanel"__id*>*<,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+
+indexPanel”–
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaˆ  ˆ(=5
+%15.net.sourceforge.docfetcher.model.IndexRegistry"snet.sourceforge.docfetcher.gui.filter.IndexPanel#getIndexRegistry()Lnet/sourceforge/docfetcher/model/IndexRegistry;*9
+7
+%140net.sourceforge.docfetcher.gui.filter.IndexPanel2getIndexRegistry()ÿ
+’
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaˆ ˆ(>?
+indexRegistry.net.sourceforge.docfetcher.model.IndexRegistry"__id*7
+5
+%15.net.sourceforge.docfetcher.model.IndexRegistry¢
+ü
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java˘ ˘(!:
+%163net.sourceforge.docfetcher.gui.SearchQueue$GuiEvent"__id*
+""¢
+ü
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java˘ ˘(0:
+%173net.sourceforge.docfetcher.gui.SearchQueue$GuiEvent"__id*
+""¢ü
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java˘ ˘(1
+%18boolean":java.util.AbstractCollection#contains(Ljava/lang/Object;)Z* 
+
+	queueCopyjava.util.EnumSet*<
+:
+%173net.sourceforge.docfetcher.gui.SearchQueue$GuiEvent2contains(Ljava/lang/Object;)*
+53
+34*ˆ
+11S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaœ œ(⁄
+◊
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaœ œ(6
+%65/net.sourceforge.docfetcher.model.TreeCheckState"__id*B*@,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+treeCheckState«ƒ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaœ! œ(4,
+%66%net.sourceforge.docfetcher.model.Path"mnet.sourceforge.docfetcher.model.search.ResultDocument#getParentPath()Lnet/sourceforge/docfetcher/model/Path;*?
+=
+doc6net.sourceforge.docfetcher.model.search.ResultDocument2getParentPath()ÎË
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaœ œ(5
+%67boolean"cnet.sourceforge.docfetcher.model.TreeCheckState#isChecked(Lnet/sourceforge/docfetcher/model/Path;)Z*8
+6
+%65/net.sourceforge.docfetcher.model.TreeCheckState*.
+,
+%66%net.sourceforge.docfetcher.model.Path22isChecked(Lnet/sourceforge/docfetcher/model/Path;)*
+8
+9*“
+33S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaß  ß()¢
+ü
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaß3 ß(;:
+%353net.sourceforge.docfetcher.gui.SearchQueue$GuiEvent"__id*
+""¢
+ü
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaß3 ß(@:
+%363net.sourceforge.docfetcher.gui.SearchQueue$GuiEvent"__id*
+""¢ü
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaß  ß(A
+%37boolean":java.util.AbstractCollection#contains(Ljava/lang/Object;)Z* 
+
+	queueCopyjava.util.EnumSet*<
+:
+%363net.sourceforge.docfetcher.gui.SearchQueue$GuiEvent2contains(Ljava/lang/Object;)*
+31
+32*û
+34S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaß ß(∏
+µ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaß ß(
+%34java.util.Set"__id*B*@,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+checkedParsers*
+32
+33*Ï
+56S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÛ Û(¿
+Ω
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÛ Û(&
+%12java.util.concurrent.locks.Lock"__id*8*6,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+lockƒ¡
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÛ Û(
+%13void")java.util.concurrent.locks.Lock#unlock()V*(
+&
+%12java.util.concurrent.locks.Lock2unlock()*
+55
+0*¡
+57S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÍ Í(≤
+Ø
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÍ Í(
+%10java.lang.String"__id*9*7,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+queryî
+ë
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÍ Í(
+queryjava.lang.String"__id*
+
+%10java.lang.String¥
+±
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÎ Î(
+%11java.util.Set"__id*>*<,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+
+listDocIdsì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÎ Î(
+
+listDocIdsjava.util.Set"__id*
+
+%11java.util.Setü
+ú
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÏ Ï(7,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+query"__id*
+""§
+°
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÌ Ì(<,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+
+listDocIds"__id*
+""*
+56*…
+13S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java   (ùö
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java   (,
+%62java.lang.String"Xnet.sourceforge.docfetcher.model.search.ResultDocument#getParserName()Ljava/lang/String;*?
+=
+doc6net.sourceforge.docfetcher.model.search.ResultDocument2getParserName()ô
+ñ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java   (-
+
+parserNamejava.lang.String"__id*
+
+%62java.lang.String∏
+µ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÀ
+ À(
+%63java.util.Set"__id*B*@,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+checkedParsersÌÍ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÀ
+ À(-
+%64boolean"+java.util.Set#contains(Ljava/lang/Object;)Z*
+
+%63java.util.Set* 
+
+
+parserNamejava.lang.String2contains(Ljava/lang/Object;)*
+8
+11*¿
+59S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaË Ë($ô
+ñ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaË Ë($
+	queueCopyjava.util.EnumSet"__id*
+
+%7java.util.EnumSet≤
+Ø
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÈ È(
+%8java.util.EnumSet"__id*9*7,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+queueç
+ä
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÈ È(
+
+%9void"__arrayClear*
+
+%8java.util.EnumSet*
+57*…
+16S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java« «(∏
+µ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java« «(
+%60java.util.Set"__id*B*@,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+checkedParsers•¢
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java« «( 
+%61boolean"java.util.Set#isEmpty()Z*
+
+%60java.util.Set2	isEmpty()*
+13
+8
+11*›
+17S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java∆ ∆(˜Ù
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java∆ ∆(
+%59boolean"Anet.sourceforge.docfetcher.model.search.ResultDocument#isEmail()Z*?
+=
+doc6net.sourceforge.docfetcher.model.search.ResultDocument2	isEmail()*
+16
+11*Ñ
+19S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java√ √(!ü
+ú
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java√$ √(-
+%58java.lang.Long"
+__arrayGet*
+
+minMaxjava.lang.Long[]*2*
+17
+8*q
+0 "j
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java (
+implicit return*ã
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java‹ ‹($ﬂ
+‹
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java‹ ‹(I<
+%715net.sourceforge.docfetcher.gui.ResultPanel$HeaderMode"|net.sourceforge.docfetcher.gui.ResultPanel$HeaderMode#getInstance(ZZ)Lnet/sourceforge/docfetcher/gui/ResultPanel$HeaderMode;*9"7
+5net.sourceforge.docfetcher.gui.ResultPanel$HeaderMode*
+""*
+""›
+⁄
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java‹ ‹(J=
+mode5net.sourceforge.docfetcher.gui.ResultPanel$HeaderMode"__id*>
+<
+%715net.sourceforge.docfetcher.gui.ResultPanel$HeaderModeŒ
+À
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaﬂ ﬂ(/
+%72(net.sourceforge.docfetcher.gui.SearchBar"__id*=*;,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+	searchBar¯ı
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaﬂ ﬂ(,
+%73"Vnet.sourceforge.docfetcher.gui.SearchBar#getControl()Lorg/eclipse/swt/widgets/Control;*1
+/
+%72(net.sourceforge.docfetcher.gui.SearchBar2getControl()«ƒ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaﬂ2 ﬂ(:9
+%742Lnet/sourceforge/docfetcher/gui/SearchQueue$10835;"2Lnet/sourceforge/docfetcher/gui/SearchQueue$10835;∏
+µ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaﬂ. Ì(
+%75"java.lang.Object#<init>()V*;
+9
+%742Lnet/sourceforge/docfetcher/gui/SearchQueue$10835;æ
+ª
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaﬂ Ì(
+%76"jnet.sourceforge.docfetcher.util.UtilGui#runSyncExec(Lorg/eclipse/swt/widgets/Widget;Ljava/lang/Runnable;)Z*+")
+'net.sourceforge.docfetcher.util.UtilGui*
+
+%73*;
+9
+%742Lnet/sourceforge/docfetcher/gui/SearchQueue$10835;"]
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÔ Ô(
+""*ø
+2S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java÷ ÷(ù
+ö
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java÷ ÷(5
+index,net.sourceforge.docfetcher.model.LuceneIndex"__id*
+""º
+π
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java÷ ÷(5
+index,net.sourceforge.docfetcher.model.LuceneIndex"
+__arrayGet*
+
+%69java.util.List*
+""*
+5
+1*œ
+5S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java◊ ◊(ÔÏ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java◊ ◊(
+%70boolean"<net.sourceforge.docfetcher.model.LuceneIndex#isEmailIndex()Z*7
+5
+index,net.sourceforge.docfetcher.model.LuceneIndex2isEmailIndex()*
+2*Ì
+6S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java÷ ÷((çä
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java÷ ÷(5
+%69java.util.List"Knet.sourceforge.docfetcher.model.IndexRegistry#getIndexes()Ljava/util/List;*A
+?
+indexRegistry.net.sourceforge.docfetcher.model.IndexRegistry2getIndexes()*
+2*‘
+8S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaæ æ(•
+¢
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaæ æ(=
+doc6net.sourceforge.docfetcher.model.search.ResultDocument"__id*
+""ƒ
+¡
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaæ æ(=
+doc6net.sourceforge.docfetcher.model.search.ResultDocument"
+__arrayGet*
+
+%53java.util.List*
+""*
+17
+6
+23*Ω
+9S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java— —(›
+⁄
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java— —(
+%68boolean"
+__arrayAdd*"
+ 
+visibleResultsjava.util.List*: *?
+=
+doc6net.sourceforge.docfetcher.model.search.ResultDocument*
+8*¸
+60S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaË Ë(≤
+Ø
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaË Ë(#
+%6java.util.EnumSet"__id*9*7,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+queueÂ
+‚
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaË Ë($
+%7java.util.EnumSet"@java.util.EnumSet#copyOf(Ljava/util/EnumSet;)Ljava/util/EnumSet;*"
+java.util.EnumSet*
+
+%6java.util.EnumSet*
+59*¸
+61S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÊ Ê(Õ
+ 
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÊ Ê(*
+%4$java.util.concurrent.locks.Condition"__id*A*?,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+queueNotEmpty «
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÊ Ê(
+
+%5void"-java.util.concurrent.locks.Condition#await()V*,
+*
+%4$java.util.concurrent.locks.Condition2await()*
+63*—
+63S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÂ
+ Â(≤
+Ø
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÂ
+ Â(
+%2java.util.EnumSet"__id*9*7,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+queue∂≥
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaÂ
+ Â(
+%3boolean"'java.util.AbstractCollection#isEmpty()Z*
+
+%2java.util.EnumSet2	isEmpty()*
+60
+61*Ù
+64S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaﬂ ﬂ($Ü
+É
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaﬂ ﬂ($
+	queueCopyjava.util.EnumSet"__id*
+""Ä
+~
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java‡ ‡(
+queryjava.lang.String"__id*
+""É
+Ä
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java· ·(
+
+listDocIdsjava.util.Set"__id*
+""ø
+º
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java„ „(%
+%0java.util.concurrent.locks.Lock"__id*8*6,
+*net.sourceforge.docfetcher.gui.SearchQueue"
+lockæª
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java„ „(
+
+%1void"'java.util.concurrent.locks.Lock#lock()V*'
+%
+%0java.util.concurrent.locks.Lock2lock()*
+63*Ö
+20S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java√ √(ü
+ú
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java√ √(
+%57java.lang.Long"
+__arrayGet*
+
+minMaxjava.lang.Long[]*2*
+17
+19*π
+44S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaî î(&°û
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaî î($&
+%22java.lang.IllegalStateException"java.lang.IllegalStateException¥
+±
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaî î(&
+%23")java.lang.IllegalStateException#<init>()V*(
+&
+%22java.lang.IllegalStateException*
+0*Ç
+22S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java¡ ¡(!ù
+ö
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java¡$ ¡(-
+%56java.lang.Long"
+__arrayGet*
+
+minMaxjava.lang.Long[]*2 *
+8
+20*î
+45S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaí í((≤
+Ø
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.javaí í((9,
+*net.sourceforge.docfetcher.gui.SearchQueue"	
+results"__id*
+
+%21java.util.List*
+34*Ç
+23S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java¿ ¿(¸˘
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java¿ ¿(!
+%54long"Enet.sourceforge.docfetcher.model.search.ResultDocument#getSizeInKB()J*?
+=
+doc6net.sourceforge.docfetcher.model.search.ResultDocument2getSizeInKB()ù
+ö
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/SearchQueue.java¡ ¡(
+%55java.lang.Long"
+__arrayGet*
+
+minMaxjava.lang.Long[]*2 *
+20
+22B.,
+*net.sourceforge.docfetcher.gui.SearchQueue

@@ -1,0 +1,120 @@
+
+Korg.apache.tika.mime.Patterns#compile(Ljava/lang/String;)Ljava/lang/String;F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.java» »("11*¥
+3F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.java’ ’(‡›
+F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.java’ ’("
+%10java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*$
+"
+patternjava.lang.StringBuilder*
+""2	append(C)*
+10*ï
+4F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.java“ “(ﬂ‹
+F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.java“ “($
+%8java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*$
+"
+patternjava.lang.StringBuilder*
+\\2	append(C)ﬂ‹
+F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.java” ”("
+%9java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*$
+"
+patternjava.lang.StringBuilder*
+""2	append(C)*
+10*Ú
+5F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.java— —('úô
+F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.java— —(3	
+%7int"java.lang.String#indexOf(I)I*
+\\[]^.-$+(){}|*
+""2
+indexOf(I)*
+3
+4*’
+6F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.java– –(Å˛
+F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.java– –($
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
+"
+patternjava.lang.StringBuilder*
+.*2append(Ljava/lang/String;)*
+10*≤
+8F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaŒ Œ(ﬁ€
+F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaŒ Œ(#
+%5java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*$
+"
+patternjava.lang.StringBuilder*
+.2	append(C)*
+10*¸
+9F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaÃ Ã(£†
+F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaÃ Ã($
+
+%4char"java.lang.String#charAt(I)C*
+
+globjava.lang.String*
+""2	charAt(I)*	
+5
+6
+8*Ô
+10F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaÀ À(òï
+F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaÀ À()	
+%3int"java.lang.String#length()I*
+
+globjava.lang.String2length()*
+9
+1*é
+11F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.java…  …(3ÉÄ
+F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.java…$ …(1
+%0java.lang.StringBuilder"java.lang.StringBuilderï
+í
+F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.java…  …(3
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderñ
+ì
+F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.java… …(4"
+patternjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilderÇˇ
+F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.java   (
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
+"
+patternjava.lang.StringBuilder*
+\\A2append(Ljava/lang/String;)*
+10*Ö
+1F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaÿ ÿ(ÉÄ
+F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaÿ ÿ(
+%11java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*$
+"
+patternjava.lang.StringBuilder*
+\\z2append(Ljava/lang/String;)Ã…
+F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaŸ Ÿ(!
+%12java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*$
+"
+patternjava.lang.StringBuilder2
+toString()"c
+F
+:D:/git_project/code/src/org/apache/tika/mime/Patterns.javaŸ Ÿ("
+
+%12java.lang.String:
+globjava.lang.StringB!
+org.apache.tika.mime.Patterns

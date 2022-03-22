@@ -1,0 +1,106 @@
+
+Ynet.sourceforge.docfetcher.util.Util#hasExtension(Ljava/lang/String;[Ljava/lang/String;)ZM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÑ Ñ(#"startingBlock*˙
+2M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaá á(x
+v
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaá á(
+extjava.lang.String"__id*
+""£
+†
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaá á(
+extjava.lang.String"
+__arrayGet*"
+ 
+
+extensionsjava.lang.String[]*
+""*
+4
+1*´
+3M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaâ â("W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaâ â(
+""*˝
+startingBlockM
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÑ# Ö((Ω
+∫
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÑ% Ñ(-
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filenamejava.lang.StringÜ
+É
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÑ5 Ñ(=
+filenamejava.lang.String"__annotation*
+
+%4¡
+æ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÖ
+ Ö(
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*"
+ 
+
+extensionsjava.lang.String[]ä
+á
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÖ Ö(' 
+
+extensionsjava.lang.String[]"__annotation*
+
+%5*
+6*ß
+4M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaà à(∆√
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaà à(0
+%1java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+extjava.lang.String2toLowerCase()ï
+í
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaà à(0
+%2java.lang.String"__concat*
+.*
+
+%1java.lang.StringÈÊ
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaà à(1
+%3boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+filenamejava.lang.String*
+
+%2java.lang.String2endsWith(Ljava/lang/String;)*
+2
+3*∏
+6M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÜ Ü(À»
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÜ Ü(#
+%0java.lang.String"0java.lang.String#toLowerCase()Ljava/lang/String;*
+
+filenamejava.lang.String2toLowerCase()ê
+ç
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaÜ Ü(#
+filenamejava.lang.String"__id*
+
+%0java.lang.String*
+2*´
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaä	 ä("W
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.javaä ä(
+"":
+filenamejava.lang.String: 
+
+extensionsjava.lang.String[]B("&
+$net.sourceforge.docfetcher.util.Util

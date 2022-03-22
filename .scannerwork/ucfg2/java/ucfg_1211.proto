@@ -1,0 +1,44 @@
+
+Qorg.apache.tika.io.IOUtils#toCharArray(Ljava/io/InputStream;Ljava/lang/String;)[CC
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java≠ ≠($"1*¥
+1C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaØ! Ø(6}
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaØ% Ø(4
+%0java.io.CharArrayWriter"java.io.CharArrayWriterí
+è
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaØ! Ø(6
+%1"!java.io.CharArrayWriter#<init>()V*
+
+%0java.io.CharArrayWriterí
+è
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaØ Ø(7!
+outputjava.io.CharArrayWriter"__id*
+
+%0java.io.CharArrayWriter±
+Æ
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java∞ ∞("
+
+%2void"Yorg.apache.tika.io.IOUtils#copy(Ljava/io/InputStream;Ljava/io/Writer;Ljava/lang/String;)V*"
+org.apache.tika.io.IOUtils*
+
+isjava.io.InputStream*#
+!
+outputjava.io.CharArrayWriter*
+
+encodingjava.lang.String≥∞
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java± ±(#
+%3char[]"'java.io.CharArrayWriter#toCharArray()[C*#
+!
+outputjava.io.CharArrayWriter2toCharArray()"U
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java± ±($
+
+%3char[]:
+isjava.io.InputStream:
+encodingjava.lang.StringB"
+org.apache.tika.io.IOUtils

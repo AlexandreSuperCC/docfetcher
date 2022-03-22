@@ -1,0 +1,19 @@
+
+Xnet.sourceforge.docfetcher.model.MailResource$Attachment#getFilename()Ljava/lang/String;T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/MailResource.java' '("1*‘
+1T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/MailResource.java(
+ ((Ã
+À
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/MailResource.java(
+ ((
+%0java.lang.String"__id*J*H:
+8net.sourceforge.docfetcher.model.MailResource$Attachment"
+
+filename"p
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/MailResource.java( ((
+
+%0java.lang.StringB<:
+8net.sourceforge.docfetcher.model.MailResource$Attachment

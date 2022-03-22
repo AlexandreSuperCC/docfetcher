@@ -1,0 +1,48 @@
+
+?net.sourceforge.docfetcher.util.UtilGui#launch(Ljava/io/File;)ZP
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.javaø ø("startingBlock*Ø
+startingBlockP
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.javaø ø(6Ω
+∫
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.javaø ø(&
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+	fileOrDirjava.io.FileÜ
+É
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.javaø, ø(5
+	fileOrDirjava.io.File"__annotation*
+
+%3*
+1*¿
+1P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java¿ ¿(â
+Ü
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java¿ ¿(
+%0java.io.File"Wnet.sourceforge.docfetcher.util.Util#checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+	fileOrDirjava.io.Fileç
+ä
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java¡ ¡(0
+%1java.lang.String"Wnet.sourceforge.docfetcher.util.Util#getSystemAbsPath(Ljava/io/File;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+	fileOrDirjava.io.File
+Ì
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java¡	 ¡(1
+%2boolean"Cnet.sourceforge.docfetcher.util.UtilGui#launch(Ljava/lang/String;)Z*+")
+'net.sourceforge.docfetcher.util.UtilGui*
+
+%1java.lang.String"Z
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/UtilGui.java¡ ¡(2
+"":
+	fileOrDirjava.io.FileB+")
+'net.sourceforge.docfetcher.util.UtilGui

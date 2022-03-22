@@ -1,0 +1,84 @@
+
+mnet.sourceforge.docfetcher.website.Website#escapeHtml(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaí í(!"startingBlock*£	
+startingBlockS
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaí! í(Q¬
+ø
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaë ë(	
+%1"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+srcPathjava.lang.String¬
+ø
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaí" í(*
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+srcPathjava.lang.Stringì
+ê
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaí2 í(9
+srcPathjava.lang.String"__annotation*
+
+%1*
+
+%2¿
+Ω
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaë ë(	
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+inputjava.lang.String¿
+Ω
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaí; í(C
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+inputjava.lang.Stringë
+é
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaíK í(P
+inputjava.lang.String"__annotation*
+
+%3*
+
+%4*
+1*„
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaì	 ì(ó
+î
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaì	 î(Y
+%0java.lang.String"nnet.sourceforge.docfetcher.UtilGlobal#replaceSilently(Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/String;*)"'
+%net.sourceforge.docfetcher.UtilGlobal*
+
+inputjava.lang.String*
+&*	
+&amp;*
+\"*
+
+&quot;*
+<*
+&lt;*
+>*
+&gt;*
+\n*	
+<br/>*
+\t*
+
+&emsp;"o
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/website/Website.javaì î(Z
+
+%0java.lang.String:
+srcPathjava.lang.String:
+inputjava.lang.StringB.",
+*net.sourceforge.docfetcher.website.Website

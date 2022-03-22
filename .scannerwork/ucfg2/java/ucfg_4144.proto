@@ -1,0 +1,23 @@
+
+Oorg.apache.tika.parser.CompositeParser#getAllComponentParsers()Ljava/util/List;O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java« «(."1*Õ
+1O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java¬ ¬(©
+¦
+O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java¬, ¬(3
+%0java.util.List"__id*7*5(
+&org.apache.tika.parser.CompositeParser"	
+parsersç
+ä
+O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java¬ ¬(4
+%1java.util.List"Hjava.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;*"
+java.util.Collections*
+
+%0java.util.List"i
+O
+CD:/git_project/code/src/org/apache/tika/parser/CompositeParser.java¬ ¬(5
+
+%1java.util.ListB*(
+&org.apache.tika.parser.CompositeParser

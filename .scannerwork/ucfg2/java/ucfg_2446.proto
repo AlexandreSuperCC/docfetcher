@@ -1,0 +1,35 @@
+
+corg.apache.tika.Tika#parse(Ljava/nio/file/Path;Lorg/apache/tika/metadata/Metadata;)Ljava/io/Reader;=
+1D:/git_project/code/src/org/apache/tika/Tika.java∏ ∏("1*ã
+1=
+1D:/git_project/code/src/org/apache/tika/Tika.javaπ π(,È
+Ê
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaπ π(@(
+%0"org.apache.tika.io.TikaInputStream"Éorg.apache.tika.io.TikaInputStream#get(Ljava/nio/file/Path;Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/io/TikaInputStream;*&"$
+"org.apache.tika.io.TikaInputStream*
+
+pathjava.nio.file.Path*/
+-
+metadata!org.apache.tika.metadata.Metadataì
+ê
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaπ π(A
+streamjava.io.InputStream"__id**
+(
+%0"org.apache.tika.io.TikaInputStreamÎË
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java∫ ∫(&
+%1java.io.Reader"dorg.apache.tika.Tika#parse(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)Ljava/io/Reader;*
+org.apache.tika.Tika*
+
+streamjava.io.InputStream*/
+-
+metadata!org.apache.tika.metadata.Metadata2?parse(Ljava/io/InputStream;Lorg/apache/tika/metadata/Metadata;)"W
+=
+1D:/git_project/code/src/org/apache/tika/Tika.java∫ ∫('
+
+%1java.io.Reader:
+pathjava.nio.file.Path:-
+metadata!org.apache.tika.metadata.MetadataB
+org.apache.tika.Tika

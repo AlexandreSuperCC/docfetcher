@@ -1,0 +1,16 @@
+
+Vorg.apache.tika.detect.NNTrainedModelBuilder#getType()Lorg/apache/tika/mime/MediaType;S
+ID:/git_project/code/src/org/apache/tika/detect/NNTrainedModelBuilder.java   ("1*š
+1S
+ID:/git_project/code/src/org/apache/tika/detect/NNTrainedModelBuilder.java!	 !(À
+½
+S
+ID:/git_project/code/src/org/apache/tika/detect/NNTrainedModelBuilder.java!	 !($
+%0org.apache.tika.mime.MediaType"__id*:*8.
+,org.apache.tika.detect.NNTrainedModelBuilder"
+type"}
+S
+ID:/git_project/code/src/org/apache/tika/detect/NNTrainedModelBuilder.java! !(&
+$
+%0org.apache.tika.mime.MediaTypeB0.
+,org.apache.tika.detect.NNTrainedModelBuilder

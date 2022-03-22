@@ -1,0 +1,65 @@
+
+Oorg.apache.tika.mime.MimeType#matchesXML(Ljava/lang/String;Ljava/lang/String;)ZF
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaú ú("6*…
+2F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaü ü(‡
+„
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaü ü(,
+xml%org.apache.tika.mime.MimeType$RootXML"__id*
+""¥
+¢
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaü ü(,
+xml%org.apache.tika.mime.MimeType$RootXML"
+__arrayGet*
+
+%1java.util.List*
+""*
+4
+1*
+3F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaş ş("P
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaş ş( 
+""*ª
+4F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaı ı(ÔÑ
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaı ı(8
+%2boolean"Torg.apache.tika.mime.MimeType$RootXML#matches(Ljava/lang/String;Ljava/lang/String;)Z*.
+,
+xml%org.apache.tika.mime.MimeType$RootXML*"
+ 
+namespaceURIjava.lang.String*
+
+	localNamejava.lang.String2-matches(Ljava/lang/String;Ljava/lang/String;)*
+2
+3*ê
+5F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaü ü(&—
+”
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaü ü(&
+%1java.util.List"__id*.*,
+org.apache.tika.mime.MimeType"	
+rootXML*
+2*í
+6F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaû û(—
+”
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.javaû û(
+%0java.util.List"__id*.*,
+org.apache.tika.mime.MimeType"	
+rootXML*
+5
+1*
+1F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java‚ ‚("P
+F
+:D:/git_project/code/src/org/apache/tika/mime/MimeType.java‚ ‚(
+"": 
+namespaceURIjava.lang.String:
+	localNamejava.lang.StringB!
+org.apache.tika.mime.MimeType

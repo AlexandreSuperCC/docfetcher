@@ -1,0 +1,130 @@
+
+¦net.sourceforge.docfetcher.model.index.file.FileIndex#getZipArchiveLastModified(Lnet/sourceforge/docfetcher/model/index/IndexingConfig;Ljava/io/File;)Ljava/lang/Long;^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaæ æ(."startingBlock*‹
+2^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javañ
+ ñ(µ²
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javañ
+ ñ(
+
+%5long"java.io.File#lastModified()J*
+
+filejava.io.File2lastModified()"n
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javañ ñ(
+
+
+%5long*ý
+3^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaì ì("ÈÅ
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaì- ì(;
+%3java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+filejava.io.File2	getName()ÄÁ
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaì ì(<
+%4boolean"Tnet.sourceforge.docfetcher.model.index.IndexingConfig#isArchive(Ljava/lang/String;)Z*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*
+
+%3java.lang.String2isArchive(Ljava/lang/String;)*
+2
+1*Ò
+
+startingBlock^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaæ. ç( ò
+ï
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaå å(
+
+%6"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfigñ
+î
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaæ0 æ(8
+%7"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfigÂ
+¿
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaæH æ(N?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig"__annotation*
+
+%6*
+
+%7Ç
+Ä
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaå å(
+
+%8"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+filejava.io.FileÆ
+Ã
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaç ç(
+%9"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filejava.io.File—
+”
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaç ç(
+filejava.io.File"__annotation*
+
+%8*
+
+%9*
+4
+6*š
+4^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaì ì(¬©
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaì ì(
+%2boolean"java.io.File#isFile()Z*
+
+filejava.io.File2isFile()*
+3
+1*‹
+5^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaê ê(µ²
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaê ê(
+
+%1long"java.io.File#lastModified()J*
+
+filejava.io.File2lastModified()"n
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaê ê(
+
+
+%1long*€
+6^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaé é(’
+
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaé é(+
+%0"_net.sourceforge.docfetcher.model.UtilModel#isZipArchive(Lde/schlichtherle/truezip/file/TFile;)Z*.",
+*net.sourceforge.docfetcher.model.UtilModel*
+
+filejava.io.File*
+5
+1*Í
+1^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaó	 ó("h
+^
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/index/file/FileIndex.javaó ó(
+"":?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig:
+filejava.io.FileB9"7
+5net.sourceforge.docfetcher.model.index.file.FileIndex

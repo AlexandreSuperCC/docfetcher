@@ -1,0 +1,17 @@
+
+znet.sourceforge.docfetcher.model.parse.ParseContext#getReporter()Lnet/sourceforge/docfetcher/model/index/IndexingReporter;Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseContext.java/ /($"1*Ì
+1Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseContext.java0	 0(Î
+Ë
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseContext.java0	 0(=
+%07net.sourceforge.docfetcher.model.index.IndexingReporter"__id*E*C5
+3net.sourceforge.docfetcher.model.parse.ParseContext"
+
+reporter"ù
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseContext.java0 0(?
+=
+%07net.sourceforge.docfetcher.model.index.IndexingReporterB75
+3net.sourceforge.docfetcher.model.parse.ParseContext

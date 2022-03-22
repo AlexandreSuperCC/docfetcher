@@ -1,0 +1,72 @@
+
+ƒorg.apache.tika.language.LanguageProfile$Interleaved$Entry#compareTo(Lorg/apache/tika/language/LanguageProfile$Interleaved$Entry;)IQ
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¢ ¢( "startingBlock*ª
+3Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¥ ¥($µ
+²
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¥ ¥($
+%3char[]"__id*I*G<
+:org.apache.tika.language.LanguageProfile$Interleaved$Entry"
+ngram¼
+¹
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¥* ¥(5
+%4char[]"__id*P*N
+C
+other:org.apache.tika.language.LanguageProfile$Interleaved$Entry"
+ngram"[
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¥ ¥(9
+""*å
+startingBlockQ
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¢  ¢(-Ç
+Ä
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¡ ¡(
+%5"
+__annotate*
+java.lang.Override*E
+C
+other:org.apache.tika.language.LanguageProfile$Interleaved$Entry±
+®
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¢' ¢(,C
+other:org.apache.tika.language.LanguageProfile$Interleaved$Entry"__annotation*
+
+%5*
+5*Õ
+4Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¤ ¤(µ
+²
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¤ ¤(
+%1char[]"__id*I*G<
+:org.apache.tika.language.LanguageProfile$Interleaved$Entry"
+ngram¼
+¹
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¤$ ¤(/
+%2char[]"__id*P*N
+C
+other:org.apache.tika.language.LanguageProfile$Interleaved$Entry"
+ngram*
+3
+5*–
+5Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java£! £("µ
+²
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java£% £(*
+%0char[]"__id*I*G<
+:org.apache.tika.language.LanguageProfile$Interleaved$Entry"
+ngram*
+4
+1*³
+1Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¨ ¨("[
+Q
+ED:/git_project/code/src/org/apache/tika/language/LanguageProfile.java¨ ¨(
+"":C
+other:org.apache.tika.language.LanguageProfile$Interleaved$EntryB><
+:org.apache.tika.language.LanguageProfile$Interleaved$Entry

@@ -1,0 +1,35 @@
+
+¼org.apache.tika.parser.odf.OpenDocumentMetaParser#getDublinCoreHandler(Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;Ljava/lang/String;)Lorg/xml/sax/ContentHandler;X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javaB" B(6"1*«
+1X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javaE E(ƒ
+€
+X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javaE E(+
+%0java.lang.String"__id*
+""ÉÆ
+X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javaD D()7
+%11org.apache.tika.parser.xml.ElementMetadataHandler"1org.apache.tika.parser.xml.ElementMetadataHandlerá
+Þ
+X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javaD F(#
+%2"¥org.apache.tika.parser.xml.ElementMetadataHandler#<init>(Ljava/lang/String;Ljava/lang/String;Lorg/apache/tika/metadata/Metadata;Lorg/apache/tika/metadata/Property;)V*9
+7
+%11org.apache.tika.parser.xml.ElementMetadataHandler*
+
+%0java.lang.String*
+
+elementjava.lang.String*/
+-
+metadata!org.apache.tika.metadata.Metadata*/
+-
+property!org.apache.tika.metadata.Property"•
+X
+ND:/git_project/code/src/org/apache/tika/parser/odf/OpenDocumentMetaParser.javaD F($9
+7
+%11org.apache.tika.parser.xml.ElementMetadataHandler:-
+metadata!org.apache.tika.metadata.Metadata:-
+property!org.apache.tika.metadata.Property:
+elementjava.lang.StringB5"3
+1org.apache.tika.parser.odf.OpenDocumentMetaParser

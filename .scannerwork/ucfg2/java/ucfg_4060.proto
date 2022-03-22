@@ -1,0 +1,35 @@
+
+Pnet.sourceforge.docfetcher.util.collect.ListMap#containsKey(Ljava/lang/Object;)ZV
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javaq q("startingBlock*ù
+startingBlockV
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javaq q(+≤
+Ø
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javaq q($
+%1"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+
+keyKz
+x
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javaq' q(*
+keyK"__annotation*
+
+%1*
+1*„
+1V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javar	 r(£†
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javar	 r(
+%0V"^net.sourceforge.docfetcher.util.collect.ListMap#getValue(Ljava/lang/Object;)Ljava/lang/Object;*31
+/net.sourceforge.docfetcher.util.collect.ListMap*
+
+
+keyK2getValue(Ljava/lang/Object;)"`
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javar r(
+"":
+keyKB31
+/net.sourceforge.docfetcher.util.collect.ListMap

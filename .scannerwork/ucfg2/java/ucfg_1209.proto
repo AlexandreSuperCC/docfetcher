@@ -1,0 +1,40 @@
+
+<org.apache.tika.io.IOUtils#toByteArray(Ljava/lang/String;)[BC
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaƒ ƒ($"startingBlock*ç
+startingBlockC
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaƒ$ ƒ(2‘
+Ž
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java‚ ‚(
+%2"
+__annotate*
+java.lang.Deprecated*
+
+inputjava.lang.Stringx
+v
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.javaƒ, ƒ(1
+inputjava.lang.String"__annotation*
+
+%2*
+1*
+1C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java„ „(u
+s
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java„ „(#
+%0java.nio.charset.Charset"__id*
+""ôñ
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java„ „($
+%1byte[]"7java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B*
+
+inputjava.lang.String* 
+
+%0java.nio.charset.Charset2$getBytes(Ljava/nio/charset/Charset;)"U
+C
+7D:/git_project/code/src/org/apache/tika/io/IOUtils.java„ „(%
+
+%1byte[]:
+inputjava.lang.StringB"
+org.apache.tika.io.IOUtils

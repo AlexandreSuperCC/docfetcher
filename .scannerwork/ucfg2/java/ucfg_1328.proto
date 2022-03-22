@@ -1,0 +1,172 @@
+
+∂net.sourceforge.docfetcher.model.parse.PdfParser#parse(Ljava/io/InputStream;Lnet/sourceforge/docfetcher/model/parse/ParseContext;)Lnet/sourceforge/docfetcher/model/parse/ParseResult;W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.java5 5("startingBlock*Ô	
+startingBlockW
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.java5 6(A§
+°
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.java4 4(
+
+%25"
+__annotate*
+java.lang.Override*
+
+injava.io.InputStream≈
+¬
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.java5 5(%
+%26"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+injava.io.InputStreamó
+î
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.java52 5(4
+injava.io.InputStream"__annotation*
+
+%25*
+
+%26…
+∆
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.java4 4(
+
+%27"
+__annotate*
+java.lang.Override*@
+>
+context3net.sourceforge.docfetcher.model.parse.ParseContextÍ
+Á
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.java6 6(%
+%28"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*@
+>
+context3net.sourceforge.docfetcher.model.parse.ParseContextº
+π
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.java69 6(@>
+context3net.sourceforge.docfetcher.model.parse.ParseContext"__annotation*
+
+%27*
+
+%28*
+19*¸
+4Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaë
+ ë("õ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaë ë(>
+<
+result2net.sourceforge.docfetcher.model.parse.ParseResult*±
+5Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaè è(<ﬂ
+‹
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaè è(<<
+result2net.sourceforge.docfetcher.model.parse.ParseResult"__id*;
+9
+%202net.sourceforge.docfetcher.model.parse.ParseResultÈ
+Ê
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaê ê("
+%22"Énet.sourceforge.docfetcher.model.parse.PdfParser#extractMetadata(LPDDocument;Lnet/sourceforge/docfetcher/model/parse/ParseResult;)V*4"2
+0net.sourceforge.docfetcher.model.parse.PdfParser*
+""*>
+<
+result2net.sourceforge.docfetcher.model.parse.ParseResult*
+4*í
+17W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaU U(9¨
+©
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaU U(9&
+annotationsjava.lang.StringBuilder"__id* 
+
+%10java.lang.StringBuilder*
+10*œ
+6Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaè è(;Õ 
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaè è('9
+%202net.sourceforge.docfetcher.model.parse.ParseResult"2net.sourceforge.docfetcher.model.parse.ParseResultô
+ñ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaè è(;
+%21"Tnet.sourceforge.docfetcher.model.parse.ParseResult#<init>(Ljava/lang/CharSequence;)V*;
+9
+%202net.sourceforge.docfetcher.model.parse.ParseResult*
+
+%19java.lang.StringBuffer*
+5*…
+18W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaT T(,†
+ù
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaT T(,
+writerjava.io.StringWriter"__id*
+
+%8java.io.StringWriterïí
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaU) U(6
+%10java.lang.StringBuilder"java.lang.StringBuilder®
+•
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaU% U(8
+%11"!java.lang.StringBuilder#<init>()V* 
+
+%10java.lang.StringBuilder*
+17*Ã
+7Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaè( è(.Ê„
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaè( è(:
+%19java.lang.StringBuffer"8java.io.StringWriter#getBuffer()Ljava/lang/StringBuffer;* 
+
+writerjava.io.StringWriter2getBuffer()*
+6*ó
+19W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaT T(+éã
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaT T()
+%8java.io.StringWriter"java.io.StringWriter†
+ù
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaT T(+
+%9"java.io.StringWriter#<init>()V*
+
+%8java.io.StringWriter*
+18*⁄
+8Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaç ç('ÙÒ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaç ç('
+%18void"/java.io.StringWriter#write(Ljava/lang/String;)V* 
+
+writerjava.io.StringWriter*
+
+%17java.lang.String2write(Ljava/lang/String;)*
+7*…
+9Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaç ç(	„‡
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaç ç(&
+%17java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*(
+&
+annotationsjava.lang.StringBuilder2
+toString()*
+8*«
+10Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaå å(	‡›
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/PdfParser.javaå å(
+%16void"/java.io.StringWriter#write(Ljava/lang/String;)V* 
+
+writerjava.io.StringWriter*
+ 2write(Ljava/lang/String;)*
+9:
+injava.io.InputStream:>
+context3net.sourceforge.docfetcher.model.parse.ParseContextB42
+0net.sourceforge.docfetcher.model.parse.PdfParser

@@ -1,0 +1,51 @@
+
+wnet.sourceforge.docfetcher.model.index.IndexingInfo#is(Lnet/sourceforge/docfetcher/model/index/IndexingInfo$InfoType;)ZZ
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingInfo.java. .("startingBlock*¬
+startingBlockZ
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingInfo.java. .(.ö
+ó
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingInfo.java- -(	
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*J
+H
+infoType<net.sourceforge.docfetcher.model.index.IndexingInfo$InfoTypeö
+ó
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingInfo.java. .(
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*J
+H
+infoType<net.sourceforge.docfetcher.model.index.IndexingInfo$InfoTypeÇ
+Ä
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingInfo.java.% .(-H
+infoType<net.sourceforge.docfetcher.model.index.IndexingInfo$InfoType"__annotation*
+
+%2*
+
+%3*
+1*­
+1Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingInfo.java/ /(ò
+ï
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingInfo.java/ /(B
+%0<net.sourceforge.docfetcher.model.index.IndexingInfo$InfoType"Wnet.sourceforge.docfetcher.util.Util#checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;*("&
+$net.sourceforge.docfetcher.util.Util*J
+H
+infoType<net.sourceforge.docfetcher.model.index.IndexingInfo$InfoTypeð
+í
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingInfo.java0	 0(B
+%1<net.sourceforge.docfetcher.model.index.IndexingInfo$InfoType"__id*E*C5
+3net.sourceforge.docfetcher.model.index.IndexingInfo"
+
+infoType"d
+Z
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingInfo.java0 0(#
+"":H
+infoType<net.sourceforge.docfetcher.model.index.IndexingInfo$InfoTypeB75
+3net.sourceforge.docfetcher.model.index.IndexingInfo

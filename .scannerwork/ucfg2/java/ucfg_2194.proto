@@ -1,0 +1,48 @@
+
+pnet.sourceforge.docfetcher.model.parse.EpubParser#renderText(Ljava/io/File;Ljava/lang/String;)Ljava/lang/String;X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java0 0("1*Æ
+1X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java2* 2(2ÍÊ
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java2 2()9
+%03net.sourceforge.docfetcher.model.parse.ParseContext"3net.sourceforge.docfetcher.model.parse.ParseContext‘
+Ž
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java2 2(3
+%1"Onet.sourceforge.docfetcher.model.parse.ParseContext#<init>(Ljava/lang/String;)V*;
+9
+%03net.sourceforge.docfetcher.model.parse.ParseContext*
+
+filenamejava.lang.Stringà
+Ý
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java2 2(4>
+context3net.sourceforge.docfetcher.model.parse.ParseContext"__id*;
+9
+%03net.sourceforge.docfetcher.model.parse.ParseContext¯¬
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java3	 3(#8
+%22net.sourceforge.docfetcher.model.parse.ParseResult"±net.sourceforge.docfetcher.model.parse.EpubParser#parse(Ljava/io/File;Lnet/sourceforge/docfetcher/model/parse/ParseContext;Z)Lnet/sourceforge/docfetcher/model/parse/ParseResult;*53
+1net.sourceforge.docfetcher.model.parse.EpubParser*
+
+filejava.io.File*@
+>
+context3net.sourceforge.docfetcher.model.parse.ParseContext*22Kparse(Ljava/io/File;Lnet/sourceforge/docfetcher/model/parse/ParseContext;Z)ž›
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java3	 3(0
+%3java.lang.CharSequence"Wnet.sourceforge.docfetcher.model.parse.ParseResult#getContent()Ljava/lang/CharSequence;*:
+8
+%22net.sourceforge.docfetcher.model.parse.ParseResult2getContent()ÖÓ
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java3	 3(;
+%4java.lang.String"3java.lang.CharSequence#toString()Ljava/lang/String;*
+
+%3java.lang.CharSequence2
+toString()"t
+X
+ND:/git_project/code/src/net/sourceforge/docfetcher/model/parse/EpubParser.java3 3(<
+
+%4java.lang.String:
+filejava.io.File:
+filenamejava.lang.StringB53
+1net.sourceforge.docfetcher.model.parse.EpubParser

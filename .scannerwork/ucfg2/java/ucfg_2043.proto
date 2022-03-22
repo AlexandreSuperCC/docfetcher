@@ -1,0 +1,18 @@
+
+4org.apache.tika.parser.chm.lzx.ChmSection#getLeft()IP
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaV V("1*Ý
+1P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaW W(ÔÑ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaW W(
+%0byte[]"5org.apache.tika.parser.chm.lzx.ChmSection#getData()[B*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2	getData()ÒÏ
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaW# W(-	
+%1int"5org.apache.tika.parser.chm.lzx.ChmSection#getSwath()I*-+
+)org.apache.tika.parser.chm.lzx.ChmSection2
+getSwath()"Z
+P
+FD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmSection.javaW W(/
+""B-+
+)org.apache.tika.parser.chm.lzx.ChmSection

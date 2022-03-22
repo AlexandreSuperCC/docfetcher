@@ -1,0 +1,64 @@
+
+Cnet.sourceforge.docfetcher.gui.pref.HotkeyDialog#acceptHotkey(II)[IY
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/pref/HotkeyDialog.java– –("5"6"11"12*Ã
+2Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/pref/HotkeyDialog.javaÄ
+ Ä("c
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/pref/HotkeyDialog.javaÄ Ä(
+""*•
+3Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/pref/HotkeyDialog.javaÃ Ã(
+¯
+¬
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/pref/HotkeyDialog.javaÃ Ã(0	
+%2int"#java.lang.Character#toUpperCase(I)I*"
+java.lang.Character*
+""*
+2*™
+4Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/pref/HotkeyDialog.javaÂ Â(°
+­
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/pref/HotkeyDialog.javaÂ Â("
+%1boolean" java.lang.Character#isLetter(I)Z*"
+java.lang.Character*
+""*
+2
+3* 
+5Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/pref/HotkeyDialog.javaÁ Á(·
+´
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/pref/HotkeyDialog.javaÁ Á((
+%0boolean"'java.lang.Character#isLetterOrDigit(I)Z*"
+java.lang.Character*
+""*
+4
+1*Ã
+6Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/pref/HotkeyDialog.java¾
+ ¾("c
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/pref/HotkeyDialog.java¾ ¾(
+""*Ä
+11Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/pref/HotkeyDialog.javaŸ ¸(&"c
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/pref/HotkeyDialog.java¸ ¸(&
+""*Ä
+12Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/pref/HotkeyDialog.java›
+ ›("c
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/pref/HotkeyDialog.java› ›(
+""*Ã
+1Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/pref/HotkeyDialog.javaÇ	 Ç("c
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/pref/HotkeyDialog.javaÇ Ç(
+"":
+"":
+""B42
+0net.sourceforge.docfetcher.gui.pref.HotkeyDialog

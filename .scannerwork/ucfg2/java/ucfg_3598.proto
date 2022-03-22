@@ -1,0 +1,60 @@
+
+snet.sourceforge.docfetcher.model.parse.MSExcelParser#renderText(Ljava/io/File;Ljava/lang/String;)Ljava/lang/String;[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java/ /("19*©
+14[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java7 7(&§
+¤
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java8$ 8(47
+%21net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""§
+¤
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java8$ 8(G7
+%31net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""ëè
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java8$ 8(M
+%4boolean"8net.sourceforge.docfetcher.enums.ProgramConf$Bool#get()Z*9
+7
+%31net.sourceforge.docfetcher.enums.ProgramConf$Bool2get()*
+10*Œ
+17[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java3 3(!¢
+Ÿ
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java3 3(!
+injava.io.InputStream"__id*
+
+%0java.io.FileInputStream*
+14*Õ
+18[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java3 3( ˜•
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java3 3(
+%0java.io.FileInputStream"java.io.FileInputStreamÐ
+Í
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java3 3(!
+%1"/java.io.FileInputStream#<init>(Ljava/io/File;)V*
+
+%0java.io.FileInputStream*
+
+filejava.io.File*
+17*ó
+19[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java1 1(‰
+†
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java1 1(
+injava.io.InputStream"__id*
+""*
+18*È
+10[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java: :("e
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MSExcelParser.java: :(
+"":
+filejava.io.File:
+filenamejava.lang.StringB86
+4net.sourceforge.docfetcher.model.parse.MSExcelParser

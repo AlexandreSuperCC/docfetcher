@@ -1,0 +1,52 @@
+
+(org.apache.tika.mime.AndClause#eval([B)ZE
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java ("5*Å
+2E
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java (~
+|
+E
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java (%
+clauseorg.apache.tika.mime.Clause"__id*
+""¨
+©
+E
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java (%
+clauseorg.apache.tika.mime.Clause"
+__arrayGet*%
+#
+%0org.apache.tika.mime.Clause[]*
+""*
+4
+1*õ
+3E
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java   ("O
+E
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java   (
+""*ö
+4E
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java (≈¬
+E
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java ("
+%1boolean"%org.apache.tika.mime.Clause#eval([B)Z*'
+%
+clauseorg.apache.tika.mime.Clause*
+
+databyte[]2eval([B)*
+2
+3*¯
+5E
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java ($¶
+£
+E
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java ($#
+%0org.apache.tika.mime.Clause[]"__id*/*- 
+org.apache.tika.mime.AndClause"	
+clauses*
+2*õ
+1E
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java# #("O
+E
+;D:/git_project/code/src/org/apache/tika/mime/AndClause.java# #(
+"":
+databyte[]B" 
+org.apache.tika.mime.AndClause

@@ -1,0 +1,27 @@
+
+„org.apache.tika.config.TikaConfig$ExecutorServiceXmlLoader#isComposite(Lorg/apache/tika/concurrent/ConfigurableThreadPoolExecutor;)ZJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaï ï("startingBlock*Ð
+startingBlockJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaï ï(BÀ
+½
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaî î(
+%0"
+__annotate*
+java.lang.Override*E
+C
+loaded9org.apache.tika.concurrent.ConfigurableThreadPoolExecutorª
+§
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaï; ï(AC
+loaded9org.apache.tika.concurrent.ConfigurableThreadPoolExecutor"__annotation*
+
+%0*
+1*¥
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaïK ï(P"T
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaïD ï(Q
+"":C
+loaded9org.apache.tika.concurrent.ConfigurableThreadPoolExecutorB><
+:org.apache.tika.config.TikaConfig$ExecutorServiceXmlLoader

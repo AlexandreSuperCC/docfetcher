@@ -1,0 +1,17 @@
+
+Borg.apache.tika.io.EndianUtils#readShortLE(Ljava/io/InputStream;)SE
+;D:/git_project/code/src/org/apache/tika/io/EndianUtils.java) )(""1*ý
+1E
+;D:/git_project/code/src/org/apache/tika/io/EndianUtils.java* *(!ß
+Ü
+E
+;D:/git_project/code/src/org/apache/tika/io/EndianUtils.java* *()	
+%0int"Corg.apache.tika.io.EndianUtils#readUShortLE(Ljava/io/InputStream;)I*"" 
+org.apache.tika.io.EndianUtils*
+
+streamjava.io.InputStream"O
+E
+;D:/git_project/code/src/org/apache/tika/io/EndianUtils.java* *(*
+"":
+streamjava.io.InputStreamB"" 
+org.apache.tika.io.EndianUtils

@@ -1,0 +1,120 @@
+
+znet.sourceforge.docfetcher.model.parse.AbiWordParser#renderText(Ljava/io/InputStream;Ljava/lang/String;)Ljava/lang/String;[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaA A("startingBlock*»
+13[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaC C(Œ
+À
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaC C()
+%0"onet.sourceforge.docfetcher.model.parse.AbiWordParser#getSource(Ljava/io/InputStream;Ljava/lang/String;)LSource;*8"6
+4net.sourceforge.docfetcher.model.parse.AbiWordParser*
+
+injava.io.InputStream*
+
+filenamejava.lang.Stringzx
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaF. F(@
+%1"java.util.ArrayListç
+ä
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaF* F(B
+%2"java.util.ArrayList#<init>()V*
+
+%1*
+11
+12*„
+3[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaU U(¯ı
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaU U(.
+%8"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*
+
+sbjava.lang.StringBuilder*
+""2append(Ljava/lang/Object;)*
+3
+1*¯
+startingBlock[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaA A(=®
+•
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java@ @(
+
+%10"
+__annotate*
+java.lang.Override*
+
+injava.io.InputStreamí
+è
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaA) A(+
+injava.io.InputStream"__annotation*
+
+%10´
+®
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.java@ @(
+
+%11"
+__annotate*
+java.lang.Override*
+
+filenamejava.lang.Stringï
+í
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaA4 A(<
+filenamejava.lang.String"__annotation*
+
+%11*
+13*Ÿ
+5[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaS S((òï
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaS S(&
+%6java.lang.StringBuilder"java.lang.StringBuilder™
+ß
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaS S((
+%7"!java.lang.StringBuilder#<init>()V*
+
+%6java.lang.StringBuilder¶
+£
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaS S()
+sbjava.lang.StringBuilder"__id*
+
+%6java.lang.StringBuilder*
+3
+1*€
+11[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaI& I(1s
+q
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaI& I(:
+%3"__id*
+
+%5*
+5*‡
+12[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaI" I(#x
+v
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaI" I(#
+%3"__id*
+	
+%4int*
+5*∑
+1[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaW	 W(€ÿ
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaW	 W(
+%9java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*
+
+sbjava.lang.StringBuilder2
+toString()"w
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/AbiWordParser.javaW W(
+
+%9java.lang.String:
+injava.io.InputStream:
+filenamejava.lang.StringB86
+4net.sourceforge.docfetcher.model.parse.AbiWordParser

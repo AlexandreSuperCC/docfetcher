@@ -1,0 +1,28 @@
+
+Hnet.sourceforge.docfetcher.enums.ProgramConf$Str#getFile()Ljava/io/File;U
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/ProgramConf.java‹ ‹("1*¿
+1U
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/ProgramConf.javaŒ Œ(¹
+¶
+U
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/ProgramConf.javaŒ Œ(
+%0java.lang.String"__id*?*=2
+0net.sourceforge.docfetcher.enums.ProgramConf$Str"
+value{y
+U
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/ProgramConf.javaŒ Œ(
+%1java.io.File"java.io.Fileº
+·
+U
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/ProgramConf.javaŒ
+ Œ(
+%2"(java.io.File#<init>(Ljava/lang/String;)V*
+
+%1java.io.File*
+
+%0java.lang.String"m
+U
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/ProgramConf.javaŒ Œ(
+
+%1java.io.FileB42
+0net.sourceforge.docfetcher.enums.ProgramConf$Str

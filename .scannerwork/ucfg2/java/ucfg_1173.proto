@@ -1,0 +1,41 @@
+
+:org.apache.tika.mime.MediaType#equals(Ljava/lang/Object;)ZG
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaÆ Æ("2"1*÷
+2G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java∞) ∞(/ò
+ï
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java∞ ∞(0&
+thatorg.apache.tika.mime.MediaType"__id*
+
+objectjava.lang.Objectö
+ó
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java± ±(
+%0java.lang.String"__id*.*, 
+org.apache.tika.mime.MediaType"
+string†
+ù
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java±! ±(,
+%1java.lang.String"__id*4*2
+&
+thatorg.apache.tika.mime.MediaType"
+stringŸ÷
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java± ±(-
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String*
+
+%1java.lang.String2equals(Ljava/lang/Object;)"Q
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java± ±(.
+""*ü
+1G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java≥ ≥("Q
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java≥ ≥(
+"":
+objectjava.lang.ObjectB" 
+org.apache.tika.mime.MediaType

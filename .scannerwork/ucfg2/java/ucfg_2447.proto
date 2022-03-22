@@ -1,0 +1,28 @@
+
+@org.apache.tika.Tika#parse(Ljava/nio/file/Path;)Ljava/io/Reader;=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÄ Ä("1*²
+1=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÅ Å(‹
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÅ Å(''
+%0!org.apache.tika.metadata.Metadata"!org.apache.tika.metadata.Metadata 
+
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÅ Å()
+%1"+org.apache.tika.metadata.Metadata#<init>()V*)
+'
+%0!org.apache.tika.metadata.Metadataàİ
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÅ Å(*
+%2java.io.Reader"corg.apache.tika.Tika#parse(Ljava/nio/file/Path;Lorg/apache/tika/metadata/Metadata;)Ljava/io/Reader;*
+org.apache.tika.Tika*
+
+pathjava.nio.file.Path*)
+'
+%0!org.apache.tika.metadata.Metadata2>parse(Ljava/nio/file/Path;Lorg/apache/tika/metadata/Metadata;)"W
+=
+1D:/git_project/code/src/org/apache/tika/Tika.javaÅ Å(+
+
+%2java.io.Reader:
+pathjava.nio.file.PathB
+org.apache.tika.Tika

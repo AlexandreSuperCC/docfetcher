@@ -1,0 +1,18 @@
+
+Gorg.apache.tika.parser.chm.core.ChmCommons#isEmpty(Ljava/lang/String;)ZS
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaå å(!"2"1*„
+2S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaæ æ(!¤¡
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaæ æ(*	
+%0int"java.lang.String#length()I*
+
+strjava.lang.String2length()*
+1*·
+1S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaæ æ(0"]
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/core/ChmCommons.javaæ æ(0
+"":
+strjava.lang.StringB.",
+*org.apache.tika.parser.chm.core.ChmCommons

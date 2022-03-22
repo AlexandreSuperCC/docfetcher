@@ -1,0 +1,26 @@
+
+Wnet.sourceforge.docfetcher.enums.SettingsConf$StrList#valueToString()Ljava/lang/String;V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.javaé é("1*æ
+1V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.javaè
+ è(Ω
+∫
+V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.javaè" è('
+%0java.util.List"__id*D*B7
+5net.sourceforge.docfetcher.enums.SettingsConf$StrList"
+value¨
+©
+V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.javaè
+ è((
+%1java.lang.String"nnet.sourceforge.docfetcher.util.Util#encodeStrings(Ljava/lang/String;Ljava/util/Collection;)Ljava/lang/String;*("&
+$net.sourceforge.docfetcher.util.Util*
+;*
+
+%0java.util.List"r
+V
+JD:/git_project/code/src/net/sourceforge/docfetcher/enums/SettingsConf.javaè è()
+
+%1java.lang.StringB97
+5net.sourceforge.docfetcher.enums.SettingsConf$StrList

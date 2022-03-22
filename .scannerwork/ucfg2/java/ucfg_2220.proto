@@ -1,0 +1,31 @@
+
+Knet.sourceforge.docfetcher.gui.HotkeyListenerLinuxImpl#registerHotkey(III)ZU
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/HotkeyHandler.javaµ µ("5*»
+2U
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/HotkeyHandler.javaº
+ º("_
+U
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/HotkeyHandler.javaº º(
+""*Ë
+4U
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/HotkeyHandler.java¹ ¹(é
+æ
+U
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/HotkeyHandler.java¹ ¹(+	
+%1int"Dnet.sourceforge.docfetcher.gui.KeyCodeTranslator#translateSWTKey(I)I*4"2
+0net.sourceforge.docfetcher.gui.KeyCodeTranslator*
+""*
+2*Ñ
+5U
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/HotkeyHandler.java·- ·(/ï
+ì
+U
+ID:/git_project/code/src/net/sourceforge/docfetcher/gui/HotkeyHandler.java¸ ¸(2	
+%0int"Jnet.sourceforge.docfetcher.gui.KeyCodeTranslator#translateSWTModifiers(I)I*4"2
+0net.sourceforge.docfetcher.gui.KeyCodeTranslator*
+""*
+4:
+"":
+"":
+""B:8
+6net.sourceforge.docfetcher.gui.HotkeyListenerLinuxImpl

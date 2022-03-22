@@ -1,0 +1,135 @@
+
+8net.sourceforge.docfetcher.model.Folder#hasErrorsDeep()ZP
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java˝# ˝(0"13*π
+13P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java˛ ˛(÷”
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java˛ ˛(
+%0boolean"6net.sourceforge.docfetcher.model.TreeNode#hasErrors()Z*+)
+'net.sourceforge.docfetcher.model.Folder2hasErrors()*
+11
+12*±
+1P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaà	 à("Z
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaà à(
+""*Î
+2P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÖ Ö(r
+p
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÖ Ö(
+	subFolderF"__id*
+""ó
+î
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÖ Ö(
+	subFolderF"
+__arrayGet*
+
+%7java.util.Collection*
+""*
+4
+1*±
+3P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaá á("Z
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaá á(
+""*°
+4P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÜ Ü(¡æ
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÜ Ü(!
+%8boolean"8net.sourceforge.docfetcher.model.Folder#hasErrorsDeep()Z*
+
+	subFolderF2hasErrorsDeep()*
+2
+3*Ÿ
+5P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÖ Ö( ±
+Æ
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÖ Ö( 
+%6java.util.HashMap"__id*;*9)
+'net.sourceforge.docfetcher.model.Folder"
+
+subFolders»≈
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÖ Ö()
+%7java.util.Collection"0java.util.HashMap#values()Ljava/util/Collection;*
+
+%6java.util.HashMap2values()*
+2*ë
+6P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÑ Ñ(±
+Æ
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÑ Ñ(
+%5java.util.HashMap"__id*;*9)
+'net.sourceforge.docfetcher.model.Folder"
+
+subFolders*
+5
+1*È
+7P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÅ Å(q
+o
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÅ Å(
+documentD"__id*
+""ñ
+ì
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÅ Å(
+documentD"
+__arrayGet*
+
+%3java.util.Collection*
+""*
+6
+9*±
+8P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÉ É("Z
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÉ É(
+""*ö
+9P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÇ Ç(∫∑
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÇ Ç(
+%4boolean"6net.sourceforge.docfetcher.model.TreeNode#hasErrors()Z*
+
+documentD2hasErrors()*
+7
+8*Ÿ
+10P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÅ Å(∞
+≠
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÅ Å(
+%2java.util.HashMap"__id*:*8)
+'net.sourceforge.docfetcher.model.Folder"
+	documents»≈
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÅ Å('
+%3java.util.Collection"0java.util.HashMap#values()Ljava/util/Collection;*
+
+%2java.util.HashMap2values()*
+7*í
+11P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÄ Ä(∞
+≠
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÄ Ä(
+%1java.util.HashMap"__id*:*8)
+'net.sourceforge.docfetcher.model.Folder"
+	documents*
+6
+10*≤
+12P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaˇ
+ ˇ("Z
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaˇ ˇ(
+""B+)
+'net.sourceforge.docfetcher.model.Folder

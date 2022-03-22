@@ -1,0 +1,75 @@
+
+Sorg.apache.tika.mime.MediaType#union(Ljava/util/Map;Ljava/util/Map;)Ljava/util/Map;G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaÏ' Ï(,"5*­
+2G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaÔ Ô("_
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaÔ Ô(
+
+ajava.util.Map*í
+3G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaÓ Ó(–“
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaÓ Ó(
+%1boolean"java.util.Map#isEmpty()Z*
+
+bjava.util.Map2	isEmpty()*
+2
+1*­
+4G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaÒ Ò("_
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaÒ Ò(
+
+bjava.util.Map*í
+5G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaÑ Ñ(–“
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaÑ Ñ(
+%0boolean"java.util.Map#isEmpty()Z*
+
+ajava.util.Map2	isEmpty()*
+3
+4*ï
+1G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaÖ( Ö(Ewu
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaÖ, Ö(C
+%2java.util.HashMap"java.util.HashMapŠ
+‡
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaÖ( Ö(E
+%3"java.util.HashMap#<init>()V*
+
+%2java.util.HashMap…
+‚
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaÖ Ö(F
+unionjava.util.Map"__id*
+
+%2java.util.HashMap•
+’
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.java× ×(
+
+%4void"__mapSetAll*
+
+unionjava.util.Map*
+
+ajava.util.Map•
+’
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaØ Ø(
+
+%5void"__mapSetAll*
+
+unionjava.util.Map*
+
+bjava.util.Map"c
+G
+;D:/git_project/code/src/org/apache/tika/mime/MediaType.javaÙ Ù(
+
+unionjava.util.Map:
+ajava.util.Map:
+bjava.util.MapB"" 
+org.apache.tika.mime.MediaType

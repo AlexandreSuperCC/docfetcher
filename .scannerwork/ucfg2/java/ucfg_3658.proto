@@ -1,0 +1,16 @@
+
+eorg.apache.tika.metadata.Property#getSecondaryExtractProperties()[Lorg/apache/tika/metadata/Property;J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÒ Ò(3"1*”
+1J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÓ	 Ó(#Ç
+Ä
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÓ	 Ó(#)
+%0#org.apache.tika.metadata.Property[]"__id*E*C#
+!org.apache.tika.metadata.Property"
+secondaryExtractProperties"y
+J
+>D:/git_project/code/src/org/apache/tika/metadata/Property.javaÓ Ó($+
+)
+%0#org.apache.tika.metadata.Property[]B%#
+!org.apache.tika.metadata.Property

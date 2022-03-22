@@ -1,0 +1,24 @@
+
+Pnet.sourceforge.docfetcher.model.MailResource$Attachment#getFile()Ljava/io/File;T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/MailResource.java+ +("1*§
+1T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/MailResource.java,
+ ,(ä
+á
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/MailResource.java,
+ ,(3
+%0-net.sourceforge.docfetcher.model.FileResource"__id*N*L:
+8net.sourceforge.docfetcher.model.MailResource$Attachment"
+fileResourceöó
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/MailResource.java,
+ ,( 
+%1java.io.File"Enet.sourceforge.docfetcher.model.FileResource#getFile()Ljava/io/File;*5
+3
+%0-net.sourceforge.docfetcher.model.FileResource2	getFile()"l
+T
+JD:/git_project/code/src/net/sourceforge/docfetcher/model/MailResource.java, ,(!
+
+%1java.io.FileB<:
+8net.sourceforge.docfetcher.model.MailResource$Attachment

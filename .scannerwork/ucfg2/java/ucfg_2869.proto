@@ -1,0 +1,82 @@
+
+Áorg.apache.tika.config.TikaConfig$ParserXmlLoader#createComposite(Ljava/util/List;Lorg/apache/tika/mime/MimeTypes;Lorg/apache/tika/config/ServiceLoader;)Lorg/apache/tika/parser/CompositeParser;J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaï ï('"startingBlock*€
+startingBlockJ
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaï' ï(h–
+“
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaî î(
+%3"
+__annotate*
+java.lang.Override*
+
+parsersjava.util.List
+}
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaï5 ï(<
+parsersjava.util.List"__annotation*
+
+%3¨
+¥
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaî î(
+%4"
+__annotate*
+java.lang.Override*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes’
+
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaïH ï(Q+
+	mimeTypesorg.apache.tika.mime.MimeTypes"__annotation*
+
+%4«
+¨
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaî î(
+%5"
+__annotate*
+java.lang.Override*0
+.
+loader$org.apache.tika.config.ServiceLoader•
+’
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javaïa ï(g.
+loader$org.apache.tika.config.ServiceLoader"__annotation*
+
+%5*
+1*œ	
+1J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javað) ð(2£ 
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javað) ð(I,
+%0&org.apache.tika.mime.MediaTypeRegistry"]org.apache.tika.mime.MimeTypes#getMediaTypeRegistry()Lorg/apache/tika/mime/MediaTypeRegistry;*-
++
+	mimeTypesorg.apache.tika.mime.MimeTypes2getMediaTypeRegistry()¹
+¶
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javað ð(J2
+registry&org.apache.tika.mime.MediaTypeRegistry"__id*.
+,
+%0&org.apache.tika.mime.MediaTypeRegistry¥¢
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javañ ñ(&,
+%1&org.apache.tika.parser.CompositeParser"&org.apache.tika.parser.CompositeParserÂ
+¿
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javañ ñ(9
+%2"horg.apache.tika.parser.CompositeParser#<init>(Lorg/apache/tika/mime/MediaTypeRegistry;Ljava/util/List;)V*.
+,
+%1&org.apache.tika.parser.CompositeParser*4
+2
+registry&org.apache.tika.mime.MediaTypeRegistry*
+
+parsersjava.util.List"|
+J
+>D:/git_project/code/src/org/apache/tika/config/TikaConfig.javañ ñ(:.
+,
+%1&org.apache.tika.parser.CompositeParser:
+parsersjava.util.List:+
+	mimeTypesorg.apache.tika.mime.MimeTypes:.
+loader$org.apache.tika.config.ServiceLoaderB53
+1org.apache.tika.config.TikaConfig$ParserXmlLoader

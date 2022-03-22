@@ -1,0 +1,235 @@
+
+uorg.apache.tika.mime.MediaTypeRegistry#getSupertype(Lorg/apache/tika/mime/MediaType;)Lorg/apache/tika/mime/MediaType;O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java∫ ∫(!"17"18*ù
+13O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java¡ ¡(„‡
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java¡ ¡($
+%6java.lang.String"=org.apache.tika.mime.MediaType#getSubtype()Ljava/lang/String;*(
+&
+typeorg.apache.tika.mime.MediaType2getSubtype()’“
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java¡ ¡(5
+%7boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+%6java.lang.String*
++xml2endsWith(Ljava/lang/String;)*
+11
+12*‘
+14O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java¿ ¿(Å˛
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java¿ ¿(%$
+%5org.apache.tika.mime.MediaType"Lorg.apache.tika.mime.MediaType#getBaseType()Lorg/apache/tika/mime/MediaType;*(
+&
+typeorg.apache.tika.mime.MediaType2getBaseType()"y
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java¿ ¿(&&
+$
+%5org.apache.tika.mime.MediaType*±
+15O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaø ø(œÃ
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaø ø('
+%4boolean"/org.apache.tika.mime.MediaType#hasParameters()Z*(
+&
+typeorg.apache.tika.mime.MediaType2hasParameters()*
+13
+14*«
+16O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaæ æ(¨
+©
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaæ æ(
+%2java.util.Map"__id*;*9(
+&org.apache.tika.mime.MediaTypeRegistry"
+inheritance≈
+¬
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaæ æ(($
+%3org.apache.tika.mime.MediaType"__mapGet*
+
+%2java.util.Map*(
+&
+typeorg.apache.tika.mime.MediaType"y
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaæ æ()&
+$
+%3org.apache.tika.mime.MediaType*Ü
+17O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaΩ Ω(¨
+©
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaΩ Ω(
+%0java.util.Map"__id*;*9(
+&org.apache.tika.mime.MediaTypeRegistry"
+inheritanceıÚ
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaΩ Ω(0
+%1boolean".java.util.Map#containsKey(Ljava/lang/Object;)Z*
+
+%0java.util.Map*(
+&
+typeorg.apache.tika.mime.MediaType2containsKey(Ljava/lang/Object;)*
+15
+16*∞
+18O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaº º("Y
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaº º(
+""*Ø
+1O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaÕ Õ("Y
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaÕ Õ(
+""*‹
+2O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaÀ À(â
+Ü
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaÀ À()%
+%24org.apache.tika.mime.MediaType"__id*
+"""z
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaÀ À(*'
+%
+%24org.apache.tika.mime.MediaType*˙
+3O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java   (â
+Ü
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java   (*%
+%22org.apache.tika.mime.MediaType"__id*
+""èå
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java   (7
+%23boolean":org.apache.tika.mime.MediaType#equals(Ljava/lang/Object;)Z*'
+%
+%22org.apache.tika.mime.MediaType*(
+&
+typeorg.apache.tika.mime.MediaType2equals(Ljava/lang/Object;)*
+2
+1*‹
+4O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java… …(â
+Ü
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java… …("%
+%21org.apache.tika.mime.MediaType"__id*
+"""z
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java… …(#'
+%
+%21org.apache.tika.mime.MediaType*˙
+5O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java»7 »(@â
+Ü
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java»7 »(F%
+%19org.apache.tika.mime.MediaType"__id*
+""èå
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java»7 »(S
+%20boolean":org.apache.tika.mime.MediaType#equals(Ljava/lang/Object;)Z*'
+%
+%19org.apache.tika.mime.MediaType*(
+&
+typeorg.apache.tika.mime.MediaType2equals(Ljava/lang/Object;)*
+3
+4*§
+6O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java» »(ﬁ€
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java» »( 
+%17java.lang.String":org.apache.tika.mime.MediaType#getType()Ljava/lang/String;*(
+&
+typeorg.apache.tika.mime.MediaType2	getType()‰·
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java» »(2
+%18boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*
+
+%17java.lang.String*	
+empty2"contains(Ljava/lang/CharSequence;)*
+3
+5*‹
+7O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java« «(â
+Ü
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java« «('%
+%16org.apache.tika.mime.MediaType"__id*
+"""z
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java« «(('
+%
+%16org.apache.tika.mime.MediaType*˙
+8O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java∆ ∆(â
+Ü
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java∆ ∆((%
+%14org.apache.tika.mime.MediaType"__id*
+""èå
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java∆ ∆(5
+%15boolean":org.apache.tika.mime.MediaType#equals(Ljava/lang/Object;)Z*'
+%
+%14org.apache.tika.mime.MediaType*(
+&
+typeorg.apache.tika.mime.MediaType2equals(Ljava/lang/Object;)*
+6
+7*ì
+9O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java≈ ≈(ﬁ€
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java≈! ≈(/
+%12java.lang.String":org.apache.tika.mime.MediaType#getType()Ljava/lang/String;*(
+&
+typeorg.apache.tika.mime.MediaType2	getType()”–
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java≈ ≈(0
+%13boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+text*
+
+%12java.lang.String2equals(Ljava/lang/Object;)*
+6
+8*›
+10O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaƒ ƒ(â
+Ü
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaƒ ƒ(,%
+%11org.apache.tika.mime.MediaType"__id*
+"""z
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.javaƒ ƒ(-'
+%
+%11org.apache.tika.mime.MediaType*ù
+11O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java√ √(„‡
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java√ √($
+%9java.lang.String"=org.apache.tika.mime.MediaType#getSubtype()Ljava/lang/String;*(
+&
+typeorg.apache.tika.mime.MediaType2getSubtype()÷”
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java√ √(5
+%10boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*
+
+%9java.lang.String*
++zip2endsWith(Ljava/lang/String;)*
+9
+10*€
+12O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java¬ ¬(à
+Ö
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java¬ ¬(,$
+%8org.apache.tika.mime.MediaType"__id*
+"""y
+O
+CD:/git_project/code/src/org/apache/tika/mime/MediaTypeRegistry.java¬ ¬(-&
+$
+%8org.apache.tika.mime.MediaType:&
+typeorg.apache.tika.mime.MediaTypeB*(
+&org.apache.tika.mime.MediaTypeRegistry

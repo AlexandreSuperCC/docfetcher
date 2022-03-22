@@ -1,0 +1,77 @@
+
+Dnet.contentobjects.jnotify.win32.JNotifyAdapterWin32#removeWatch(I)Z[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaK K("4*∏
+2[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaQ Q(…
+∆
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaQ Q(
+%4java.util.Hashtable"__id*F*D6
+4net.contentobjects.jnotify.win32.JNotifyAdapterWin32"
+
+_id2Data…
+∆
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaQ Q('
+%5java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*"
+java.lang.Integer*
+""Î
+Ë
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaQ Q((D
+%6>net.contentobjects.jnotify.win32.JNotifyAdapterWin32$WatchData"__mapRemove*
+
+%4java.util.Hashtable*
+
+%5java.lang.IntegerË
+Â
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaR R(!
+
+%7void">net.contentobjects.jnotify.win32.JNotify_win32#removeWatch(I)V*2"0
+.net.contentobjects.jnotify.win32.JNotify_win32*
+"""e
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaS S(
+""*Å
+3[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaO O(…
+∆
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaO O(
+%1java.util.Hashtable"__id*F*D6
+4net.contentobjects.jnotify.win32.JNotifyAdapterWin32"
+
+_id2Data…
+∆
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaO O(/
+%2java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*"
+java.lang.Integer*
+""˛˚
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaO O(0
+%3boolean"4java.util.Hashtable#containsKey(Ljava/lang/Object;)Z*
+
+%1java.util.Hashtable*
+
+%2java.lang.Integer2containsKey(Ljava/lang/Object;)*
+2
+1*±
+4[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaM M(…
+∆
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaM M(
+%0java.util.Hashtable"__id*F*D6
+4net.contentobjects.jnotify.win32.JNotifyAdapterWin32"
+
+_id2Data*
+3*«
+1[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaW W("e
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaW W(
+"":
+""B86
+4net.contentobjects.jnotify.win32.JNotifyAdapterWin32

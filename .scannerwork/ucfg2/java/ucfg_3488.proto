@@ -1,0 +1,21 @@
+
+aorg.apache.tika.parser.rtf.TextExtractor#getCharset(Ljava/lang/String;)Ljava/nio/charset/Charset;Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java¹ ¹(%"3*Í
+2Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java» »(."u
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java» »(. 
+
+%0java.nio.charset.Charset*ò
+3Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java» »(”
+‘
+Q
+ED:/git_project/code/src/org/apache/tika/parser/rtf/TextExtractor.java» »(-
+%0java.nio.charset.Charset"Xorg.apache.tika.utils.CharsetUtils#forName(Ljava/lang/String;)Ljava/nio/charset/Charset;*&"$
+"org.apache.tika.utils.CharsetUtils*
+
+namejava.lang.String*
+2:
+namejava.lang.StringB,"*
+(org.apache.tika.parser.rtf.TextExtractor

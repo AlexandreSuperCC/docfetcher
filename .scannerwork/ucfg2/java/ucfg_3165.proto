@@ -1,0 +1,29 @@
+
+0org.apache.tika.io.LookaheadInputStream#skip(J)JN
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javau u("1*â
+1N
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javav v(½
+º
+N
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javav v(
+
+%0void"/org.apache.tika.io.LookaheadInputStream#fill()V*+)
+'org.apache.tika.io.LookaheadInputStreamÎË
+N
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javaw w(#	
+%1int"4org.apache.tika.io.LookaheadInputStream#available()I*+)
+'org.apache.tika.io.LookaheadInputStream2available()¡
+ž
+N
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javaw w($
+
+%2long"java.lang.Math#min(JJ)J*"
+java.lang.Math*
+""*
+	
+%1int"X
+N
+DD:/git_project/code/src/org/apache/tika/io/LookaheadInputStream.javay y(
+"":
+""B+)
+'org.apache.tika.io.LookaheadInputStream

@@ -1,0 +1,57 @@
+
+Eorg.apache.tika.sax.SafeContentHandler#isInvalid(Ljava/lang/String;)ZO
+CD:/git_project/code/src/org/apache/tika/sax/SafeContentHandler.javañ ñ("6*Ç
+2O
+CD:/git_project/code/src/org/apache/tika/sax/SafeContentHandler.javaü ü(£
+†
+O
+CD:/git_project/code/src/org/apache/tika/sax/SafeContentHandler.javaü ü(*	
+%3int"!java.lang.Character#charCount(I)I*"
+java.lang.Character*
+""*
+4
+1*Ø
+3O
+CD:/git_project/code/src/org/apache/tika/sax/SafeContentHandler.javaù ù("Y
+O
+CD:/git_project/code/src/org/apache/tika/sax/SafeContentHandler.javaù ù(
+""*Ù
+4O
+CD:/git_project/code/src/org/apache/tika/sax/SafeContentHandler.javaõ õ(∑
+¥
+O
+CD:/git_project/code/src/org/apache/tika/sax/SafeContentHandler.javaõ õ(0	
+%1int"%java.lang.Character#codePointAt([CI)I*"
+java.lang.Character*
+
+chchar[]*
+""€ÿ
+O
+CD:/git_project/code/src/org/apache/tika/sax/SafeContentHandler.javaú ú(
+%2boolean"4org.apache.tika.sax.SafeContentHandler#isInvalid(I)Z**(
+&org.apache.tika.sax.SafeContentHandler*
+""2isInvalid(I)*
+2
+3*à
+6O
+CD:/git_project/code/src/org/apache/tika/sax/SafeContentHandler.javaó ó(∞≠
+O
+CD:/git_project/code/src/org/apache/tika/sax/SafeContentHandler.javaó ó('
+%0char[]" java.lang.String#toCharArray()[C*
+
+valuejava.lang.String2toCharArray()w
+u
+O
+CD:/git_project/code/src/org/apache/tika/sax/SafeContentHandler.javaó ó((
+chchar[]"__id*
+
+%0char[]*
+4
+1*Ø
+1O
+CD:/git_project/code/src/org/apache/tika/sax/SafeContentHandler.java¢ ¢("Y
+O
+CD:/git_project/code/src/org/apache/tika/sax/SafeContentHandler.java¢ ¢(
+"":
+valuejava.lang.StringB*(
+&org.apache.tika.sax.SafeContentHandler

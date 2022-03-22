@@ -1,0 +1,17 @@
+
+.null#accept(Ljava/io/File;Ljava/lang/String;)ZS
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgMigrator.java, ,("1*è
+1S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgMigrator.java- -(’“
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgMigrator.java- -(#
+%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+namejava.lang.String*
+""2equals(Ljava/lang/Object;)"]
+S
+ID:/git_project/code/src/net/sourceforge/docfetcher/enums/MsgMigrator.java- -($
+"":
+dirjava.io.File:
+namejava.lang.StringB75
+3Lnet/sourceforge/docfetcher/enums/MsgMigrator$1551;

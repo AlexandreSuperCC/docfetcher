@@ -1,0 +1,62 @@
+
+Bnet.sourceforge.docfetcher.util.Util#createTempDir()Ljava/io/File;M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java∑	 ∑	(!"5*›
+2M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java»	> »	(AÉ
+Ä
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java»	> »	(A
+%2java.io.File"__id*
+
+dirjava.io.File*
+1*§
+3M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java»	% »	((É
+Ä
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java»	% »	((
+%2java.io.File"__id*
+
+dirjava.io.File¿Ω
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java»	% »	(;
+%3java.io.File"-java.io.File#getCanonicalFile()Ljava/io/File;*
+
+dirjava.io.File2getCanonicalFile()Å
+
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java»	% »	(;
+%2java.io.File"__id*
+
+%3java.io.File*
+1* 
+4M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java»	 »	("n
+l
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java»	 »	("
+%1boolean"__id*
+""*
+2
+3*¿
+5M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java∏	 ∏	(t
+r
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java∏	 ∏	(#
+dirjava.io.File"__id*
+""n
+l
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java»		 »	(
+%0boolean"__id*
+""*
+3
+4*π
+1M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java»	 »	(B"e
+M
+AD:/git_project/code/src/net/sourceforge/docfetcher/util/Util.java»	 »	(B
+
+%2java.io.FileB("&
+$net.sourceforge.docfetcher.util.Util

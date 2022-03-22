@@ -1,0 +1,64 @@
+
+zorg.apache.tika.parser.ParserDecorator#withFallbacks(Ljava/util/Collection;Ljava/util/Set;)Lorg/apache/tika/parser/Parser;M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javal l(,"3*¯
+2M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javao) o(0–Õ
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javao) o(;
+%2java.util.Iterator"3java.util.Collection#iterator()Ljava/util/Iterator;*!
+
+parsersjava.util.Collection2
+iterator()¥±
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javao) o(B
+%3	!capture!"+java.util.Iterator#next()Ljava/lang/Object;*
+
+%2java.util.Iterator2next()î
+ë
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javao  o(B'
+parserorg.apache.tika.parser.Parser"__id*
+
+%3	!capture!*
+1* 
+3M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javan n(#ä
+á
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javan n(,(
+%0"org.apache.tika.parser.EmptyParser"__id*
+""≠
+™
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javan n(-'
+parserorg.apache.tika.parser.Parser"__id**
+(
+%0"org.apache.tika.parser.EmptyParser∞≠
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javao o(
+%1boolean"java.util.Collection#isEmpty()Z*!
+
+parsersjava.util.Collection2	isEmpty()*
+2
+1*ê
+1M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaq# q()¨©
+M
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaq q(".
+%4(org.apache.tika.parser.ParserDecorator$3"(org.apache.tika.parser.ParserDecorator$3á
+Ñ
+N
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaq ô(	
+%5"Oorg.apache.tika.parser.ParserDecorator#<init>(Lorg/apache/tika/parser/Parser;)V*0
+.
+%4(org.apache.tika.parser.ParserDecorator$3*)
+'
+parserorg.apache.tika.parser.Parser"Ç
+N
+CD:/git_project/code/src/org/apache/tika/parser/ParserDecorator.javaq ô(
+0
+.
+%4(org.apache.tika.parser.ParserDecorator$3:
+parsersjava.util.Collection:
+typesjava.util.SetB*"(
+&org.apache.tika.parser.ParserDecorator

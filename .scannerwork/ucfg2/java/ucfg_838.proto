@@ -1,0 +1,38 @@
+
+Dorg.apache.tika.parser.chm.lzx.ChmLzxBlock#createAlignedLenTable()[SS
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaà à()"5*ï
+3S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaå å( 
+
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaå å(,/
+%2)org.apache.tika.parser.chm.lzx.ChmSection"eorg.apache.tika.parser.chm.lzx.ChmLzxBlock#getChmSection()Lorg/apache/tika/parser/chm/lzx/ChmSection;*.,
+*org.apache.tika.parser.chm.lzx.ChmLzxBlockéæ
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaå å(>	
+%3int"9org.apache.tika.parser.chm.lzx.ChmSection#getSyncBits(I)I*1
+/
+%2)org.apache.tika.parser.chm.lzx.ChmSection*
+""2getSyncBits(I)*
+3
+1*Ä
+5S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaá á(#p
+n
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaá á(<	
+%0int"__id*
+""p
+n
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaâ â(:	
+%1int"__id*
+""*
+3
+1*·
+1S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaç ç("]
+S
+GD:/git_project/code/src/org/apache/tika/parser/chm/lzx/ChmLzxBlock.javaç ç(
+""B.,
+*org.apache.tika.parser.chm.lzx.ChmLzxBlock

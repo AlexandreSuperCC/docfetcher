@@ -1,0 +1,769 @@
+
+Cnet.sourceforge.docfetcher.gui.filter.IndexPanel#initContextMenu()VY
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaè è("16*ä
+13Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java≤ ≤(	ô
+ñ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java≤ ≤(+
+%37$net.sourceforge.docfetcher.enums.Msg"__id*
+""ÎË
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java≤ ≤(
+%35java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%37$net.sourceforge.docfetcher.enums.Msg2get()ò
+ï
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java≤ ≤(
+%33java.lang.String"__id*
+
+%35java.lang.String*
+12*ä
+14Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java± ±(ô
+ñ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java± ±(+
+%36$net.sourceforge.docfetcher.enums.Msg"__id*
+""ÎË
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java± ±(
+%34java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%36$net.sourceforge.docfetcher.enums.Msg2get()ò
+ï
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java± ±(
+%33java.lang.String"__id*
+
+%34java.lang.String*
+12*“8
+15Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaì ì("ò
+ï
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaî î(*
+%5$net.sourceforge.docfetcher.enums.Msg"__id*
+""ÈÊ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaî î(
+%6java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*,
+*
+%5$net.sourceforge.docfetcher.enums.Msg2get()ƒ¡
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaì2 ì(<4
+%7.net.sourceforge.docfetcher.util.gui.MenuAction".net.sourceforge.docfetcher.util.gui.MenuActionÇ
+ˇ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaì. î( 
+%8"Jnet.sourceforge.docfetcher.util.gui.MenuAction#<init>(Ljava/lang/String;)V*6
+4
+%7.net.sourceforge.docfetcher.util.gui.MenuAction*
+
+%6java.lang.String∑¥
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaì î(!
+%9"ënet.sourceforge.docfetcher.util.gui.ContextMenuManager#addSubmenu(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)Lorg/eclipse/swt/widgets/Menu;*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager*6
+4
+%7.net.sourceforge.docfetcher.util.gui.MenuAction2<addSubmenu(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)ô
+ñ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaó ó(+
+%10$net.sourceforge.docfetcher.enums.Img"__id*
+""Á‰
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaó ó(
+%11"Jnet.sourceforge.docfetcher.enums.Img#get()Lorg/eclipse/swt/graphics/Image;*-
++
+%10$net.sourceforge.docfetcher.enums.Img2get()ô
+ñ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaó ó( +
+%12$net.sourceforge.docfetcher.enums.Msg"__id*
+""ÎË
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaó ó(&
+%13java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%12$net.sourceforge.docfetcher.enums.Msg2get()Ÿ÷
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javañ% ñ(/?
+%148Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$11068;"8Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$11068;∏
+µ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javañ! ú(
+%15"jnet.sourceforge.docfetcher.util.gui.MenuAction#<init>(Lorg/eclipse/swt/graphics/Image;Ljava/lang/String;)V*A
+?
+%148Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$11068;*
+
+%11*
+
+%13java.lang.String‹Ÿ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javañ ú(
+%16"ãnet.sourceforge.docfetcher.util.gui.ContextMenuManager#add(Lorg/eclipse/swt/widgets/Menu;Lnet/sourceforge/docfetcher/util/gui/MenuAction;)V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager*
+""*A
+?
+%148Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$11068;2Sadd(Lorg/eclipse/swt/widgets/Menu;Lnet/sourceforge/docfetcher/util/gui/MenuAction;) «
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaû û()
+%17"dnet.sourceforge.docfetcher.util.gui.ContextMenuManager#addSeparator(Lorg/eclipse/swt/widgets/Menu;)V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager*
+""2,addSeparator(Lorg/eclipse/swt/widgets/Menu;)ô
+ñ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java° °(+
+%18$net.sourceforge.docfetcher.enums.Img"__id*
+""Á‰
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java° °(
+%19"Jnet.sourceforge.docfetcher.enums.Img#get()Lorg/eclipse/swt/graphics/Image;*-
++
+%18$net.sourceforge.docfetcher.enums.Img2get()ô
+ñ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java° °("+
+%20$net.sourceforge.docfetcher.enums.Msg"__id*
+""ÎË
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java° °((
+%21java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%20$net.sourceforge.docfetcher.enums.Msg2get()Ÿ÷
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java†% †(/?
+%228Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$11342;"8Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$11342;∏
+µ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java†! ¶(
+%23"jnet.sourceforge.docfetcher.util.gui.MenuAction#<init>(Lorg/eclipse/swt/graphics/Image;Ljava/lang/String;)V*A
+?
+%228Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$11342;*
+
+%19*
+
+%21java.lang.String‹Ÿ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java† ¶(
+%24"ãnet.sourceforge.docfetcher.util.gui.ContextMenuManager#add(Lorg/eclipse/swt/widgets/Menu;Lnet/sourceforge/docfetcher/util/gui/MenuAction;)V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager*
+""*A
+?
+%228Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$11342;2Sadd(Lorg/eclipse/swt/widgets/Menu;Lnet/sourceforge/docfetcher/util/gui/MenuAction;)ô
+ñ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java© ©(+
+%25$net.sourceforge.docfetcher.enums.Img"__id*
+""Á‰
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java© ©(
+%26"Jnet.sourceforge.docfetcher.enums.Img#get()Lorg/eclipse/swt/graphics/Image;*-
++
+%25$net.sourceforge.docfetcher.enums.Img2get()ô
+ñ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java© ©($+
+%27$net.sourceforge.docfetcher.enums.Msg"__id*
+""ÎË
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java© ©(*
+%28java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%27$net.sourceforge.docfetcher.enums.Msg2get()Ÿ÷
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java®% ®(/?
+%298Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$11573;"8Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$11573;∏
+µ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java®! Æ(
+%30"jnet.sourceforge.docfetcher.util.gui.MenuAction#<init>(Lorg/eclipse/swt/graphics/Image;Ljava/lang/String;)V*A
+?
+%298Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$11573;*
+
+%26*
+
+%28java.lang.String‹Ÿ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java® Æ(
+%31"ãnet.sourceforge.docfetcher.util.gui.ContextMenuManager#add(Lorg/eclipse/swt/widgets/Menu;Lnet/sourceforge/docfetcher/util/gui/MenuAction;)V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager*
+""*A
+?
+%298Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$11573;2Sadd(Lorg/eclipse/swt/widgets/Menu;Lnet/sourceforge/docfetcher/util/gui/MenuAction;){
+y
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java∞ ∞(+
+%32boolean"__id*
+""*
+13
+14*¸
+
+16Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaê: ê(>‘—
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaê' ê(9<
+%06net.sourceforge.docfetcher.util.gui.ContextMenuManager"6net.sourceforge.docfetcher.util.gui.ContextMenuManagerè
+å
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaê# ê(?
+%1"anet.sourceforge.docfetcher.util.gui.ContextMenuManager#<init>(Lorg/eclipse/swt/widgets/Control;)V*>
+<
+%06net.sourceforge.docfetcher.util.gui.ContextMenuManager*
+""Î
+Ë
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaê ê(@E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager"__id*>
+<
+%06net.sourceforge.docfetcher.util.gui.ContextMenuManager•
+¢
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaí í(7
+%21net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""•
+¢
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaí í()7
+%31net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""ÈÊ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaí í(/
+%4boolean"8net.sourceforge.docfetcher.enums.ProgramConf$Bool#get()Z*9
+7
+%31net.sourceforge.docfetcher.enums.ProgramConf$Bool2get()*
+15
+11*w
+0 "p
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaØ Ø(
+implicit return*Í;
+1Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java∏ ∏(†ù
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java∏ ∏(&
+%92void"Pnet.sourceforge.docfetcher.util.gui.ContextMenuManager#addSeparatorIfNonEmpty()V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager2addSeparatorIfNonEmpty()˜Ù
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÀ À($N
+%93GLnet/sourceforge/docfetcher/gui/filter/IndexPanel$16322$CheckAllAction;"GLnet/sourceforge/docfetcher/gui/filter/IndexPanel$16322$CheckAllAction;Œ
+À
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÀ À(*
+%94"null#<init>(Z)V*P
+N
+%93GLnet/sourceforge/docfetcher/gui/filter/IndexPanel$16322$CheckAllAction;*2¨©
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÀ À(+
+%95void"mnet.sourceforge.docfetcher.util.gui.ContextMenuManager#add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager*P
+N
+%93GLnet/sourceforge/docfetcher/gui/filter/IndexPanel$16322$CheckAllAction;25add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)˜Ù
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÃ Ã($N
+%96GLnet/sourceforge/docfetcher/gui/filter/IndexPanel$16322$CheckAllAction;"GLnet/sourceforge/docfetcher/gui/filter/IndexPanel$16322$CheckAllAction;Ã
+…
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÃ Ã(+
+%97"null#<init>(Z)V*P
+N
+%96GLnet/sourceforge/docfetcher/gui/filter/IndexPanel$16322$CheckAllAction;*2 ¨©
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÃ Ã(,
+%98void"mnet.sourceforge.docfetcher.util.gui.ContextMenuManager#add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager*P
+N
+%96GLnet/sourceforge/docfetcher/gui/filter/IndexPanel$16322$CheckAllAction;25add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)ô
+ñ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaŒ! Œ(1+
+%99$net.sourceforge.docfetcher.enums.Msg"__id*
+""ÏÈ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaŒ! Œ(7
+%100java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%99$net.sourceforge.docfetcher.enums.Msg2get()⁄◊
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaŒ Œ( @
+%1018Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$16984;"8Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$16984;í
+è
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaŒ ·(
+%102"Jnet.sourceforge.docfetcher.util.gui.MenuAction#<init>(Ljava/lang/String;)V*B
+@
+%1018Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$16984;*
+
+%100java.lang.Stringüú
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaŒ ·(
+%103void"mnet.sourceforge.docfetcher.util.gui.ContextMenuManager#add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager*B
+@
+%1018Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$16984;25add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)çä
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java„ „(
+%104void"Fnet.sourceforge.docfetcher.util.gui.ContextMenuManager#addSeparator()V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager2addSeparator()ö
+ó
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÂ! Â(0,
+%105$net.sourceforge.docfetcher.enums.Msg"__id*
+""ÌÍ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÂ! Â(6
+%106java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*.
+,
+%105$net.sourceforge.docfetcher.enums.Msg2get()⁄◊
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÂ Â( @
+%1078Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$17606;"8Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$17606;í
+è
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÂ ˇ(
+%108"Jnet.sourceforge.docfetcher.util.gui.MenuAction#<init>(Ljava/lang/String;)V*B
+@
+%1078Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$17606;*
+
+%106java.lang.Stringüú
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÂ ˇ(
+%109void"mnet.sourceforge.docfetcher.util.gui.ContextMenuManager#add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager*B
+@
+%1078Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$17606;25add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)ö
+ó
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÅ! Å(.,
+%110$net.sourceforge.docfetcher.enums.Msg"__id*
+""ÌÍ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÅ! Å(4
+%111java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*.
+,
+%110$net.sourceforge.docfetcher.enums.Msg2get()⁄◊
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÅ Å( @
+%1128Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$18484;"8Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$18484;í
+è
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÅ å(
+%113"Jnet.sourceforge.docfetcher.util.gui.MenuAction#<init>(Ljava/lang/String;)V*B
+@
+%1128Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$18484;*
+
+%111java.lang.Stringüú
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÅ å(
+%114void"mnet.sourceforge.docfetcher.util.gui.ContextMenuManager#add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager*B
+@
+%1128Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$18484;25add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)¿Ω
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaì! ì()3
+%115+net.sourceforge.docfetcher.model.ViewNode[]"+net.sourceforge.docfetcher.model.ViewNode[]µ
+≤
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaì! ì()
+%116"
+__arraySet*5
+3
+%115+net.sourceforge.docfetcher.model.ViewNode[]*2 *
+""◊
+‘
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaì ì(*:
+clickedNode+net.sourceforge.docfetcher.model.ViewNode[]"__id*5
+3
+%115+net.sourceforge.docfetcher.model.ViewNode[]⁄◊
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaî4 î(O@
+%1178Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$19159;"8Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$19159;‰
+·
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaî0 †(
+%118"8net.sourceforge.docfetcher.util.Event$Listener#<init>()V*B
+@
+%1178Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$19159;Â
+‚
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaî †(;
+	menuHider.net.sourceforge.docfetcher.util.Event$Listener"__id*B
+@
+%1178Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$19159;*
+0*å
+2Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaï ï(†ù
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaï ï('
+%80void"Pnet.sourceforge.docfetcher.util.gui.ContextMenuManager#addSeparatorIfNonEmpty()V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager2addSeparatorIfNonEmpty()ô
+ñ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaó& ó(6+
+%81$net.sourceforge.docfetcher.enums.Msg"__id*
+""ÎË
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaó& ó(<
+%82java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%81$net.sourceforge.docfetcher.enums.Msg2get()Ÿ÷
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaó ó(%?
+%838Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$15098;"8Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$15098;è
+å
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaó °(
+%84"Jnet.sourceforge.docfetcher.util.gui.MenuAction#<init>(Ljava/lang/String;)V*A
+?
+%838Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$15098;*
+
+%82java.lang.StringÚ
+Ô
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaó °(I2
+0net.sourceforge.docfetcher.gui.filter.IndexPanel"
+removeIndexAction"__id*A
+?
+%838Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$15098;Ë
+Â
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java¢ ¢($5
+%85.net.sourceforge.docfetcher.util.gui.MenuAction"__id*K*I2
+0net.sourceforge.docfetcher.gui.filter.IndexPanel"
+removeIndexActionìê
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java¢ ¢(%
+%86void"mnet.sourceforge.docfetcher.util.gui.ContextMenuManager#add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager*7
+5
+%85.net.sourceforge.docfetcher.util.gui.MenuAction25add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)ô
+ñ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java§" §(=+
+%87$net.sourceforge.docfetcher.enums.Msg"__id*
+""ÎË
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java§" §(C
+%88java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%87$net.sourceforge.docfetcher.enums.Msg2get()Ÿ÷
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java§ §(!?
+%898Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$15556;"8Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$15556;è
+å
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java§ µ(
+%90"Jnet.sourceforge.docfetcher.util.gui.MenuAction#<init>(Ljava/lang/String;)V*A
+?
+%898Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$15556;*
+
+%88java.lang.Stringùö
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java§ µ(
+%91void"mnet.sourceforge.docfetcher.util.gui.ContextMenuManager#add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager*A
+?
+%898Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$15556;25add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)*
+1*¶
+3Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaî î(¶
+£
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaî î(8
+%771net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""¶
+£
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaî î()8
+%781net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""ÎË
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaî î(/
+%79boolean"8net.sourceforge.docfetcher.enums.ProgramConf$Bool#get()Z*:
+8
+%781net.sourceforge.docfetcher.enums.ProgramConf$Bool2get()*
+2
+1*á
+4Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaê ê(†ù
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaê ê('
+%74void"Pnet.sourceforge.docfetcher.util.gui.ContextMenuManager#addSeparatorIfNonEmpty()V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager2addSeparatorIfNonEmpty()Ë
+Â
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaë ë($5
+%75.net.sourceforge.docfetcher.util.gui.MenuAction"__id*K*I2
+0net.sourceforge.docfetcher.gui.filter.IndexPanel"
+renameIndexActionìê
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaë ë(%
+%76void"mnet.sourceforge.docfetcher.util.gui.ContextMenuManager#add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager*7
+5
+%75.net.sourceforge.docfetcher.util.gui.MenuAction25add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)*
+3*±
+5Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaé, é(/ô
+ñ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaé, é(D+
+%67$net.sourceforge.docfetcher.enums.Msg"__id*
+""ÎË
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaé, é(J
+%68java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%67$net.sourceforge.docfetcher.enums.Msg2get()˝˙
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaé é(+Q
+%69JLnet/sourceforge/docfetcher/gui/filter/IndexPanel$12108$RenameIndexAction;"JLnet/sourceforge/docfetcher/gui/filter/IndexPanel$12108$RenameIndexAction;˜
+Ù
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaé é(K
+%70" null#<init>(Ljava/lang/String;)V*S
+Q
+%69JLnet/sourceforge/docfetcher/gui/filter/IndexPanel$12108$RenameIndexAction;*
+
+%68java.lang.StringÑ
+Å
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaé é(KI2
+0net.sourceforge.docfetcher.gui.filter.IndexPanel"
+renameIndexAction"__id*S
+Q
+%69JLnet/sourceforge/docfetcher/gui/filter/IndexPanel$12108$RenameIndexAction;¶
+£
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaè è(8
+%711net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""¶
+£
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaè è()8
+%721net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""ÎË
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaè è(/
+%73boolean"8net.sourceforge.docfetcher.enums.ProgramConf$Bool#get()Z*:
+8
+%721net.sourceforge.docfetcher.enums.ProgramConf$Bool2get()*
+3
+4*Æ
+6Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaã ã(ô
+ñ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaã. ã(?+
+%62$net.sourceforge.docfetcher.enums.Msg"__id*
+""ÎË
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaã. ã(E
+%63java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%62$net.sourceforge.docfetcher.enums.Msg2get()ÖÇ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaã ã(-U
+%64NLnet/sourceforge/docfetcher/gui/filter/IndexPanel$13064$UpdateOrRebuildAction;"NLnet/sourceforge/docfetcher/gui/filter/IndexPanel$13064$UpdateOrRebuildAction;Ä
+˝
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaã ã(M
+%65"!null#<init>(Ljava/lang/String;Z)V*W
+U
+%64NLnet/sourceforge/docfetcher/gui/filter/IndexPanel$13064$UpdateOrRebuildAction;*
+
+%63java.lang.String*2 ≥∞
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaã ã(N
+%66void"mnet.sourceforge.docfetcher.util.gui.ContextMenuManager#add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager*W
+U
+%64NLnet/sourceforge/docfetcher/gui/filter/IndexPanel$13064$UpdateOrRebuildAction;25add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)*
+5*¶
+7Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaä ä(¶
+£
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaä ä(8
+%591net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""¶
+£
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaä ä()8
+%601net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""ÎË
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaä ä(/
+%61boolean"8net.sourceforge.docfetcher.enums.ProgramConf$Bool#get()Z*:
+8
+%601net.sourceforge.docfetcher.enums.ProgramConf$Bool2get()*
+5
+6*‰
+8Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaâ â(Ë
+Â
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaâ â(%5
+%57.net.sourceforge.docfetcher.util.gui.MenuAction"__id*K*I2
+0net.sourceforge.docfetcher.gui.filter.IndexPanel"
+updateIndexActionìê
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaâ â(&
+%58void"mnet.sourceforge.docfetcher.util.gui.ContextMenuManager#add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager*7
+5
+%57.net.sourceforge.docfetcher.util.gui.MenuAction25add(Lnet/sourceforge/docfetcher/util/gui/MenuAction;)*
+7*Î
+9Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÖ Ö(†ù
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÖ Ö('
+%49void"Pnet.sourceforge.docfetcher.util.gui.ContextMenuManager#addSeparatorIfNonEmpty()V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager2addSeparatorIfNonEmpty()ô
+ñ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaá1 á(A+
+%50$net.sourceforge.docfetcher.enums.Msg"__id*
+""ÎË
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaá1 á(G
+%51java.lang.String"<net.sourceforge.docfetcher.enums.Msg#get()Ljava/lang/String;*-
++
+%50$net.sourceforge.docfetcher.enums.Msg2get()ÖÇ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaá á(0U
+%52NLnet/sourceforge/docfetcher/gui/filter/IndexPanel$13064$UpdateOrRebuildAction;"NLnet/sourceforge/docfetcher/gui/filter/IndexPanel$13064$UpdateOrRebuildAction;Ç
+ˇ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaá á(N
+%53"!null#<init>(Ljava/lang/String;Z)V*W
+U
+%52NLnet/sourceforge/docfetcher/gui/filter/IndexPanel$13064$UpdateOrRebuildAction;*
+
+%51java.lang.String*2à
+Ö
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaá á(NI2
+0net.sourceforge.docfetcher.gui.filter.IndexPanel"
+updateIndexAction"__id*W
+U
+%52NLnet/sourceforge/docfetcher/gui/filter/IndexPanel$13064$UpdateOrRebuildAction;¶
+£
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaà à(8
+%541net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""¶
+£
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaà à((8
+%551net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""ÎË
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaà à(.
+%56boolean"8net.sourceforge.docfetcher.enums.ProgramConf$Bool#get()Z*:
+8
+%551net.sourceforge.docfetcher.enums.ProgramConf$Bool2get()*
+7
+8*ß
+10Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÑ1 Ñ(<¶
+£
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÑ1 Ñ(A8
+%461net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""¶
+£
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÑ1 Ñ(S8
+%471net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""ÎË
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÑ1 Ñ(Y
+%48boolean"8net.sourceforge.docfetcher.enums.ProgramConf$Bool#get()Z*:
+8
+%471net.sourceforge.docfetcher.enums.ProgramConf$Bool2get()*
+5
+9*®
+11Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaº €(¶
+£
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÑ Ñ(8
+%431net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""¶
+£
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÑ Ñ('8
+%441net.sourceforge.docfetcher.enums.ProgramConf$Bool"__id*
+""ÎË
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÑ Ñ(-
+%45boolean"8net.sourceforge.docfetcher.enums.ProgramConf$Bool#get()Z*:
+8
+%441net.sourceforge.docfetcher.enums.ProgramConf$Bool2get()*
+9
+10*í
+12Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java∞ ≤(£
+†
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java∞ ≤("
+clipboardLabeljava.lang.String"__id*
+
+%33java.lang.Stringô
+ñ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java¥ ¥(+
+%38$net.sourceforge.docfetcher.enums.Img"__id*
+""Á‰
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java¥ ¥(
+%39"Jnet.sourceforge.docfetcher.enums.Img#get()Lorg/eclipse/swt/graphics/Image;*-
++
+%38$net.sourceforge.docfetcher.enums.Img2get()Ÿ÷
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java≥% ≥(/?
+%408Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$11908;"8Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$11908;√
+¿
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java≥! π(
+%41"jnet.sourceforge.docfetcher.util.gui.MenuAction#<init>(Lorg/eclipse/swt/graphics/Image;Ljava/lang/String;)V*A
+?
+%408Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$11908;*
+
+%39*$
+"
+clipboardLabeljava.lang.String‹Ÿ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java≥ π(
+%42"ãnet.sourceforge.docfetcher.util.gui.ContextMenuManager#add(Lorg/eclipse/swt/widgets/Menu;Lnet/sourceforge/docfetcher/util/gui/MenuAction;)V*G
+E
+menuManager6net.sourceforge.docfetcher.util.gui.ContextMenuManager*
+""*A
+?
+%408Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$11908;2Sadd(Lorg/eclipse/swt/widgets/Menu;Lnet/sourceforge/docfetcher/util/gui/MenuAction;)*
+11B42
+0net.sourceforge.docfetcher.gui.filter.IndexPanel

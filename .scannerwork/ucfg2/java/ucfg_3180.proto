@@ -1,0 +1,79 @@
+
+Ÿorg.apache.tika.language.translate.DefaultTranslator$1#compare(Lorg/apache/tika/language/translate/Translator;Lorg/apache/tika/language/translate/Translator;)I[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java7 7("5*Ç
+2[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java? ?("e
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java? ?(
+""*¹
+4[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java= =(ïì
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java= =(+	
+%6int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+n1java.lang.String*
+
+n2java.lang.String2compareTo(Ljava/lang/String;)"e
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java= =(,
+""*÷
+5[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java8 8(èå
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java8 8()
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+3
+t1-org.apache.tika.language.translate.Translator2
+getClass()ÉÆ
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java8 8(3
+%1java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+
+%0java.lang.Class2	getName()˜
+•
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java8 8(4
+n1java.lang.String"__id*
+
+%1java.lang.Stringèå
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java9 9()
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+3
+t2-org.apache.tika.language.translate.Translator2
+getClass()ÉÆ
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java9 9(3
+%3java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+
+%2java.lang.Class2	getName()˜
+•
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java9 9(4
+n2java.lang.String"__id*
+
+%3java.lang.Stringñî
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java:  :(A
+%4boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+n1java.lang.String*
+org.apache.tika.2startsWith(Ljava/lang/String;)ñî
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.java;  ;(A
+%5boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+n2java.lang.String*
+org.apache.tika.2startsWith(Ljava/lang/String;)*	
+2
+4
+1*Ç
+1[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaA A("e
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaA A(
+"":3
+t1-org.apache.tika.language.translate.Translator:3
+t2-org.apache.tika.language.translate.TranslatorB:8
+6org.apache.tika.language.translate.DefaultTranslator$1

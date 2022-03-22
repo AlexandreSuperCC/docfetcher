@@ -1,0 +1,20 @@
+
+Fnet.sourceforge.docfetcher.model.TreeNode#toString()Ljava/lang/String;P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaP P("1*Í
+1P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaQ	 Q(˜•
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaQ	 Q(+
+%0%net.sourceforge.docfetcher.model.Path"Znet.sourceforge.docfetcher.model.TreeNode#getPath()Lnet/sourceforge/docfetcher/model/Path;*-+
+)net.sourceforge.docfetcher.model.TreeNode2	getPath()ìé
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaQ	 Q(
+%1java.lang.String"Bnet.sourceforge.docfetcher.model.Path#toString()Ljava/lang/String;*-
++
+%0%net.sourceforge.docfetcher.model.Path2
+toString()"l
+P
+FD:/git_project/code/src/net/sourceforge/docfetcher/model/TreeNode.javaQ Q(
+
+%1java.lang.StringB-+
+)net.sourceforge.docfetcher.model.TreeNode

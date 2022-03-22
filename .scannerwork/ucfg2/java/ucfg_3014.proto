@@ -1,0 +1,48 @@
+
+Nnet.sourceforge.docfetcher.util.AppUtil#showConfirmation(Ljava/lang/String;Z)ZP
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaÚ Ú('"1*ç
+1P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaÛ Û(–
+Õ
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaÛ Û(
+
+%0void"@net.sourceforge.docfetcher.util.AppUtil#checkConstInitialized()V*+")
+'net.sourceforge.docfetcher.util.AppUtil»
+≈
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaÙ Ù(
+
+%1void"8net.sourceforge.docfetcher.util.AppUtil#ensureDisplay()V*+")
+'net.sourceforge.docfetcher.util.AppUtil”–
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaÄ Ä((@
+%2:Lnet/sourceforge/docfetcher/util/AppUtil$12659$MyRunnable;":Lnet/sourceforge/docfetcher/util/AppUtil$12659$MyRunnable;Ø
+¨
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaÄ Ä(*
+%3"null#<init>()V*B
+@
+%2:Lnet/sourceforge/docfetcher/util/AppUtil$12659$MyRunnable;È
+Ê
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaÄ Ä(+H
+
+myRunnable:Lnet/sourceforge/docfetcher/util/AppUtil$12659$MyRunnable;"__id*B
+@
+%2:Lnet/sourceforge/docfetcher/util/AppUtil$12659$MyRunnable;«
+ƒ
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaÅ Å()
+%4"inet.sourceforge.docfetcher.util.UtilGui#runSwtSafe(Lorg/eclipse/swt/widgets/Widget;Ljava/lang/Runnable;)Z*+")
+'net.sourceforge.docfetcher.util.UtilGui*
+""*J
+H
+
+myRunnable:Lnet/sourceforge/docfetcher/util/AppUtil$12659$MyRunnable;"Z
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/util/AppUtil.javaÇ Ç(
+"":
+messagejava.lang.String:
+""B+")
+'net.sourceforge.docfetcher.util.AppUtil

@@ -1,0 +1,52 @@
+
+ùorg.apache.tika.language.translate.DefaultTranslator#getFirstAvailable(Lorg/apache/tika/config/ServiceLoader;)Lorg/apache/tika/language/translate/Translator;[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaJ J(/"5*–
+2[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaK K(¢
+ü
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaK K(2
+t-org.apache.tika.language.translate.Translator"__id*
+""¿
+Ω
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaK K(2
+t-org.apache.tika.language.translate.Translator"
+__arrayGet*
+
+%0java.util.List*
+""*
+4
+1*ˆ
+3[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaL( L()"ì
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaL! L(*4
+2
+t-org.apache.tika.language.translate.Translator*›
+4[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaL L(ÚÔ
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaL L(
+%1boolean"<org.apache.tika.language.translate.Translator#isAvailable()Z*4
+2
+t-org.apache.tika.language.translate.Translator2isAvailable()*
+2
+3*œ
+5[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaK K(1Á
+‰
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaK K(9
+%0java.util.List"Çorg.apache.tika.language.translate.DefaultTranslator#getDefaultTranslators(Lorg/apache/tika/config/ServiceLoader;)Ljava/util/List;*8"6
+4org.apache.tika.language.translate.DefaultTranslator*0
+.
+loader$org.apache.tika.config.ServiceLoader*
+2*«
+1[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaN N("e
+[
+QD:/git_project/code/src/org/apache/tika/language/translate/DefaultTranslator.javaN N(
+"":.
+loader$org.apache.tika.config.ServiceLoaderB8"6
+4org.apache.tika.language.translate.DefaultTranslator

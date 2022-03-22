@@ -1,0 +1,23 @@
+
+Znet.sourceforge.docfetcher.model.IndexLoadingProblems#getOverflowIndexes()Ljava/util/List;\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexLoadingProblems.java: :(."1* 
+1\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexLoadingProblems.java;	 ;(Í
+Ê
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexLoadingProblems.java;& ;(5
+%0java.util.List"__id*N*L7
+5net.sourceforge.docfetcher.model.IndexLoadingProblems"
+overflowIndexesô
+ñ
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexLoadingProblems.java;	 ;(6
+%1java.util.List"Hjava.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;*"
+java.util.Collections*
+
+%0java.util.List"v
+\
+RD:/git_project/code/src/net/sourceforge/docfetcher/model/IndexLoadingProblems.java; ;(7
+
+%1java.util.ListB97
+5net.sourceforge.docfetcher.model.IndexLoadingProblems

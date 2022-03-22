@@ -1,0 +1,21 @@
+
+Onet.sourceforge.docfetcher.util.collect.MemoryList#toArray()[Ljava/lang/Object;Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/MemoryList.javam m("1*ó
+1Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/MemoryList.javan	 n(Â
+¿
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/MemoryList.javan	 n(
+%0java.util.LinkedList"__id*@*>4
+2net.sourceforge.docfetcher.util.collect.MemoryList"
+listÔÑ
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/MemoryList.javan	 n(
+%1java.lang.Object[]"1java.util.LinkedList#toArray()[Ljava/lang/Object;*
+
+%0java.util.LinkedList2	toArray()"w
+Y
+OD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/MemoryList.javan n(
+
+%1java.lang.Object[]B64
+2net.sourceforge.docfetcher.util.collect.MemoryList

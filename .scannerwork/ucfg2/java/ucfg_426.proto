@@ -1,0 +1,23 @@
+
+Knet.sourceforge.docfetcher.util.gui.viewer.PagedTableViewer#getPageIndex()Id
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/PagedTableViewer.java¾ ¾("2"1*ñ
+2d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/PagedTableViewer.java¿ ¿($Ñ
+Î
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/PagedTableViewer.java¿' ¿(,
+%0java.util.List"__id*J*H=
+;net.sourceforge.docfetcher.util.gui.viewer.PagedTableViewer"
+pages¬©
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/PagedTableViewer.java¿' ¿(3	
+%1int"java.util.List#size()I*
+
+%0java.util.List2size()*
+1*Ù
+1d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/PagedTableViewer.java¿ ¿(4"n
+d
+XD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/viewer/PagedTableViewer.javaÀ À(
+""B?=
+;net.sourceforge.docfetcher.util.gui.viewer.PagedTableViewer

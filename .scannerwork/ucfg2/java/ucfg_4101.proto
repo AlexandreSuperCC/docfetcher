@@ -1,0 +1,65 @@
+
+jnet.sourceforge.docfetcher.model.parse.MediaType$Col#application(Ljava/lang/String;)Ljava/util/Collection;W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java'# '(."startingBlock*ð
+startingBlockW
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java'. '(GÌ
+É
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java% %(
+%2"
+__annotate*=;
+9net.sourceforge.docfetcher.util.annotations.ImmutableCopy*
+
+subTypejava.lang.StringÆ
+Ã
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java& &(
+
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+subTypejava.lang.StringÆ
+Ã
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java'/ '(7
+%4"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+subTypejava.lang.StringŸ
+œ
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java'? '(F
+subTypejava.lang.String"__annotation*
+
+%2*
+
+%3*
+
+%4*
+1*ë
+1W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java(
+ ((­
+ª
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java(  ((>
+%0java.lang.String"bnet.sourceforge.docfetcher.model.parse.MediaType#application(Ljava/lang/String;)Ljava/lang/String;*4"2
+0net.sourceforge.docfetcher.model.parse.MediaType*
+
+subTypejava.lang.Stringê
+ç
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java(
+ ((?
+%1java.util.Set"Bjava.util.Collections#singleton(Ljava/lang/Object;)Ljava/util/Set;*"
+java.util.Collections*
+
+%0java.lang.String"p
+W
+MD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/MediaType.java( ((@
+
+%1java.util.Set:
+subTypejava.lang.StringB8"6
+4net.sourceforge.docfetcher.model.parse.MediaType$Col

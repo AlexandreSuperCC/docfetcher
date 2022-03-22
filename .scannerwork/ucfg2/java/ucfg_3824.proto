@@ -1,0 +1,187 @@
+
+^net.sourceforge.docfetcher.gui.preview.AppendingStyledTextContent#getLine(I)Ljava/lang/String;h
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javax x("11*á
+2j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaä ä(Ë
+Â
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaä ä(
+%14java.lang.StringBuilder"__id*Q*OC
+Anet.sourceforge.docfetcher.gui.preview.AppendingStyledTextContent"
+buffer†ù
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaä ä(+
+%15java.lang.String"?java.lang.AbstractStringBuilder#substring(II)Ljava/lang/String;* 
+
+%14java.lang.StringBuilder*
+
+startjava.lang.Integer*
+""2substring(II)"á
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaä ä(,
+
+%15java.lang.String*á
+4j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaá á(Ë
+Â
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaá á(
+%12java.lang.StringBuilder"__id*Q*OC
+Anet.sourceforge.docfetcher.gui.preview.AppendingStyledTextContent"
+buffer†ù
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaá á(+
+%13java.lang.String"?java.lang.AbstractStringBuilder#substring(II)Ljava/lang/String;* 
+
+%12java.lang.StringBuilder*
+
+startjava.lang.Integer*
+""2substring(II)"á
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaá á(,
+
+%13java.lang.String*á
+5j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaÖ Ö(Ë
+Â
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaÖ Ö(
+%10java.lang.StringBuilder"__id*Q*OC
+Anet.sourceforge.docfetcher.gui.preview.AppendingStyledTextContent"
+buffer†ù
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaÖ Ö(-
+%11java.lang.String"?java.lang.AbstractStringBuilder#substring(II)Ljava/lang/String;* 
+
+%10java.lang.StringBuilder*
+
+startjava.lang.Integer*
+""2substring(II)"á
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaÖ Ö(.
+
+%11java.lang.String*ø
+6j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaÉ É(Á
+‰
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaÉ É(
+%8java.lang.StringBuilder"__id*Q*OC
+Anet.sourceforge.docfetcher.gui.preview.AppendingStyledTextContent"
+buffer€ÿ
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaÉ É(%
+
+%9char"*java.lang.AbstractStringBuilder#charAt(I)C*
+
+%8java.lang.StringBuilder*
+""2	charAt(I)*
+4
+5*≈
+8j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaÄ Ä(Á
+‰
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaÄ Ä(
+%6java.lang.StringBuilder"__id*Q*OC
+Anet.sourceforge.docfetcher.gui.preview.AppendingStyledTextContent"
+buffer€ÿ
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaÄ Ä(#
+
+%7char"*java.lang.AbstractStringBuilder#charAt(I)C*
+
+%6java.lang.StringBuilder*
+""2	charAt(I)*
+2
+4
+6
+1*Ã
+10h
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.java|	 |(Â
+‚
+h
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.java|	 |(
+%4java.lang.StringBuilder"__id*Q*OC
+Anet.sourceforge.docfetcher.gui.preview.AppendingStyledTextContent"
+bufferŒÀ
+h
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.java|	 |(	
+%5int")java.lang.AbstractStringBuilder#length()I*
+
+%4java.lang.StringBuilder2length()ö
+ó
+h
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.java| |(
+endjava.lang.Integer"__id*
+	
+%5int*
+8
+1*˛	
+11h
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javay y(·
+ﬁ
+h
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javay y(
+%0java.util.Map"__id*W*UC
+Anet.sourceforge.docfetcher.gui.preview.AppendingStyledTextContent"
+lineToOffsetØ
+¨
+h
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javay y(-
+%1java.lang.Integer"__mapGet*
+
+%0java.util.Map*
+""™
+ß
+h
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javay y(.
+startjava.lang.Integer"__id*
+
+%1java.lang.Integer·
+ﬁ
+h
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaz z(
+%2java.util.Map"__id*W*UC
+Anet.sourceforge.docfetcher.gui.preview.AppendingStyledTextContent"
+lineToOffsetØ
+¨
+h
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaz z(/
+%3java.lang.Integer"__mapGet*
+
+%2java.util.Map*
+""®
+•
+h
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaz z(0
+endjava.lang.Integer"__id*
+
+%3java.lang.Integer*
+
+8
+10
+1*õ
+1j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaç	 ç(Ë
+Â
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaç	 ç(
+%16java.lang.StringBuilder"__id*Q*OC
+Anet.sourceforge.docfetcher.gui.preview.AppendingStyledTextContent"
+buffer¥±
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaç	 ç(%
+%17java.lang.String"?java.lang.AbstractStringBuilder#substring(II)Ljava/lang/String;* 
+
+%16java.lang.StringBuilder*
+
+startjava.lang.Integer*
+
+endjava.lang.Integer2substring(II)"á
+j
+^D:/git_project/code/src/net/sourceforge/docfetcher/gui/preview/AppendingStyledTextContent.javaç ç(&
+
+%17java.lang.String:
+""BEC
+Anet.sourceforge.docfetcher.gui.preview.AppendingStyledTextContent

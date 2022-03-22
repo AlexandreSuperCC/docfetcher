@@ -1,0 +1,99 @@
+
+€net.contentobjects.jnotify.win32.JNotifyAdapterWin32#addWatch(Ljava/lang/String;IZLnet/contentobjects/jnotify/JNotifyListener;)I[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.java; ;("1*ã
+1[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.java? ?(x
+v
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.java?( ?(Q	
+%0int"__id*
+""x
+v
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.java@ @(/	
+%1int"__id*
+""x
+v
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaA A(2	
+%2int"__id*
+""x
+v
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaB B(1	
+%3int"__id*
+""x
+v
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaC C(+	
+%4int"__id*
+""x
+v
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaD D(1	
+%5int"__id*
+""x
+v
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaE E(/	
+%6int"__id*
+""x
+v
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaF F(0	
+%7int"__id*
+""›
+˜
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.java? F(?	
+%8int"Nnet.contentobjects.jnotify.win32.JNotify_win32#addWatch(Ljava/lang/String;JZ)I*2"0
+.net.contentobjects.jnotify.win32.JNotify_win32*
+
+pathjava.lang.String*
+""*
+""É
+Æ
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaG G(
+
+%9java.util.Hashtable"__id*F*D6
+4net.contentobjects.jnotify.win32.JNotifyAdapterWin32"
+
+_id2DataÊ
+Ç
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaG G("
+%10java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*"
+java.lang.Integer*
+""çä
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaG( G(1E
+%11>net.contentobjects.jnotify.win32.JNotifyAdapterWin32$WatchData">net.contentobjects.jnotify.win32.JNotifyAdapterWin32$WatchDataò
+ï
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaG$ G(E
+%12"vnet.contentobjects.jnotify.win32.JNotifyAdapterWin32$WatchData#<init>(IILnet/contentobjects/jnotify/JNotifyListener;)V*G
+E
+%11>net.contentobjects.jnotify.win32.JNotifyAdapterWin32$WatchData*
+""*
+""*8
+6
+listener*net.contentobjects.jnotify.JNotifyListener³
+°
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaG G(FE
+%13>net.contentobjects.jnotify.win32.JNotifyAdapterWin32$WatchData"__mapSet*
+
+%9java.util.Hashtable*
+
+%10java.lang.Integer*G
+E
+%11>net.contentobjects.jnotify.win32.JNotifyAdapterWin32$WatchData"e
+[
+QD:/git_project/code/src/net/contentobjects/jnotify/win32/JNotifyAdapterWin32.javaH H(
+"":
+pathjava.lang.String:
+"":
+"":6
+listener*net.contentobjects.jnotify.JNotifyListenerB86
+4net.contentobjects.jnotify.win32.JNotifyAdapterWin32

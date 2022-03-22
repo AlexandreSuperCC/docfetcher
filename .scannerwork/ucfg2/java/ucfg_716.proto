@@ -1,0 +1,70 @@
+
+dorg.apache.tika.parser.odf.NSNormalizerContentHandler#mapOldNS(Ljava/lang/String;)Ljava/lang/String;\
+RD:/git_project/code/src/org/apache/tika/parser/odf/NSNormalizerContentHandler.java3 3("3"1*ä	
+2\
+RD:/git_project/code/src/org/apache/tika/parser/odf/NSNormalizerContentHandler.java5 5(‡
+„
+\
+RD:/git_project/code/src/org/apache/tika/parser/odf/NSNormalizerContentHandler.java5 5(
+%2java.lang.String"__id*
+""‡
+„
+\
+RD:/git_project/code/src/org/apache/tika/parser/odf/NSNormalizerContentHandler.java5) 5(/
+%3java.lang.String"__id*
+""¬©
+\
+RD:/git_project/code/src/org/apache/tika/parser/odf/NSNormalizerContentHandler.java5) 5(8	
+%4int"java.lang.String#length()I*
+
+%3java.lang.String2length()ßÜ
+\
+RD:/git_project/code/src/org/apache/tika/parser/odf/NSNormalizerContentHandler.java5 5(9
+%5java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*
+
+nsjava.lang.String*
+	
+%4int2substring(I)·
+´
+\
+RD:/git_project/code/src/org/apache/tika/parser/odf/NSNormalizerContentHandler.java5 5(9
+%6java.lang.String"__concat*
+
+%2java.lang.String*
+
+%5java.lang.String§
+¤
+\
+RD:/git_project/code/src/org/apache/tika/parser/odf/NSNormalizerContentHandler.java5 5(B
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+:1.0"x
+\
+RD:/git_project/code/src/org/apache/tika/parser/odf/NSNormalizerContentHandler.java5 5(C
+
+%7java.lang.String*ì
+3\
+RD:/git_project/code/src/org/apache/tika/parser/odf/NSNormalizerContentHandler.java4 4(‡
+„
+\
+RD:/git_project/code/src/org/apache/tika/parser/odf/NSNormalizerContentHandler.java4( 4(.
+%0java.lang.String"__id*
+""öó
+\
+RD:/git_project/code/src/org/apache/tika/parser/odf/NSNormalizerContentHandler.java4 4(/
+%1boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+nsjava.lang.String*
+
+%0java.lang.String2startsWith(Ljava/lang/String;)*
+2
+1*Û
+1\
+RD:/git_project/code/src/org/apache/tika/parser/odf/NSNormalizerContentHandler.java7 7("x
+\
+RD:/git_project/code/src/org/apache/tika/parser/odf/NSNormalizerContentHandler.java7 7(
+
+nsjava.lang.String:
+nsjava.lang.StringB97
+5org.apache.tika.parser.odf.NSNormalizerContentHandler

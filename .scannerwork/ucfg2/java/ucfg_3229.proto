@@ -1,0 +1,23 @@
+
+cnet.sourceforge.docfetcher.model.Path$FilePredicate#apply(Lnet/sourceforge/docfetcher/model/Path;)ZL
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java5 5("1*¹
+1L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java6
+ 6(òï
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java6
+ 6(!
+%0java.io.File"Fnet.sourceforge.docfetcher.model.Path#getCanonicalFile()Ljava/io/File;*/
+-
+path%net.sourceforge.docfetcher.model.Path2getCanonicalFile()˜•
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java6
+ 6(*
+%1boolean"java.io.File#isFile()Z*
+
+%0java.io.File2isFile()"V
+L
+BD:/git_project/code/src/net/sourceforge/docfetcher/model/Path.java6 6(+
+"":-
+path%net.sourceforge.docfetcher.model.PathB75
+3net.sourceforge.docfetcher.model.Path$FilePredicate

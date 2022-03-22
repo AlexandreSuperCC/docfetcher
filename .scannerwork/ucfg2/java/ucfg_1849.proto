@@ -1,0 +1,64 @@
+
+qorg.apache.tika.mime.MimeTypesReader#resolveEntity(Ljava/lang/String;Ljava/lang/String;)Lorg/xml/sax/InputSource;M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaç ç($"startingBlock*≥
+startingBlockM
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaç$ ç(Fú
+ô
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaå å(
+%4"
+__annotate*
+java.lang.Override*
+
+publicIdjava.lang.StringÜ
+É
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaç, ç(4
+publicIdjava.lang.String"__annotation*
+
+%4ú
+ô
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaå å(
+%5"
+__annotate*
+java.lang.Override*
+
+systemIdjava.lang.StringÜ
+É
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaç= ç(E
+systemIdjava.lang.String"__annotation*
+
+%5*
+1*ı
+1M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaéA é(Bîë
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaé# é(7"
+%0java.io.ByteArrayInputStream"java.io.ByteArrayInputStream∞
+≠
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaé é(D
+%1"(java.io.ByteArrayInputStream#<init>([B)V*$
+"
+%0java.io.ByteArrayInputStream*
+""äá
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaé é(
+%2org.xml.sax.InputSource"org.xml.sax.InputSource◊
+‘
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaé é(E
+%3"6org.xml.sax.InputSource#<init>(Ljava/io/InputStream;)V*
+
+%2org.xml.sax.InputSource*$
+"
+%0java.io.ByteArrayInputStream"p
+M
+AD:/git_project/code/src/org/apache/tika/mime/MimeTypesReader.javaé é(F
+
+%2org.xml.sax.InputSource:
+publicIdjava.lang.String:
+systemIdjava.lang.StringB(&
+$org.apache.tika.mime.MimeTypesReader

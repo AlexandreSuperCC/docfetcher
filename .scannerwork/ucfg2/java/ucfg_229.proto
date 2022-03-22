@@ -1,0 +1,91 @@
+
+ˆnet.sourceforge.docfetcher.model.Folder#findTreeNode(Lnet/sourceforge/docfetcher/model/Path;)Lnet/sourceforge/docfetcher/model/TreeNode;P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java× ×(#"startingBlock*Ö
+2P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÚ
+ Ú("
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÚ Ú(+)
+'net.sourceforge.docfetcher.model.Folder*ß
+3P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaØ Ø(¼
+¹
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaØ Ø(+
+%0%net.sourceforge.docfetcher.model.Path"Wnet.sourceforge.docfetcher.util.Util#checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;*("&
+$net.sourceforge.docfetcher.util.Util*5
+3
+
+targetPath%net.sourceforge.docfetcher.model.Path”‘
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÙ Ù(+
+%1%net.sourceforge.docfetcher.model.Path"Xnet.sourceforge.docfetcher.model.Folder#getPath()Lnet/sourceforge/docfetcher/model/Path;*+)
+'net.sourceforge.docfetcher.model.Folder2	getPath()©¦
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÙ Ù("
+%2boolean"Anet.sourceforge.docfetcher.model.Path#equals(Ljava/lang/Object;)Z*-
++
+%1%net.sourceforge.docfetcher.model.Path*5
+3
+
+targetPath%net.sourceforge.docfetcher.model.Path2equals(Ljava/lang/Object;)*
+2
+1*«
+startingBlockP
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java×# ×(=Ø
+Õ
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÕ Õ(
+
+%4"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*5
+3
+
+targetPath%net.sourceforge.docfetcher.model.PathÚ
+×
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÖ Ö(
+%5"
+__annotate*:8
+6net.sourceforge.docfetcher.util.annotations.ThreadSafe*5
+3
+
+targetPath%net.sourceforge.docfetcher.model.Path×
+Ô
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java×$ ×(,
+%6"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*5
+3
+
+targetPath%net.sourceforge.docfetcher.model.Path°
+­
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java×2 ×(<3
+
+targetPath%net.sourceforge.docfetcher.model.Path"__annotation*
+
+%4*
+
+%5*
+
+%6*
+3*ž
+1P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÛ	 Û(¾»
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÛ	 Û(*/
+%3)net.sourceforge.docfetcher.model.TreeNode"‘net.sourceforge.docfetcher.model.Folder#findTreeNodeUnchecked(Lnet/sourceforge/docfetcher/model/Path;)Lnet/sourceforge/docfetcher/model/TreeNode;*+)
+'net.sourceforge.docfetcher.model.Folder*5
+3
+
+targetPath%net.sourceforge.docfetcher.model.Path2>findTreeNodeUnchecked(Lnet/sourceforge/docfetcher/model/Path;)"…
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÛ Û(+1
+/
+%3)net.sourceforge.docfetcher.model.TreeNode:3
+
+targetPath%net.sourceforge.docfetcher.model.PathB+)
+'net.sourceforge.docfetcher.model.Folder

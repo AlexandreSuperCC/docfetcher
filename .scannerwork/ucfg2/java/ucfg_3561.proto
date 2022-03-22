@@ -1,0 +1,25 @@
+
+null#isEnabled()ZY
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÊ Ê("1*ç
+1Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÁ Á(Ò
+Ó
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÁ Á(A
+%0;net.sourceforge.docfetcher.util.gui.viewer.SimpleTreeViewer"__id*H*F:
+8Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$17606;"
+viewer•¢
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÁ Á(!
+%1java.util.List"Znet.sourceforge.docfetcher.util.gui.viewer.SimpleTreeViewer#getSelection()Ljava/util/List;*C
+A
+%0;net.sourceforge.docfetcher.util.gui.viewer.SimpleTreeViewer2getSelection()´®
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÁ Á(+
+%2boolean"java.util.List#isEmpty()Z*
+
+%1java.util.List2	isEmpty()"c
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaÁ Á(,
+""B<:
+8Lnet/sourceforge/docfetcher/gui/filter/IndexPanel$17606;

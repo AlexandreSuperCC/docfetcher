@@ -1,0 +1,63 @@
+
+énet.sourceforge.docfetcher.model.parse.ParseService#canParseByName(Lnet/sourceforge/docfetcher/model/index/IndexingConfig;Ljava/lang/String;)Z\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaõ õ(%"startingBlock*‹
+2\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaû û(Û
+
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaû û()3
+%1-net.sourceforge.docfetcher.model.parse.Parser"ænet.sourceforge.docfetcher.model.parse.ParseService#findParserByName(Lnet/sourceforge/docfetcher/model/index/IndexingConfig;Ljava/lang/String;)Lnet/sourceforge/docfetcher/model/parse/Parser;*7"5
+3net.sourceforge.docfetcher.model.parse.ParseService*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig*
+
+filenamejava.lang.String*
+1*˛
+3\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaù	 ù(íè
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaù	 ù("
+%0boolean"Inet.sourceforge.docfetcher.model.index.IndexingConfig#isIndexFilenames()Z*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig2isIndexFilenames()*
+2
+1*Ü
+startingBlock\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaõ% ú($Ô
+Ï
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaõ' õ(/
+%2"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*A
+?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig∏
+µ
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaõ? õ(E?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig"__annotation*
+
+%2Ã
+…
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaú ú(
+%3"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+filenamejava.lang.Stringï
+í
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaú ú(#
+filenamejava.lang.String"__annotation*
+
+%3*
+3*…
+1\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaù û(2"f
+\
+PD:/git_project/code/src/net/sourceforge/docfetcher/model/parse/ParseService.javaù û(2
+"":?
+config5net.sourceforge.docfetcher.model.index.IndexingConfig:
+filenamejava.lang.StringB7"5
+3net.sourceforge.docfetcher.model.parse.ParseService

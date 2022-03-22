@@ -1,0 +1,23 @@
+
+Fnet.sourceforge.docfetcher.model.Folder#getDocuments()Ljava/util/List;P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.java‰# ‰(/"1*ê
+1P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÂ	 Â(∞
+≠
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÂ) Â(2
+%0java.util.HashMap"__id*:*8)
+'net.sourceforge.docfetcher.model.Folder"
+	documentsô
+ñ
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÂ	 Â(3
+%1java.util.List"anet.sourceforge.docfetcher.model.UtilModel#nullSafeImmutableList(Ljava/util/Map;)Ljava/util/List;*.",
+*net.sourceforge.docfetcher.model.UtilModel*
+
+%0java.util.HashMap"j
+P
+DD:/git_project/code/src/net/sourceforge/docfetcher/model/Folder.javaÂ Â(4
+
+%1java.util.ListB+)
+'net.sourceforge.docfetcher.model.Folder

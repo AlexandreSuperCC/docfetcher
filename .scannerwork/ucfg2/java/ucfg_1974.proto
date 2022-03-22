@@ -1,0 +1,86 @@
+
+lnet.sourceforge.docfetcher.util.gui.dialog.InputDialogLoop#getNewValue(Ljava/lang/String;)Ljava/lang/String;a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/InputDialogLoop.java4 4(#"startingBlock*È
+startingBlocka
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/InputDialogLoop.java4# 4(>Ó
+Ð
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/InputDialogLoop.java3 3(
+
+%6"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+	lastValuejava.lang.StringÒ
+Ï
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/InputDialogLoop.java4$ 4(,
+%7"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+	lastValuejava.lang.String£
+ 
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/InputDialogLoop.java44 4(=
+	lastValuejava.lang.String"__annotation*
+
+%6*
+
+%7*
+1*Ï
+1a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/InputDialogLoop.java5' 5(-Ô
+Ñ
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/InputDialogLoop.java5/ 5(9
+%0java.lang.String"__id*N*L<
+:net.sourceforge.docfetcher.util.gui.dialog.InputDialogLoop"
+
+shellTitleÑ
+Î
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/InputDialogLoop.java5; 5(B
+%1java.lang.String"__id*K*I<
+:net.sourceforge.docfetcher.util.gui.dialog.InputDialogLoop"	
+messageÜÙ
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/InputDialogLoop.java5 5(&<
+%26net.sourceforge.docfetcher.util.gui.dialog.InputDialog"6net.sourceforge.docfetcher.util.gui.dialog.InputDialog¡
+ž
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/InputDialogLoop.java5 5(N
+%3"•net.sourceforge.docfetcher.util.gui.dialog.InputDialog#<init>(Lorg/eclipse/swt/widgets/Shell;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*>
+<
+%26net.sourceforge.docfetcher.util.gui.dialog.InputDialog*
+""*
+
+%0java.lang.String*
+
+%1java.lang.String*
+
+	lastValuejava.lang.Stringî
+ë
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/InputDialogLoop.java5 5(O@
+dialog6net.sourceforge.docfetcher.util.gui.dialog.InputDialog"__id*>
+<
+%26net.sourceforge.docfetcher.util.gui.dialog.InputDialogª§
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/InputDialogLoop.java6 6(2
+
+%4void"Pnet.sourceforge.docfetcher.util.gui.dialog.InputDialog#setSelectFilenameOnly(Z)V*B
+@
+dialog6net.sourceforge.docfetcher.util.gui.dialog.InputDialog*
+""2setSelectFilenameOnly(Z)›˜
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/InputDialogLoop.java7	 7(
+%5java.lang.String"Onet.sourceforge.docfetcher.util.gui.dialog.InputDialog#open()Ljava/lang/String;*B
+@
+dialog6net.sourceforge.docfetcher.util.gui.dialog.InputDialog2open()"}
+a
+WD:/git_project/code/src/net/sourceforge/docfetcher/util/gui/dialog/InputDialogLoop.java7 7(
+
+%5java.lang.String:
+	lastValuejava.lang.StringB><
+:net.sourceforge.docfetcher.util.gui.dialog.InputDialogLoop

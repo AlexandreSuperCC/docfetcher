@@ -1,0 +1,30 @@
+
+null#compare(Lnet/sourceforge/docfetcher/model/search/ResultDocument;Lnet/sourceforge/docfetcher/model/search/ResultDocument;)IS
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java¾ ¾("1*ˆ
+1S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java¿ ¿(Œ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java¿ ¿('
+%0java.lang.String"Rnet.sourceforge.docfetcher.model.search.ResultDocument#getType()Ljava/lang/String;*>
+<
+e16net.sourceforge.docfetcher.model.search.ResultDocument2	getType()Œ
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java¿) ¿(5
+%1java.lang.String"Rnet.sourceforge.docfetcher.model.search.ResultDocument#getType()Ljava/lang/String;*>
+<
+e26net.sourceforge.docfetcher.model.search.ResultDocument2	getType()ª
+§
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java¿ ¿(6	
+%2int"anet.sourceforge.docfetcher.gui.ResultPanel#compareAlphanum(Ljava/lang/String;Ljava/lang/String;)I*.",
+*net.sourceforge.docfetcher.gui.ResultPanel*
+
+%0java.lang.String*
+
+%1java.lang.String"]
+S
+GD:/git_project/code/src/net/sourceforge/docfetcher/gui/ResultPanel.java¿ ¿(7
+"":<
+e16net.sourceforge.docfetcher.model.search.ResultDocument:<
+e26net.sourceforge.docfetcher.model.search.ResultDocumentB53
+1Lnet/sourceforge/docfetcher/gui/ResultPanel$7093;

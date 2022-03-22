@@ -1,0 +1,50 @@
+
+$null#handlePage(Ljava/lang/String;)Z_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java¶ ¶("7*£
+2_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java© ´(∑
+¥
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java© ´(C
+string9net.sourceforge.docfetcher.model.search.HighlightedString"__id*
+
+%0*
+1*˘
+6_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java© ©(ç
+ä
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java© ´(
+%0"≤net.sourceforge.docfetcher.model.search.HighlightService#highlight(Lorg/apache/lucene/search/Query;ZLjava/lang/String;)Lnet/sourceforge/docfetcher/model/search/HighlightedString;*<":
+8net.sourceforge.docfetcher.model.search.HighlightService*
+""*
+""*
+
+pageTextjava.lang.String*
+2*£
+7_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaß ß(∑
+¥
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.javaß ß(C
+string9net.sourceforge.docfetcher.model.search.HighlightedString"__id*
+""*
+6*“
+1_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java∞ ∞(ùö
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java∞ ∞(#
+
+%4void"ínet.sourceforge.docfetcher.model.search.ResultDocument$PreviewPageHandler#handlePage(Lnet/sourceforge/docfetcher/model/search/HighlightedString;)V*
+""*E
+C
+string9net.sourceforge.docfetcher.model.search.HighlightedString2GhandlePage(Lnet/sourceforge/docfetcher/model/search/HighlightedString;)‡›
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java± ±(#
+%5boolean"Vnet.sourceforge.docfetcher.model.search.ResultDocument$PreviewPageHandler#isStopped()Z*
+""2isStopped()"i
+_
+SD:/git_project/code/src/net/sourceforge/docfetcher/model/search/ResultDocument.java± ±($
+"":
+pageTextjava.lang.StringBA?
+=Lnet/sourceforge/docfetcher/model/search/ResultDocument$8790;

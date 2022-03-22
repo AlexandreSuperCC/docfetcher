@@ -1,0 +1,112 @@
+
+\net.sourceforge.docfetcher.util.collect.ListMap#getKey(Ljava/lang/Object;)Ljava/lang/Object;V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javaa
+ a("startingBlock*Ù
+2V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javac c(©
+¦
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javac c(>
+entry5net.sourceforge.docfetcher.util.collect.ListMap$Entry"__id*
+""Ç
+Ä
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javac c(>
+entry5net.sourceforge.docfetcher.util.collect.ListMap$Entry"
+__arrayGet*
+
+%1java.util.List*
+""*
+4
+1*ø
+3V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javae e(µ
+²
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javae e(
+%4K"__id*I*G
+>
+entry5net.sourceforge.docfetcher.util.collect.ListMap$Entry"
+key"c
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javae e(	
+
+%4K*ã
+startingBlockV
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javaa a("µ
+²
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.java` `(
+
+%5"
+__annotate*86
+4net.sourceforge.docfetcher.util.annotations.Nullable*
+
+
+valueV´
+±
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javaa a(
+%6"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*
+
+
+valueV…
+‚
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javaa a(!
+
+valueV"__annotation*
+
+%5*
+
+%6*
+6*í
+4V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javad d(·
+´
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javad d(
+%2V"__id*K*I
+>
+entry5net.sourceforge.docfetcher.util.collect.ListMap$Entry"
+valueÍÊ
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javad d( 
+%3boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*	
+
+%2V*
+
+
+valueV2equals(Ljava/lang/Object;)*
+2
+3*™
+5V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javac c(¶
+³
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javac c(
+%1java.util.List"__id*=*;1
+/net.sourceforge.docfetcher.util.collect.ListMap"
+list*
+2*Ø
+6V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javab b(õ
+ò
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javab b(
+%0V"Wnet.sourceforge.docfetcher.util.Util#checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;*("&
+$net.sourceforge.docfetcher.util.Util*
+
+
+valueV*
+5*½
+1V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javaf	 f("`
+V
+LD:/git_project/code/src/net/sourceforge/docfetcher/util/collect/ListMap.javaf f(
+"":
+
+valueVB31
+/net.sourceforge.docfetcher.util.collect.ListMap

@@ -1,0 +1,79 @@
+
+¡org.apache.tika.language.detect.LanguageDetector$1#compare(Lorg/apache/tika/language/detect/LanguageDetector;Lorg/apache/tika/language/detect/LanguageDetector;)IW
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaM M("5*¿
+2W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaU U("a
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaU U(
+""*­
+4W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaS S(ëè
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaS S(+	
+%6int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+n1java.lang.String*
+
+n2java.lang.String2compareTo(Ljava/lang/String;)"a
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaS S(,
+""*Ù
+5W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaN N(çä
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaN N()
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*8
+6
+d10org.apache.tika.language.detect.LanguageDetector2
+getClass()ÅÂ
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaN N(3
+%1java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+
+%0java.lang.Class2	getName()”
+‘
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaN N(4
+n1java.lang.String"__id*
+
+%1java.lang.Stringçä
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaO O()
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*8
+6
+d20org.apache.tika.language.detect.LanguageDetector2
+getClass()ÅÂ
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaO O(3
+%3java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*
+
+%2java.lang.Class2	getName()”
+‘
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaO O(4
+n2java.lang.String"__id*
+
+%3java.lang.Stringíê
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaP  P(A
+%4boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+n1java.lang.String*
+org.apache.tika.2startsWith(Ljava/lang/String;)íê
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaQ  Q(A
+%5boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*
+
+n2java.lang.String*
+org.apache.tika.2startsWith(Ljava/lang/String;)*	
+2
+4
+1*¿
+1W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaW W("a
+W
+MD:/git_project/code/src/org/apache/tika/language/detect/LanguageDetector.javaW W(
+"":6
+d10org.apache.tika.language.detect.LanguageDetector:6
+d20org.apache.tika.language.detect.LanguageDetectorB64
+2org.apache.tika.language.detect.LanguageDetector$1

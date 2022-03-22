@@ -1,0 +1,30 @@
+
+\net.sourceforge.docfetcher.model.index.IndexingError#getLocalizedMessage()Ljava/lang/String;[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.javaa a(""1*ò
+1[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.javab	 b(õ
+ò
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.javab	 b(D
+%0>net.sourceforge.docfetcher.model.index.IndexingError$ErrorType"__id*G*E6
+4net.sourceforge.docfetcher.model.index.IndexingError"
+	errorTypeÊ
+Ç
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.javab b('
+%1java.lang.Throwable"__id*G*E6
+4net.sourceforge.docfetcher.model.index.IndexingError"
+	throwableÑ
+Î
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.javab	 b((
+%2java.lang.String"rnet.sourceforge.docfetcher.model.index.IndexingError$ErrorType#getMessage(Ljava/lang/Throwable;)Ljava/lang/String;*F
+D
+%0>net.sourceforge.docfetcher.model.index.IndexingError$ErrorType*
+
+%1java.lang.Throwable"w
+[
+QD:/git_project/code/src/net/sourceforge/docfetcher/model/index/IndexingError.javab b()
+
+%2java.lang.StringB86
+4net.sourceforge.docfetcher.model.index.IndexingError

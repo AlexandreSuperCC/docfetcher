@@ -1,0 +1,103 @@
+
+}org.apache.tika.io.TikaInputStream#get(Ljava/io/File;Lorg/apache/tika/metadata/Metadata;)Lorg/apache/tika/io/TikaInputStream;K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaˆ" ˆ(%"startingBlock*¿
+startingBlockK
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaˆ% ˆ(C”
+‘
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java‡ ‡(
+%9"
+__annotate*
+java.lang.Deprecated*
+
+filejava.io.File{
+y
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaˆ+ ˆ(/
+filejava.io.File"__annotation*
+
+%9®
+«
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java‡ ‡(
+%10"
+__annotate*
+java.lang.Deprecated*/
+-
+metadata!org.apache.tika.metadata.Metadata–
+“
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaˆ: ˆ(B-
+metadata!org.apache.tika.metadata.Metadata"__annotation*
+
+%10*
+1*¹
+1K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaŠ Š(u
+s
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaŠ Š(/
+%0java.lang.String"__id*
+""µ²
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaŠ1 Š(?
+%1java.lang.String"(java.io.File#getName()Ljava/lang/String;*
+
+filejava.io.File2	getName()º·
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaŠ Š(@
+
+%2void"Lorg.apache.tika.metadata.Metadata#set(Ljava/lang/String;Ljava/lang/String;)V*/
+-
+metadata!org.apache.tika.metadata.Metadata*
+
+%0java.lang.String*
+
+%1java.lang.String2)set(Ljava/lang/String;Ljava/lang/String;)u
+s
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java‹ ‹(,
+%3java.lang.String"__id*
+""–“
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java‹< ‹(I
+
+%4long"java.io.File#length()J*
+
+filejava.io.File2length()¸
+µ
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java‹. ‹(J
+%5java.lang.String",java.lang.Long#toString(J)Ljava/lang/String;*"
+java.lang.Long*
+
+
+%4longº·
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.java‹ ‹(K
+
+%6void"Lorg.apache.tika.metadata.Metadata#set(Ljava/lang/String;Ljava/lang/String;)V*/
+-
+metadata!org.apache.tika.metadata.Metadata*
+
+%3java.lang.String*
+
+%5java.lang.String2)set(Ljava/lang/String;Ljava/lang/String;)ž›
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaŒ Œ("(
+%7"org.apache.tika.io.TikaInputStream""org.apache.tika.io.TikaInputStreamÖ
+Ó
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaŒ Œ((
+%8":org.apache.tika.io.TikaInputStream#<init>(Ljava/io/File;)V**
+(
+%7"org.apache.tika.io.TikaInputStream*
+
+filejava.io.File"y
+K
+?D:/git_project/code/src/org/apache/tika/io/TikaInputStream.javaŒ Œ()*
+(
+%7"org.apache.tika.io.TikaInputStream:
+filejava.io.File:-
+metadata!org.apache.tika.metadata.MetadataB&"$
+"org.apache.tika.io.TikaInputStream

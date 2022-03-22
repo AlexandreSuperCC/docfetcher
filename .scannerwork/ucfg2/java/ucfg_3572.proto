@@ -1,0 +1,109 @@
+
+xnet.sourceforge.docfetcher.gui.filter.IndexPanel#getNearestFile(Lnet/sourceforge/docfetcher/model/Folder;)Ljava/io/File;Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaõ õ(#"startingBlock*Ó
+2Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaû
+ û("s
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaû û(
+
+filejava.io.File*¥
+3Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaù ù(Œ
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaù ù(*
+%3	!capture!"\net.sourceforge.docfetcher.model.Folder#getParent()Lnet/sourceforge/docfetcher/model/Folder;*3
+1
+folder'net.sourceforge.docfetcher.model.Folder2getParent()ª
+§
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaù ù(+1
+parent'net.sourceforge.docfetcher.model.Folder"__id*
+
+%3	!capture!*
+2
+1*Ô
+startingBlockY
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaõ# õ(AŞ
+Û
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaó ó(	
+%5"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*3
+1
+folder'net.sourceforge.docfetcher.model.Folderæ
+ã
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaô ô(
+%6"
+__annotate*?=
+;net.sourceforge.docfetcher.util.annotations.RecursiveMethod*3
+1
+folder'net.sourceforge.docfetcher.model.FolderŞ
+Û
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaõ$ õ(,
+%7"
+__annotate*75
+3net.sourceforge.docfetcher.util.annotations.NotNull*3
+1
+folder'net.sourceforge.docfetcher.model.Folder·
+´
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaõ: õ(@1
+folder'net.sourceforge.docfetcher.model.Folder"__annotation*
+
+%5*
+
+%6*
+
+%7*
+5*Ó
+4Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaø
+ ø("s
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaø ø(
+
+filejava.io.File*Ë
+5Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaö ö(¥¢
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaö ö(+
+%0%net.sourceforge.docfetcher.model.Path"Xnet.sourceforge.docfetcher.model.Folder#getPath()Lnet/sourceforge/docfetcher/model/Path;*3
+1
+folder'net.sourceforge.docfetcher.model.Folder2	getPath()ıú
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaö ö(1
+%1java.io.File"Fnet.sourceforge.docfetcher.model.Path#getCanonicalFile()Ljava/io/File;*-
++
+%0%net.sourceforge.docfetcher.model.Path2getCanonicalFile()
+
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaö ö(2
+filejava.io.File"__id*
+
+%1java.io.File§¤
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.java÷ ÷(
+%2boolean"java.io.File#exists()Z*
+
+filejava.io.File2exists()*
+3
+4*«
+1Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaü	 ü(×
+Ô
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaü	 ü(
+%4java.io.File"xnet.sourceforge.docfetcher.gui.filter.IndexPanel#getNearestFile(Lnet/sourceforge/docfetcher/model/Folder;)Ljava/io/File;*4"2
+0net.sourceforge.docfetcher.gui.filter.IndexPanel*3
+1
+parent'net.sourceforge.docfetcher.model.Folder"q
+Y
+MD:/git_project/code/src/net/sourceforge/docfetcher/gui/filter/IndexPanel.javaü ü( 
+
+%4java.io.File:1
+folder'net.sourceforge.docfetcher.model.FolderB4"2
+0net.sourceforge.docfetcher.gui.filter.IndexPanel

@@ -1,0 +1,38 @@
+
+iorg.apache.tika.metadata.XMPDM$ChannelTypePropertyConverter#convert(Ljava/lang/Object;)Ljava/lang/String;E
+;D:/git_project/code/src/org/apache/tika/metadata/XMPDM.javae e(#"2"4"6"8"11"1*ú
+2E
+;D:/git_project/code/src/org/apache/tika/metadata/XMPDM.javas s("P
+E
+;D:/git_project/code/src/org/apache/tika/metadata/XMPDM.javas s(
+7.1*ú
+4E
+;D:/git_project/code/src/org/apache/tika/metadata/XMPDM.javaq q("P
+E
+;D:/git_project/code/src/org/apache/tika/metadata/XMPDM.javaq q(
+5.1*ü
+6E
+;D:/git_project/code/src/org/apache/tika/metadata/XMPDM.javao o("S
+E
+;D:/git_project/code/src/org/apache/tika/metadata/XMPDM.javao o( 
+
+Stereo*ù
+8E
+;D:/git_project/code/src/org/apache/tika/metadata/XMPDM.javam m("Q
+E
+;D:/git_project/code/src/org/apache/tika/metadata/XMPDM.javam m(
+Mono*±
+11E
+;D:/git_project/code/src/org/apache/tika/metadata/XMPDM.javah h(!"d
+E
+;D:/git_project/code/src/org/apache/tika/metadata/XMPDM.javah h("
+
+valuejava.lang.Object*õ
+1E
+;D:/git_project/code/src/org/apache/tika/metadata/XMPDM.javav v("O
+E
+;D:/git_project/code/src/org/apache/tika/metadata/XMPDM.javav
+ v(
+"":
+valuejava.lang.ObjectB?"=
+;org.apache.tika.metadata.XMPDM$ChannelTypePropertyConverter
